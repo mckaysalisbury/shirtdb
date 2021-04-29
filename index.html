@@ -9,22 +9,31 @@
             crossorigin="anonymous"></script>
         <script src="https://cdn.datatables.net/1.10.20/js/jquery.dataTables.min.js"></script>
         <script>
+            const columns = [
+                'id', 'name'
+            ]
+            // https://www.datatables.net/examples/ajax/objects.html
             $(document).ready(function() {
-                $('#shirts').DataTable(
-                    {'ajax': { url: "shirts.json" }}
-                );
+                $('#shirts').DataTable({
+                    'ajax': { url: "shirts.json" },
+                    'columns': columns.map((name) => { return {'data': name}}),
+                    // 'columnDefs': [
+                    //     { targets: 0, render: function(data, type, row){
+                    //         return `<img src='${data}' width='250px'/>`;
+                    //     }}
+                    // ]
+                });
 
             })
         </script>
     </head>
     <body>
         <table id="shirts">
-            <thead>
-                <th>Image</th>
-                <th>Name</th>
-                <th>Color</th>
-                <th>Date Acquired</th>
+            <thead id="shirtsHead">
             </thead>
         </table>
+        <script>
+            $('#shirtsHead').html(''.concat(columns.map((name) => `<th>${name}</th>`)));
+        </script>
     </body>
 </html>

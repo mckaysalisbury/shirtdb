@@ -1,5 +1,22 @@
 {
+    "$schema": "./shirts-schema.json",
     "data": [
-        [ "https://placehold.it/15/f03c15/000000?text=+", "red pixel", "#f00", "tomorrow"]
+        {
+            "id": "5f44f4d9-a131-4c74-9753-0295b03fa2e7",
+            "name": "StarCrafts - Trio",
+            "keywords": ["StarCraft", "Zealot", "Zergling", "Marine"]
+        },
+        {
+            "id": "640c8c18-3c12-4eb1-bb64-06dff4987a40",
+            "name": "Coulson Plaque",
+            "keywords": ["Agents of S.H.I.E.L.D.", "Marvel", "Phil Coulson"],
+            "text": "IN REMEMBERANCE OF OUR FEARLESS LEADER PHILLIP J. COULSON HE GAVE US HIS WISDOM, HIS LOVE, AND HIS LIFE. (A COUPLE OF TIMES)"
+        },
+        {
+            "id": "41808edd-196c-4410-a8c0-80e2642e650f",
+            "name": "Hail Pidra",
+            "keywords": ["pi", "π", "Hydra", "Marvel"],
+            "text": "3.14159265358979323846264338327950288419716939937510582097494459230781640628620899862803482534211706798214808651328230664709...\nHAIL PiDRA"
+        }
     ]
 }

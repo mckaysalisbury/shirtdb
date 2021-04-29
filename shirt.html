@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>McKay's Shirt</title>
+        <script
+            src="https://code.jquery.com/jquery-3.4.1.min.js"
+            integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo="
+            crossorigin="anonymous"></script>
+        <script src="https://github.mckaysalisbury.com/ListBoy/ListBoy.js"></script>
+        <script>
+            // const id = decodeURIComponent(document.location.search);
+            const id = new URLSearchParams(document.location.search).get("id");
+            if (id === null) {
+                alert("ID Not specified");
+            } else {                
+                $.ajax({url:"shirts.json", success: function(result) {
+                    const matches = result.data.filter(shirt => shirt.id === id);
+                    if (matches.length === 0) {
+                        alert("ID specified not found")
+                    } else {
+                        ListBoy.RenderTo(matches, "mainDiv")
+                    }
+                }});
+            }
+        </script>
+    </head>
+    <body>
+        <div id="mainDiv"></div>
+    </body>
+</html>
