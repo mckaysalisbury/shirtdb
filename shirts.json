@@ -4,19 +4,42 @@
         {
             "id": "5f44f4d9-a131-4c74-9753-0295b03fa2e7",
             "name": "StarCrafts - Trio",
-            "keywords": ["StarCraft", "Zealot", "Zergling", "Marine"]
+            "keywords": ["StarCraft", "Zealot", "Zergling", "Marine"],
+            "text": "",
+            "source": "https://blizzcon.com/",
+            "dates": ["2021-04-26"]
         },
         {
             "id": "640c8c18-3c12-4eb1-bb64-06dff4987a40",
             "name": "Coulson Plaque",
+            "text": "STRATEGIC HOMELAND INTERVENTION ENFORCEMENT\nLOGISTICS DIVISION\nIN REMEMBERANCE OF OUR FEARLESS LEADER\nPHILLIP J. COULSON\nHE GAVE US HIS WISDOM, HIS LOVE, AND HIS LIFE.\n(A COUPLE OF TIMES)",
             "keywords": ["Agents of S.H.I.E.L.D.", "Marvel", "Phil Coulson"],
-            "text": "IN REMEMBERANCE OF OUR FEARLESS LEADER PHILLIP J. COULSON HE GAVE US HIS WISDOM, HIS LOVE, AND HIS LIFE. (A COUPLE OF TIMES)"
+            "source": "https://www.comic-con.org",
+            "dates": ["2021-04-27"]
         },
         {
             "id": "41808edd-196c-4410-a8c0-80e2642e650f",
             "name": "Hail Pidra",
+            "text": "3.14159265358979323846264338327950288419716939937510582097494459230781640628620899862803482534211706798214808651328230664709...\nHAIL PiDRA",
             "keywords": ["pi", "π", "Hydra", "Marvel"],
-            "text": "3.14159265358979323846264338327950288419716939937510582097494459230781640628620899862803482534211706798214808651328230664709...\nHAIL PiDRA"
+            "source": "https://shirt.woot.com/offers/hail-pidra",
+            "dates": ["2021-04-28"]
+        },
+        {
+            "id": "2a656d74-f284-42cc-a174-25c6bf4d440d",
+            "name": "redacted",
+            "text": "09 f9 11 02 9d 74 e3 5b d8 41 56 c5 63 56 88 bd\n09 f9 11 02 9d 74 e3 5b d8 41 56 c5 63 56 88 be\n09 f9 11 02 9d 74 e3 5b d8 41 56 c5 63 56 88 bf\n[ redacted ]\n09 f9 11 02 9d 74 e3 5b d8 41 56 c5 63 56 88 c1\n09 f9 11 02 9d 74 e3 5b d8 41 56 c5 63 56 88 c2\n09 f9 11 02 9d 74 e3 5b d8 41 56 c5 63 56 88 c3",
+            "keywords": ["encryption", "redacted", "legal", "illegal number", "hexadecimal", "AACS"],
+            "source": "http://thinkgeek.com",
+            "dates": ["2021-04-29"]
+        },
+        {
+            "id": "844b8c14-c6b0-4381-b568-9074f22e73b0",
+            "name": "I♥SC (Terran)",
+            "text": "I♥SC",
+            "keywords": ["StarCraft", "Blizzard", "BlizzCon", "Terran"],
+            "source": "http://blizzcon.com",
+            "dates": ["2021-04-30"]
         }
     ]
 }

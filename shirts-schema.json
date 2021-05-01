@@ -27,6 +27,15 @@
                     "items": {
                         "type": "string"
                     }
+                },
+                "source": {
+                    "type": "string"
+                }
+                "dates": {
+                    "type": "array",
+                    "items": {
+                        "type": "string"
+                    }
                 }
             },
             "description": "a Shirt",

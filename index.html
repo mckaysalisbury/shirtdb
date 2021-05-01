@@ -9,21 +9,33 @@
             crossorigin="anonymous"></script>
         <script src="https://cdn.datatables.net/1.10.20/js/jquery.dataTables.min.js"></script>
         <script>
+            function clean(row) {
+                row.dates.sort()
+                row.recentDate = row.dates[row.dates.length - 1];
+                return row
+            }
             const columns = [
-                'id', 'name'
+                'name', 'text', 'recentDate',
             ]
             // https://www.datatables.net/examples/ajax/objects.html
             $(document).ready(function() {
                 $('#shirts').DataTable({
-                    'ajax': { url: "shirts.json" },
-                    'columns': columns.map((name) => { return {'data': name}}),
+                    ajax: {
+                        url: "shirts.json",
+                        dataSrc: (response) => response.data.map(clean),
+                    },
+                    rowId: 'id',
+                    columns: columns.map((name) => { return {'data': name}}),
                     // 'columnDefs': [
                     //     { targets: 0, render: function(data, type, row){
                     //         return `<img src='${data}' width='250px'/>`;
                     //     }}
-                    // ]
+                    // ],
+                    createdRow: function(row, data, dataIndex) {
+                        $(row).click(() => document.location = `shirt.html?id=${row.id}`);
+                    },
+                    order: [[2, 'desc']]
                 });
-
             })
         </script>
     </head>
