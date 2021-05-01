@@ -19,7 +19,7 @@
                 row.recentDate = row.dates[row.dates.length - 1];
                 row.image = row['image-logo'] || row['image-front'] || row['image-back'] || null; // null because datatable needs something
                 if (!!row.image) {
-                    row.image = `<img src="/images/${row.image}" alt='shirt image'/>`;
+                    row.image = `<img src="images/${row.image}" alt='shirt image'/>`;
                 }
                 return row
             }
