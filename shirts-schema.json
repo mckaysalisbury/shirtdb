@@ -16,6 +16,9 @@
                 "text": {
                     "type": "string"
                 },
+                "image-logo": {
+                    "type":"string"
+                },
                 "image-front": {
                     "type":"string"
                 },
@@ -30,7 +33,7 @@
                 },
                 "source": {
                     "type": "string"
-                }
+                },
                 "dates": {
                     "type": "array",
                     "items": {

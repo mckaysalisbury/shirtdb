@@ -38,8 +38,22 @@
             "name": "I♥SC (Terran)",
             "text": "I♥SC",
             "keywords": ["StarCraft", "Blizzard", "BlizzCon", "Terran"],
+            "image-logo": "I♥SCt-logo.jpg",
+            "image-front": "I♥SCt-front.jpg",
+            "image-back": "I♥SCt-back.jpg",
             "source": "http://blizzcon.com",
             "dates": ["2021-04-30"]
+        },
+        {
+            "id": "0dc3e403-f6a1-42ee-b07f-474250c61085",
+            "name": "StarCraft II World Championship Series Global Finals 2013",
+            "text": "SCII\n\nStarCraft II\nWORLD CHAMPIONSHIP SERIES\nGLOBAL FINALS\nSEASON 1 FINALS\nSEOUL_SOUTH KOREA\nSEASON 2 FINALS\nCOLOGNE_GERMANY\nSEASON 3 FINALS\nTORONTO_CANADA\nGLOBAL FINALS\nBLIZZCON 13\nANAHEIM_USA\nBLIZZARD\nENTERTAINMENT",
+            "keywords": ["StarCraft II", "BlizzCon", "Blizzard"],
+            "source": "http://blizzcon.com",
+            "image-front": "SC22013-front.jpg",
+            "image-back": "SC22013-back.jpg",
+            "dates": ["2021-05-31"]
+
         }
     ]
 }

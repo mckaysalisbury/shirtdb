@@ -3,6 +3,11 @@
     <head>
         <title>McKay's Shirts</title>
         <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.20/css/jquery.dataTables.min.css"/>
+        <style>
+            img {
+                height:100px;
+            }
+        </style>
         <script
             src="https://code.jquery.com/jquery-3.4.1.min.js"
             integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo="
@@ -12,10 +17,14 @@
             function clean(row) {
                 row.dates.sort()
                 row.recentDate = row.dates[row.dates.length - 1];
+                row.image = row['image-logo'] || row['image-front'] || row['image-back'] || null; // null because datatable needs something
+                if (!!row.image) {
+                    row.image = `<img src="/images/${row.image}" alt='shirt image'/>`;
+                }
                 return row
             }
             const columns = [
-                'name', 'text', 'recentDate',
+                'name', 'text', 'recentDate', 'image',
             ]
             // https://www.datatables.net/examples/ajax/objects.html
             $(document).ready(function() {

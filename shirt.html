@@ -21,6 +21,9 @@
             .string-default {
                 white-space: pre;
             }
+            img {
+                width: 20%;
+            }
         </style>
         <script
             src="https://code.jquery.com/jquery-3.4.1.min.js"
@@ -32,11 +35,11 @@
                 return `<a href="${data}">${data}</a>`;
             }
             function makeImage(data, alt) {
-                return `<img src="${data}" alt="${alt}"/>`;
+                return `<a href="/images/${data}"><img src="/images/${data}" alt="${alt}"/></a>`;
             }
             function preprocess(shirt) {
                 urls = ['source']
-                images = ['image-front', 'image-back']
+                images = ['image-logo', 'image-front', 'image-back']
 
                 for (const url of urls) {
                     if (url in shirt) {
