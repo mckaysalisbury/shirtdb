@@ -4,7 +4,7 @@
         {
             "id": "5f44f4d9-a131-4c74-9753-0295b03fa2e7",
             "name": "StarCrafts - Trio",
-            "keywords": ["StarCraft", "Zealot", "Zergling", "Marine"],
+            "keywords": ["StarCrafts", "StarCraft", "Zealot", "Zergling", "Marine"],
             "text": "",
             "source": "https://blizzcon.com/",
             "dates": ["2021-04-26"]
@@ -52,8 +52,54 @@
             "source": "http://blizzcon.com",
             "image-front": "SC22013-front.jpg",
             "image-back": "SC22013-back.jpg",
-            "dates": ["2021-05-31"]
-
+            "dates": ["2021-05-01"]
+        },
+        {
+            "id": "62c45d27-7f95-47b6-bfd4-3c3666c2656c",
+            "name": "Spider-Man",
+            "style": "Polo",
+            "text": "",
+            "keywords": ["Marvel", "Spider-Man"],
+            "image-front": "spider-polo-front.jpg",
+            "image-logo": "spider-polo-logo.jpg",
+            "source": "http://thinkgeek.com",
+            "dates": ["2021-05-02"]
+        },
+        {
+            "id": "acfeacba-d62b-4c93-bdbb-3d1dc5ccd514",
+            "name": "How We Roll",
+            "text": "",
+            "keywords": ["Wil Wheaton", "dice", "d20", "d12", "d8", "d6", "d4", "Rutherford atom"],
+            "image-front": "how-we-roll-front.jpg",
+            "source": "https://shirt.woot.com/offers/how-we-roll",
+            "dates": ["2021-05-03"]
+        },
+        {
+            "id": "db47ef4a-8cd7-45bb-8b35-5891194f2eeb",
+            "name": "Dark Side Cookies",
+            "text": "Come to the dark side,\nwe have cookies...\n-V",
+            "keywords": ["Star Wars", "dark side", "cookies", "The Empire", "Darth Vader"],
+            "image-front": "dark-cookies-front.jpg",
+            "source": "http://thinkgeek.com",
+            "dates": ["2021-05-04"]
+        },
+        {
+            "id": "a51080ed-5c3f-425a-add3-533d161c8d4b",
+            "name": "StarCrafts - Ultralisk",
+            "text": "",
+            "keywords": ["StarCrafts", "StarCraft", "Ultralisk", "Marines"],
+            "image-front": "ultralisk-front.jpg",
+            "source": "http://blizzcon.com",
+            "dates": ["2021-05-05"]
+        },
+        {
+            "id": "a38ff64e-2360-4876-9c55-e1b306d1d7d5",
+            "name": "qep'a' cha'maH SochDIch",
+            "text": "qep'a'\ncha'maH\nSochDIch",
+            "keywords": ["Klingon", "tlhIngan Hol", "qep'a'"],
+            "image-front": "cha'maH-SochDIch-front.jpg",
+            "source": "https://www.kli.org/activities/qepmey/past-qepamey/qepa-chamah-sochdich",
+            "dates": []
         }
     ]
 }

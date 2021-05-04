@@ -16,7 +16,7 @@
         <script>
             function clean(row) {
                 row.dates.sort()
-                row.recentDate = row.dates[row.dates.length - 1];
+                row.recentDate = row.dates[row.dates.length - 1] || null
                 row.image = row['image-logo'] || row['image-front'] || row['image-back'] || null; // null because datatable needs something
                 if (!!row.image) {
                     row.image = `<img src="images/${row.image}" alt='shirt image'/>`;
