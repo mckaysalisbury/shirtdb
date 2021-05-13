@@ -6,6 +6,8 @@
             "name": "StarCrafts - Trio",
             "keywords": ["StarCrafts", "StarCraft", "Zealot", "Zergling", "Marine"],
             "text": "",
+            "image-front": "trio-front.jpg",
+            "image-back": "trio-back.jpg",
             "source": "https://blizzcon.com/",
             "dates": ["2021-04-26"]
         },
@@ -14,6 +16,7 @@
             "name": "Coulson Plaque",
             "text": "STRATEGIC HOMELAND INTERVENTION ENFORCEMENT\nLOGISTICS DIVISION\nIN REMEMBERANCE OF OUR FEARLESS LEADER\nPHILLIP J. COULSON\nHE GAVE US HIS WISDOM, HIS LOVE, AND HIS LIFE.\n(A COUPLE OF TIMES)",
             "keywords": ["Agents of S.H.I.E.L.D.", "Marvel", "Phil Coulson"],
+            "image-front": "coulson-plaque-front.jpg",
             "source": "https://www.comic-con.org",
             "dates": ["2021-04-27"]
         },
@@ -22,6 +25,7 @@
             "name": "Hail Pidra",
             "text": "3.14159265358979323846264338327950288419716939937510582097494459230781640628620899862803482534211706798214808651328230664709...\nHAIL PiDRA",
             "keywords": ["pi", "π", "Hydra", "Marvel"],
+            "image-front": "pidra-front.jpg",
             "source": "https://shirt.woot.com/offers/hail-pidra",
             "dates": ["2021-04-28"]
         },
@@ -30,6 +34,7 @@
             "name": "redacted",
             "text": "09 f9 11 02 9d 74 e3 5b d8 41 56 c5 63 56 88 bd\n09 f9 11 02 9d 74 e3 5b d8 41 56 c5 63 56 88 be\n09 f9 11 02 9d 74 e3 5b d8 41 56 c5 63 56 88 bf\n[ redacted ]\n09 f9 11 02 9d 74 e3 5b d8 41 56 c5 63 56 88 c1\n09 f9 11 02 9d 74 e3 5b d8 41 56 c5 63 56 88 c2\n09 f9 11 02 9d 74 e3 5b d8 41 56 c5 63 56 88 c3",
             "keywords": ["encryption", "redacted", "legal", "illegal number", "hexadecimal", "AACS"],
+            "image-front": "redacted-front.jpg",
             "source": "http://thinkgeek.com",
             "dates": ["2021-04-29"]
         },
@@ -91,6 +96,72 @@
             "image-front": "ultralisk-front.jpg",
             "source": "http://blizzcon.com",
             "dates": ["2021-05-05"]
+        },
+        {
+            "id": "a46d37cd-9416-40b2-8df7-3b35e3d81e84",
+            "name": "Lego 1980s Space Serenity",
+            "text": "宁静",
+            "keywords": ["Lego Space", "Serenity", "Lego 1980s Space"],
+            "image-front": "lego-serenity-front.jpg",
+            "source": "http://teefury.com",
+            "dates": ["2020-05-06"]
+        },
+        {
+            "id": "85dae76a-fce5-4b11-89ee-a06e4d84ad2c",
+            "name": "New York Mario",
+            "text": "",
+            "keywords": ["New York City", "Mario", "manhole"],
+            "image-front": "new-york-mario-front.jpg",
+            "source": "https://www.nintendonyc.com/",
+            "dates": ["2021-05-07"]
+        },
+        {
+            "id": "ac237198-6433-4acd-b7d2-57001df60a18",
+            "name": "Black Heart",
+            "text": "黑\n之\n心",
+            "keywords": ["Blizzard", "StarCraft", "Zerg", "Kerrigan", "Queen of Blades", "Hydralisk", "Zergling"],
+            "source": "http://blizzcon.com",
+            "image-front": "blackheart-front.jpg",
+            "image-back": "blackheart-back.jpg",
+            "dates": ["2021-05-08"]
+        },
+        {
+            "id": "ed786e93-1424-4a55-ada7-fce6eb40d086",
+            "name": "Captain America",
+            "style": "Polo",
+            "text": "",
+            "keywords": ["Marvel", "Captain America", "Shield"],
+            "source": "http://thinkgeek.com",
+            "image-front": "",
+            "image-logo": "",
+            "dates": ["2021-05-09"]
+        },
+        {
+            "id": "3a17fc8b-01a6-40ef-b644-11654c1674ee",
+            "name": "Art of Marvel - Sketch",
+            "text": "Marvel",
+            "keywords": ["Marvel", "Captain America", "Iron Man", "Spider-Man", "Medusa"],
+            "source": "http://uniqlo.com",
+            "image-front": "marvel-sketch-front.jpg",
+            "dates": ["2021-05-10"]
+        },
+        {
+            "id": "483cfacb-f44b-4e3b-aa20-67d98bf5535b",
+            "name": "Psi-Phi",
+            "text": "ΨΦ",
+            "keywords": ["Sci-fi", "psi", "phi", "ψι", "φι"],
+            "source": "http://thinkgeek.com",
+            "image-front": "psi-phi-front.jpg",
+            "dates": ["2021-05-11"]
+        },
+        {
+            "id": "232709ff-df17-4325-ba4e-03233a94e89a",
+            "name": "1985 B.C.",
+            "text": "𓂜 𓏿 𓏿 𓇌\n𓇍𓇋 𓂻",
+            "keywords": ["Back to the Future", "Egyptian", "lightning", "pyramid"],
+            "source": "https://shirt.woot.com/offers/1985-b-c",
+            "image-front": "1985bc-front.jpg",
+            "dates": ["2021-05-12"]
         },
         {
             "id": "a38ff64e-2360-4876-9c55-e1b306d1d7d5",
