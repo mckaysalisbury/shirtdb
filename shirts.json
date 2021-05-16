@@ -62,7 +62,7 @@
         {
             "id": "62c45d27-7f95-47b6-bfd4-3c3666c2656c",
             "name": "Spider-Man",
-            "style": "Polo",
+            "style": "polo",
             "text": "",
             "keywords": ["Marvel", "Spider-Man"],
             "image-front": "spider-polo-front.jpg",
@@ -100,7 +100,7 @@
         {
             "id": "a46d37cd-9416-40b2-8df7-3b35e3d81e84",
             "name": "Lego 1980s Space Serenity",
-            "text": "宁静",
+            "text": "宁\n静",
             "keywords": ["Lego Space", "Serenity", "Lego 1980s Space"],
             "image-front": "lego-serenity-front.jpg",
             "source": "http://teefury.com",
@@ -118,7 +118,7 @@
         {
             "id": "ac237198-6433-4acd-b7d2-57001df60a18",
             "name": "Black Heart",
-            "text": "黑\n之\n心",
+            "text": "SC\n黑\n之\n心",
             "keywords": ["Blizzard", "StarCraft", "Zerg", "Kerrigan", "Queen of Blades", "Hydralisk", "Zergling"],
             "source": "http://blizzcon.com",
             "image-front": "blackheart-front.jpg",
@@ -128,12 +128,12 @@
         {
             "id": "ed786e93-1424-4a55-ada7-fce6eb40d086",
             "name": "Captain America",
-            "style": "Polo",
+            "style": "polo",
             "text": "",
             "keywords": ["Marvel", "Captain America", "Shield"],
             "source": "http://thinkgeek.com",
-            "image-front": "",
-            "image-logo": "",
+            "image-front": "captain-america-front.jpg",
+            "image-logo": "captain-america-logo.jpg",
             "dates": ["2021-05-09"]
         },
         {
@@ -162,6 +162,53 @@
             "source": "https://shirt.woot.com/offers/1985-b-c",
             "image-front": "1985bc-front.jpg",
             "dates": ["2021-05-12"]
+        },
+        {
+            "id": "bc18dcdd-6355-442a-b6d1-06b4b0926617",
+            "name": "This statement is false.",
+            "text": "This statement is false.",
+            "keywords": ["paradox", "false", "logic"],
+            "source": "http://thinkgeek.com",
+            "image-front": "false-front.jpg",
+            "dates": ["2021-05-13"]
+        },
+        {
+            "id": "8d9afdfe-686d-4f84-b0de-8275fb9d60c7",
+            "name": "Occupy Mars",
+            "text": "OCCUPY\nMARS\n\nSPACEX",
+            "keywords": ["SpaceX", "Mars", "Elon Musk"],
+            "source": "https://www.spacex.com/",
+            "image-front": "occupy-mars-front.jpg",
+            "image-back": "occupy-mars-back.jpg",
+            "dates": ["2021-05-14"]
+        },
+        {
+            "id": "8dd10d04-4107-47e9-a571-c079f4a37bb3",
+            "name": "A Distinct Possibility",
+            "text": "",
+            "keywords": ["Don Quixote", "Sancho", "Sancho Panza", "tilting at windmills", "they might be giants"],
+            "source": "https://shirt.woot.com/offers/a-distinct-possibility",
+            "image-front": "distinct-possibility-front.jpg",
+            "dates": ["2021-05-15"]
+        },
+        {
+            "id": "3f6461cf-19f3-4472-9999-a463a1542966",
+            "name": "Galactic Senate",
+            "style": "polo",
+            "text": "",
+            "keywords": ["Star Wars", "Galactic Senate"],
+            "image-front": "galactic-senate-front.jpg",
+            "image-logo": "galactic-senate-logo.jpg",
+            "dates": ["2021-05-16"]
+        },
+        {
+            "id": "eef90e9b-d621-4319-bc32-6c0da9554893",
+            "name": "QR Code",
+            "text": "",
+            "keywords": ["QR Code", "free shirt"],
+            "image-front": "qr-front.jpg",
+            "source": "http://thinkgeek.com",
+            "dates": []
         },
         {
             "id": "a38ff64e-2360-4876-9c55-e1b306d1d7d5",

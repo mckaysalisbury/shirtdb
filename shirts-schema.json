@@ -13,6 +13,10 @@
                 "name": {
                     "type": "string"
                 },
+                "style": {
+                    "type": "string",
+                    "enum": ["t-shirt", "polo", "pocket", "long sleeve"]
+                },
                 "text": {
                     "type": "string"
                 },
