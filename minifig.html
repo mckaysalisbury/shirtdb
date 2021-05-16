@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8"/>
+        <title>McKay's Shirt</title>
+        <style>
+            .simple-key-default::after {
+                content: " - ";
+            }
+            .complex-key-default::after{
+                content: ":";
+            }
+            .array > span::before {
+                content: "• "
+            }
+            .array > div, .array > span{
+                display: block;
+                padding: 2px;
+                margin: 0px;
+            }
+            .string-default {
+                white-space: pre;
+            }
+            img {
+                width: 20%;
+            }
+        </style>
+        <script
+            src="https://code.jquery.com/jquery-3.4.1.min.js"
+            integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo="
+            crossorigin="anonymous"></script>
+        <script src="https://github.mckaysalisbury.com/ListBoy/ListBoy.js"></script>
+        <script>
+            function makeLink(data) {
+                return `<a href="${data}">${data}</a>`;
+            }
+            function makeLocalUri(entry) {
+                return `images/minifigs/${entry}`;
+            }
+            function makeImage(uri, alt) {
+                return `<a href="${uri}"><img src="${uri}" alt="${alt}"/></a>`;
+            }
+            function preprocess(minifig) {
+                urls = ['source']
+                images = ['image', 'bricklink-image']
+
+                minifig['bricklink-image'] = `https://img.bricklink.com/ItemImage/MN/0/${minifig.item}.png`
+                
+                for (const url of urls) {
+                    if (url in minifig) {
+                        minifig[url] = makeLink(shirt[url]);
+                    }
+                }
+                for (const image of images) {
+                    if (image in minifig) {
+                        minifig[image] = makeImage(minifig[image], image);
+                    }
+                }
+                return minifig;
+            }
+
+            const id = new URLSearchParams(document.location.search).get("id");
+            if (id === null) {
+                alert("ID Not specified");
+            } else {                
+                $.ajax({url:"minifigs.json", success: function(result) {
+                    const matches = result.data.filter(shirt => shirt.id === id);
+                    if (matches.length === 0) {
+                        alert("ID specified not found")
+                    } else {
+                        match = preprocess(matches[0]);
+                        ListBoy.RenderTo(match, "mainDiv")
+                    }
+                }});
+            }
+        </script>
+    </head>
+    <body>
+        <div id="mainDiv"></div>
+    </body>
+</html>
