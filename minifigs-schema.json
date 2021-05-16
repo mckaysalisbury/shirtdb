@@ -1,0 +1,47 @@
+{
+    "$schema": "http://json-schema.org/schema",
+    "type": "object",
+    "properties": {
+      "data": {
+        "type": "array",
+        "items": {
+            "type": "object",
+            "properties": {
+                "id": {
+                    "type": "string"
+                },
+                "name": {
+                    "type": "string"
+                },
+                "style": {
+                    "type": "string",
+                    "enum": ["minifig"]
+                },
+                "image": {
+                    "type":"string"
+                },
+                "keywords": {
+                    "type": "array",
+                    "items": {
+                        "type": "string"
+                    }
+                },
+                "set": {
+                    "type": "integer"
+                },
+                "item": {
+                    "type": "string"
+                },
+                "dates": {
+                    "type": "array",
+                    "items": {
+                        "type": "string"
+                    }
+                }
+            },
+            "description": "a Minifig",
+            "markdownDescription": "a [Minifig](https://en.wikipedia.org/wiki/Lego_minifigure)"
+        }
+      }
+    }
+  }
