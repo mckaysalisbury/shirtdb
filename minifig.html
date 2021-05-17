@@ -42,14 +42,29 @@
             }
             function preprocess(minifig) {
 
-                minifig['bricklink-image'] = `https://img.bricklink.com/ItemImage/MN/0/${minifig.item}.png`
-                minifig['bricklink-item'] = `https://bricklink.com/v2/catalog/catalogitem.page?M=${minifig.item}`
+                if (!!minifig.item) {
+                    minifig['bricklink-item-image'] = `https://img.bricklink.com/ItemImage/MN/0/${minifig.item}.png`
+                    minifig['bricklink-item'] = `https://bricklink.com/v2/catalog/catalogitem.page?M=${minifig.item}`
+                }
+                if (!!minifig.part) {
+                    minifig['bricklink-part-image'] = `https://img.bricklink.com/PL/${minifig.part}.jpg`
+                    // https://img.bricklink.com/ItemImage/PN/3/3003pb118.png
+                    // https://img.bricklink.com/ItemImage/PL/3003pb118.png
+
+                    // https://img.bricklink.com/ItemImage/PN/5/66855pb01.png
+                    // https://img.bricklink.com/ItemImage/PL/66855pb01.png
+
+                    minifig['bricklink-part'] = `https://www.bricklink.com/v2/catalog/catalogitem.page?P=${minifig.part}`
+                }
                 minifig['bricklink-set'] = `https://bricklink.com/v2/catalog/catalogitem.page?S=${minifig.set}`
+                // minifig['bricklink-set-image'] = `https://img.bricklink.com/S/${minifig.set}-1.jpg` // sometimes you need the "-1"
+
                 minifig['brickset-set'] = `https://brickset.com/sets/${minifig.set}`
+
                 // minifig['brickset-minifig'] = `https://brickset.com/minifigs/${minifig.item}`
 
-                urls = ['bricklink-item', 'bricklink-set', 'brickset-set', 'brickset-minifig']
-                images = ['image', 'bricklink-image']
+                urls = ['bricklink-item', 'bricklink-set', 'bricklink-part', 'brickset-set', 'brickset-minifig']
+                images = ['image', 'bricklink-item-image', 'bricklink-part-image', 'bricklink-set-image']
 
                 for (const url of urls) {
                     if (url in minifig) {

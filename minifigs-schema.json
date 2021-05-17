@@ -15,7 +15,7 @@
                 },
                 "style": {
                     "type": "string",
-                    "enum": ["minifig"]
+                    "enum": ["minifig", "item"]
                 },
                 "image": {
                     "type":"string"
@@ -30,6 +30,9 @@
                     "type": "integer"
                 },
                 "item": {
+                    "type": "string"
+                },
+                "part": {
                     "type": "string"
                 },
                 "dates": {

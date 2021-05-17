@@ -24,6 +24,65 @@
             "item": "sh226",
             "set": 76049,
             "dates": ["2021-04-28"]
+        },
+        {
+            "id": "c6489394-fbe4-464a-8d2d-882c9c50f650",
+            "name": "Ronan the Accuser",
+            "keywords": ["Marvel", "Guardians of the Galaxy", "Ronan the Accuser", "Infinity Stone"],
+            "item": "sh126",
+            "set": 76021,
+            "dates": ["2021-04-29"]
+        },
+        {
+            "id": "4116cfd0-d067-4f70-96d6-bdf153a1a910",
+            "name": "Catwoman - Short Legs",
+            "keywords": ["DC", "Batman", "Catwoman", "Mighty Micro"],
+            "item": "sh243",
+            "set": 76061,
+            "dates": ["2021-04-30"]
+        },
+        {
+            "id": "a7cc4778-af1c-4047-8fe6-c45563386081",
+            "name": "Captain America - Detailed Suit - Dark Brown Eyebrows",
+            "keywords": ["Marvel", "Captain America: Civil War", "Captain America"],
+            "item": "sh264",
+            "set": 76047,
+            "dates": ["2021-05-03"]
+        },
+        {
+            "id": "057acd21-a174-4f7d-b738-76520a8ba14b",
+            "name": "Captain America - Blue Suit, Brown Belt",
+            "keywords": ["Marvel", "Captain America"],
+            "item": "sh106",
+            "set": 76017,
+            "dates": ["2021-05-04"]
+        },
+        {
+            "id": "9cdae6ca-3516-44ec-9d54-5e4d9dd6f346",
+            "name": "Poison Mushroom",
+            "style": "item",
+            "keywords": ["Super Mario", "Character Pack Series 2"],
+            "item": "mar0060",
+            "set": "char02-7",
+            "dates": ["2021-05-05"]
+        },
+        {
+            "id": "2bc363d4-bbee-4b1b-be54-89226f063cfa",
+            "name": "Super Mushroom",
+            "style": "item",
+            "keywords": ["Super Mario"],
+            "set": 30385,
+            "part": "66855pb01",
+            "dates": ["2021-05-06"]
+        },
+        {
+            "id": "b8fb99a2-07c0-4453-8e55-a8f0ee62a06b",
+            "name": "Question Mark Block",
+            "style": "item",
+            "keywords": ["Super Mario"],
+            "set": 30385,
+            "part": "3003pb118",
+            "dates": ["2021-05-07"]
         }
     ]
 }
