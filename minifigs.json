@@ -83,6 +83,47 @@
             "set": 30385,
             "part": "3003pb118",
             "dates": ["2021-05-07"]
+        },
+        {
+            "id": "5f7eb38d-a657-4311-b456-5598d2485e7f",
+            "name": "Paragoomba",
+            "style": "enemy",
+            "keywords": ["Super Mario"],
+            "item": "mar0025",
+            "set": "char01-1",
+            "dates": ["2021-05-10"]
+        },
+        {
+            "id": "a9e7cc33-9c47-48d9-96f7-c3f7783437c3",
+            "name": "Captain America - Short Legs",
+            "keywords": ["Marvel", "Mighty Micro"],
+            "item": "sh250",
+            "set": 76085,
+            "dates": ["2021-05-11"]
+        },
+        {
+            "id": "c0af7df2-abe1-4282-84e0-c443c72d9578",
+            "name": "Stormtrooper - Rebels",
+            "keywords": ["Star Wars", "Rebels", "Stormtrooper"],
+            "item": "sw0617",
+            "dates": ["2021-05-12"]
+        },
+        {
+            "id": "730a0052-596e-4217-a843-7cd48b6fa254",
+            "name": "Emmet - with Piece of Resistance",
+            "keywords": ["The LEGO Movie"],
+            "item": "tlm066",
+            "set": 30280,
+            "dates": ["2021-05-13"]
+        },
+        {
+
+            "id": "df9cc73b-d5c7-4875-8797-d1b44be4ca31",
+            "name": "Benny - closed eyes",
+            "keywords": ["The LEGO Movie"],
+            "item": "tlm094",
+            "set": 70818,
+            "dates": ["2021-05-14"]
         }
     ]
 }

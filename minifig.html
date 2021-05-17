@@ -45,6 +45,8 @@
                 if (!!minifig.item) {
                     minifig['bricklink-item-image'] = `https://img.bricklink.com/ItemImage/MN/0/${minifig.item}.png`
                     minifig['bricklink-item'] = `https://bricklink.com/v2/catalog/catalogitem.page?M=${minifig.item}`
+                    // minifig['brickset-minifig'] = `https://brickset.com/minifigs/${minifig.item}`
+
                 }
                 if (!!minifig.part) {
                     minifig['bricklink-part-image'] = `https://img.bricklink.com/PL/${minifig.part}.jpg`
@@ -56,12 +58,13 @@
 
                     minifig['bricklink-part'] = `https://www.bricklink.com/v2/catalog/catalogitem.page?P=${minifig.part}`
                 }
-                minifig['bricklink-set'] = `https://bricklink.com/v2/catalog/catalogitem.page?S=${minifig.set}`
-                // minifig['bricklink-set-image'] = `https://img.bricklink.com/S/${minifig.set}-1.jpg` // sometimes you need the "-1"
+                if (!!minifig.set) {
+                    minifig['bricklink-set'] = `https://bricklink.com/v2/catalog/catalogitem.page?S=${minifig.set}`
+                    // minifig['bricklink-set-image'] = `https://img.bricklink.com/S/${minifig.set}-1.jpg` // sometimes you need the "-1"
 
-                minifig['brickset-set'] = `https://brickset.com/sets/${minifig.set}`
+                    minifig['brickset-set'] = `https://brickset.com/sets/${minifig.set}`
+                }
 
-                // minifig['brickset-minifig'] = `https://brickset.com/minifigs/${minifig.item}`
 
                 urls = ['bricklink-item', 'bricklink-set', 'bricklink-part', 'brickset-set', 'brickset-minifig']
                 images = ['image', 'bricklink-item-image', 'bricklink-part-image', 'bricklink-set-image']
