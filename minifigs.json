@@ -3,11 +3,27 @@
     "data": [
         {
             "id": "5d82d607-5766-4d3a-a73f-4f386404cbe2",
-            "name": "Mini Batman",
+            "name": "Batman - Short Legs",
             "keywords": ["DC", "Batman", "mighty micro"],
-            "set": 76061,
             "item": "sh242",
+            "set": 76061,
             "dates": ["2021-04-26"]
+        },
+        {
+            "id": "c3c7fc5a-77c4-4e36-993c-a2e997bdec00",
+            "name": "Battle-Ready Batman",
+            "keywords": ["The LEGO Movie 2", "DC", "Batman", "You're welcome"],
+            "item": "tlm118",
+            "set": 70836,
+            "dates": ["2021-04-27"]
+        },
+        {
+            "id": "a4545977-4e6e-4db5-a0ee-e277c629a997",
+            "name": "Captain Marvel - Red Sash",
+            "keywords": ["Marvel", "Captain Marvel"],
+            "item": "sh226",
+            "set": 76049,
+            "dates": ["2021-04-28"]
         }
     ]
 }
