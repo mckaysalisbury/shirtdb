@@ -3,62 +3,17 @@
     <head>
         <title>McKay's Shirts</title>
         <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.20/css/jquery.dataTables.min.css"/>
-        <style>
-            img {
-                height:100px;
-            }
-        </style>
+        <link rel="stylesheet" type="text/css" href="css/list.css" />
         <script
             src="https://code.jquery.com/jquery-3.4.1.min.js"
             integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo="
             crossorigin="anonymous"></script>
         <script src="https://cdn.datatables.net/1.10.20/js/jquery.dataTables.min.js"></script>
-        <script>
-            function clean(row) {
-                row.dates.sort()
-                row.recentDate = row.dates[row.dates.length - 1] || null
-                row.image = row['image'] || null; // null because datatable needs something
-                if (!!row.image) {
-                    row.image = `<img src="images/minifigs/${row.image}" alt='minifig image'/>`;
-                } else if (!!row.item) {
-                    row.image = `<img src="https://img.bricklink.com/ItemImage/MN/0/${row.item}.png" alt='minifig image'/>`;
-                } else {
-                    row.image = `<img src="https://img.bricklink.com/PL/${row.part}.jpg" alt='minifig image'/>`;
-                }
-                return row
-            }
-            const columns = [
-                'name', 'recentDate', 'image',
-            ]
-            // https://www.datatables.net/examples/ajax/objects.html
-            $(document).ready(function() {
-                $('#minifigs').DataTable({
-                    ajax: {
-                        url: "minifigs.json",
-                        dataSrc: (response) => response.data.map(clean),
-                    },
-                    rowId: 'id',
-                    columns: columns.map((name) => { return {'data': name}}),
-                    // 'columnDefs': [
-                    //     { targets: 0, render: function(data, type, row){
-                    //         return `<img src='${data}' width='250px'/>`;
-                    //     }}
-                    // ],
-                    createdRow: function(row, data, dataIndex) {
-                        $(row).click(() => document.location = `minifig.html?id=${row.id}`);
-                    },
-                    order: [[1, 'desc']]
-                });
-            })
-        </script>
+        <script src="js/list.js"></script>
     </head>
     <body>
-        <table id="minifigs">
-            <thead id="minifigsHead">
-            </thead>
-        </table>
-        <script>
-            $('#minifigsHead').html(''.concat(columns.map((name) => `<th>${name}</th>`)));
-        </script>
     </body>
+    <script>setupList('minifigs.json',[
+        'name', 'image', 'recentDate',
+    ], cleanMinifigs, 'minifig.html')</script>
 </html>
