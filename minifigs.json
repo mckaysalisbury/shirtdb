@@ -124,6 +124,14 @@
             "item": "tlm094",
             "set": 70818,
             "dates": ["2021-05-14"]
+        },
+        {
+            "id": "5563d887-4be9-41a8-bccd-ded5ecc4512e",
+            "name": "Wyldstyle with hood",
+            "keywords": ["The LEGO Movie"],
+            "item": "tlm017",
+            "set": 70801,
+            "dates": ["2021-05-17"]
         }
     ]
 }
