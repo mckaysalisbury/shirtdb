@@ -10,10 +10,11 @@
             crossorigin="anonymous"></script>
         <script src="https://cdn.datatables.net/1.10.20/js/jquery.dataTables.min.js"></script>
         <script src="js/list.js"></script>
+        <script src="js/shirt.js"></script>
     </head>
     <body>
     </body>
-    <script>setupList('shirts.json', [
-        'name', 'text', 'image', 'recentDate',
-    ], cleanShirts, 'shirt.html')</script>
+    <script>setupList('shirts.json', addExternalData, [
+        'name', 'text', 'image',
+    ], 'shirt.html')</script>
 </html>

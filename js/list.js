@@ -1,45 +1,44 @@
-function cleanShirts(row) {
+function addRecentDate(row) {
     row.dates.sort()
     row.recentDate = row.dates[row.dates.length - 1] || null
-    row.image = row['image-logo'] || row['image-front'] || row['image-back'] || null; // null because datatable needs something
-    if (!!row.image) {
-        row.image = `<img src="images/shirts/${row.image}" alt='shirt image'/>`;
-    }
-    return row
+    return row;
 }
 
-function cleanMinifigs(row) {
-    row.dates.sort()
-    row.recentDate = row.dates[row.dates.length - 1] || null
-    row.image = row['image'] || null; // null because datatable needs something
+function listPrimaryImage(row) {
     if (!!row.image) {
-        row.image = `<img src="images/minifigs/${row.image}" alt='minifig image'/>`;
-    } else if (!!row.item) {
-        row.image = `<img src="https://img.bricklink.com/ItemImage/MN/0/${row.item}.png" alt='minifig image'/>`;
-    } else {
-        row.image = `<img src="https://img.bricklink.com/PL/${row.part}.jpg" alt='minifig image'/>`;
+        row.image = `<img src="${row.image}" alt='item image'/>`;
     }
-    return row
+    return row;
 }
 
-function setupList(dataUrl, columns, clean, itemPage) {
+function fallback(row, columns) {
+    for (const column of columns) {
+        if (!!row[column]) {
+            return row[column];
+        }
+    }
+    return null;
+}
+
+function setupList(dataUrl, addColumns, displayColumns, itemPage) {
     const table = $("<table>");
+    displayColumns = [].concat(displayColumns, ['recentDate']);
     table.html(`<thead>${
-        ''.concat(columns.map((name) => `<th>${name}</th>`))
+        ''.concat(displayColumns.map((name) => `<th>${name}</th>`))
     }</thead>`);
 
     // https://www.datatables.net/examples/ajax/objects.html
     table.DataTable({
         ajax: {
             url: dataUrl,
-            dataSrc: (response) => response.data.map(clean),
+            dataSrc: (response) => response.data.map(addRecentDate).map(addColumns).map(listPrimaryImage),
         },
         rowId: 'id',
-        columns: columns.map((name) => { return {'data': name}}),
+        columns: displayColumns.map((name) => { return {'data': name}}),
         createdRow: function(row) {
             $(row).click(() => document.location = `${itemPage}?id=${row.id}`);
         },
-        order: [[columns.indexOf('recentDate'), 'desc']]
+        order: [[displayColumns.indexOf('recentDate'), 'desc']]
     });
     $(document.body).append(table);
 }

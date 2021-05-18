@@ -10,10 +10,11 @@
             crossorigin="anonymous"></script>
         <script src="https://cdn.datatables.net/1.10.20/js/jquery.dataTables.min.js"></script>
         <script src="js/list.js"></script>
+        <script src="js/minifig.js"></script>
     </head>
     <body>
     </body>
-    <script>setupList('minifigs.json',[
-        'name', 'image', 'recentDate',
-    ], cleanMinifigs, 'minifig.html')</script>
+    <script>setupList('minifigs.json', addExternalData, [
+        'name', 'image',
+    ], 'minifig.html')</script>
 </html>
