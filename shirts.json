@@ -211,10 +211,20 @@
             "dates": ["2021-05-17"]
         },
         {
+            "id": "563640b6-9b27-4bcd-956a-9d221c4d56b4",
+            "name": "Shirt of Stealth",
+            "text": "CLOAKING DEVICE\nDISENGAGED",
+            "keywords": ["Star Trek", "glow in the dark"],
+            "image-front": "cloak-front.jpg",
+            "image-dark": "cloak-dark.jpg",
+            "source": "https://shirt.woot.com/offers/shirt-of-stealth",
+            "dates": ["2021-05-18"]
+        },
+        {
             "id": "a38ff64e-2360-4876-9c55-e1b306d1d7d5",
             "name": "qep'a' cha'maH SochDIch",
             "text": "qep'a'\ncha'maH\nSochDIch",
-            "keywords": ["Klingon", "tlhIngan Hol", "qep'a'"],
+            "keywords": ["Star Trek", "Klingon", "tlhIngan Hol", "qep'a'", "piqaD"],
             "image-front": "cha'maH-SochDIch-front.jpg",
             "source": "https://www.kli.org/activities/qepmey/past-qepamey/qepa-chamah-sochdich",
             "dates": []
