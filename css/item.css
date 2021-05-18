@@ -1,0 +1,20 @@
+.simple-key-default::after {
+    content: " - ";
+}
+.complex-key-default::after{
+    content: ":";
+}
+.array > span::before {
+    content: "• "
+}
+.array > div, .array > span{
+    display: block;
+    padding: 2px;
+    margin: 0px;
+}
+.string-default {
+    white-space: pre;
+}
+img {
+    width: 20%;
+}

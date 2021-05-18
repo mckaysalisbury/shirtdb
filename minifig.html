@@ -2,103 +2,18 @@
 <html>
     <head>
         <meta charset="utf-8"/>
-        <title>McKay's Shirt</title>
-        <style>
-            .simple-key-default::after {
-                content: " - ";
-            }
-            .complex-key-default::after{
-                content: ":";
-            }
-            .array > span::before {
-                content: "• "
-            }
-            .array > div, .array > span{
-                display: block;
-                padding: 2px;
-                margin: 0px;
-            }
-            .string-default {
-                white-space: pre;
-            }
-            img {
-                width: 20%;
-            }
-        </style>
+        <title>McKay's Minifig</title>
+        <link rel="stylesheet" type="text/css" href="css/item.css" />
         <script
             src="https://code.jquery.com/jquery-3.4.1.min.js"
             integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo="
             crossorigin="anonymous"></script>
         <script src="https://github.mckaysalisbury.com/ListBoy/ListBoy.js"></script>
-        <script>
-            function makeLink(data) {
-                return `<a href="${data}">${data}</a>`;
-            }
-            function makeLocalUri(entry) {
-                return `images/minifigs/${entry}`;
-            }
-            function makeImage(uri, alt) {
-                return `<a href="${uri}"><img src="${uri}" alt="${alt}"/></a>`;
-            }
-            function preprocess(minifig) {
-
-                if (!!minifig.item) {
-                    minifig['bricklink-item-image'] = `https://img.bricklink.com/ItemImage/MN/0/${minifig.item}.png`
-                    minifig['bricklink-item'] = `https://bricklink.com/v2/catalog/catalogitem.page?M=${minifig.item}`
-                    // minifig['brickset-minifig'] = `https://brickset.com/minifigs/${minifig.item}`
-
-                }
-                if (!!minifig.part) {
-                    minifig['bricklink-part-image'] = `https://img.bricklink.com/PL/${minifig.part}.jpg`
-                    // https://img.bricklink.com/ItemImage/PN/3/3003pb118.png
-                    // https://img.bricklink.com/ItemImage/PL/3003pb118.png
-
-                    // https://img.bricklink.com/ItemImage/PN/5/66855pb01.png
-                    // https://img.bricklink.com/ItemImage/PL/66855pb01.png
-
-                    minifig['bricklink-part'] = `https://www.bricklink.com/v2/catalog/catalogitem.page?P=${minifig.part}`
-                }
-                if (!!minifig.set) {
-                    minifig['bricklink-set'] = `https://bricklink.com/v2/catalog/catalogitem.page?S=${minifig.set}`
-                    // minifig['bricklink-set-image'] = `https://img.bricklink.com/S/${minifig.set}-1.jpg` // sometimes you need the "-1"
-
-                    minifig['brickset-set'] = `https://brickset.com/sets/${minifig.set}`
-                }
-
-
-                urls = ['bricklink-item', 'bricklink-set', 'bricklink-part', 'brickset-set', 'brickset-minifig']
-                images = ['image', 'bricklink-item-image', 'bricklink-part-image', 'bricklink-set-image']
-
-                for (const url of urls) {
-                    if (url in minifig) {
-                        minifig[url] = makeLink(minifig[url]);
-                    }
-                }
-                for (const image of images) {
-                    if (image in minifig) {
-                        minifig[image] = makeImage(minifig[image], image);
-                    }
-                }
-                return minifig;
-            }
-
-            const id = new URLSearchParams(document.location.search).get("id");
-            if (id === null) {
-                alert("ID Not specified");
-            } else {                
-                $.ajax({url:"minifigs.json", success: function(result) {
-                    const matches = result.data.filter(minifig => minifig.id === id);
-                    if (matches.length === 0) {
-                        alert("ID specified not found")
-                    } else {
-                        match = preprocess(matches[0]);
-                        ListBoy.RenderTo(match, "mainDiv")
-                    }
-                }});
-            }
-        </script>
+        <script src="js/daily.js"></script>
+        <script src="js/minifig.js"></script>
     </head>
-    <body>
-        <div id="mainDiv"></div>
-    </body>
+    <body></body>
+    <script>
+        setupItem('minifigs.json', addExternalData);
+    </script>
 </html>
