@@ -28,7 +28,7 @@ function setupList(dataUrl, addColumns, displayColumns, itemPage) {
     table.html(`<thead>${
         ''.concat(displayColumns.map((name) => `<th>${name.replace(tablePrefix, '')}</th>`))
     }</thead>`);
-
+    $(document.body).append(table);
 
     // https://www.datatables.net/examples/ajax/objects.html
     table.DataTable({
@@ -43,7 +43,6 @@ function setupList(dataUrl, addColumns, displayColumns, itemPage) {
         },
         order: [[displayColumns.indexOf('recentDate'), 'desc']]
     });
-    $(document.body).append(table);
 }
 
 function makeLink(data, content = data) {
