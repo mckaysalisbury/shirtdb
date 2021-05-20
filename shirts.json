@@ -313,8 +313,16 @@
             ],
             "keywords": ["math", "pi"],
             "source": "https://thinkgeek.com",
-            "image-front": "",
+            "image-front": "pi-numbers-front.jpg",
             "dates": ["2021-05-19"]
+        },
+        {
+            "id": "810b3e40-57ce-4cb7-8e07-9d18ad9c5014",
+            "name": "Avengers",
+            "text": ["Ⓐ"],
+            "keywords": ["Marvel", "Avengers", "Captain America", "Iron Man", "Hulk", "Thor"],
+            "image-front": "avengers-front.jpg",
+            "dates": ["2021-05-20"]
         },
         {
             "id": "a38ff64e-2360-4876-9c55-e1b306d1d7d5",

@@ -63,7 +63,7 @@
             "style": "item",
             "keywords": ["Super Mario", "Character Pack Series 2"],
             "item": "mar0060",
-            "set": "char02-7",
+            "set": 71386,
             "dates": ["2021-05-05"]
         },
         {
@@ -90,7 +90,7 @@
             "style": "enemy",
             "keywords": ["Super Mario"],
             "item": "mar0025",
-            "set": "char01-1",
+            "set": 71361,
             "dates": ["2021-05-10"]
         },
         {
@@ -148,6 +148,15 @@
             "item": "tlm021",
             "set": 70809,
             "dates": ["2021-05-19"]
+        },
+        {
+            "id": "0176685d-79bd-4bd3-b8c0-caa8be228e2b",
+            "name": "Barbarian",
+            "keywords": ["Bricks and Minifigs", "collectible minifigures"],
+            "item": "col163",
+            "set": 71002,
+            "notes": "This was acquired at Bricks and Minifigs, but is not a correct version of the official collectible minifig. It contains a different head and hair, and mine has different weapons",
+            "dates": ["2021-05-20"]
         }
     ]
 }
