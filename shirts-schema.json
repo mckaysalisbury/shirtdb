@@ -18,7 +18,10 @@
                     "enum": ["t-shirt", "polo", "pocket", "long sleeve", "button down"]
                 },
                 "text": {
-                    "type": "string"
+                    "type": "array",
+                    "items": {
+                        "type": "string"
+                    }
                 },
                 "image-logo": {
                     "type":"string"

@@ -1,3 +1,5 @@
+const tablePrefix = 'table-'
+
 function addRecentDate(row) {
     row.dates.sort()
     row.recentDate = row.dates[row.dates.length - 1] || null
@@ -24,7 +26,7 @@ function setupList(dataUrl, addColumns, displayColumns, itemPage) {
     const table = $("<table>");
     displayColumns = [].concat(displayColumns, ['table-image', 'recentDate']);
     table.html(`<thead>${
-        ''.concat(displayColumns.map((name) => `<th>${name}</th>`))
+        ''.concat(displayColumns.map((name) => `<th>${name.replace(tablePrefix, '')}</th>`))
     }</thead>`);
 
 
@@ -77,7 +79,12 @@ function setupItem(url, preprocess) {
                 alert("ID specified not found")
             } else {
                 match = htmlify(preprocess(matches[0]));
-                delete match['table-image']; // duplicate only needed for tables
+                for (key in match) {
+                    if (key.startsWith(tablePrefix)) {
+                        delete match[key]; // duplicate only needed for tables
+
+                    }
+                }
                 ListBoy.RenderTo(match, "mainDiv")
             }
         }});

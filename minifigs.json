@@ -140,6 +140,14 @@
             "item": "tlm095",
             "set": 70818,
             "dates": ["2021-05-18"]
+        },
+        {
+            "id": "12e1a77b-cbce-4220-9cf4-8604ae1dd485",
+            "name": "Vitruvius",
+            "keywords": ["The LEGO Movie"],
+            "item": "tlm021",
+            "set": 70809,
+            "dates": ["2021-05-19"]
         }
     ]
 }
