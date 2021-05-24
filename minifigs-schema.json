@@ -26,6 +26,9 @@
                         "type": "string"
                     }
                 },
+                "actor": {
+                    "type": "string"
+                },
                 "set": {
                     "type": "integer"
                 },

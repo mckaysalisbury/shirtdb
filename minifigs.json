@@ -13,6 +13,7 @@
             "id": "c3c7fc5a-77c4-4e36-993c-a2e997bdec00",
             "name": "Battle-Ready Batman",
             "keywords": ["The LEGO Movie 2", "DC", "Batman", "You're welcome"],
+            "actor": "Will Arnett",
             "item": "tlm118",
             "set": 70836,
             "dates": ["2021-04-27"]
@@ -29,6 +30,7 @@
             "id": "c6489394-fbe4-464a-8d2d-882c9c50f650",
             "name": "Ronan the Accuser",
             "keywords": ["Marvel", "Guardians of the Galaxy", "Ronan the Accuser", "Infinity Stone"],
+            "actor": "Lee Pace",
             "item": "sh126",
             "set": 76021,
             "dates": ["2021-04-29"]
@@ -45,6 +47,7 @@
             "id": "a7cc4778-af1c-4047-8fe6-c45563386081",
             "name": "Captain America - Detailed Suit - Dark Brown Eyebrows",
             "keywords": ["Marvel", "Captain America: Civil War", "Captain America"],
+            "actor": "Chris Evans",
             "item": "sh264",
             "set": 76047,
             "dates": ["2021-05-03"]
@@ -110,17 +113,20 @@
         },
         {
             "id": "730a0052-596e-4217-a843-7cd48b6fa254",
-            "name": "Emmet - with Piece of Resistance",
+            "name": "Emmet - Lopsided Closed Mouth Smile, with Piece of Resistance",
             "keywords": ["The LEGO Movie"],
-            "item": "tlm066",
-            "set": 30280,
+            "actor": "Chris Pratt",
+            "item": "tlm018",
+            "set": 70801,
+            "notes": "I also own the identical minifig which also appears in set 70809",
             "dates": ["2021-05-13"]
+
         },
         {
-
             "id": "df9cc73b-d5c7-4875-8797-d1b44be4ca31",
             "name": "Benny - closed eyes",
             "keywords": ["The LEGO Movie"],
+            "actor": "Charlie Day",
             "item": "tlm094",
             "set": 70818,
             "dates": ["2021-05-14"]
@@ -129,6 +135,7 @@
             "id": "5563d887-4be9-41a8-bccd-ded5ecc4512e",
             "name": "Wyldstyle with hood",
             "keywords": ["The LEGO Movie"],
+            "actor": "Elizabeth Banks",
             "item": "tlm017",
             "set": 70801,
             "dates": ["2021-05-17"]
@@ -137,6 +144,7 @@
             "id": "85299c15-fc0c-42a3-95e7-564a11af690e",
             "name": "President Business - Smiling, Raised Eyebrows",
             "keywords": ["The LEGO Movie"],
+            "actor": "Will Ferrell",
             "item": "tlm095",
             "set": 70818,
             "dates": ["2021-05-18"]
@@ -145,6 +153,7 @@
             "id": "12e1a77b-cbce-4220-9cf4-8604ae1dd485",
             "name": "Vitruvius",
             "keywords": ["The LEGO Movie"],
+            "actor": "Morgan Freeman",
             "item": "tlm021",
             "set": 70809,
             "dates": ["2021-05-19"]
@@ -157,6 +166,35 @@
             "set": 71002,
             "notes": "This was acquired at Bricks and Minifigs, but is not a correct version of the official collectible minifig. It contains a different head and hair, and mine has different weapons",
             "dates": ["2021-05-20"]
+        },
+        {
+            "id": "e4442866-bbfa-4f31-9eac-78402f6a9f21",
+            "name": "Lord Business",
+            "keywords": ["The LEGO Movie"],
+            "actor": "Will Ferrell",
+            "item": "tlm029",
+            "set": 70809,
+            "dates": ["2021-05-21"]
+        },
+        {
+            "id": "8d513a1a-5e3d-4b88-941d-427bf417fbd0",
+            "name": "Emmet - Lopsided Open Mouth Smile",
+            "keywords": ["The LEGO Movie"],
+            "actor": "Chris Pratt",
+            "item": "tlm096",
+            "set": 70818,
+            "notes": "This set also included a hat for Emmet, and seeing as how most of his other minifigs have the hair, I feel like the hat is a good change of pace",
+            "dates": ["2021-05-24"]
+        },
+        
+        {
+            "id": "a31477a7-2fa7-4e27-b5ed-988ff1bc2f8d",
+            "name": "Emmet - without Piece of Resistance",
+            "keywords": ["The LEGO Movie"],
+            "actor": "Chris Pratt",
+            "item": "tlm066",
+            "set": 30280,
+            "dates": []
         }
     ]
 }
