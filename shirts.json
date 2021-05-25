@@ -18,7 +18,7 @@
                 "STRATEGIC HOMELAND INTERVENTION ENFORCEMENT", "LOGISTICS DIVISION", "IN REMEMBERANCE OF OUR FEARLESS LEADER",
                 "PHILLIP J. COULSON", "HE GAVE US HIS WISDOM, HIS LOVE, AND HIS LIFE.", "(A COUPLE OF TIMES)"
             ],
-            "keywords": ["Agents of S.H.I.E.L.D.", "Marvel", "Phil Coulson"],
+            "keywords": ["Agents of S.H.I.E.L.D.", "Marvel", "Phil Coulson", "Tahiti, it's a magical place."],
             "image-front": "coulson-plaque-front.jpg",
             "source": "https://www.comic-con.org",
             "dates": ["2021-04-27"]
@@ -43,7 +43,7 @@
                 "09 f9 11 02 9d 74 e3 5b d8 41 56 c5 63 56 88 bf", "[ redacted ]", "09 f9 11 02 9d 74 e3 5b d8 41 56 c5 63 56 88 c1",
                 "09 f9 11 02 9d 74 e3 5b d8 41 56 c5 63 56 88 c2", "09 f9 11 02 9d 74 e3 5b d8 41 56 c5 63 56 88 c3"
             ],
-            "keywords": ["encryption", "redacted", "legal", "illegal number", "hexadecimal", "AACS"],
+            "keywords": ["encryption", "redacted", "legal", "illegal number", "hexadecimal", "AACS", "interpolation"],
             "image-front": "redacted-front.jpg",
             "source": "http://thinkgeek.com",
             "dates": ["2021-04-29"]
@@ -349,9 +349,9 @@
             "text": ["FRONTEND", "BACKEND", "SQUARESPACE"],
             "keywords": [],
             "source": "QCon 2018",
-            "image-front": "",
-            "image-back": "",
-            "image-left": "",
+            "image-front": "frontend-backend-front.jpg",
+            "image-back": "frontend-backend-back.jpg",
+            "image-left": "frontend-backend-left.jpg",
             "dates": ["2021-05-24"]
         },
 
