@@ -15,7 +15,7 @@
                 },
                 "style": {
                     "type": "string",
-                    "enum": ["minifig", "item", "enemy"]
+                    "enum": ["minifig", "item", "character"]
                 },
                 "image": {
                     "type":"string"
