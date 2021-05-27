@@ -371,7 +371,17 @@
             "keywords": ["NAMCO", "Pac-Man", "ghost", "glow in the dark"],
             "source": "https://thinkgeek.com",
             "image-front": "scared-ghost-front.jpg",
+            "image-dark": "scared-ghost-dark.jpg",
             "dates": ["2021-05-26"]
+        },
+        {
+            "id": "b055fe52-b229-4af9-a031-b1757fbda1da",
+            "name": "Bones MD",
+            "text": ["BONES", "MD", "©2008 Aaron Williams • www.dogooderpress.com"],
+            "keywords": ["Star Trek", "House MD", "Bones", "Leonard McCoy"],
+            "source": "http://www.dogooderpress.com",
+            "image-front": "bones-md-front.jpg",
+            "dates": ["2021-05-27"]
         },
 
         {

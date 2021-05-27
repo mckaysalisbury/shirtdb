@@ -205,7 +205,14 @@
             "set": 70809,
             "dates": ["2021-05-26"]
         },
-
+        {
+            "id": "b5f7486d-2b3b-408b-9b0b-f645622e1434",
+            "name": "Robo SWAT with Helmet",
+            "keywords": ["The Lego Movie"],
+            "item": "tlm046",
+            "set": 70781,
+            "dates": ["2021-05-27"]
+        },
         {
             "id": "a31477a7-2fa7-4e27-b5ed-988ff1bc2f8d",
             "name": "Emmet - without Piece of Resistance",
