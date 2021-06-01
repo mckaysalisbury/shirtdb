@@ -390,9 +390,29 @@
             "keywords": ["Chess", "Mousetrap", "Monopoly", "Risk", "Barrel of monkeys", "jacks", "Battleship", "Operation", "green army men"],
             "source": "https://shirt.woot.com/offers/game-time",
             "image-logo": "game-time-logo.jpg",
-            "image-front": "game-time-front.jpg"
+            "image-front": "game-time-front.jpg",
+            "dates": ["2021-05-28"]
         },
-
+        {
+            "id": "23f6ee3b-3a2f-4fbb-abb9-2053676de6c7",
+            "name": "StarCraft matchmaking",
+            "text": ["MATCHMAKING", "1v1", "LOOKIN FOR", "A KOREAN TO", "DESTROY YOU...", "", "PENNY", "ARCADE", "WWW.PENNY-ARCADE.COM"],
+            "keywords": ["Blizzard", "StarCraft II"],
+            "source": "https://store.penny-arcade.com/",
+            "image-front": "",
+            "image-back": "",
+            "dates": ["2021-05-29"]
+        },
+        {
+            "id": "ec6b09fc-d29b-4303-bfce-af623acfbfee",
+            "name": "Enterprise - Command division",
+            "style": "polo",
+            "text": [],
+            "keywords": ["Star Trek", "Starfleet uniform", "U.S.S. Enterprise", "Command gold"],
+            "image-front": "",
+            "image-logo": "",
+            "dates": ["2021-05-30"]
+        },
         {
             "id": "a38ff64e-2360-4876-9c55-e1b306d1d7d5",
             "name": "qep'a' cha'maH SochDIch",
@@ -400,7 +420,7 @@
             "keywords": ["Star Trek", "Klingon", "tlhIngan Hol", "qep'a'", "piqaD"],
             "image-front": "cha'maH-SochDIch-front.jpg",
             "source": "https://www.kli.org/activities/qepmey/past-qepamey/qepa-chamah-sochdich",
-            "dates": []
+            "dates": ["2021-05-31"]
         }
     ]
 }
