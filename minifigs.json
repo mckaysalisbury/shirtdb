@@ -231,7 +231,15 @@
             "set": 70807,
             "dates": ["2021-06-01"]
         },
-
+        {
+            "id": "b359e989-cdff-43fb-ba75-45a79e04b5c3",
+            "name": "Robo Skeleton",
+            "keywords": ["The LEGO Movie"],
+            "actor": "David Burrows",
+            "item": "tlm048",
+            "set": 70807,
+            "dates": ["2021-06-02"]
+        },
         {
             "id": "a31477a7-2fa7-4e27-b5ed-988ff1bc2f8d",
             "name": "Emmet - without Piece of Resistance",

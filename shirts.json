@@ -441,6 +441,15 @@
             "image-logo": "first-party-black-logo.jpg",
             "image-front": "first-party-black-front.jpg",
             "dates": ["2021-06-01"]
+        },
+        {
+            "id": "a9e3b058-db52-451f-808e-ede6b60c2041",
+            "name": "Blizzard - StarCraft - Races",
+            "text": ["PROTOSS", "ZERG", "TERRAN"],
+            "keywords": ["Uniqlo", "Blizzard", "StarCraft", "logos"],
+            "source": "https://www.uniqlo.com/us/en/blizzard-short-sleeve-graphic-t-shirt-starcraft-412719.html",
+            "image-front": "",
+            "dates": ["2021-06-02"]
         }
     ]
 }
