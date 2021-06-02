@@ -51,8 +51,8 @@
         {
             "id": "844b8c14-c6b0-4381-b568-9074f22e73b0",
             "name": "I♥SC (Terran)",
-            "text": ["I♥SC"],
-            "keywords": ["StarCraft", "Blizzard", "BlizzCon", "Terran"],
+            "text": ["I♥", "SC", "", "BLIZZARD", "ENTERTAINMENT" ],
+            "keywords": ["StarCraft", "Blizzard", "BlizzCon", "Heart", "Terran"],
             "image-logo": "I♥SCt-logo.jpg",
             "image-front": "I♥SCt-front.jpg",
             "image-back": "I♥SCt-back.jpg",
@@ -380,7 +380,7 @@
             "text": ["BONES", "MD", "©2008 Aaron Williams • www.dogooderpress.com"],
             "keywords": ["Star Trek", "House MD", "Bones", "Leonard McCoy"],
             "source": "http://www.dogooderpress.com",
-            "image-front": "bones-md-front.jpg",
+            "image-front": "bonesmd-front.jpg",
             "dates": ["2021-05-27"]
         },
         {
@@ -396,11 +396,11 @@
         {
             "id": "23f6ee3b-3a2f-4fbb-abb9-2053676de6c7",
             "name": "StarCraft matchmaking",
-            "text": ["MATCHMAKING", "1v1", "LOOKIN FOR", "A KOREAN TO", "DESTROY YOU...", "", "PENNY", "ARCADE", "WWW.PENNY-ARCADE.COM"],
+            "text": ["MATCHMAKING", "1v1", "LOOKING FOR", "A KOREAN TO", "DESTROY YOU...", "", "PENNY", "ARCADE", "WWW.PENNY-ARCADE.COM"],
             "keywords": ["Blizzard", "StarCraft II"],
             "source": "https://store.penny-arcade.com/",
-            "image-front": "",
-            "image-back": "",
+            "image-front": "korean-front.jpg",
+            "image-back": "korean-back.jpg",
             "dates": ["2021-05-29"]
         },
         {
@@ -409,9 +409,19 @@
             "style": "polo",
             "text": [],
             "keywords": ["Star Trek", "Starfleet uniform", "U.S.S. Enterprise", "Command gold"],
-            "image-front": "",
-            "image-logo": "",
+            "image-front": "command-front.jpg",
+            "image-logo": "command-logo.jpg",
             "dates": ["2021-05-30"]
+        },
+        {
+            "id": "05ff1611-ebbd-41bb-8447-0f8b997b4f62",
+            "name": "I♥SC (Zerg)",
+            "text": ["I♥", "SC", "", "BLIZZARD", "ENTERTAINMENT" ],
+            "keywords": ["StarCraft", "Blizzard", "BlizzCon", "Heart", "Zerg"],
+            "image-front": "I♥SCz-front.jpg",
+            "image-back": "I♥SCz-back.jpg",
+            "source": "http://blizzcon.com",
+            "dates": ["2021-05-31"]
         },
         {
             "id": "a38ff64e-2360-4876-9c55-e1b306d1d7d5",
@@ -421,6 +431,16 @@
             "image-front": "cha'maH-SochDIch-front.jpg",
             "source": "https://www.kli.org/activities/qepmey/past-qepamey/qepa-chamah-sochdich",
             "dates": ["2021-05-31"]
+        },
+        {
+            "id": "1dad7c90-241a-49a4-bd6a-20f997ce6132",
+            "name": "First Party - Black",
+            "text": ["🎮"],
+            "keywords": ["Penny Arcade", "First Party"],
+            "style": "polo",
+            "image-logo": "first-party-black-logo.jpg",
+            "image-front": "first-party-black-front.jpg",
+            "dates": ["2021-06-01"]
         }
     ]
 }

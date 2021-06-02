@@ -223,6 +223,16 @@
             "dates": ["2021-05-28"]
         },
         {
+            "id": "5378c1c1-2493-4ece-a11d-68e643c76748",
+            "name": "Frank the Foreman",
+            "keywords": ["The LEGO Movie"],
+            "actor": "Keegan-Michael Key",
+            "item": "tlm047",
+            "set": 70807,
+            "dates": ["2021-06-01"]
+        },
+
+        {
             "id": "a31477a7-2fa7-4e27-b5ed-988ff1bc2f8d",
             "name": "Emmet - without Piece of Resistance",
             "keywords": ["The LEGO Movie"],
