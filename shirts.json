@@ -448,7 +448,7 @@
             "text": ["PROTOSS", "ZERG", "TERRAN"],
             "keywords": ["Uniqlo", "Blizzard", "StarCraft", "logos"],
             "source": "https://www.uniqlo.com/us/en/blizzard-short-sleeve-graphic-t-shirt-starcraft-412719.html",
-            "image-front": "",
+            "image-front": "races-front.jpg",
             "dates": ["2021-06-02"]
         },
         {
@@ -456,7 +456,8 @@
             "name": "Pixelated Mutant Flying Koopas",
             "text": ["PIXELATED MUTANT FLYING", "KOOPAS", "VILLAINS IN A HALFSHELL"],
             "keywords": ["Nintendo", "Mario", "Super Mario Bros.", "TMNT", "Teenage Mutant Ninja Turtles", "Koopa Troopa", "Koopa Paratroopa"],
-            "image-front": "",
+            "image-front": "koopas-front.jpg",
+            "image-logo": "koopas-logo.jpg",
             "dates": ["2021-06-03"]
         },
         {
@@ -473,13 +474,13 @@
                 "S-VIDEO", "Ⓡ Ⓛ",
                 "SCART", "DVD", "A", "DTV/", "CBL", "B",
                 "RF", "AUX IN",
-                "SPEAKERS", "Ⓡ SURROUND Ⓛ", "+ +", "- -", "SURROUND : 6 MIN./SPEAKER", "B", "FRONT", "CENTRE Ⓡ Ⓛ","+ +", "- -", "CENTRE : 6 MIN./SPEAKER", "A", "Ⓡ FRONT Ⓛ", "+ +", "- -", "FRONT A OR B : 6 MIN./SPEAKER",
+                "SPEAKERS", "Ⓡ SURROUND Ⓛ", "+ +", "- -", "SURROUND : 6 MIN./SPEAKER", "B", "FRONT", "CENTRE Ⓡ Ⓛ","+ +", "- -", "CENTRE : 6 MIN./SPEAKER", "A", "Ⓡ FRONT Ⓛ", "+ +", "- -", "FRONT A OR B : 6 MIN./SPEAKER"
             ],
             "keywords": [],
             "source": "https://www.threadless.com/shop/@threadless/design/av/mens/t-shirt",
-            "image-front": "",
-            "image-back": "",
-            "dates": ["2020-06-04"]
+            "image-front": "av-front.jpg",
+            "image-back": "av-back.jpg",
+            "dates": ["2021-06-04"]
         }
     ]
 }
