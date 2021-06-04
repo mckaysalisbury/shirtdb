@@ -241,6 +241,24 @@
             "dates": ["2021-06-02"]
         },
         {
+            "id": "8d26bd03-02f9-4083-858c-e7bd30552cf3",
+            "name": "Vitruvius - Ghost Shroud",
+            "keywords": ["The LEGO Movie"],
+            "actor": "Morgan Freeman",
+            "item": "tlm092",
+            "set": 70818,
+            "dates": ["2021-06-03"]
+        },
+        {
+            "id": "d48bec9a-f35e-48f1-90b8-1fdd546ca38c",
+            "name": "Maddox",
+            "keywords": ["The LEGO Movie", "The LEGO Movie 2"],
+            "item": "tlm119",
+            "set": 70836,
+            "dates": ["2021-06-04"]
+        },
+
+        {
             "id": "a31477a7-2fa7-4e27-b5ed-988ff1bc2f8d",
             "name": "Emmet - without Piece of Resistance",
             "keywords": ["The LEGO Movie"],

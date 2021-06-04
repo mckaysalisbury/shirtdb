@@ -450,6 +450,36 @@
             "source": "https://www.uniqlo.com/us/en/blizzard-short-sleeve-graphic-t-shirt-starcraft-412719.html",
             "image-front": "",
             "dates": ["2021-06-02"]
+        },
+        {
+            "id": "bdfa52cc-1b47-4457-9623-ff7e35caba1b",
+            "name": "Pixelated Mutant Flying Koopas",
+            "text": ["PIXELATED MUTANT FLYING", "KOOPAS", "VILLAINS IN A HALFSHELL"],
+            "keywords": ["Nintendo", "Mario", "Super Mario Bros.", "TMNT", "Teenage Mutant Ninja Turtles", "Koopa Troopa", "Koopa Paratroopa"],
+            "image-front": "",
+            "dates": ["2021-06-03"]
+        },
+        {
+            "id": "527784a5-dd6d-4748-b571-f98aa34c1a04",
+            "name": "AV",
+            "text": [
+                "STANDBY", "PHONES", "",
+                "MULTI CH INPUT", "FRONT", "SURROUND", "SUB", "WOOFER", "CENTRE", "CD", "IN", "(PLAY)", "MD/", "CD-R", "OUT", "(REC)", "Ⓡ Ⓛ", "AUDIO",
+                "AUDIO", "VIDEO", "Ⓡ Ⓛ", "DVD", "DTV/", "CBL", "V-AUX", "IN", "VCR", "OUT", "MONITOR", "OUT", "SUB", "WOOFER", "OUTPUT",
+                "COMPONENT VIDEO", "Y Pʙ Pʀ", "DVD", "A", "DTV/", "CBL", "B", "VCR", "C", "MONITOR OUT",
+                "TUNER", "AM", "ANT", "GND", "FM", "ANT", "75", "UNBAL",
+                "DIGITAL INPUT", "DVD 3", "OPTICAL 2", "COAXIAL", "DVD 1",
+                "HDMI/DVI", "A", "B",
+                "S-VIDEO", "Ⓡ Ⓛ",
+                "SCART", "DVD", "A", "DTV/", "CBL", "B",
+                "RF", "AUX IN",
+                "SPEAKERS", "Ⓡ SURROUND Ⓛ", "+ +", "- -", "SURROUND : 6 MIN./SPEAKER", "B", "FRONT", "CENTRE Ⓡ Ⓛ","+ +", "- -", "CENTRE : 6 MIN./SPEAKER", "A", "Ⓡ FRONT Ⓛ", "+ +", "- -", "FRONT A OR B : 6 MIN./SPEAKER",
+            ],
+            "keywords": [],
+            "source": "https://www.threadless.com/shop/@threadless/design/av/mens/t-shirt",
+            "image-front": "",
+            "image-back": "",
+            "dates": ["2020-06-04"]
         }
     ]
 }
