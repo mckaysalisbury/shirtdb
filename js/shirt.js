@@ -14,7 +14,6 @@ function makeAllImagesLocal(row) {
 function addExternalData(row) {
     makeAllImagesLocal(row);
     row['table-image'] = fallback(row, [ 'image-logo', 'image-front', 'image-back' ]);
-    console.log(row.text)
-    row['table-text'] = row.text.splice(0, 5).join('<br />')
+    row['table-text'] = row.text.filter(line => line.length !== 0).splice(0, 5).join('<br />')
     return row
 }

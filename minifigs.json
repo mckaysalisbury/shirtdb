@@ -257,7 +257,6 @@
             "set": 70836,
             "dates": ["2021-06-04"]
         },
-
         {
             "id": "a31477a7-2fa7-4e27-b5ed-988ff1bc2f8d",
             "name": "Emmet - without Piece of Resistance",
@@ -265,7 +264,7 @@
             "actor": "Chris Pratt",
             "item": "tlm066",
             "set": 30280,
-            "dates": []
+            "dates": ["2021-06-07"]
         }
     ]
 }
