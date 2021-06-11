@@ -118,7 +118,7 @@
             "keywords": ["Lego Space", "Serenity", "Firefly", "Lego 1980s Space"],
             "image-front": "lego-serenity-front.jpg",
             "source": "https://teefury.com/products/tee-mens-basic-browncoat-brick",
-            "dates": ["2020-05-06"]
+            "dates": ["2021-05-06", "2021-06-08"]
         },
         {
             "id": "85dae76a-fce5-4b11-89ee-a06e4d84ad2c",
@@ -146,8 +146,8 @@
             "text": [""],
             "keywords": ["Marvel", "Captain America", "Shield"],
             "source": "https://thinkgeek.com",
-            "image-front": "captain-america-front.jpg",
-            "image-logo": "captain-america-logo.jpg",
+            "image-front": "captain-america-polo-front.jpg",
+            "image-logo": "captain-america-polo-logo.jpg",
             "dates": ["2021-05-09"]
         },
         {
@@ -513,6 +513,37 @@
             "source": "https://teefury.com",
             "image-front": "green-eggs-front.jpg",
             "dates": ["2021-06-07"]
+        },
+        {
+            "id": "a1959e64-bb5a-41f8-8528-1deafb1e1261",
+            "name": "BlizzCon 2007",
+            "text": ["BLIZZCON", "", "BLIZZARD", "ENTERTAINMENT"],
+            "keywords": ["WarCraft", "Diablo", "StarCraft", "Dranei", "Protoss", "Zealot", "Terran", "Tychus Findlay", "Murloc", "Blood Elf"],
+            "source": "https://blizzcon.com",
+            "image-front": "blizzcon-2007-front.jpg",
+            "image-logo": "blizzcon-2007-logo.jpg",
+            "image-right": "blizzcon-2007-front.jpg",
+            "image-back": "blizzcon-2007-back.jpg",
+            "dates": ["2021-06-09"]
+        },
+        {
+            "id": "20fffcad-fce2-4021-af17-e3c8e4bd1aac",
+            "name": "Captain America shield",
+            "text": [],
+            "keywords": ["Marvel"],
+            "image-front": "captain-america-front.jpg",
+            "dates": ["2021-06-10"]
+        },
+        {
+            "id": "07967588-d1ec-4fbf-b836-bf11463bc084",
+            "name": "Artanis",
+            "text": ["II", "", "StarCraft", "II", "LEGACY OF THE VOID"],
+            "keywords": ["Blizzard", "Protoss", "Zeratul", "Artanis", "Selendis"],
+            "source": "https://gear.blizzard.com",
+            "image-front": "artanis-front.jpg",
+            "image-back": "artanis-back.jpg",
+            "image-logo": "artanis-logo.jpg",
+            "dates": ["2021-06-11"]
         }
     ]
 }

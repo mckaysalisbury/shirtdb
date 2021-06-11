@@ -265,6 +265,43 @@
             "item": "tlm066",
             "set": 30280,
             "dates": ["2021-06-07"]
+        },
+        {
+            "id": "f466b54d-c106-4382-8756-7b8d0a52891e",
+            "name": "Unikitty - Puzzled, Sitting",
+            "style": "character",
+            "keywords": ["The LEGO Movie"],
+            "actor": "Alison Brie",
+            "item": "tlm093",
+            "set": 70818,
+            "dates": ["2021-06-08"]
+        },
+        {
+            "id": "171d0bb9-2ddd-4a35-9887-84844a0da9c8",
+            "name": "Hulk with Black Hair and Dark Purple Pants",
+            "style": "giant",
+            "keywords": ["Marvel"],
+            "item": "sh095",
+            "set": 76018,
+            "dates": ["2021-06-09"]
+        },
+        {
+            "id": "36854b33-6cd5-4857-9dab-0e2383edd24d",
+            "name": "Robo SWAT",
+            "keywords": ["The LEGO Movie"],
+            "item": "tlm025",
+            "set": 70801,
+            "dates": ["2021-06-10"]
+        },
+        {
+            "id": "995c0a8e-990d-46bc-8b3e-d1ac61520b1c",
+            "name": "Captain America - Detailed Suit - Mask",
+            "keywords": ["Marvel", "Age of Ultron"],
+            "actor": "Chris Evans",
+            "item": "sh177",
+            "set": 76032,
+            "notes": "I also own the identical minifig which also appears in set 30447",
+            "dates": ["2021-06-11"]
         }
     ]
 }
