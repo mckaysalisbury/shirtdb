@@ -544,6 +544,33 @@
             "image-back": "artanis-back.jpg",
             "image-logo": "artanis-logo.jpg",
             "dates": ["2021-06-11"]
+        },
+        {
+            "id": "1ff0f00a-f9d7-4e82-9439-7d05217645dd",
+            "name": "University Wikipedius",
+            "text": ["UNIVERSITY WIKIPEDIUS", "ESTABLISHED 1409 [CITATION NEEDED]"],
+            "keywords": ["Wikipedia"],
+            "source": "https://shirt.woot.com/offers/university-wikipedius",
+            "image-front": "",
+            "dates": ["2021-06-12"]
+        },
+        {
+            "id": "4e37f235-9eb7-4295-8a85-68aced0ccc0f",
+            "name": "Avengers Polo",
+            "style": "polo",
+            "text": ["Ⓐ"],
+            "keywords": ["Marvel", "Avengers"],
+            "source": "https://thinkgeek.com",
+            "image-front": "",
+            "dates": ["2021-06-13"]
+        },
+        {
+            "id": "430a9435-e21e-443b-a541-46dc5f95a12a",
+            "name": "Dinosaur holding Serenity",
+            "text": [],
+            "keywords": ["Firefly", "Serenity", "dinosaur", "Wash", "Hoban Washburne"],
+            "image-front": "",
+            "dates": ["2021-06-14"]
         }
     ]
 }

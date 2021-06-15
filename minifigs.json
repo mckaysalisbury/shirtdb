@@ -302,6 +302,14 @@
             "set": 76032,
             "notes": "I also own the identical minifig which also appears in set 30447",
             "dates": ["2021-06-11"]
+        },
+        {
+            "id": "5256bba4-6439-4800-ae1d-0e2bd6fa0061",
+            "name": "El Macho Wrestler",
+            "keywords": ["The LEGO Movie", "Master Builder", "lucha libre"],
+            "item": "tlm022",
+            "set": 70809,
+            "dates": ["2021-06-14"]
         }
     ]
 }
