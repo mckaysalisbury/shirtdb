@@ -310,6 +310,14 @@
             "item": "tlm022",
             "set": 70809,
             "dates": ["2021-06-14"]
+        },
+        {
+            "id": "d9a8a0c7-d73b-4795-8a7b-f89ec04e99c8",
+            "name": "Pa Cop",
+            "keywords": ["The LEGO Movie"],
+            "item": "tlm020",
+            "set": 70809,
+            "dates": ["2021-06-15"]
         }
     ]
 }
