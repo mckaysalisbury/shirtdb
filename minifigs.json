@@ -327,6 +327,16 @@
             "item": "tlm116",
             "set": 70842,
             "dates": ["2021-06-16"]
+        },
+        {
+            "id": "604af7ac-7dc6-4540-915f-647e5ff50a05",
+            "name": "Unikitty - Rampage Kitty",
+            "keywords": ["The LEGO Movie"],
+            "style": "character",
+            "actor": "Alison Brie",
+            "item": "tlm191",
+            "set": 70842,
+            "dates": ["2021-05-26"]
         }
     ]
 }

@@ -551,7 +551,8 @@
             "text": ["UNIVERSITY WIKIPEDIUS", "ESTABLISHED 1409 [CITATION NEEDED]"],
             "keywords": ["Wikipedia"],
             "source": "https://shirt.woot.com/offers/university-wikipedius",
-            "image-front": "",
+            "image-front": "wikipedius-front.jpg",
+            "image-logo": "wikipedius-logo.jpg",
             "dates": ["2021-06-12"]
         },
         {
@@ -561,7 +562,8 @@
             "text": ["Ⓐ"],
             "keywords": ["Marvel", "Avengers"],
             "source": "https://thinkgeek.com",
-            "image-front": "",
+            "image-front": "avengers-polo-front.jpg",
+            "image-logo": "avengers-polo-logo.jpg",
             "dates": ["2021-06-13"]
         },
         {
@@ -569,7 +571,7 @@
             "name": "Dinosaur holding Serenity",
             "text": [],
             "keywords": ["Firefly", "Serenity", "dinosaur", "Wash", "Hoban Washburne"],
-            "image-front": "",
+            "image-front": "dinosaur-serenity-front.jpg",
             "dates": ["2021-06-14"]
         },
         {
@@ -577,7 +579,8 @@
             "name": "Fullmetal Alchemist",
             "text": ["FULlMETAL", "ALCHEMIST"],
             "keywords": ["Anime", "鋼の錬金術師", "Hagane no Renkinjutsushi", "Edward Elric", "Alphonse Elric"],
-            "image-front": "",
+            "image-front": "fma-front.jpg",
+            "image-logo": "fma-logo.jpg",
             "dates": ["2021-06-15"]
         },
         {
@@ -586,9 +589,18 @@
             "text": ["Sugar Crash", "A fatal exception UHOH has occurred at IEAT:C6H12O6. The current", "sugar high will be terminated.", "*  Press any key to terminate the current sugar high.", "*  Consume C6H12O6 again to restart this sugar high. You will", "lose any regained sense of reasoning or sanity.", "Press any key to continue _"],
             "keywords": [" Microsoft", "Windows", "95", "blue screen of death", "BSoD"],
             "source": "https://shirt.woot.com/offers/sugar-bsod",
-            "image-front": "",
+            "image-front": "sugar-crash-front.jpg",
+            "image-logo": "sugar-crash-logo.jpg",
             "dates": ["2021-06-16"]
-
+        },
+        {
+            "id": "9d70fce5-499e-4353-80b1-f3c987391856",
+            "name": "Cookie Diving",
+            "text": [],
+            "keywords": ["Sesame Street", "Cookie Monster", "Cookies", "Disney", "DuckTales", "Scrooge McDuck", "money bin", "cookie bin"],
+            "source": "https://shirt.woot.com/offers/cookie-diving",
+            "image-front": "cookie-diving-front.jpg",
+            "dates": ["2021-06-17"]
         }
     ]
 }
