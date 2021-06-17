@@ -318,6 +318,15 @@
             "item": "tlm020",
             "set": 70809,
             "dates": ["2021-06-15"]
+        },
+        {
+            "id": "cf3e8b37-a1d4-43ef-b279-6b720b7149c9",
+            "name": "Sweet Mayhem - Crooked Smile, Raised Eyebrow",
+            "keywords": ["The LEGO Movie", "The LEGO Movie 2"],
+            "actor": "Stephanie Beatriz",
+            "item": "tlm116",
+            "set": 70842,
+            "dates": ["2021-06-16"]
         }
     ]
 }
