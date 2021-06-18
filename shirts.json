@@ -601,6 +601,15 @@
             "source": "https://shirt.woot.com/offers/cookie-diving",
             "image-front": "cookie-diving-front.jpg",
             "dates": ["2021-06-17"]
+        },
+        {
+            "id": "a6e09661-5cfb-4223-b627-e452147b07ac",
+            "name": "ArQAde: StarCraft",
+            "text": ["ARQADE"],
+            "keywords": ["gaming.stackexchange.com", "Stack Exchange"],
+            "source": "https://contests.stackoverflow.com/promos/13/answerswarm",
+            "image-front": "",
+            "dates": ["2021-06-18"]
         }
     ]
 }
