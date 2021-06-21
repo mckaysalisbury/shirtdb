@@ -346,6 +346,79 @@
             "item": "tlm142",
             "set": 70842,
             "dates": ["2021-06-18"]
+        },
+        {
+            "id": "d7a6f519-cc54-48d7-8b17-07fabf2ed24e",
+            "name": "Pirate Red / White Stripes Shirt, Black Leg with Peg Leg, Black Pirate Triangle Hat",
+            "keywords": ["Pirates"],
+            "item": "pi038",
+            "notes": "I also have this minifig from 6261",
+            "set": 6246,
+            "dates": ["2021-06-21"]
+        },
+        {
+            "id": "2fdf9b91-4bd1-4985-b477-92f92633490b",
+            "name": "Islander, Male with Quiver",
+            "keywords": ["Pirates", "Islanders"],
+            "item": "pi079",
+            "set": 6246,
+            "dates": []
+        },
+        {
+            "id": "747efea0-b570-4e52-89a0-daf7e5afdb05",
+            "name": "Pirate Shirt with Knife, Black Legs, Black Pirate Hat with Skull",
+            "keywords": ["Pirates"],
+            "item": "pi078",
+            "set": 6261,
+            "dates": []
+        },
+        {
+            "id": "452ebccb-e8f8-420f-9e21-674e971d9d8e",
+            "name": "Pirate Blue / White Stripes Shirt, Light Gray Legs, Red Bandana",
+            "keywords": ["Pirates"],
+            "item": "pi072",
+            "set": 6261,
+            "dates": []
+        },
+        {
+            "id": "61257b61-0658-4793-b2bd-c6aeaf80f3c9",
+            "name": "Pirate Blue Jacket, White Legs, Brown Pirate Triangle Hat",
+            "keywords": ["Pirates"],
+            "item": "pi009",
+            "set": 6270,
+            "dates": []
+        },
+        {
+            "id": "f0f8df00-99d4-465f-b6b8-e739628a68d9",
+            "name": "Imperial Soldier",
+            "keywords": ["Pirates", "Imperial"],
+            "item": "pi061",
+            "set": 6270,
+            "dates": []
+        },
+        {
+            "id": "f5132ac5-77e4-49ce-849e-fc28247cda70",
+            "name": "Imperial Soldier - Governor with Red Feather",
+            "keywords": ["Pirates", "Imperial"],
+            "item": "pi004b",
+            "notes": "Not owned as part of a set. Traded?",
+            "dates": []
+        },
+        {
+            "id": "1de2ceb2-4189-4cc9-8e71-6a87542a2c86",
+            "name": "Imperial Guard - Officer",
+            "keywords": ["Pirates", "Imperial"],
+            "item": "pi065",
+            "notes": "Not owned as part of a set. Traded?",
+            "dates": []
+        },
+        {
+            "id": "778b1ed7-7271-4a30-898f-2598a982de8c",
+            "name": "Pirate Red / Black Stripes Shirt, Black Legs, Blue Bandana",
+            "keywords": ["Pirates"],
+            "item": "pi027",
+            "notes": "Not owned as part of a set. Traded?",
+            "dates": []
         }
     ]
 }

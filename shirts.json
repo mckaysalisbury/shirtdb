@@ -608,8 +608,40 @@
             "text": ["ARQADE"],
             "keywords": ["gaming.stackexchange.com", "Stack Exchange"],
             "source": "https://contests.stackoverflow.com/promos/13/answerswarm",
-            "image-front": "",
+            "image-front": "arqade-sc-front.jpg",
+            "image-logo": "arqade-sc-logo.jpg",
             "dates": ["2021-06-18"]
+        },
+        {
+            "id": "5de85cc1-7cec-476e-ac2f-8cd2fd69cfc0",
+            "name": "Space Shuttle Enterprise",
+            "text": ["SPACE SHUTTLE", "ENTERPRISE", "INTREPID", "MUSEUM", "ORBITER VEHICLE DESIGNATION: OV-101", "Dimensions and Weight", "Wing Span· · · · · · · · 78.06ft", "Length · · · · · · · · · · 122.17ft", "Height · · · · · · · · · · 56.58ft", "Tread Width  · · · · · · · 22.67ft", "Gross Takeoff Weight · · Variable", "Gross Landing Weight · · Variable", "Inert Weight (Approx) · 165,000lb", "Minimum Ground", "Clearances", "Body Flap (Aft End) · · · 12.07ft", "Main Gear (Door) · · · · · 2.85ft", "Nose Gear (Door) · · · · · 2.95ft", "Wingtip · · · · · · · · · 11.92ft", "Rudder/", "Speed Brake", "Side View", "Enterprise", "NASA", "🇺🇸 United States", "Side Hatch", "Aft Reaction", "Control", "System", "Top View", "Forward Reaction", "Control System", "Module", "Payload", "Bay Doors", "🇺🇸", "USA", "Orbital Maneuvering System/", "Reaction Control", "System Modules", "Main Engines", "Bottom View", "Main Landing", "Gear", "Nose Landing", "Gear"],
+            "keywords": ["space", "aircraft carrier"],
+            "source": "https://store.intrepidmuseum.org",
+            "image-front": "enterprise-front.jpg",
+            "image-logo": "enterprise-logo.jpg",
+            "dates": ["2021-06-19"]
+        },
+        {
+            "id": "30ef53cc-1dd2-463b-b98a-4d106606ab10",
+            "name": "S.H.I.E.L.D. Polo",
+            "style": "polo",
+            "text": [],
+            "keywords": ["Marvel", "Agents of S.H.I.E.L.D."],
+            "source": "https://thinkgeek.com",
+            "image-front": "shield-front.jpg",
+            "image-logo": "shield-logo.jpg",
+            "dates": ["2021-06-20"]
+        },
+        {
+            "id": "0e202712-3d74-4820-9ec6-c65f322adb74",
+            "name": "StarCraft II Lightning",
+            "text": ["StarCraft", "II"],
+            "keywords": ["Blizzard", "StarCraft"],
+            "source": "https://blizzcon.com",
+            "image-front": "sc2-lightning-front.jpg",
+            "image-logo": "sc2-lightning-logo.jpg",
+            "dates": ["2021-06-21"]
         }
     ]
 }
