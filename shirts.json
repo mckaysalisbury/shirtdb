@@ -642,6 +642,35 @@
             "image-front": "sc2-lightning-front.jpg",
             "image-logo": "sc2-lightning-logo.jpg",
             "dates": ["2021-06-21"]
+        },
+        {
+            "id": "a2f2f041-518b-45f2-bf10-5c084ace7138",
+            "name": "The Cat in the Box",
+            "text": ["THE CAT", "IN", "THE", "BOX", "By Dr. Schrodinger", "?"],
+            "keywords": ["Dr. Seuss", "Schrodinger's cat", "quantum mechanics", "The Cat in the Hat"],
+            "source": "https://shirt.woot.com/offers/the-cat-in-the-box",
+            "image-front": "cat-in-the-box-front.jpg",
+            "dates": ["2021-06-22"]
+        },
+        {
+            "id": "9787e980-89e3-424d-879c-5f3c3ef25309",
+            "name": "Captain America Civil War",
+            "text": ["MARVEL", "CAPTAIN AMERICA", "CIVIL WAR"],
+            "keywords": ["Marvel", "Marvel Cinematic Universe", "shield"],
+            "source": "https://uniqlo.com",
+            "image-front": "",
+            "image-logo": "",
+            "image-back": "",
+            "dates": ["2021-06-23"]
+        },
+        {
+            "id": "6dcab1a1-9498-48ae-89b7-c64c6866ef9d",
+            "name": "TMBG IFC 2020",
+            "text": ["THEY", "MIGHT", "BE", "GIANTS", "NSTANT", "FAN", "CLUB"],
+            "keywords": ["They Might Be Giants", "TMBG", "Instant Fan Club", "2020"],
+            "source": "https://www.tmbgifc.com/",
+            "image-front": "ifc-2020-front.jpg",
+            "dates": []
         }
     ]
 }
