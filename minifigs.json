@@ -378,7 +378,7 @@
             "keywords": ["Pirates"],
             "item": "pi072",
             "set": 6261,
-            "dates": []
+            "dates": ["2021-06-24"]
         },
         {
             "id": "61257b61-0658-4793-b2bd-c6aeaf80f3c9",
@@ -386,7 +386,7 @@
             "keywords": ["Pirates"],
             "item": "pi009",
             "set": 6270,
-            "dates": []
+            "dates": ["2021-06-28"]
         },
         {
             "id": "f0f8df00-99d4-465f-b6b8-e739628a68d9",
@@ -401,7 +401,7 @@
             "name": "Imperial Soldier - Governor with Red Feather",
             "keywords": ["Pirates", "Imperial"],
             "item": "pi004b",
-            "notes": "Not owned as part of a set. Traded?",
+            "notes": "Not owned as part of a set. Traded? In most official images, his hat is front to back, but bricklink shows it athwart.",
             "dates": []
         },
         {

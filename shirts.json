@@ -654,14 +654,72 @@
         },
         {
             "id": "9787e980-89e3-424d-879c-5f3c3ef25309",
-            "name": "Captain America Civil War",
+            "name": "Captain America Civil War - Shield",
             "text": ["MARVEL", "CAPTAIN AMERICA", "CIVIL WAR"],
-            "keywords": ["Marvel", "Marvel Cinematic Universe", "shield"],
+            "keywords": ["Marvel", "Marvel Cinematic Universe", "Captain America", "shield"],
             "source": "https://uniqlo.com",
-            "image-front": "",
-            "image-logo": "",
-            "image-back": "",
+            "image-front": "civil-war-shield-front.jpg",
+            "image-logo": "civil-war-shield-logo.jpg",
+            "image-back": "civil-war-shield-back.jpg",
             "dates": ["2021-06-23"]
+        },
+        {
+            "id": "691fdc1b-f3b1-4afe-ad3a-bdcda7588571",
+            "name": "Save the Princess",
+            "text": ["MARIO BROS", "SAVE THE PRINCESS", "SAVE WORLD 8-4"],
+            "keywords": ["Nintendo", "Super Mario Bros.", "Heroes", "Claire Bennet"],
+            "source": "https://www.offworlddesigns.com/save-the-princess-t-shirt/",
+            "notes": "I don't *think* I bought it from OffWorld Designs but I can't find it elsewhere",
+            "image-front": "save-princess-front.jpg",
+            "dates": ["2021-06-24"]
+        },
+        {
+            "id": "5cdf1b8a-d714-43b6-b834-b913dc1fa40f",
+            "name": "They Beat the Same",
+            "text": ["❤", "❤", "❤", "❤", "❤❤❤", "❤", "❤", "❤❤❤❤❤❤❤❤❤❤", "❤❤❤❤❤❤❤❤❤❤"],
+            "keywords": ["human", "Wizard of Oz", "Tin Man", "Dr. Seuss", "How the Grinch Stole Christmas", "Grinch", "Forbidden Planet", "Robby the Robot", "squid", "three hearts", "Mary Shelly", "Frankenstein", "Frankenstein; or, The Modern Prometheus", "Frankenstein's Monster", "Care Bears", "Tenderheart Bear", "Nintendo", "Legend of Zelda", "Link"],
+            "source": "https://shirt.woot.com/offers/they-beat-the-same",
+            "image-front": "beat-same-front.jpg",
+            "dates": ["2021-06-25"]
+        },
+        {
+            "id": "003e4a07-1e2a-433d-9cf6-b1453b5e8de6",
+            "name": "Captain America - Comics",
+            "text": ["CAPTAIN", "AMERICA", "AND SO IT BEGINS--!", "STILL", "ONLY 25¢", "MARVEL", "COMICS", "GROUP"],
+            "keywords": ["Marvel", "comics"],
+            "image-front": "captain-america-comics-front.jpg",
+            "notes": "I probably bought this at Target or something", 
+            "dates": ["2021-06-26"]
+        },
+        {
+            "id": "cfdcb45f-6085-4f62-8beb-900a253fd129",
+            "name": "Federation Polo",
+            "style": "polo",
+            "text": [],
+            "keywords": ["Star Trek", "United Federation of Planets"],
+            "source": "https://thinkgeek.com",
+            "image-front": "federation-polo-front.jpg",
+            "image-logo": "federation-polo-logo.jpg",
+            "dates": ["2021-06-27", "2021-06-26"]
+        },
+        {
+            "id": "7bb671de-8fe9-42e2-8adf-d4fb55d688f7",
+            "name": "robot overlords",
+            "text": ["I, FOR ONE, WELCOME OUR", "NEW COMPUTER OVERLORDS."],
+            "keywords": ["April Fools' Day", "Jeopardy!", "Ken Jennings III", "Watson", "Artificial Intelligence"],
+            "source": "https://thinkgeek.com",
+            "image-front": "robot-overlords-front.jpg",
+            "image-logo": "robot-overlords-logo.jpg",
+            "dates": ["2021-06-28"]
+        },
+        {
+            "id": "70e61b3f-e622-438f-b874-6ec6a7ed9288",
+            "name": "Captain America Civil War - Face",
+            "text": ["A", "MARVEL", "CAPTAIN AMERICA", "CIVIL WAR"],
+            "keywords": ["Marvel", "Marvel Cinematic Universe", "Captain America"],
+            "source": "https://uniqlo.com",
+            "image-front": "civil-war-face-front.jpg",
+            "dates": ["2021-06-29"]
         },
         {
             "id": "6dcab1a1-9498-48ae-89b7-c64c6866ef9d",
