@@ -722,6 +722,34 @@
             "dates": ["2021-06-29"]
         },
         {
+            "id": "df377f0c-dac5-4b8d-b958-27df08a1edea",
+            "name": "Survival Tracking Guide",
+            "text": ["Survival Tracking Guide", "Fig 1a: The Pirate", "Fig 1b: The Ninja", "Fig 1c: The Zombie"],
+            "keywords": ["footprints", "pirate", "ninja", "zombie", "pegleg"],
+            "source": "https://shirt.woot.com/offers/survival-tracking-guide",
+            "image-front": "",
+            "dates": ["2021-06-30"]
+        },
+        {
+            "id": "4e532a3c-3d5b-4f71-bbda-ebab721e9e04",
+            "name": "This is not a pipe",
+            "text": ["Ceci n'est pas une pipe."],
+            "keywords": ["René Magritte", "Treachery of Images", "Nintendo", "Super Mario Bros.", "pipe", "piranha plant"],
+            "source": "https://www.threadless.com/shop/@threadless/design/this-is-not-a-pipe/",
+            "image-front": "",
+            "dates": ["2021-07-01"]
+        },
+        {
+            "id": "00eb712c-3d14-4d55-9b1c-8263d1788dfa",
+            "name": "Raynor",
+            "text": ["StarCraft", "II", "", "BLIZZARD", "ENTERTAINMENT"],
+            "keywords": ["Blizzard", "StarCraft", "StarCraft II", "Terran", "Jim Raynor", "Marine"],
+            "source": "https://blizzcon.com",
+            "image-front": "",
+            "image-back": "",
+            "dates": ["2021-07-02"]
+        },
+        {
             "id": "6dcab1a1-9498-48ae-89b7-c64c6866ef9d",
             "name": "TMBG IFC 2020",
             "text": ["THEY", "MIGHT", "BE", "GIANTS", "NSTANT", "FAN", "CLUB"],

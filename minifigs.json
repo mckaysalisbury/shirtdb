@@ -381,6 +381,14 @@
             "dates": ["2021-06-24"]
         },
         {
+            "id": "f0f8df00-99d4-465f-b6b8-e739628a68d9",
+            "name": "Imperial Soldier",
+            "keywords": ["Pirates", "Imperial"],
+            "item": "pi061",
+            "set": 6270,
+            "dates": ["2021-06-25"]
+        },
+        {
             "id": "61257b61-0658-4793-b2bd-c6aeaf80f3c9",
             "name": "Pirate Blue Jacket, White Legs, Brown Pirate Triangle Hat",
             "keywords": ["Pirates"],
@@ -389,28 +397,12 @@
             "dates": ["2021-06-28"]
         },
         {
-            "id": "f0f8df00-99d4-465f-b6b8-e739628a68d9",
-            "name": "Imperial Soldier",
-            "keywords": ["Pirates", "Imperial"],
-            "item": "pi061",
-            "set": 6270,
-            "dates": []
-        },
-        {
             "id": "f5132ac5-77e4-49ce-849e-fc28247cda70",
             "name": "Imperial Soldier - Governor with Red Feather",
             "keywords": ["Pirates", "Imperial"],
             "item": "pi004b",
             "notes": "Not owned as part of a set. Traded? In most official images, his hat is front to back, but bricklink shows it athwart.",
-            "dates": []
-        },
-        {
-            "id": "1de2ceb2-4189-4cc9-8e71-6a87542a2c86",
-            "name": "Imperial Guard - Officer",
-            "keywords": ["Pirates", "Imperial"],
-            "item": "pi065",
-            "notes": "Not owned as part of a set. Traded?",
-            "dates": []
+            "dates": ["2021-06-29"]
         },
         {
             "id": "778b1ed7-7271-4a30-898f-2598a982de8c",
@@ -418,7 +410,23 @@
             "keywords": ["Pirates"],
             "item": "pi027",
             "notes": "Not owned as part of a set. Traded?",
-            "dates": []
+            "dates": ["2021-06-30"]
+        },
+        {
+            "id": "1de2ceb2-4189-4cc9-8e71-6a87542a2c86",
+            "name": "Imperial Guard - Officer",
+            "keywords": ["Pirates", "Imperial"],
+            "item": "pi065",
+            "notes": "Not owned as part of a set. Traded?",
+            "dates": ["2021-07-01"]
+        },
+        {
+            "id": "9274f67c-475b-446d-bd02-3ee42ac3180c",
+            "name": "Chase McCain, Dark Blue Legs",
+            "keywords": ["City", "LEGO City Undercover", "police"],
+            "item": "cty0356",
+            "set": 60007,
+            "dates": ["2021-07-02"]
         }
     ]
 }
