@@ -424,9 +424,74 @@
             "id": "9274f67c-475b-446d-bd02-3ee42ac3180c",
             "name": "Chase McCain, Dark Blue Legs",
             "keywords": ["City", "LEGO City Undercover", "police"],
+            "actor": "Joesph May",
             "item": "cty0356",
             "set": 60007,
             "dates": ["2021-07-02"]
+        },
+        {
+            "id": "4b0986c5-1c23-4e92-9ba5-aebf4c41b054",
+            "name": "Police - City Burglar, Dark Bluish Gray Knit Cap, Mask",
+            "keywords": ["City", "police"],
+            "item": "cty0358",
+            "set": 60007,
+            "dates": ["2021-07-06"]
+        },
+        {
+            "id": "959c6ee4-9a99-401c-8af2-f7f6ea263a17",
+            "name": "Doctor Strange",
+            "keywords": ["Marvel", "Marvel Cinematic Universe", "Infinity stone", "Time stone", "Eye of Agamotto", "Cloak of Levitation"],
+            "item": "sh296",
+            "set": 76060,
+            "dates": ["2021-07-07"]
+        },
+        {
+            "id": "617a5310-c4fe-4925-8d33-0de3eb3e7ef1",
+            "name": "Utility Shuttle Astronaut - Female",
+            "keywords": ["City", "Space"],
+            "item": "cty0567",
+            "set": 60078,
+            "dates": ["2021-07-08"]
+        },
+        {
+            "id": "7147326d-c5e0-478e-88d8-a4073a96f554",
+            "name": "Utility Shuttle Astronaut - Male",
+            "keywords": ["City", "Space"],
+            "item": "cty0568",
+            "set": 60078,
+            "dates": ["2021-07-09"]
+        },
+        {
+            "id": "62fcd79b-d13a-420f-9bae-978cd4c41d91",
+            "name": "Male Driver with Dark Blue Jacket, Dark Tan Legs with Dark Bluish Gray Splotches, Dark Brown Hair",
+            "keywords": ["promotional", "City", "town"],
+            "item": "twn396",
+            "set": 40409,
+            "dates": ["2021-09-12"]
+        },
+        {
+            "id": "8a75ddd6-2add-487c-99c8-75791f3dddec",
+            "name": "Police - LEGO City Undercover Elite Police Motorcycle Officer",
+            "keywords": ["City", "LEGO City Undercover", "police"],
+            "item": "cty0357",
+            "set": 60007,
+            "dates": []
+        },
+        {
+            "id": "195d6c71-996f-400b-8525-618a1c606ab4",
+            "name": "Female Mechanic with Dark Blue Overalls and Legs, Dark Orange Ponytail with Dark Blue Ball Cap",
+            "keywords": ["promotional", "City", "town"],
+            "item": "twn395",
+            "set": 40409,
+            "dates": []
+        },
+        {
+            "id": "94f61aca-3dfc-4529-9125-cc863b354194",
+            "name": "Overalls with Safety Stripe Orange, Black Legs, Dark Bluish Gray Knit Cap, Black Legs, Black Eyebrows, Thin Grin",
+            "keywords": ["City", "Town", "Winter Village"],
+            "item": "twn123a",
+            "set": 10216,
+            "dates": []
         }
     ]
 }

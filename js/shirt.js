@@ -14,6 +14,10 @@ function makeAllImagesLocal(row) {
 function addExternalData(row) {
     makeAllImagesLocal(row);
     row['table-image'] = fallback(row, [ 'image-logo', 'image-front', 'image-back' ]);
-    row['table-text'] = row.text.filter(line => line.length !== 0).splice(0, 5).join('<br />')
+    if (!row.text) {
+        console.error('Row does not have a `text` property.', row);
+    } else {
+        row['table-text'] = row.text.filter(line => line.length !== 0).splice(0, 5).join('<br />')
+    }
     return row
 }

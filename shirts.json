@@ -148,7 +148,7 @@
             "source": "https://thinkgeek.com",
             "image-front": "captain-america-polo-front.jpg",
             "image-logo": "captain-america-polo-logo.jpg",
-            "dates": ["2021-05-09"]
+            "dates": ["2021-07-04", "2021-05-09"]
         },
         {
             "id": "3a17fc8b-01a6-40ef-b644-11654c1674ee",
@@ -727,7 +727,7 @@
             "text": ["Survival Tracking Guide", "Fig 1a: The Pirate", "Fig 1b: The Ninja", "Fig 1c: The Zombie"],
             "keywords": ["footprints", "pirate", "ninja", "zombie", "pegleg"],
             "source": "https://shirt.woot.com/offers/survival-tracking-guide",
-            "image-front": "",
+            "image-front": "survival-front.jpg",
             "dates": ["2021-06-30"]
         },
         {
@@ -736,7 +736,8 @@
             "text": ["Ceci n'est pas une pipe."],
             "keywords": ["René Magritte", "Treachery of Images", "Nintendo", "Super Mario Bros.", "pipe", "piranha plant"],
             "source": "https://www.threadless.com/shop/@threadless/design/this-is-not-a-pipe/",
-            "image-front": "",
+            "image-front": "pipe-front.jpg",
+            "image-logo": "pipe-logo.jpg",
             "dates": ["2021-07-01"]
         },
         {
@@ -745,9 +746,55 @@
             "text": ["StarCraft", "II", "", "BLIZZARD", "ENTERTAINMENT"],
             "keywords": ["Blizzard", "StarCraft", "StarCraft II", "Terran", "Jim Raynor", "Marine"],
             "source": "https://blizzcon.com",
-            "image-front": "",
-            "image-back": "",
+            "image-front": "raynor-front.jpg",
+            "image-back": "raynor-back.jpg",
             "dates": ["2021-07-02"]
+        },
+        {
+            "id": "48f89360-e645-47cb-8e28-187247127aaf",
+            "name": "Also Worthy",
+            "text": ["WORTHTY"],
+            "keywords": ["Marvel", "Marvel Cinematic Universe", "Avengers: Endgame", "Thor", "Captain America", "shield", "Mjolnir"],
+            "source": "https://shirt.woot.com/offers/also-worthy",
+            "image-front": "worthy-front.jpg",
+            "image-logo": "worthy-logo.jpg",
+            "dates": ["2021-07-03"]
+        },
+        {
+            "id": "bb6d129c-9199-4465-b7b5-c471a3dcb59f",
+            "name": "Captain America Shield - puff",
+            "text": [],
+            "keywords": ["Marvel", "Captain America", "shield"],
+            "image-front": "cap-shield-puffy-front.jpg",
+            "dates": ["2021-07-05"]
+        },
+        {
+            "name": "Steve Groot",
+            "dates": ["2021-07-06"]
+        },
+        {
+            "name": "Hyrule Army Knife",
+            "dates": ["2021-07-07"]
+        },
+        {
+            "name": "BlizzCon 2009",
+            "dates": ["2021-07-08"]
+        },
+        {
+            "name": "Mecha Zerg",
+            "dates": ["2021-07-09"]
+        },
+        {
+            "name": "Avengers",
+            "dates": ["2021-07-10"]
+        },
+        {
+            "name": "First Party white",
+            "dates": ["2021-07-11"]
+        },
+        {
+            "name": "Spear of Adun",
+            "dates": ["2021-07-12"]
         },
         {
             "id": "6dcab1a1-9498-48ae-89b7-c64c6866ef9d",

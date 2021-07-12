@@ -1,4 +1,5 @@
 const tablePrefix = 'table-'
+let data = [];
 
 function addRecentDate(row) {
     row.dates.sort()
@@ -34,7 +35,7 @@ function setupList(dataUrl, addColumns, displayColumns, itemPage) {
     table.DataTable({
         ajax: {
             url: dataUrl,
-            dataSrc: (response) => response.data.map(addRecentDate).map(addColumns).map(listPrimaryImage),
+            dataSrc: (response) => (data = response.data).map(addRecentDate).map(addColumns).map(listPrimaryImage),
         },
         rowId: 'id',
         columns: displayColumns.map((name) => { return {'data': name}}),
@@ -45,8 +46,8 @@ function setupList(dataUrl, addColumns, displayColumns, itemPage) {
     });
 }
 
-function makeLink(data, content = data) {
-    return `<a href="${data}">${content}</a>`;
+function makeLink(uri, content = uri) {
+    return `<a href="${uri}">${content}</a>`;
 }
 function makeImage(uri, alt = 'item image') {
     return `<img src="${uri}" alt="${alt}"/>`;
@@ -70,7 +71,6 @@ function setupItem(url, preprocess) {
     } else {
         const div = $('<div id="mainDiv">')
         $(document.body).append(div)
-        console.log('url')
 
         $.ajax({url, success: function(result) {
             const matches = result.data.filter(minifig => minifig.id === id);
