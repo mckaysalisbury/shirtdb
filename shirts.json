@@ -809,19 +809,39 @@
             "dates": ["2021-07-09"]
         },
         {
+            "id": "dff0af98-a416-457a-94ef-9c2bebc939f0",
             "name": "Avengers",
+            "text": ["Ⓐ"],
+            "keywords": ["Marvel", "Avengers", "Captain America", "Thor", "Black Widow", "Hawkeye", "Iron Man", "Hulk"],
+            "image-front": "avengers-front.jpg",
             "dates": ["2021-07-10"]
         },
         {
-            "name": "First Party white",
+            "id": "bfa44e33-6cd7-41b4-82b3-a2a5fe2b0bc6",
+            "name": "First Party - Black",
+            "text": ["🎮"],
+            "keywords": ["Penny Arcade", "First Party"],
+            "style": "polo",
+            "image-logo": "first-party-white-logo.jpg",
+            "image-front": "first-party-white-front.jpg",
             "dates": ["2021-07-11"]
         },
         {
+            "id": "4de9da27-5f51-4fdf-abc8-3e8fa1e14ee6",
             "name": "Spear of Adun",
+            "text": ["SPEAR OF ADUN", "ADUN TORIDAS", "TIME BOMBS", "SOLARITE-FUELED CORE", "PURIFIER BEAM", "ORBITAL STRIKE CANNON", "FABRICATION MATRIX", "UNIT STATS", "ROLE: PROTOSS ARKSHIP", "ARMAMENTS: ORBITAL STRIKE CANNON", "PURIFIER BEAM", "TIME BOMBS", "SOLAR LANCE BATTERY", "SIZE: SUPERMASSIVE"],
+            "keywords": ["Blizzard Entertainment", "StarCraft", "StarCraft II", "Protoss", "Spear of Adun", "Legacy of the Void"],
+            "image-front": "spear-adun-front.jpg",
+            "image-back": "spear-adun-back.jpg",
             "dates": ["2021-07-12"]
         },
         {
+            "id": "80125c3a-70ad-41a3-b483-2a6e4980f316",
             "name": "Air drop",
+            "text": [],
+            "keywords": ["Tetris", "airplane"],
+            "source": "http://www.thinkgeek.com/tshirts-apparel/glennz/cb17/",
+            "image-front": "",
             "dates": ["2021-07-13"]
         },
         {
