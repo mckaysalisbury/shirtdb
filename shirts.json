@@ -321,7 +321,7 @@
             "name": "Avengers",
             "text": ["Ⓐ"],
             "keywords": ["Marvel", "Avengers", "Captain America", "Iron Man", "Hulk", "Thor"],
-            "image-front": "avengers-front.jpg",
+            "image-front": "avengers-a-front.jpg",
             "dates": ["2021-05-20"]
         },
         {
@@ -769,19 +769,43 @@
             "dates": ["2021-07-05"]
         },
         {
+            "id": "fcfc5134-c6a6-4d86-9206-d8f02533b639",
             "name": "Steve Groot",
+            "text": ["I AM", "STEVE ROGERS"],
+            "keywords": ["Marvel Cinematic Universe", "Marvel", "Avengers: Infinity War", "Steve Rogers", "Captain America", "Groot", "I am Groot"],
+            "source": "https://www.comic-con.org",
+            "image-front": "i-am-steve-rogers-front.jpg",
+            "image-logo": "i-am-steve-rogers-logo.jpg",
             "dates": ["2021-07-06"]
         },
         {
+            "id": "4419e0bd-b6b4-4fb0-94b6-8471f83b3f9e",
             "name": "Hyrule Army Knife",
+            "text": [],
+            "keywords": ["Legend of Zelda", "Link", "Hyrule", "Swiss Army Knife"],
+            "source": "https://shirt.woot.com/offers/hyrule-army-knife",
+            "image-front": "hyrule-army-knife-front.jpg",
             "dates": ["2021-07-07"]
         },
         {
+            "id": "7abdcc89-f982-4b14-ae06-3970214b732c",
             "name": "BlizzCon 2009",
+            "text": ["BLIZZ", "CON", "09", "ANAHEIM CONVENTION CENTER"],
+            "keywords": ["Blizzard Entertainment", "BlizzCon", "key art"],
+            "source": "https://blizzcon.com",
+            "image-front": "blizzcon-09-front.jpg",
+            "image-logo": "blizzcon-09-logo.jpg",
+            "image-back": "blizzcon-09-back.jpg",
             "dates": ["2021-07-08"]
         },
         {
+            "id": "7a1a3f53-e30c-42b2-aba2-65a0397152ae",
             "name": "Mecha Zerg",
+            "text": ["MECHAZERGMECHAZERG", "StarCraft"],
+            "keywords": ["Blizzard Entertainment", "BlizzCon", "StarCraft", "StarCraft II", "Zerg", "Mecha Zerg"],
+            "source": "https://blizzcon.com",
+            "image-front": "mechazerg-front.jpg",
+            "image-left": "mechazerg-left.jpg",
             "dates": ["2021-07-09"]
         },
         {
@@ -795,6 +819,10 @@
         {
             "name": "Spear of Adun",
             "dates": ["2021-07-12"]
+        },
+        {
+            "name": "Air drop",
+            "dates": ["2021-07-13"]
         },
         {
             "id": "6dcab1a1-9498-48ae-89b7-c64c6866ef9d",
