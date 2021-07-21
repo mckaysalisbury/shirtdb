@@ -467,7 +467,7 @@
             "keywords": ["promotional", "City", "town"],
             "item": "twn396",
             "set": 40409,
-            "dates": ["2021-09-12"]
+            "dates": ["2021-07-12"]
         },
         {
             "id": "8a75ddd6-2add-487c-99c8-75791f3dddec",
@@ -475,7 +475,7 @@
             "keywords": ["City", "LEGO City Undercover", "police"],
             "item": "cty0357",
             "set": 60007,
-            "dates": ["2021-09-13"]
+            "dates": ["2021-07-13"]
         },
         {
             "id": "195d6c71-996f-400b-8525-618a1c606ab4",
@@ -483,7 +483,7 @@
             "keywords": ["promotional", "City", "town"],
             "item": "twn395",
             "set": 40409,
-            "dates": []
+            "dates": ["2021-07-14"]
         },
         {
             "id": "94f61aca-3dfc-4529-9125-cc863b354194",
@@ -491,7 +491,41 @@
             "keywords": ["City", "Town", "Winter Village"],
             "item": "twn123a",
             "set": 10216,
-            "dates": []
+            "dates": ["2021-07-15"]
+        },
+        {
+            "id": "fcdc70fb-f81d-489e-8f1c-f581300d116c",
+            "name": "Ice Planet - Male",
+            "keywords": ["Space", "Ice Planet"],
+            "item": "sp018",
+            "set": 1711,
+            "dates": ["2021-07-16"]
+        },
+        {
+            "id": "11e15889-97ec-4c5f-a07c-184fa32f95e1",
+            "name": "Space Police 1",
+            "keywords": ["Space", "Space Police"],
+            "notes": "I have a couple of these from the same set, and one from 6895",
+            "item": "sp036",
+            "set": 6955,
+            "dates": ["2021-07-19"]
+        },
+        {
+            "id": "11e15889-97ec-4c5f-a07c-184fa32f95e1",
+            "name": "Blacktron 1",
+            "keywords": ["Space", "Blacktron"],
+            "notes": "I have a couple of these. From this set and from 6955",
+            "item": "sp001",
+            "set": 6895,
+            "dates": ["2021-07-20"]
+        },
+        {
+            "id": "4c997cd8-6d86-47f9-afae-5961832c5957",
+            "name": "M:Tron with Airtanks",
+            "keywords": ["Space", "M:Tron"],
+            "item": "sp033",
+            "set": 6896,
+            "dates": ["2021-07-21"]
         }
     ]
 }

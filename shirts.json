@@ -841,8 +841,57 @@
             "text": [],
             "keywords": ["Tetris", "airplane"],
             "source": "http://www.thinkgeek.com/tshirts-apparel/glennz/cb17/",
-            "image-front": "",
+            "image-front": "air-drop-front.jpg",
             "dates": ["2021-07-13"]
+        },
+        {
+            "id": "e3689fb1-3a08-4b9c-a564-613741537f81",
+            "name": "Alpha Battle",
+            "text": ["V", "E", "J", "G", "D", "z", "b", "a", "H", "m", "Q", "T", "F", "K", "R", "U", "P", "C", "L", "S", "O", "N", "X", "Y", "W", "i"],
+            "keywords": ["alphabet", "Asteroids", "Bomberman", "Contra", "Donkey Kong", "Excitebike", "Frogger", "Galaga", "Halo", "Indiana Jones", "Joust", "Katamari Damacy", "Luigi", "Mega Man", "Ninja Gaiden", "Oregon Trail", "Pitfall", "Quake", "Rayman", "Super Mario", "Tetris", "Ultima", "Virtua Fighter", "WarCraft", "X-Men", "Yoshi", "Zelda"],
+            "source": "https://shirt.woot.com/offers/alpha-battle",
+            "notes": "A is for quarters, this took all of yours, B is for robot, that must find all the doors, C is for joysticks, and this one had two, D is for Pauline, who needs saving by you, E is for B button which you can’t hold too long, F is for path, and yours might wind up wrong, G is for corner, if you go there you’re trapped, H is for X-Box, good going, next map, I is for shovel, you’re going to need that, J is for lava troll, your feet he will grab at, K is for bear, and a whole lot of swear words, L is for franchise, player two that made good, M is for pause trick, hey, computers cheat too, N is a popular name, like Ryu, O is for Here Lies, so restart the game, P is for cobra, they’re lying in wait, Q is for haircut, and dude needs one today, R is for something we don’t think we’ve played, S is for franchise, and this locked it in, T is for hours of fun with no friends, U is for British, he got killed in a beta, V is for punching, put that quarter up, playa, W is for online, where the kids all spend time, X is for Hamlet, I hear his is quite fine, Y is for crazy, that designer was nuts, Z is for Ganon, who got sat on his butt.",
+            "image-front": "alpha-battle-front.jpg",
+            "dates": ["2021-07-14"]
+        },
+        {
+            "id": "f91b3945-a5a2-4b59-8218-36aa7309d19e",
+            "name": "Runtime Exception",
+            "text": ["RuntimeException", "", "OverOps"],
+            "keywords": ["Exception"],
+            "source": "https://qcon.com",
+            "image-front": "runtime-front.jpg",
+            "image-back": "runtime-back.jpg",
+            "dates": ["2021-07-15"]
+        },
+        {
+            "id": "ce8eb0b6-bad6-4072-9d3c-7d4dabf8c4a9",
+            "name": "Zerg logo",
+            "text": ["BLIZZARD", "ENTERTAINMENT"],
+            "keywords": ["Blizzard", "StarCraft", "Zerg"],
+            "source": "https://blizzcon.com",
+            "image-front": "zerg-front.jpg",
+            "image-back": "zerg-back.jpg",
+            "dates": ["2021-07-16"]
+        },
+        {
+            "id": "4c1cd803-9590-4ce2-bea9-26d9afec6576",
+            "name": "Super Duo Jump",
+            "text": ["M", "L"],
+            "keywords": ["Nintendo", "Mario", "Luigi", "DC", "comics", "Batman", "Robin", "fusion"],
+            "source": "https://shirt.woot.com/offers/super-duo-jump",
+            "image-front": "super-duo-jump-front.jpg",
+            "dates": ["2021-07-17"]
+        },
+        {
+            "id": "6ff318a1-4268-4aaf-a8f9-934510375a97",
+            "name": "Aperature mechanic",
+            "style": "button down",
+            "text": ["APERATURE", "LABORATORIES"],
+            "keywords": ["Valve", "Portal"],
+            "image-front": "aperature-mechanic-front.jpg",
+            "image-logo": "aperature-mechanic-logo.jpg",
+            "dates": ["2021-07-18"]
         },
         {
             "id": "6dcab1a1-9498-48ae-89b7-c64c6866ef9d",
@@ -851,6 +900,42 @@
             "keywords": ["They Might Be Giants", "TMBG", "Instant Fan Club", "2020"],
             "source": "https://www.tmbgifc.com/",
             "image-front": "ifc-2020-front.jpg",
+            "dates": ["2021-07-19"]
+        },
+        {
+            "id": "e5e98c8f-4d69-4a69-be92-9aa4b4ea29b9",
+            "name": "When Asteroids Strike",
+            "text": [],
+            "keywords": ["Asteroids", "Space Shuttle"],
+            "source": "https://shirt.woot.com/offers/when-asteroids-strike",
+            "image-front": "asteroids-front.jpg",
+            "dates": ["2021-07-20"]
+        },
+        {
+            "id": "785dc05e-c1f0-41c0-9914-7a493872a251",
+            "name": "Leaf on the Wind",
+            "text": ["I'M A", "LEAF", "ON THE", "WIND"],
+            "keywords": ["Firefly", "Serenity", "Wash", "Hoban Washburn"],
+            "source": "https://comic-con.org",
+            "image-front": "leaf-wind-front.jpg",
+            "dates": ["2021-07-21"]
+        },
+        {
+            "id": "7dfebc67-2b41-4e65-b88c-22251a5dde9e",
+            "name": "Cookies",
+            "text": ["🍪 🍪 🍪 🍪 🍪"],
+            "keywords": ["Namco", "Pac-Man", "Sesame Street", "Cookie Monster", "cookie"],
+            "source": "https://www.threadless.com/product/2362/Cookies/",
+            "image-front": "",
+            "dates": []
+        },
+        {
+            "id": "6693467d-27e8-49fe-97a3-679f626d0410",
+            "name": "qep'a' cha'maH chorghDIch",
+            "text": ["Hoch vorlaHbe'", "Dargh wIb", "qep'a' cha'maH", "chorghDI"],
+            "keywords": ["Star Trek", "Klingon", "tlhIngan Hol", "qep'a'", "piqaD", "bitter tea can't cure everything"],
+            "image-front": "cha'maH-chorghDIch-front.jpg",
+            "source": "https://www.kli.org/activities/qepmey/qepa-chamah-chorgdich",
             "dates": []
         }
     ]
