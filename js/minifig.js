@@ -1,4 +1,4 @@
-function addExternalData(row) {
+function alterExternalData(row) {
     if (!!row.item) {
         row['bricklink-item-url'] = `https://bricklink.com/v2/catalog/catalogitem.page?M=${row.item}`
         row['bricklink-item-image'] = `https://img.bricklink.com/ItemImage/MN/0/${row.item}.png`;

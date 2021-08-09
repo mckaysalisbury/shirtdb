@@ -23,7 +23,7 @@ function fallback(row, columns) {
     return null; // null because datatable needs something
 }
 
-function setupList(dataUrl, addColumns, displayColumns, itemPage) {
+function setupList(dataUrl, alterData, displayColumns, itemPage) {
     const table = $("<table>");
     displayColumns = [].concat(displayColumns, ['table-image', 'recentDate']);
     table.html(`<thead>${
@@ -35,7 +35,7 @@ function setupList(dataUrl, addColumns, displayColumns, itemPage) {
     table.DataTable({
         ajax: {
             url: dataUrl,
-            dataSrc: (response) => (data = response.data).map(addRecentDate).map(addColumns).map(listPrimaryImage),
+            dataSrc: (response) => (data = response.data).map(addRecentDate).map(alterData).map(listPrimaryImage),
         },
         rowId: 'id',
         columns: displayColumns.map((name) => { return {'data': name}}),
@@ -51,6 +51,16 @@ function makeLink(uri, content = uri) {
 }
 function makeImage(uri, alt = 'item image') {
     return `<img src="${uri}" alt="${alt}"/>`;
+}
+
+const entityMap = {
+    '<': '&lt;',
+    '>': '&gt;',
+    '&': '&amp;',
+};
+
+function replaceMandatoryEntities(value) {
+    return value.replace(/[<&>]/g, (c) => entityMap[c] );
 }
 
 function htmlify(row) {
@@ -81,7 +91,6 @@ function setupItem(url, preprocess) {
                 for (key in match) {
                     if (key.startsWith(tablePrefix)) {
                         delete match[key]; // duplicate only needed for tables
-
                     }
                 }
                 ListBoy.RenderTo(match, "mainDiv")
