@@ -608,6 +608,15 @@
             "item": "sw0874",
             "set": 75184,
             "dates": ["2021-08-04"]
+        },
+        {
+            "id": "fcdef04c-4eac-48fe-a360-54c03f12226b",
+            "name": "Porg, Star Wars with White Body, Dark Bluish Gray Wings and Tail - Brick Built",
+            "keywords": ["Star Wars"],
+            "style": "item",
+            "part": "Porg05",
+            "set": 75279,
+            "dates": ["2021-08-05"]
         }
     ]
 }
