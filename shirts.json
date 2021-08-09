@@ -184,7 +184,8 @@
             "keywords": ["paradox", "false", "logic"],
             "source": "https://thinkgeek.com",
             "image-front": "false-front.jpg",
-            "dates": ["2021-05-13"]
+            "notes": "I have two copies of this shirt",
+            "dates": ["2021-05-13", "2021-07-31"]
         },
         {
             "id": "8d9afdfe-686d-4f84-b0de-8275fb9d60c7",
@@ -791,11 +792,11 @@
             "id": "7abdcc89-f982-4b14-ae06-3970214b732c",
             "name": "BlizzCon 2009",
             "text": ["BLIZZ", "CON", "09", "ANAHEIM CONVENTION CENTER"],
-            "keywords": ["Blizzard Entertainment", "BlizzCon", "key art"],
+            "keywords": ["Blizzard Entertainment", "BlizzCon", "key art", "WarCraft", "World of WarCraft", "Sindragosa", "Diablo", "Diablo III", "Barbarian", "StarCraft", "StarCraft II", "Ghost"],
             "source": "https://blizzcon.com",
-            "image-front": "blizzcon-09-front.jpg",
-            "image-logo": "blizzcon-09-logo.jpg",
-            "image-back": "blizzcon-09-back.jpg",
+            "image-front": "blizzcon-2009-front.jpg",
+            "image-logo": "blizzcon-2009-logo.jpg",
+            "image-back": "blizzcon-2009-back.jpg",
             "dates": ["2021-07-08"]
         },
         {
@@ -921,6 +922,136 @@
             "dates": ["2021-07-21"]
         },
         {
+            "id": "50b96000-823e-43a5-8445-12b1183406ba",
+            "name": "Inconceivable",
+            "text": ["Inconceivable", "", "I do not think", "that word means", "what you think", "it means...", "The Princess Bride TM&© 1987, 2006 Twentieth Century Fox Film Corporation"],
+            "keywords": ["The Princess Bride", "William Goldman", "S. Morgenstern", "Vincini", "Inigo Montoya"],
+            "image-front": "inconceivable-front.jpg",
+            "image-back": "inconceivable-back.jpg",
+            "notes": "I think I got this shirt from ThinkGeek, but I'm not sure.",
+            "dates": ["2021-07-22"]
+        },
+        {
+            "id": "9f8faa08-b497-4b57-afa5-e5bbeb8c38d3",
+            "name": "Code Monkey",
+            "text": ["<STRONG>CodeMonkey</STRONG>", "<a href=\"http://www.jonathancoulton.com\">", "Jonathan Coulton Dot Com </a>"],
+            "image-front": "code-monkey-front.jpg",
+            "source": "https://www.jonathancoulton.com/physical-store/",
+            "dates": ["2021-07-23"]
+        },
+        {
+            "id": "00927e4d-539a-45e5-b487-f4f1373dc8e4",
+            "name": "StarCraft II emoji",
+            "text": ["🤩", "🍺", "😐", "😜", "😢", "😡", "👍", "😎"],
+            "keywords": ["Blizzard", "StarCraft", "StarCraft II"],
+            "image-front": "sc2-emoji-front.jpg",
+            "image-back": "sc2-emoji-back.jpg",
+            "source": "https://blizzcon.com",
+            "dates": ["2021-07-24"]
+        },
+        {
+            "id": "57a9dd4e-2e13-4d60-abed-ee17736397fd",
+            "name": "Enterprise - Operations division",
+            "style": "polo",
+            "text": [],
+            "keywords": ["Star Trek", "Starfleet uniform", "U.S.S. Enterprise", "Operations red", "redshirt"],
+            "image-front": "operations-front.jpg",
+            "image-logo": "operations-logo.jpg",
+            "source": "https://thinkgeek.com",
+            "dates": ["2021-07-25"]
+        },
+        {
+            "id": "f1fcfdbc-ee4d-4875-9eab-6c67e97d2a64",
+            "name": "BlizzCon 2008",
+            "text": ["BLIZZ", "CON", "ANAHEIM 2008", "", "BLIZZ", "CON", "", "BLIZZARD®", "ENTERTAINMENT"],
+            "keywords": ["Blizzard", "BlizzCon", "BlizzCon 2008", "key art", "WarCraft", "World of WarCraft", "Thrall", "Diablo", "Diablo 3", "Tyrael", "StarCraft", "StarCraft II", "Zeratul", "Dark Templar"],
+            "image-front": "blizzcon-2008-front.jpg",
+            "image-back": "blizzcon-2008-back.jpg",
+            "image-logo": "blizzcon-2008-logo.jpg",
+            "image-right": "blizzcon-2008-right.jpg",
+            "source": "https://blizzcon.com",
+            "dates": ["2021-07-26"]
+        },
+        {
+            "id": "f16dd309-768e-4c7d-9351-a75ba26c21f1",
+            "name": "Shiny",
+            "text": ["Shiny"],
+            "keywords": ["Firefly", "Serenity", "Joss Whedon"],
+            "image-front": "shiny-front.jpg",
+            "source": "https://comic-con.org",
+            "dates": ["2021-07-27"]
+        },{
+            "id": "5974d76d-25ba-4b77-9de4-10b29d230a42",
+            "name": "6 pool",
+            "text": ["6", "pool", "", "STAR", "CRAFTS"],
+            "image-front": "6-pool-front.jpg",
+            "image-back": "6-pool-back.jpg",
+            "source": "https://blizzcon.com",
+            "dates": ["2021-07-28"]
+        },{
+            "id": "4006e521-d0ea-40b4-b329-2a9efdb5f59e",
+            "name": "Wolverine",
+            "text": ["MARVEL", "M", "Co", "cs"],
+            "keywords": ["Marvel", "Marvel comics", "Wolverine", "snikt", "adamantium"],
+            "image-front": "wolverine-front.jpg",
+            "source": "https://oldnavy.gap.com/",
+            "dates": ["2021-07-29"]
+        },
+        {
+            "id": "6693467d-27e8-49fe-97a3-679f626d0410",
+            "name": "qep'a' cha'maH chorghDIch",
+            "text": ["Hoch vorlaHbe'", "Dargh wIb", "qep'a' cha'maH", "chorghDI"],
+            "keywords": ["Star Trek", "Klingon", "tlhIngan Hol", "qep'a'", "piqaD", "bitter tea can't cure everything"],
+            "image-front": "cha'maH-chorghDIch-front.jpg",
+            "source": "https://www.kli.org/activities/qepmey/qepa-chamah-chorgdich",
+            "dates": ["2021-07-30"]
+        },
+        {
+            "id": "b23816e9-47b1-4d52-ad03-982362dd8057",
+            "name": "Green Lantern polo",
+            "style": "polo",
+            "dates": ["2021-08-01"]
+        },
+        {
+            "id": "3682aa19-3b86-44ea-9655-5a101b180d89",
+            "name": "8 Bit Rock",
+            "dates": ["2021-08-02"]
+        },
+        {
+            "id": "2162d3ff-2bdf-45bd-a4bd-4222c4334d1d",
+            "dates": ["2021-08-03"]
+        },
+        {
+            "id": "a58e519d-17c8-4eed-8b3f-fa6883059831",
+            "name": "Cookie Galactus???",
+            "dates": ["2021-08-04"]
+        },
+
+
+        {
+            "id": "91634c3f-789e-4ff7-a45d-01f23aa675f2",
+            "name": "Games Well With Others",
+            "dates": ["2021-08-05"]
+        },
+        {
+            "id": "8a581326-47e0-429f-9b98-b2fe353438da",
+            "name": "escher tetris pieces falling",
+            "dates": ["2021-08-06"]
+        },
+
+        {
+            "id": "041accb8-3b2b-4c43-adda-800c81980f1b",
+            "name": "",
+            "dates": ["2021-08-07"]
+        },
+
+        {
+            "id": "041accb8-3b2b-4c43-adda-800c81980f1b",
+            "name": "",
+            "dates": ["2021-08-07"]
+        },
+
+        {
             "id": "7dfebc67-2b41-4e65-b88c-22251a5dde9e",
             "name": "Cookies",
             "text": ["🍪 🍪 🍪 🍪 🍪"],
@@ -930,13 +1061,63 @@
             "dates": []
         },
         {
-            "id": "6693467d-27e8-49fe-97a3-679f626d0410",
-            "name": "qep'a' cha'maH chorghDIch",
-            "text": ["Hoch vorlaHbe'", "Dargh wIb", "qep'a' cha'maH", "chorghDI"],
-            "keywords": ["Star Trek", "Klingon", "tlhIngan Hol", "qep'a'", "piqaD", "bitter tea can't cure everything"],
-            "image-front": "cha'maH-chorghDIch-front.jpg",
-            "source": "https://www.kli.org/activities/qepmey/qepa-chamah-chorgdich",
+            "id": "e1f1759d-1f2f-4244-9d34-fac973d88b71",
+            "name": "Po. Tay. Toes.",
+            "text": ["PO", "TAY", "TOES", "BOIL 'EM · MASH 'EM · STICK 'EM IN A STEW"],
+            "keywords": [],
+            "source": "https://shirt.woot.com/offers/po-tay-toes",
+            "image-front": "po-tay-toes-front.jpg",
             "dates": []
+        },
+        {
+            "id": "47e31e62-e2f7-4679-9d73-725db4119fc0",
+            "name": "Book the Movie",
+            "text": ["COMING SOON TO A THEATER NEAR YOU", "BOOK", "THE MOVIE", "SOME GOOD", "ACTING", "THEY TRIED", "THEIR", "BEST", "COULD'VE", "BEEN", "WORSE", "UNIMAGINATIVE STUDIO EXECUTIVES PRESENT A BIG BUDGET FIASCO WITH ALL THESE FAMOUS ACTORS", "WRITTEN", "BY", "SOMEONE WHO DIDN'T UNDERSTAND THE SERIES", "DIRECTED", "BY", "A GUY WHO LIKES EXPLOSIONS A LOT", "COSTUME", "DESIGN", "IS DIFFERENT THAN WHAT YOU PICTURED", "WITH", "MUSIC BY", "POP STARS WHO DON'T LIKE TO READ", "SEE THE FILM CRITICS ARE CALLING", "“NOT AS GOOD AS THE BOOK!”"],
+            "keywords": ["book", "movie"],
+            "source": "https://shirt.woot.com/offers/book-the-movie",
+            "image-front": "book-movie-front.jpg",
+            "dates": []
+        },
+        {
+            "id": "6f8654be-27fd-4fe6-8ae5-543caaa6876c",
+            "name": "ManDELOREAN",
+            "text": ["DMC", "BOUNTYHUNTER", "MANDELOREAN"],
+            "keywords": ["Back to the Future", "Doc Brown", "Marty McFly", "time machine", "Delorean", "Star Wars", "Mandalorian", "baby Yoda", "Grogu", "fusion"],
+            "source": "https://shirt.woot.com/offers/mandelorean",
+            "image-front": "mandelorean-front.jpg",
+            "dates": []
+        },
+
+
+        {
+            "id": "ed597377-5b47-4f14-9ab1-918ccd260de0",
+            "name": "World record egg balancing",
+            "text": ["WORLD RECORD", "IN THE BALANCE"],
+            "keywords": ["Egg", "egg balance", "BYU", "Brigham Young University"],
+            "notes": "I got this for participating in setting the world record for most number of eggs balanced at BYU.",
+            "image-front": "world-record-egg-front.jpg",
+            "dates": []
+        },
+        {
+            "id": "2278a570-f694-4c3b-8a98-3f6cf93fffc5",
+            "name": "Rackspace - God gave us Linux",
+            "text": ["rackspace", ".com", "", "GOD", "gave us", "LINUX", "to run web servers", "rackspace", ".com", "Shirtstakes", "506203", "REGISTER YOUR SHIRTSTAKES NUMBER TO WIN!", "www.rackspace.com/shirtstakes/montreal"],
+            "keywords": ["Rackspace", "Linux", "penguin"],
+            "notes": "I have a vague recollection that I got this in college? But it's also possible I got this at MLG?",
+            "image-front": "rackspace-linux-front.jpg",
+            "image-back": "rackspace-linux-back.jpg",
+            "image-logo": "rackspace-linux-logo.jpg",
+            "dates": []
+        },
+        {
+            "id": "4978e2e8-d059-42d5-96cd-e187aba2b3be",
+            "name": "Galveston",
+            "text": ["TEXAS", "GALVESTON"],
+            "keywords": ["Galveston", "Texas", "mission"],
+            "image-front": "galveston-front.jpg",
+            "notes": "I acquired this probably from some random street vendor while I was serving a two-year voluntary religious excursion for the predominant denomination of my permanent domicile.",
+            "dates": []
+
         }
     ]
 }

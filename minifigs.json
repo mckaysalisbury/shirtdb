@@ -16,7 +16,7 @@
             "actor": "Will Arnett",
             "item": "tlm118",
             "set": 70836,
-            "dates": ["2021-04-27"]
+            "dates": ["2021-07-24", "2021-04-27"]
         },
         {
             "id": "a4545977-4e6e-4db5-a0ee-e277c629a997",
@@ -526,6 +526,88 @@
             "item": "sp033",
             "set": 6896,
             "dates": ["2021-07-21"]
+        },
+        {
+            "id": "25f20971-8229-4f76-9c1b-34713932a6d1",
+            "name": "Blacktron 2",
+            "keywords": ["Space", "Blacktron"],
+            "item": "sp002",
+            "set": 6981,
+            "dates": ["2021-07-22"]
+        },
+        {
+            "id": "48302b7a-c64c-4641-8ab6-32cf8615c834",
+            "name": "Blacktron 2 with Jet Pack and Trans-Neon Green Lights",
+            "keywords": ["Space", "Blacktron"],
+            "item": "sp051",
+            "set": 6812,
+            "dates": ["2021-07-23"]
+        },
+        {
+            "id": "9d1a63d7-3c69-4da4-9dbd-99a6af7a4021",
+            "name": "Santa Jango Fett",
+            "keywords": ["Star Wars", "Christmas", "Jango Fett"],
+            "item": "sw0506",
+            "set": 75023,
+            "dates": ["2021-07-26"]
+        },
+        {
+            "id": "2a358f67-f3f0-4741-a986-d9bc15f6f640",
+            "name": "TIE Fighter Pilot (Patterned Head)",
+            "keywords": ["Star Wars", "Empire"],
+            "item": "sw026a",
+            "set": 9676,
+            "dates": ["2021-07-27"]
+        },
+        {
+            "id": "088dcd6c-675a-4a94-9876-9afad52e9214",
+            "name": "Yoda",
+            "keywords": ["Star Wars"],
+            "item": "sw0051",
+            "set": 7103,
+            "notes": "This set / minifig has a special significants to me. Ask me about it.",
+            "dates": ["2021-07-28"]
+        },
+        {
+            "id": "088dcd6c-675a-4a94-9876-9afad52e9214",
+            "name": "Count Dooku",
+            "keywords": ["Star Wars"],
+            "item": "sw0060",
+            "set": 7103,
+            "dates": ["2021-07-29"]
+        },
+        {
+            "id": "7e61ddb4-5b6c-4f81-a413-9bcfe257e679",
+            "name": "D-O with Santa Hat",
+            "keywords": ["Star Wars"],
+            "item": "sw1118",
+            "set": 75279,
+            "dates": ["2021-07-30"]
+        },
+        {
+            "id": "17cf2324-3da8-4260-923e-6e9bc2de5dab",
+            "name": "Santa Darth Maul",
+            "keywords": ["Star Wars"],
+            "item": "sw0423",
+            "set": 9509,
+            "dates": ["2021-08-02"]
+        },
+        {
+            "id": "01283101-0cfc-49df-acbc-10161808234e",
+            "name": "Festive Poe Dameron",
+            "keywords": ["Star Wars"],
+            "item": "sw1117",
+            "set": 75279,
+            "dates": ["2021-08-03"]
+        },
+        {
+            "id": "18bfd06f-0b31-497f-8b7d-e7717617b996",
+            "name": "BB-8 with Santa Hat",
+            "keywords": ["Star Wars"],
+            "notes": "Came with snowboard",
+            "item": "sw0874",
+            "set": 75184,
+            "dates": ["2021-08-04"]
         }
     ]
 }
