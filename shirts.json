@@ -1006,50 +1006,6 @@
             "source": "https://www.kli.org/activities/qepmey/qepa-chamah-chorgdich",
             "dates": ["2021-07-30"]
         },
-        {
-            "id": "b23816e9-47b1-4d52-ad03-982362dd8057",
-            "name": "Green Lantern polo",
-            "style": "polo",
-            "dates": ["2021-08-01"]
-        },
-        {
-            "id": "3682aa19-3b86-44ea-9655-5a101b180d89",
-            "name": "8 Bit Rock",
-            "dates": ["2021-08-02"]
-        },
-        {
-            "id": "2162d3ff-2bdf-45bd-a4bd-4222c4334d1d",
-            "dates": ["2021-08-03"]
-        },
-        {
-            "id": "a58e519d-17c8-4eed-8b3f-fa6883059831",
-            "name": "Cookie Galactus???",
-            "dates": ["2021-08-04"]
-        },
-
-
-        {
-            "id": "91634c3f-789e-4ff7-a45d-01f23aa675f2",
-            "name": "Games Well With Others",
-            "dates": ["2021-08-05"]
-        },
-        {
-            "id": "8a581326-47e0-429f-9b98-b2fe353438da",
-            "name": "escher tetris pieces falling",
-            "dates": ["2021-08-06"]
-        },
-
-        {
-            "id": "041accb8-3b2b-4c43-adda-800c81980f1b",
-            "name": "",
-            "dates": ["2021-08-07"]
-        },
-
-        {
-            "id": "041accb8-3b2b-4c43-adda-800c81980f1b",
-            "name": "",
-            "dates": ["2021-08-07"]
-        },
 
         {
             "id": "7dfebc67-2b41-4e65-b88c-22251a5dde9e",
@@ -1117,7 +1073,6 @@
             "image-front": "galveston-front.jpg",
             "notes": "I acquired this probably from some random street vendor while I was serving a two-year voluntary religious excursion for the predominant denomination of my permanent domicile.",
             "dates": []
-
         }
     ]
 }
