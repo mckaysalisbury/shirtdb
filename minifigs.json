@@ -610,13 +610,29 @@
             "dates": ["2021-08-04"]
         },
         {
+            "id": "6d980ef9-e058-435f-a6de-addb6a0a09d9",
+            "name": "Pilot Captain America",
+            "keywords": ["comics", "Marvel", "Captain America"],
+            "item": "sh374",
+            "set": 76076,
+            "dates": ["2021-08-05"]
+        },
+        {
             "id": "fcdef04c-4eac-48fe-a360-54c03f12226b",
             "name": "Porg, Star Wars with White Body, Dark Bluish Gray Wings and Tail - Brick Built",
             "keywords": ["Star Wars"],
             "style": "item",
             "part": "Porg05",
             "set": 75279,
-            "dates": ["2021-08-05"]
+            "dates": ["2021-08-06"]
+        },
+        {
+            "id": "327cb6eb-0614-467d-b636-f7e6cb52ea73",
+            "name": "Santa Darth Vader",
+            "keywords": ["Star Wars"],
+            "item": "sw0599",
+            "set": 75056,
+            "dates": ["2021-08-09"]
         }
     ]
 }

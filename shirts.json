@@ -51,7 +51,7 @@
         {
             "id": "844b8c14-c6b0-4381-b568-9074f22e73b0",
             "name": "I♥SC (Terran)",
-            "text": ["I♥", "SC", "", "BLIZZARD", "ENTERTAINMENT" ],
+            "text": ["I♥", "SC", "", "BLIZZARD®", "ENTERTAINMENT" ],
             "keywords": ["StarCraft", "Blizzard", "BlizzCon", "Heart", "Terran"],
             "image-logo": "I♥SCt-logo.jpg",
             "image-front": "I♥SCt-front.jpg",
@@ -65,7 +65,7 @@
             "text": [
                 "SCII", "", "StarCraft II", "WORLD CHAMPIONSHIP SERIES", "GLOBAL FINALS", "SEASON 1 FINALS", "SEOUL_SOUTH KOREA",
                 "SEASON 2 FINALS", "COLOGNE_GERMANY", "SEASON 3 FINALS", "TORONTO_CANADA", "GLOBAL FINALS", "BLIZZCON 13", "ANAHEIM_USA",
-                "BLIZZARD", "ENTERTAINMENT"
+                "BLIZZARD®", "ENTERTAINMENT"
             ],
             "keywords": ["StarCraft II", "BlizzCon", "Blizzard"],
             "source": "https://blizzcon.com",
@@ -417,7 +417,7 @@
         {
             "id": "05ff1611-ebbd-41bb-8447-0f8b997b4f62",
             "name": "I♥SC (Zerg)",
-            "text": ["I♥", "SC", "", "BLIZZARD", "ENTERTAINMENT" ],
+            "text": ["I♥", "SC", "", "BLIZZARD®", "ENTERTAINMENT" ],
             "keywords": ["StarCraft", "Blizzard", "BlizzCon", "Heart", "Zerg"],
             "image-front": "I♥SCz-front.jpg",
             "image-back": "I♥SCz-back.jpg",
@@ -439,6 +439,7 @@
             "text": ["🎮"],
             "keywords": ["Penny Arcade", "First Party"],
             "style": "polo",
+            "source": "https://store.penny-arcade.com/collections/first-party",
             "image-logo": "first-party-black-logo.jpg",
             "image-front": "first-party-black-front.jpg",
             "dates": ["2021-06-01"]
@@ -518,7 +519,7 @@
         {
             "id": "a1959e64-bb5a-41f8-8528-1deafb1e1261",
             "name": "BlizzCon 2007",
-            "text": ["BLIZZCON", "", "BLIZZARD", "ENTERTAINMENT"],
+            "text": ["BLIZZCON", "", "BLIZZARD®", "ENTERTAINMENT"],
             "keywords": ["WarCraft", "Diablo", "StarCraft", "Dranei", "Protoss", "Zealot", "Terran", "Tychus Findlay", "Murloc", "Blood Elf"],
             "source": "https://blizzcon.com",
             "image-front": "blizzcon-2007-front.jpg",
@@ -744,7 +745,7 @@
         {
             "id": "00eb712c-3d14-4d55-9b1c-8263d1788dfa",
             "name": "Raynor",
-            "text": ["StarCraft", "II", "", "BLIZZARD", "ENTERTAINMENT"],
+            "text": ["StarCraft", "II", "", "BLIZZARD®", "ENTERTAINMENT"],
             "keywords": ["Blizzard", "StarCraft", "StarCraft II", "Terran", "Jim Raynor", "Marine"],
             "source": "https://blizzcon.com",
             "image-front": "raynor-front.jpg",
@@ -823,6 +824,7 @@
             "text": ["🎮"],
             "keywords": ["Penny Arcade", "First Party"],
             "style": "polo",
+            "source": "https://store.penny-arcade.com/collections/first-party",
             "image-logo": "first-party-white-logo.jpg",
             "image-front": "first-party-white-front.jpg",
             "dates": ["2021-07-11"]
@@ -868,7 +870,7 @@
         {
             "id": "ce8eb0b6-bad6-4072-9d3c-7d4dabf8c4a9",
             "name": "Zerg logo",
-            "text": ["BLIZZARD", "ENTERTAINMENT"],
+            "text": ["BLIZZARD®", "ENTERTAINMENT"],
             "keywords": ["Blizzard", "StarCraft", "Zerg"],
             "source": "https://blizzcon.com",
             "image-front": "zerg-front.jpg",
@@ -1010,46 +1012,102 @@
             "id": "b23816e9-47b1-4d52-ad03-982362dd8057",
             "name": "Green Lantern polo",
             "style": "polo",
+            "text": [],
+            "keywords": ["comics", "DC", "Green Lantern"],
+            "image-front": "green-lantern-front.jpg",
+            "image-logo": "green-lantern-logo.jpg",
+            "source": "https://thinkgeek.com",
             "dates": ["2021-08-01"]
         },
         {
             "id": "3682aa19-3b86-44ea-9655-5a101b180d89",
             "name": "8 Bit Rock",
+            "text": ["8 bit", "rock", "they", "might be", "giants"],
+            "keywords": ["They Might Be Giants", "TMBG", "8-bit", "pixel"],
+            "image-front": "8-bit-rock-front.jpg",
+            "source": "https://www.theymightbegiants.com/shows",
             "dates": ["2021-08-02"]
         },
         {
             "id": "2162d3ff-2bdf-45bd-a4bd-4222c4334d1d",
+            "name": "BlizzCon 2005",
+            "text": ["BLIZZ", "CON", "", "BLIZZARD®", "ENTERTAINMENT"],
+            "keywords": ["Blizzard", "BlizzCon", "BlizzCon 2005", "WarCraft", "World of Warcraft", "Naga", "StarCraft", "ghost", "StarCraft: Ghost", "Nova", "Night Elf", "Diablo"],
+            "source": "https://blizzcon.com",
+            "image-front": "blizzcon-2005-front.jpg",
+            "image-right": "blizzcon-2005-right.jpg",
             "dates": ["2021-08-03"]
         },
         {
-            "id": "a58e519d-17c8-4eed-8b3f-fa6883059831",
-            "name": "Cookie Galactus???",
-            "dates": ["2021-08-04"]
-        },
-
-
-        {
             "id": "91634c3f-789e-4ff7-a45d-01f23aa675f2",
             "name": "Games Well With Others",
+            "text": ["W", "ASD", "GAMES", "WELL WITH", "OTHERS", "", "2016", "BLIZZ", "CON", "X", "", "newegg®", "acer ASUS CORSAIR intel® lenovo msi NVIDIA Rosewill"],
+            "keywords": ["Blizzard", "BlizzCon", "BlizzCon 2016"],
+            "image-front": "games-well-front.jpg",
+            "image-left": "games-well-left.jpg",
+            "image-right": "games-well-right.jpg",
+            "dates": ["2021-08-04"]
+        },
+        {
+            "id": "a58e519d-17c8-4eed-8b3f-fa6883059831",
+            "name": "The Devourer",
+            "text": [],
+            "keywords": ["Sesame Street", "Cookie Monster", "cookie", "milk", "galaxy", "Milky Way", "planet", "comics", "Marvel", "Galactus", "fusion"],
+            "source": "https://shirt.woot.com/offers/the-devourer",
+            "image-front": "devourer-front.jpg",
             "dates": ["2021-08-05"]
         },
         {
             "id": "8a581326-47e0-429f-9b98-b2fe353438da",
-            "name": "escher tetris pieces falling",
+            "name": "Some Game Involving Falling Blocks In The Style Of M.C. Escher",
+            "text": [],
+            "keywords": ["M.C. Escher", "Tetris", "fusion", "optical illusion"],
+            "source": "https://shirt.woot.com/offers/some-game-involving-falling-blocks-in-the-style-of-m-c-escher",
+            "image-front": "escher-blocks-front.jpg",
             "dates": ["2021-08-06"]
         },
-
         {
             "id": "041accb8-3b2b-4c43-adda-800c81980f1b",
-            "name": "",
+            "name": "Bracket by Bracket",
+            "text": ["}", "ENGINEERS", "BRACKET", "BY BRACKET", "BUILD BUSINESS", "{", "", "GitPrime"],
+            "keywords": ["software engineering", "code"],
+            "image-front": "bracket-front.jpg",
+            "image-left": "bracket-left.jpg",
             "dates": ["2021-08-07"]
+        },
+        {
+            "id": "d96c9c21-8b1c-417c-ba3b-303dc455f4ff",
+            "name": "Tychus vs Hydralisk",
+            "text": ["BLIZZARD®", "ENTERTAINMENT"],
+            "keywords": ["Blizzard", "StarCraft", "StarCraft II", "Terran", "Tychus", "Zerg", "hydralisk"],
+            "image-front": "tychus-hydralisk-front.jpg",
+            "image-back": "tychus-hydralisk-back.jpg",
+            "dates": ["2021-08-07"]
+        },
+        {
+            "id": "2b890529-f029-4013-a3f5-0bd9406c18dc",
+            "name": "First Party - Red",
+            "text": ["🎮"],
+            "keywords": ["Penny Arcade", "First Party"],
+            "style": "polo",
+            "source": "https://store.penny-arcade.com/collections/first-party",
+            "image-logo": "first-party-red-logo.jpg",
+            "image-front": "first-party-red-front.jpg",
+            "dates": ["2021-08-08"]
+        },
+        {
+            "id": "2b30096f-b781-41ac-b3e9-e78731047329",
+            "name": "Captain America Sketch",
+            "style": "pocket",
+            "text": ["MARVEL"],
+            "keywords": ["comics", "Marvel", "Captain America"],
+            "source": "https://uniqlo.com",
+            "image-front": "cap-sketch-front.jpg",
+            "image-back": "cap-sketch-back.jpg",
+            "image-logo": "cap-sketch-logo.jpg",
+            "dates": ["2021-08-09"]
         },
 
-        {
-            "id": "041accb8-3b2b-4c43-adda-800c81980f1b",
-            "name": "",
-            "dates": ["2021-08-07"]
-        },
 
         {
             "id": "7dfebc67-2b41-4e65-b88c-22251a5dde9e",
@@ -1116,6 +1174,16 @@
             "keywords": ["Galveston", "Texas", "mission"],
             "image-front": "galveston-front.jpg",
             "notes": "I acquired this probably from some random street vendor while I was serving a two-year voluntary religious excursion for the predominant denomination of my permanent domicile.",
+            "dates": []
+        },
+        {
+            "id": "797261f2-a2fb-40a2-954b-480c903b45c6",
+            "name": "Free Tibet",
+            "text": ["FREE TIBET", "reliefalliance.org"],
+            "keywords": ["Tibet", "China"],
+            "image-front": "free-tibet-front.jpg",
+            "image-logo": "free-tibet-logo.jpg",
+            "notes": "Bryan Livingston saw this shirt, and he said 'Free Tibet? We should free China!'",
             "dates": []
         }
     ]
