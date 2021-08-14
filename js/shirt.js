@@ -13,17 +13,21 @@ function makeAllImagesLocal(row) {
 
 function alterExternalData(row) {
     makeAllImagesLocal(row);
-    row.text = row.text.map(replaceMandatoryEntities);
-
-    row['table-image'] = fallback(row, [ 'image-logo', 'image-front', 'image-back' ]);
     if (!row.text) {
-        console.error('Row does not have a `text` property.', row);
+        console.error('missing text', row);
     } else {
-        row['table-text'] = row.text.filter(line => line.length !== 0).splice(0, 5).join('<br />')
-    }
+        row.text = row.text.map(replaceMandatoryEntities);
 
-    if (row.source) {
-        row.source = makeLink(row.source);
+        row['table-image'] = fallback(row, [ 'image-logo', 'image-front', 'image-back' ]);
+        if (!row.text) {
+            console.error('Row does not have a `text` property.', row);
+        } else {
+            row['table-text'] = row.text.filter(line => line.length !== 0).splice(0, 5).join('<br />')
+        }
+
+        if (row.source) {
+            row.source = makeLink(row.source);
+        }
     }
 
     return row
