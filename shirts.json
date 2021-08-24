@@ -1107,6 +1107,140 @@
             "image-logo": "cap-sketch-logo.jpg",
             "dates": ["2021-08-09"]
         },
+        {
+            "id": "48b7964f-3c99-4300-8d6e-f8d71fbce003",
+            "name": "Mind Your Head",
+            "text": ["MIND", "YOUR HEAD"],
+            "keywords": ["Tetris", "tetrimino", "tetromino"],
+            "source": "https://tanga.com",
+            "images-name": "mind-head",
+            "images": ["front", "logo"],
+            "dates": ["2021-08-10"]
+        },
+        {
+            "id": "2e806e73-146a-417c-992f-78ccbeb3a2e1",
+            "name": "Console General",
+            "text": ["1UP", "1UP"],
+            "source": "https://shirt.woot.com/offers/console-general",
+            "keywords": ["Four-star general", "NES", "Nintendo Entertainment System", "Nintendo", "Light gun", "Sony", "PlayStation", "DualShock", "Sega", "Genesis", "SNES", "Super Nintendo Entertainment System", "Super NES", "Atari", "Atari 2600", "Paddle", "Namco", "GunCon", "Microsoft", "Xbox", "Xbox 360", "N64", "Nintendo 64", "Vectrex", "NES Max", "Super Scope", "Dreamcast", "Master System", "Sega Master System", "Xbox", "Jaguar", "Sega Genesis", "Genesis", "ColecoVision", "Gamecube", "Wii", "Wiimote", "Wii Remote", "Sega Saturn", "3D Control Pad"],
+            "images-name": "console-general",
+            "images": ["front"],
+            "dates": ["2021-08-11"]
+        },
+        {
+            "id": "0c26e6b2-7494-4b1a-8446-a4f9f5dbdd8c",
+            "name": "data nerd.",
+            "text": ["data nerd.", "", "New", "Relic."],
+            "keywords": ["corporation", "Neww Relic", "data", "metrics"],
+            "source": "https://newrelic.com/",
+            "notes": "New Relic was courting Hulu",
+            "images": ["front", "back", "logo"],
+            "images-name": "data-nerd",
+            "dates": ["2021-08-12"]
+        },
+        {
+            "id": "b675aa91-bd3b-444d-aedb-a4a018d011bd",
+            "name": "Marvel Studios - First Ten Years",
+            "text": ["MARVEL STUD10S", "THE FIRST TEN YEARS", "Ⓐ"],
+            "keywords": ["Comics", "Marvel", "Marvel Cinematic Universe", "Marvel Studios", "Avengers", "Captain America", "Captain America Shield", "Hulk", "Iron Man", "Thor", "Mjolnir", "Black Widow", "Hourglass", "Black Panther", "Wakanda", "Ant-Man", "Pym Particle", "Doctor Strange", "Sanctum Sanctorum", "Guardians of the Galaxy", "Ravagers" ],
+            "images": ["front"],
+            "images-name": "marvel-studios",
+            "source": "https://comic-con.org",
+            "dates": ["2021-08-13"]
+        },
+        {
+            "id": "a1a5f7c0-c924-47a6-81aa-2c70a06d4538",
+            "name": "Be Batman",
+            "text": ["ALWAYS BE YOURSELF", "UNLESS", "YOU CAN BE", "BATMAN", "THEN ALWAYS BE", "BATMAN"],
+            "keywords": ["comics", "DC", "Detective Comics", "Batman", "be yourself", "Bruce Wayne"],
+            "images-name": "be-batman",
+            "source": "https://merch.sixflags.com/",
+            "images": ["front"],
+            "dates": ["2021-08-14"]
+        },
+        {
+            "id": "ced3a3e2-3d3e-4b17-b801-386c2b7fb3dc",
+            "name": "Starfleet Academy - polo",
+            "text": [],
+            "keywords": ["Star Trek", "Starfleet", "Starfleet Academty", "San Francisco", "Golden Gate Bridge"],
+            "style": "polo",
+            "source": "https://thinkgeek.com",
+            "images": ["front", "logo"],
+            "images-name": "starfleet-academy",
+            "dates": ["2021-08-14", "2021-08-15"]
+        },
+        {
+            "id": "2f1cde9e-b526-478e-8488-6837ffdbbbaa",
+            "name": "Πrates",
+            "text": ["Π RATES"],
+            "keywords": ["pi", "Π", "π", "pirates", "bones", "flag"],
+            "images": ["front"],
+            "images-name": "pi-rates",
+            "source": "https://tanga.com",
+            "dates": ["2021-08-16"]
+        },
+        {
+            "id": "1e244453-ebd5-466b-bc9b-45fba67cad7d",
+            "name": "Son of Manio",
+            "text": [],
+            "keywords": ["Mario", "Magritte", "Son of Man", "fusion", "mushroom", "star", "fire flower", "pipe", "plumber"],
+            "images": ["front"],
+            "images-name": "son-of-manio",
+            "source": "https://shirt.woot.com/offers/son-of-manio",
+            "dates": ["2021-08-17"]
+        },
+        {
+            "id": "e1f1759d-1f2f-4244-9d34-fac973d88b71",
+            "name": "Po. Tay. Toes.",
+            "text": ["PO", "TAY", "TOES", "BOIL 'EM · MASH 'EM · STICK 'EM IN A STEW"],
+            "keywords": ["potatoes", "Lord of the Rings", "The Two Towers", "Samwise Gamgee"],
+            "source": "https://shirt.woot.com/offers/po-tay-toes",
+            "images-name": "po-tay-toes",
+            "images": ["front"],
+            "dates": ["2021-08-18"]
+        },
+        {
+            "id": "6f8654be-27fd-4fe6-8ae5-543caaa6876c",
+            "name": "ManDELOREAN",
+            "text": ["DMC", "BOUNTYHUNTER", "MANDELOREAN"],
+            "keywords": ["Back to the Future", "Doc Brown", "Marty McFly", "time machine", "Delorean", "Star Wars", "Mandalorian", "baby Yoda", "Grogu", "fusion"],
+            "source": "https://shirt.woot.com/offers/mandelorean",
+            "images": ["front"],
+            "images-name": "mandelorean",
+            "dates": ["2021-08-19"]
+        },
+        {
+            "id": "e0528296-eef7-4e4e-a348-4eb0aa778fa9",
+            "name": "Runaways - Season 1",
+            "text": ["RUNAWAYS", "", "MARVEL", "SEASON 1"],
+            "keywords": ["comics", "Marvel", "Runaways"],
+            "source": "https://hulu.com",
+            "notes": "I got this as Hulu was producing Runaways as it was being made. I did a couple of surveys, and particpated in a focus group. I provided some story suggestions that were eventually put in.",
+            "images-name": "runaways-s1",
+            "images": ["front", "left"],
+            "dates": ["2021-08-20"]
+        },
+        {
+            "id": "9a0331ca-8a01-4bfa-8ce3-e3b4a8aeb4eb",
+            "name": "Choose Your Destiny",
+            "text": [],
+            "keywords": ["Star Wars", "lightsaber", "Darth Vader", "Anakin Skywalker", "Final Fantasy", "Final Fantasy VII", "FF:VII", "FFVII", "FF7", "Cloud", "Cloud Strife", "Zack", "Zack Fair", "Buster Sword", "Harry Potter", "Deathly Hallows", "Elder wand", "Assassin's Creed", "Assassin Brotherhood", "hidden blade", "Army of Darkness", "Ash Williams", "Homelite XL", "chainsaw", "Nightmare on Elm Street", "Freddy Kreuger", "claws", "Final Fantasy VIII", "FF:VIII", "FFVIII", "FF8", "Squall", "Gunblade", "Revolver", "Marvel", "comics", "Thanos", "Infinity Gauntlet", "King Arthur", "Excalibur", "Thor", "Mjolnir", "Pokemon", "Pokémon", "Pocket Monsters", "Pokeball", "Pokéball", "Mario", "Mario Kart", "Koopa Shell", "red shell", "Legend of Zelda", "Link"],
+            "source": "https://shirt.woot.com/offers/choose-your-destiny",
+            "images-name": "choose-destiny",
+            "images": ["front"],
+            "dates": ["2021-08-21"]
+        },
+        {
+            "id": "b5768d92-3b22-4bd5-a6f6-75b3a845fef1",
+            "name": "Pyramid Systems",
+            "style": "polo",
+            "dates": ["2021-08-22"]
+        },
+        {
+            "id": "76b90fbe-948d-4d32-b5ae-189cc43b56fb",
+            "name": "SC eSports",
+            "dates": ["2021-08-23"]
+        },
 
 
         {
@@ -1119,15 +1253,6 @@
             "dates": []
         },
         {
-            "id": "e1f1759d-1f2f-4244-9d34-fac973d88b71",
-            "name": "Po. Tay. Toes.",
-            "text": ["PO", "TAY", "TOES", "BOIL 'EM · MASH 'EM · STICK 'EM IN A STEW"],
-            "keywords": [],
-            "source": "https://shirt.woot.com/offers/po-tay-toes",
-            "image-front": "po-tay-toes-front.jpg",
-            "dates": []
-        },
-        {
             "id": "47e31e62-e2f7-4679-9d73-725db4119fc0",
             "name": "Book the Movie",
             "text": ["COMING SOON TO A THEATER NEAR YOU", "BOOK", "THE MOVIE", "SOME GOOD", "ACTING", "THEY TRIED", "THEIR", "BEST", "COULD'VE", "BEEN", "WORSE", "UNIMAGINATIVE STUDIO EXECUTIVES PRESENT A BIG BUDGET FIASCO WITH ALL THESE FAMOUS ACTORS", "WRITTEN", "BY", "SOMEONE WHO DIDN'T UNDERSTAND THE SERIES", "DIRECTED", "BY", "A GUY WHO LIKES EXPLOSIONS A LOT", "COSTUME", "DESIGN", "IS DIFFERENT THAN WHAT YOU PICTURED", "WITH", "MUSIC BY", "POP STARS WHO DON'T LIKE TO READ", "SEE THE FILM CRITICS ARE CALLING", "“NOT AS GOOD AS THE BOOK!”"],
@@ -1136,16 +1261,6 @@
             "image-front": "book-movie-front.jpg",
             "dates": []
         },
-        {
-            "id": "6f8654be-27fd-4fe6-8ae5-543caaa6876c",
-            "name": "ManDELOREAN",
-            "text": ["DMC", "BOUNTYHUNTER", "MANDELOREAN"],
-            "keywords": ["Back to the Future", "Doc Brown", "Marty McFly", "time machine", "Delorean", "Star Wars", "Mandalorian", "baby Yoda", "Grogu", "fusion"],
-            "source": "https://shirt.woot.com/offers/mandelorean",
-            "image-front": "mandelorean-front.jpg",
-            "dates": []
-        },
-
 
         {
             "id": "ed597377-5b47-4f14-9ab1-918ccd260de0",
@@ -1184,6 +1299,39 @@
             "image-front": "free-tibet-front.jpg",
             "image-logo": "free-tibet-logo.jpg",
             "notes": "Bryan Livingston saw this shirt, and he said 'Free Tibet? We should free China!'",
+            "dates": []
+        },
+        {
+            "id": "2e7d88e7-0fdd-4af0-8e73-eb8e5f718b49",
+            "name": "Alphora",
+            "text": ["Ⓐ", "Ⓐlphora™", "Focusing Application Development"],
+            "keywords": ["Alphora", "Dataphor", "DBMS"],
+            "images": ["front", "back", "logo"],
+            "images-name": "alphora",
+            "source": "https://alphora.com",
+            "dates": []
+        },
+        {
+            "id": "aa53d209-56a3-487f-b4f4-d321fde542c5",
+            "name": "Rackspace - Outsorced",
+            "text": ["rackspace", ".com", "", "THE LEADER IN", "OUTSOURCED", "INTERNET SERVERS", "rackspace", ".com", "Register this T-shirt number at:", "Shirtstakes™", "rackspace", ".com", "2 395923", "www.rackspace.com/shirtstakes/ispconlondon"],
+            "keywords": ["rackspace.com", "cloud"],
+            "notes": "I think I got this shirt when they came to advertise at BYU.",
+            "source": "https://rackspace.com",
+            "images": ["front", "logo", "back"],
+            "images-name": "rackspace-outsourced",
+            "dates": []
+        },
+        {
+            "id": "c13b4d6e-0232-49b6-a5fa-0888d9b8d73b",
+            "name": "Clear Creek '98",
+            "style": "long sleeve",
+            "text": ["CLEAR CREEK '98"],
+            "keywords": ["Mountain View High School", "Clear Creek"],
+            "notes": "I got this as a part of a leadership training event that took place in the wintertime up at Clear Creek.",
+            "source": "https://alpineschools.org/clearcreekcamp/",
+            "images": ["front", "logo"],
+            "images-name": "clear-creek",
             "dates": []
         }
     ]

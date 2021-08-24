@@ -555,7 +555,7 @@
             "id": "2a358f67-f3f0-4741-a986-d9bc15f6f640",
             "name": "TIE Fighter Pilot (Patterned Head)",
             "keywords": ["Star Wars", "Empire"],
-            "item": "sw026a",
+            "item": "sw0268a",
             "set": 9676,
             "dates": ["2021-07-27"]
         },
@@ -629,10 +629,96 @@
         {
             "id": "327cb6eb-0614-467d-b636-f7e6cb52ea73",
             "name": "Santa Darth Vader",
-            "keywords": ["Star Wars"],
+            "keywords": ["Star Wars", "Christmas"],
             "item": "sw0599",
             "set": 75056,
             "dates": ["2021-08-09"]
+        },
+        {
+            "id": "b4096abc-a90e-473b-89dd-00a0f1a2f061",
+            "name": "Darth Vader (Red Christmas Sweater with Death Star)",
+            "keywords": ["Star Wars", "Christmas"],
+            "item": "sw1121",
+            "set": 75279,
+            "dates": ["2021-08-10"]
+        },
+        {
+            "id": "6738dcfa-c873-4590-9c80-c140164cdf1e",
+            "name": "Hyperion",
+            "keywords": ["Marvel"],
+            "item": "sh227",
+            "set": 76049,
+            "dates": ["2021-08-11"]
+        },
+        {
+            "id": "ccca13b4-1914-443f-a6f9-27f011d05a7a",
+            "name": "Thanos - Dark Blue Arms",
+            "keywords": ["Marvel", "Thanos"],
+            "style": "giant",
+            "item": "sh230",
+            "set": 76049,
+            "dates": ["2021-08-12"]
+        },
+        {
+            "id": "1d3b33a9-28b2-43a7-b538-7fd0a7d4abd4",
+            "name": "Spider-Man - Black Web Pattern, Red Torso Small Vest, Red Boots",
+            "keywords": ["Marvel", "Spider-Man"],
+            "item": "sh420",
+            "set": 76082,
+            "notes": "See also <a href='minifig.html?id=f7866ff4-2da8-4ae9-b8f6-a0ec61ca8b1c'>a very similiar minifig</a>",
+            "dates": ["2021-08-13"]
+        },
+        {
+            "id": "a7e4ed22-0049-4a93-a3d1-99a07cfed1c2",
+            "name": "Masked Robber - Green Mask, Striped Shirt",
+            "keywords": ["Marvel", "comics", "Spider-Man", "Marvel Cinematic Universe", "robber", "Hulk"],
+            "item": "sh421",
+            "set": 76082,
+            "dates": ["2021-08-16"]
+        },
+        {
+            "id": "ff4ebb95-6425-4f11-8144-f1cf6c6a1793",
+            "name": "Space Iron Man",
+            "keywords": ["Marvel", "comics", "Iron Man", "space"],
+            "item": "sh229",
+            "set": 76049,
+            "dates": ["2021-08-17"]
+        },
+        {
+            "id": "93d78d45-3312-436b-86f2-274774b2a455",
+            "name": "Ms. Marvel",
+            "keywords": ["comics", "Marvel", "Ms. Marvel", "rubber arms"],
+            "item": "sh375",
+            "set": 76076,
+            "dates": ["2021-08-18"]
+        },
+        {
+            "id": "8f3203cf-ea90-485e-9939-313c8265e51c",
+            "name": "Super-Adaptoid",
+            "keywords": ["comics", "Marvel", "Super-Adaptoid", "Adaptoid"],
+            "item": "sh366",
+            "set": 76076,
+            "dates": ["2021-08-19"]
+        },
+        {
+            "id": "573eb7be-9524-4131-958f-172877f00a1f",
+            "name": "Iron Man Mark 45 Armor",
+            "keywords": ["comics", "Marvel", "Marvel Cinematic Universe", "Iron Man", "Age of Ultron"],
+            "item": "sh164",
+            "set": 76029,
+            "part": "3626cpb1941",
+            "notes": "This appears to have come with the wrong head.",
+            "dates": ["2021-08-20"]
+        },
+        {
+            "id": "f7866ff4-2da8-4ae9-b8f6-a0ec61ca8b1c",
+            "name": "Spider-Man - Black Web Pattern, Red Torso Small Vest, Red Boots - with Mask Pulled Up Showing Mouth Pattern",
+            "keywords": ["Marvel", "Spider-Man"],
+            "item": "sh420",
+            "set": 40343,
+            "part": "3626cpb2398",
+            "notes": "according to LEGO databases, this minifig is the same as <a href='minifig.html?id=1d3b33a9-28b2-43a7-b538-7fd0a7d4abd4'>another minifig</a>, but this minifig came in a set that had an alternate head. So both bricklink items are linked, and this minfig is treated as separate.",
+            "dates": ["2021-08-23"]
         }
     ]
 }

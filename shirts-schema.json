@@ -6,6 +6,7 @@
         "type": "array",
         "items": {
             "type": "object",
+            "required": ["id", "name", "text", "images", "images-name", "keywords"],
             "properties": {
                 "id": {
                     "type": "string"
@@ -23,14 +24,15 @@
                         "type": "string"
                     }
                 },
-                "image-logo": {
+                "images-name": {
                     "type":"string"
                 },
-                "image-front": {
-                    "type":"string"
-                },
-                "image-back": {
-                    "type":"string"
+                "images": {
+                    "type": "array",
+                    "items": {
+                        "type":"string",
+                        "enum": ["front", "back", "logo", "left", "right"]
+                    }
                 },
                 "keywords": {
                     "type": "array",
