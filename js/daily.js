@@ -2,8 +2,12 @@ const tablePrefix = 'table-'
 let data = [];
 
 function addRecentDate(row) {
-    row.dates.sort()
-    row.recentDate = row.dates[row.dates.length - 1] || null
+    if (!row.dates) {
+        console.error("Row doesn't have 'dates'.", row);
+    } else {
+        row.dates.sort()
+        row.recentDate = row.dates[row.dates.length - 1] || null
+    }
     return row;
 }
 
@@ -67,7 +71,7 @@ function htmlify(row) {
     for (const [key, value] of Object.entries(row)) {
         if (key.includes('url')) {
             row[key] = makeLink(value);
-        } else if (key.includes('image')) {
+        } else if (key.includes('image-')) {
             row[key] = makeLink(value, makeImage(value));
         }
     }
