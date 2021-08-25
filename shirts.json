@@ -1102,9 +1102,8 @@
             "text": ["MARVEL"],
             "keywords": ["comics", "Marvel", "Captain America"],
             "source": "https://uniqlo.com",
-            "image-front": "cap-sketch-front.jpg",
-            "image-back": "cap-sketch-back.jpg",
-            "image-logo": "cap-sketch-logo.jpg",
+            "images-name": "cap-sketch",
+            "images": ["front", "back", "logo"],
             "dates": ["2021-08-09"]
         },
         {
@@ -1248,6 +1247,8 @@
             "keywords": ["Blizzard", "StarCraft", "eSports", "e-Sports", "Terran", "Protoss", "Zerg"],
             "source": "https://blizzard.com",
             "notes": "I got this attending an event at the Blizzard Arena in Burbank.",
+            "images": ["front", "back"],
+            "images-name": "sc-esports",
             "dates": ["2021-08-23"]
         },
         {
@@ -1315,7 +1316,6 @@
             "text": ["🍪 🍪 🍪 🍪 🍪"],
             "keywords": ["Namco", "Pac-Man", "Sesame Street", "Cookie Monster", "cookie"],
             "source": "https://www.threadless.com/product/2362/Cookies/",
-            "image-front": "",
             "dates": []
         },
         {
@@ -1324,7 +1324,8 @@
             "text": ["COMING SOON TO A THEATER NEAR YOU", "BOOK", "THE MOVIE", "SOME GOOD", "ACTING", "THEY TRIED", "THEIR", "BEST", "COULD'VE", "BEEN", "WORSE", "UNIMAGINATIVE STUDIO EXECUTIVES PRESENT A BIG BUDGET FIASCO WITH ALL THESE FAMOUS ACTORS", "WRITTEN", "BY", "SOMEONE WHO DIDN'T UNDERSTAND THE SERIES", "DIRECTED", "BY", "A GUY WHO LIKES EXPLOSIONS A LOT", "COSTUME", "DESIGN", "IS DIFFERENT THAN WHAT YOU PICTURED", "WITH", "MUSIC BY", "POP STARS WHO DON'T LIKE TO READ", "SEE THE FILM CRITICS ARE CALLING", "“NOT AS GOOD AS THE BOOK!”"],
             "keywords": ["book", "movie"],
             "source": "https://shirt.woot.com/offers/book-the-movie",
-            "image-front": "book-movie-front.jpg",
+            "images": ["front"],
+            "images-name": "book-movie",
             "dates": []
         },
 
@@ -1334,7 +1335,8 @@
             "text": ["WORLD RECORD", "IN THE BALANCE"],
             "keywords": ["Egg", "egg balance", "BYU", "Brigham Young University"],
             "notes": "I got this for participating in setting the world record for most number of eggs balanced at BYU.",
-            "image-front": "world-record-egg-front.jpg",
+            "images-name": "world-record-egg",
+            "images": ["front"],
             "dates": []
         },
         {
@@ -1343,9 +1345,8 @@
             "text": ["rackspace", ".com", "", "GOD", "gave us", "LINUX", "to run web servers", "rackspace", ".com", "Shirtstakes", "506203", "REGISTER YOUR SHIRTSTAKES NUMBER TO WIN!", "www.rackspace.com/shirtstakes/montreal"],
             "keywords": ["Rackspace", "Linux", "penguin"],
             "notes": "I have a vague recollection that I got this in college? But it's also possible I got this at MLG?",
-            "image-front": "rackspace-linux-front.jpg",
-            "image-back": "rackspace-linux-back.jpg",
-            "image-logo": "rackspace-linux-logo.jpg",
+            "images-name": "rackspace-linux",
+            "images": ["back", "logo", "front"],
             "dates": []
         },
         {
@@ -1353,7 +1354,8 @@
             "name": "Galveston",
             "text": ["TEXAS", "GALVESTON"],
             "keywords": ["Galveston", "Texas", "mission"],
-            "image-front": "galveston-front.jpg",
+            "images-name": "galveston",
+            "images": ["front"],
             "notes": "I acquired this probably from some random street vendor while I was serving a two-year voluntary religious excursion for the predominant denomination of my permanent domicile.",
             "dates": []
         },
@@ -1362,8 +1364,8 @@
             "name": "Free Tibet",
             "text": ["FREE TIBET", "reliefalliance.org"],
             "keywords": ["Tibet", "China"],
-            "image-front": "free-tibet-front.jpg",
-            "image-logo": "free-tibet-logo.jpg",
+            "images-name": "free-tibet",
+            "images": ["logo", "front"],
             "notes": "Bryan Livingston saw this shirt, and he said 'Free Tibet? We should free China!'",
             "dates": []
         },
