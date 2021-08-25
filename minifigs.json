@@ -719,6 +719,41 @@
             "part": "3626cpb2398",
             "notes": "according to LEGO databases, this minifig is the same as <a href='minifig.html?id=1d3b33a9-28b2-43a7-b538-7fd0a7d4abd4'>another minifig</a>, but this minifig came in a set that had an alternate head. So both bricklink items are linked, and this minfig is treated as separate.",
             "dates": ["2021-08-23"]
+        },
+        {
+            "id": "9ef1116d-a9df-414e-a876-277410eb866a",
+            "name": "Ned",
+            "dates": ["2021-08-24"]
+        },
+
+        {
+            "id": "9a929b3d-9d30-49dd-864f-fdfee218d563",
+            "name": "MJ",
+            "dates": []
+        },
+        {
+            "id": "35ceb221-43d9-426b-884d-09e4dfdf73a3",
+            "name": "Carnage",
+            "dates": []
+        },
+        {
+            "id": "eeb6f9bd-8598-46f1-9bab-dcb68e387c5a",
+            "name": "Spider Man (blue feet)",
+            "dates": []
+        },
+        {
+            "id": "b1847d8b-8bf5-41d9-941d-e1c2dfc1be04",
+            "name": "Ghost Rider (Robbie Reyes)",
+            "dates": []
+        },
+        {
+            "id": "32e77b3f-f3e8-4a67-86c0-a86eb8b01dde",
+            "name": "Black Panther",
+            "dates": []
+        },
+        {
+            "id": "2b43332a-dd70-4e02-804a-30b1d993c0b6",
+            "name": "Winter Soldier"
         }
     ]
 }
