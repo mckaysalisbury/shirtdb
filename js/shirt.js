@@ -4,7 +4,7 @@ function makeLocal(file) {
 
 function makeAllImagesLocal(row) {
     for (const [key, value] of Object.entries(row)) {
-        if (key.includes('image-')) {
+        if (key.match(`image(?!s)`)) {
             row[key] = makeLocal(row[key]);
         }
     }

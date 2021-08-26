@@ -71,7 +71,7 @@ function htmlify(row) {
     for (const [key, value] of Object.entries(row)) {
         if (key.includes('url')) {
             row[key] = makeLink(value);
-        } else if (key.includes('image-')) {
+        } else if (key.match(`image(?!s)`) ) {
             row[key] = makeLink(value, makeImage(value));
         }
     }
