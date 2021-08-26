@@ -722,15 +722,52 @@
         },
         {
             "id": "9ef1116d-a9df-414e-a876-277410eb866a",
-            "name": "Ned",
+            "name": "Ned Leeds - Dark Red Plaid Shirt, Dark Blue Legs",
+            "keywords": ["comics", "Marvel", "Marvel Cinematic Universe", "Spider-Man"],
+            "item": "sh602",
+            "set": 40343,
             "dates": ["2021-08-24"]
+        },
+        {
+            "id": "9a929b3d-9d30-49dd-864f-fdfee218d563",
+            "name": "Maria Hill - Black Jacket, Light Bluish Gray Shirt, Dark Blue Legs",
+            "keywords": ["comics", "Marvel", "Marvel Cinematic Universe", "Spider-Man"],
+            "item": "sh601",
+            "set": 40343,
+            "dates": ["2021-08-25"]
+        },
+        {
+            "id": "32e77b3f-f3e8-4a67-86c0-a86eb8b01dde",
+            "name": "Black Panther, Teeth Necklace",
+            "keywords": ["Marvel", "Captain America: Civil War", "Black Panther"],
+            "item": "sh263",
+            "set": 76047,
+            "dates": ["2021-08-26"]
         },
 
         {
-            "id": "9a929b3d-9d30-49dd-864f-fdfee218d563",
-            "name": "MJ",
+            "id": "2b43332a-dd70-4e02-804a-30b1d993c0b6",
+            "name": "Winter Soldier - Black Hands and Holster",
+            "keywords": ["Marvel", "Captain America: Civil War", "Winter Soldier", "Bucky Barnes"],
+            "item": "sh257",
+            "set": 76047,
             "dates": []
         },
+        {
+            "id": "710ccb19-93fc-439f-9ace-8e3023c92509",
+            "name": "Masked Robber - Blue Mask, Red Shirt",
+            "keywords": ["Marvel", "comics", "Spider-Man", "Marvel Cinematic Universe", "robber", "Captain America"],
+            "item": "sh422",
+            "set": 76082,
+            "dates": ["2021-08-16"]
+        },
+        {
+            "id": "b8630ce5-20ff-4f57-8da0-32516f653f2d",
+            "name": "Space Captain America",
+            "keywords": ["comics", "Marvel", "Space", "Captain America"],
+            "dates": []
+        },
+
         {
             "id": "35ceb221-43d9-426b-884d-09e4dfdf73a3",
             "name": "Carnage",
@@ -745,15 +782,6 @@
             "id": "b1847d8b-8bf5-41d9-941d-e1c2dfc1be04",
             "name": "Ghost Rider (Robbie Reyes)",
             "dates": []
-        },
-        {
-            "id": "32e77b3f-f3e8-4a67-86c0-a86eb8b01dde",
-            "name": "Black Panther",
-            "dates": []
-        },
-        {
-            "id": "2b43332a-dd70-4e02-804a-30b1d993c0b6",
-            "name": "Winter Soldier"
         }
     ]
 }
