@@ -645,7 +645,7 @@
         {
             "id": "6738dcfa-c873-4590-9c80-c140164cdf1e",
             "name": "Hyperion",
-            "keywords": ["Marvel"],
+            "keywords": ["comics", "Marvel"],
             "item": "sh227",
             "set": 76049,
             "dates": ["2021-08-11"]
@@ -704,6 +704,7 @@
             "id": "573eb7be-9524-4131-958f-172877f00a1f",
             "name": "Iron Man Mark 45 Armor",
             "keywords": ["comics", "Marvel", "Marvel Cinematic Universe", "Iron Man", "Age of Ultron"],
+            "actor": "Robert Downey Jr.",
             "item": "sh164",
             "set": 76029,
             "part": "3626cpb1941",
@@ -713,7 +714,8 @@
         {
             "id": "f7866ff4-2da8-4ae9-b8f6-a0ec61ca8b1c",
             "name": "Spider-Man - Black Web Pattern, Red Torso Small Vest, Red Boots - with Mask Pulled Up Showing Mouth Pattern",
-            "keywords": ["Marvel", "Spider-Man"],
+            "keywords": ["comics", "Marvel", "Spider-Man", "Marvel Cinematic Universe"],
+            "actor": "Tom Holland",
             "item": "sh420",
             "set": 40343,
             "part": "3626cpb2398",
@@ -724,6 +726,7 @@
             "id": "9ef1116d-a9df-414e-a876-277410eb866a",
             "name": "Ned Leeds - Dark Red Plaid Shirt, Dark Blue Legs",
             "keywords": ["comics", "Marvel", "Marvel Cinematic Universe", "Spider-Man"],
+            "actor": "Jacob Batalon",
             "item": "sh602",
             "set": 40343,
             "dates": ["2021-08-24"]
@@ -732,6 +735,7 @@
             "id": "9a929b3d-9d30-49dd-864f-fdfee218d563",
             "name": "Maria Hill - Black Jacket, Light Bluish Gray Shirt, Dark Blue Legs",
             "keywords": ["comics", "Marvel", "Marvel Cinematic Universe", "Spider-Man"],
+            "actor": "Cobie Smulders",
             "item": "sh601",
             "set": 40343,
             "dates": ["2021-08-25"]
@@ -740,6 +744,7 @@
             "id": "32e77b3f-f3e8-4a67-86c0-a86eb8b01dde",
             "name": "Black Panther, Teeth Necklace",
             "keywords": ["Marvel", "Captain America: Civil War", "Black Panther"],
+            "actor": "Chadwick Boseman",
             "item": "sh263",
             "set": 76047,
             "dates": ["2021-08-26"]
@@ -765,22 +770,32 @@
             "id": "b8630ce5-20ff-4f57-8da0-32516f653f2d",
             "name": "Space Captain America",
             "keywords": ["comics", "Marvel", "Space", "Captain America"],
+            "item": "sh228",
+            "set": 76049,
             "dates": []
         },
-
         {
             "id": "35ceb221-43d9-426b-884d-09e4dfdf73a3",
-            "name": "Carnage",
+            "name": "Carnage - Medium Appendages",
+            "keywords": ["comics", "Marvel", "Spider-Man", "Carnage"],
+            "item": "sh683",
+            "set": 76173,
             "dates": []
         },
         {
             "id": "eeb6f9bd-8598-46f1-9bab-dcb68e387c5a",
-            "name": "Spider Man (blue feet)",
+            "name": "Spider-Man - Printed Arms",
+            "keywords": ["comics", "Marvel", "Spider-Man"],
+            "item": "sh684",
+            "set": 76173,
             "dates": []
         },
         {
             "id": "b1847d8b-8bf5-41d9-941d-e1c2dfc1be04",
-            "name": "Ghost Rider (Robbie Reyes)",
+            "name": "Ghost Rider, Roberto \"Robbie\" Reyes - Flat Silver Head",
+            "keywords": ["comics", "Spider-Man"],
+            "item": "sh678",
+            "set": 76173,
             "dates": []
         }
     ]

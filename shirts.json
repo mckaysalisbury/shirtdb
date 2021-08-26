@@ -1308,7 +1308,17 @@
             "notes": "The full URL used to work, but threadless keeps changing their URL formats. <a href='https://www.threadless.com/@StevenRice'>Steven Rice's page</a> shows the shirt, but it <a href='https://www.threadless.com/product/3061'>links to a 404</a>.",
             "dates": ["2021-08-24"]
         },
+        {
+            "id": "1dca916e-a4ca-4ae3-8119-dc0d21cfa27f",
+            "name": "Uncle's Evil Ring",
+            "dates": ["2021-08-25"]
+        }
 
+        {
+            "id": "6df08e74-9603-4b4e-9d07-2de46849e9cb",
+            "name": "Ultralisk",
+            "dates": []
+        },
 
         {
             "id": "7dfebc67-2b41-4e65-b88c-22251a5dde9e",
