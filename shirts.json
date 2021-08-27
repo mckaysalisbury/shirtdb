@@ -1312,12 +1312,16 @@
             "id": "1dca916e-a4ca-4ae3-8119-dc0d21cfa27f",
             "name": "Uncle's Evil Ring",
             "dates": ["2021-08-25"]
-        }
-
+        },
         {
             "id": "6df08e74-9603-4b4e-9d07-2de46849e9cb",
             "name": "Ultralisk",
-            "dates": []
+            "dates": ["2021-08-26"]
+        },
+        {
+            "id": "827faa19-6a22-44ef-bdb0-232a7f0fbc03",
+            "name": "Misbehave",
+            "dates": ["2021-08-27"]
         },
 
         {
