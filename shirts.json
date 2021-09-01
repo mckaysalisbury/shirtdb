@@ -900,7 +900,7 @@
             "id": "6dcab1a1-9498-48ae-89b7-c64c6866ef9d",
             "name": "TMBG IFC 2020",
             "text": ["THEY", "MIGHT", "BE", "GIANTS", "NSTANT", "FAN", "CLUB"],
-            "keywords": ["They Might Be Giants", "TMBG", "Instant Fan Club", "2020"],
+            "keywords": ["music", "band", "They Might Be Giants", "TMBG", "Instant Fan Club", "2020"],
             "source": "https://www.tmbgifc.com/",
             "image-front": "ifc-2020-front.jpg",
             "dates": ["2021-07-19"]
@@ -920,7 +920,7 @@
             "text": ["I'M A", "LEAF", "ON THE", "WIND"],
             "keywords": ["Firefly", "Serenity", "Wash", "Hoban Washburn"],
             "source": "https://comic-con.org",
-            "image-front": "leaf-wind-front.jpg",
+            "images": ["front"],
             "dates": ["2021-07-21"]
         },
         {
@@ -928,8 +928,7 @@
             "name": "Inconceivable",
             "text": ["Inconceivable", "", "I do not think", "that word means", "what you think", "it means...", "The Princess Bride TM&© 1987, 2006 Twentieth Century Fox Film Corporation"],
             "keywords": ["The Princess Bride", "William Goldman", "S. Morgenstern", "Vincini", "Inigo Montoya"],
-            "image-front": "inconceivable-front.jpg",
-            "image-back": "inconceivable-back.jpg",
+            "images": ["front", "back"],
             "notes": "I think I got this shirt from ThinkGeek, but I'm not sure.",
             "dates": ["2021-07-22"]
         },
@@ -937,7 +936,8 @@
             "id": "9f8faa08-b497-4b57-afa5-e5bbeb8c38d3",
             "name": "Code Monkey",
             "text": ["<STRONG>CodeMonkey</STRONG>", "<a href=\"http://www.jonathancoulton.com\">", "Jonathan Coulton Dot Com </a>"],
-            "image-front": "code-monkey-front.jpg",
+            "keywords": ["music", "Jonathan Coulton", "Code Monkey", "html", "link"],
+            "images": ["front"],
             "source": "https://www.jonathancoulton.com/physical-store/",
             "dates": ["2021-07-23"]
         },
@@ -946,8 +946,8 @@
             "name": "StarCraft II emoji",
             "text": ["🤩", "🍺", "😐", "😜", "😢", "😡", "👍", "😎"],
             "keywords": ["Blizzard", "StarCraft", "StarCraft II"],
-            "image-front": "sc2-emoji-front.jpg",
-            "image-back": "sc2-emoji-back.jpg",
+            "images-name": "sc2-emoji",
+            "images": ["front", "back"],
             "source": "https://blizzcon.com",
             "dates": ["2021-07-24"]
         },
@@ -957,8 +957,8 @@
             "style": "polo",
             "text": [],
             "keywords": ["Star Trek", "Starfleet uniform", "U.S.S. Enterprise", "Operations red", "redshirt"],
-            "image-front": "operations-front.jpg",
-            "image-logo": "operations-logo.jpg",
+            "images": ["front", "logo"],
+            "images-name": "operations",
             "source": "https://thinkgeek.com",
             "dates": ["2021-07-25"]
         },
@@ -967,10 +967,7 @@
             "name": "BlizzCon 2008",
             "text": ["BLIZZ", "CON", "ANAHEIM 2008", "", "BLIZZ", "CON", "", "BLIZZARD®", "ENTERTAINMENT"],
             "keywords": ["Blizzard", "BlizzCon", "BlizzCon 2008", "key art", "WarCraft", "World of WarCraft", "Thrall", "Diablo", "Diablo 3", "Tyrael", "StarCraft", "StarCraft II", "Zeratul", "Dark Templar"],
-            "image-front": "blizzcon-2008-front.jpg",
-            "image-back": "blizzcon-2008-back.jpg",
-            "image-logo": "blizzcon-2008-logo.jpg",
-            "image-right": "blizzcon-2008-right.jpg",
+            "images": ["front", "back", "logo", "right"],
             "source": "https://blizzcon.com",
             "dates": ["2021-07-26"]
         },
@@ -979,15 +976,16 @@
             "name": "Shiny",
             "text": ["Shiny"],
             "keywords": ["Firefly", "Serenity", "Joss Whedon"],
-            "image-front": "shiny-front.jpg",
+            "images": ["front"],
             "source": "https://comic-con.org",
             "dates": ["2021-07-27"]
-        },{
+        },
+        {
             "id": "5974d76d-25ba-4b77-9de4-10b29d230a42",
             "name": "6 pool",
             "text": ["6", "pool", "", "STAR", "CRAFTS"],
-            "image-front": "6-pool-front.jpg",
-            "image-back": "6-pool-back.jpg",
+            "keywords": ["Blizzard", "StarCraft", "StarCrafts", "Zerg", "Spawning Pool", "Drone", "Zergling"],
+            "images": ["front", "back"],
             "source": "https://blizzcon.com",
             "dates": ["2021-07-28"]
         },{
@@ -995,7 +993,7 @@
             "name": "Wolverine",
             "text": ["MARVEL", "M", "Co", "cs"],
             "keywords": ["Marvel", "Marvel comics", "Wolverine", "snikt", "adamantium"],
-            "image-front": "wolverine-front.jpg",
+            "images": ["front"],
             "source": "https://oldnavy.gap.com/",
             "dates": ["2021-07-29"]
         },
@@ -1004,18 +1002,18 @@
             "name": "qep'a' cha'maH chorghDIch",
             "text": ["Hoch vorlaHbe'", "Dargh wIb", "qep'a' cha'maH", "chorghDI"],
             "keywords": ["Star Trek", "Klingon", "tlhIngan Hol", "qep'a'", "piqaD", "bitter tea can't cure everything"],
-            "image-front": "cha'maH-chorghDIch-front.jpg",
+            "images": ["front"],
+            "images-name": "cha'maH-chorghDIch",
             "source": "https://www.kli.org/activities/qepmey/qepa-chamah-chorgdich",
             "dates": ["2021-07-30"]
         },
         {
             "id": "b23816e9-47b1-4d52-ad03-982362dd8057",
-            "name": "Green Lantern polo",
+            "name": "Green Lantern",
             "style": "polo",
             "text": [],
             "keywords": ["comics", "DC", "Green Lantern"],
-            "image-front": "green-lantern-front.jpg",
-            "image-logo": "green-lantern-logo.jpg",
+            "images": ["front", "logo"],
             "source": "https://thinkgeek.com",
             "dates": ["2021-08-01"]
         },
@@ -1374,6 +1372,13 @@
             "name": "Other Shirt Is Clever",
             "text": ["MY OTHER", "SHIRT", "IS CLEVER"],
             "dates": ["2021-08-31"]
+        },
+        {
+            "id": "28b8286c-aedd-4916-92f6-5db2f775ab35",
+            "name": "Batman Graffiti",
+            "text": [],
+            "keywords": ["comics", "DC", "Batman", "graffiti"],
+            "dates": ["2021-09-01"]
         },
 
         {
