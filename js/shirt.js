@@ -11,7 +11,20 @@ function makeAllImagesLocal(row) {
     return row;
 }
 
+function normalizeName(name) {
+    const newName = name.toLowerCase().replaceAll(/\b(a|an|the|of)\b/g, '').replaceAll('-', '').replaceAll('   ', ' ').replaceAll('  ', ' ').replaceAll(' ', '-');
+    // console.log("name", name, newName);
+    return newName;
+}
+
 function alterExternalData(row) {
+    if (!row.name) {
+        console.warn('Row does not have a `name` property.', row);
+    }
+    if (!row["images-name"])
+    {
+        row["images-name"] = normalizeName(row.name);
+    }
     if (!row.images) {
         console.error('missing images', row);
     } else {
@@ -19,7 +32,7 @@ function alterExternalData(row) {
             row[`image-${image}`] = `${row['images-name']}-${image}.jpg`
         }
         delete row.images;
-        delete row['image-name'];
+        delete row['images-name'];
     }
 
     makeAllImagesLocal(row);
