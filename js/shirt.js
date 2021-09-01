@@ -12,7 +12,7 @@ function makeAllImagesLocal(row) {
 }
 
 function normalizeName(name) {
-    const newName = name.toLowerCase().replaceAll(/\b(a|an|the|of)\b/g, '').replaceAll('-', '').replaceAll('   ', ' ').replaceAll('  ', ' ').replaceAll(' ', '-');
+    const newName = name.toLowerCase().replaceAll(/\b(a|an|the|of)\b/g, '').trim().replaceAll('-', '').replaceAll('   ', ' ').replaceAll('  ', ' ').replaceAll(' ', '-');
     // console.log("name", name, newName);
     return newName;
 }

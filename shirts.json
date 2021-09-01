@@ -1024,7 +1024,7 @@
             "name": "8 Bit Rock",
             "text": ["8 bit", "rock", "they", "might be", "giants"],
             "keywords": ["They Might Be Giants", "TMBG", "8-bit", "pixel"],
-            "image-front": "8-bit-rock-front.jpg",
+            "images": ["front"],
             "source": "https://www.theymightbegiants.com/shows",
             "dates": ["2021-08-02"]
         },
@@ -1034,8 +1034,7 @@
             "text": ["BLIZZ", "CON", "", "BLIZZARD®", "ENTERTAINMENT"],
             "keywords": ["Blizzard", "BlizzCon", "BlizzCon 2005", "WarCraft", "World of Warcraft", "Naga", "StarCraft", "ghost", "StarCraft: Ghost", "Nova", "Night Elf", "Diablo"],
             "source": "https://blizzcon.com",
-            "image-front": "blizzcon-2005-front.jpg",
-            "image-right": "blizzcon-2005-right.jpg",
+            "images": ["front", "right"],
             "dates": ["2021-08-03"]
         },
         {
@@ -1043,9 +1042,8 @@
             "name": "Games Well With Others",
             "text": ["W", "ASD", "GAMES", "WELL WITH", "OTHERS", "", "2016", "BLIZZ", "CON", "X", "", "newegg®", "acer ASUS CORSAIR intel® lenovo msi NVIDIA Rosewill"],
             "keywords": ["Blizzard", "BlizzCon", "BlizzCon 2016"],
-            "image-front": "games-well-front.jpg",
-            "image-left": "games-well-left.jpg",
-            "image-right": "games-well-right.jpg",
+            "images": ["front", "left", "right"],
+            "images-name": "games-well",
             "dates": ["2021-08-04"]
         },
         {
@@ -1054,7 +1052,7 @@
             "text": [],
             "keywords": ["Sesame Street", "Cookie Monster", "cookie", "milk", "galaxy", "Milky Way", "planet", "comics", "Marvel", "Galactus", "fusion"],
             "source": "https://shirt.woot.com/offers/the-devourer",
-            "image-front": "devourer-front.jpg",
+            "images": ["front"],
             "dates": ["2021-08-05"]
         },
         {
@@ -1063,7 +1061,8 @@
             "text": [],
             "keywords": ["M.C. Escher", "Tetris", "fusion", "optical illusion"],
             "source": "https://shirt.woot.com/offers/some-game-involving-falling-blocks-in-the-style-of-m-c-escher",
-            "image-front": "escher-blocks-front.jpg",
+            "images": ["front"],
+            "images-name": "escher-blocks",
             "dates": ["2021-08-06"]
         },
         {
@@ -1071,8 +1070,8 @@
             "name": "Bracket by Bracket",
             "text": ["}", "ENGINEERS", "BRACKET", "BY BRACKET", "BUILD BUSINESS", "{", "", "GitPrime"],
             "keywords": ["software engineering", "code"],
-            "image-front": "bracket-front.jpg",
-            "image-left": "bracket-left.jpg",
+            "images": ["front", "left"],
+            "images-name": "bracket",
             "dates": ["2021-08-07"]
         },
         {
@@ -1080,8 +1079,8 @@
             "name": "Tychus vs Hydralisk",
             "text": ["BLIZZARD®", "ENTERTAINMENT"],
             "keywords": ["Blizzard", "StarCraft", "StarCraft II", "Terran", "Tychus", "Zerg", "hydralisk"],
-            "image-front": "tychus-hydralisk-front.jpg",
-            "image-back": "tychus-hydralisk-back.jpg",
+            "images": ["front", "back"],
+            "images-name": "tychus-hydralisk",
             "dates": ["2021-08-07"]
         },
         {
@@ -1091,8 +1090,7 @@
             "keywords": ["Penny Arcade", "First Party"],
             "style": "polo",
             "source": "https://store.penny-arcade.com/collections/first-party",
-            "image-logo": "first-party-red-logo.jpg",
-            "image-front": "first-party-red-front.jpg",
+            "images": ["logo", "front"],
             "dates": ["2021-08-08"]
         },
         {
