@@ -6,7 +6,7 @@
         "type": "array",
         "items": {
             "type": "object",
-            "required": ["id", "name", "text", "images", "images-name", "keywords"],
+            "required": ["id", "name", "text", "images", "keywords"],
             "properties": {
                 "id": {
                     "type": "string"
