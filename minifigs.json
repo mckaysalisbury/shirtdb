@@ -749,30 +749,13 @@
             "set": 76047,
             "dates": ["2021-08-26"]
         },
-
         {
             "id": "2b43332a-dd70-4e02-804a-30b1d993c0b6",
             "name": "Winter Soldier - Black Hands and Holster",
             "keywords": ["Marvel", "Captain America: Civil War", "Winter Soldier", "Bucky Barnes"],
             "item": "sh257",
             "set": 76047,
-            "dates": []
-        },
-        {
-            "id": "710ccb19-93fc-439f-9ace-8e3023c92509",
-            "name": "Masked Robber - Blue Mask, Red Shirt",
-            "keywords": ["Marvel", "comics", "Spider-Man", "Marvel Cinematic Universe", "robber", "Captain America"],
-            "item": "sh422",
-            "set": 76082,
-            "dates": ["2021-08-16"]
-        },
-        {
-            "id": "b8630ce5-20ff-4f57-8da0-32516f653f2d",
-            "name": "Space Captain America",
-            "keywords": ["comics", "Marvel", "Space", "Captain America"],
-            "item": "sh228",
-            "set": 76049,
-            "dates": []
+            "dates": ["2021-08-27"]
         },
         {
             "id": "35ceb221-43d9-426b-884d-09e4dfdf73a3",
@@ -780,8 +763,18 @@
             "keywords": ["comics", "Marvel", "Spider-Man", "Carnage"],
             "item": "sh683",
             "set": 76173,
-            "dates": []
+            "dates": ["2021-08-30"]
         },
+        {
+            "id": "b1847d8b-8bf5-41d9-941d-e1c2dfc1be04",
+            "name": "Ghost Rider, Roberto \"Robbie\" Reyes - Flat Silver Head",
+            "keywords": ["comics", "Spider-Man"],
+            "item": "sh678",
+            "set": 76173,
+            "dates": ["2021-08-31"]
+        },
+
+
         {
             "id": "eeb6f9bd-8598-46f1-9bab-dcb68e387c5a",
             "name": "Spider-Man - Printed Arms",
@@ -790,12 +783,24 @@
             "set": 76173,
             "dates": []
         },
+
+
+
+
         {
-            "id": "b1847d8b-8bf5-41d9-941d-e1c2dfc1be04",
-            "name": "Ghost Rider, Roberto \"Robbie\" Reyes - Flat Silver Head",
-            "keywords": ["comics", "Spider-Man"],
-            "item": "sh678",
-            "set": 76173,
+            "id": "710ccb19-93fc-439f-9ace-8e3023c92509",
+            "name": "Masked Robber - Blue Mask, Red Shirt",
+            "keywords": ["Marvel", "comics", "Spider-Man", "Marvel Cinematic Universe", "robber", "Captain America"],
+            "item": "sh422",
+            "set": 76082,
+            "dates": []
+        },
+        {
+            "id": "b8630ce5-20ff-4f57-8da0-32516f653f2d",
+            "name": "Space Captain America",
+            "keywords": ["comics", "Marvel", "Space", "Captain America"],
+            "item": "sh228",
+            "set": 76049,
             "dates": []
         }
     ]

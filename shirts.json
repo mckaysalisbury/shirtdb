@@ -1304,33 +1304,45 @@
                                       "hen_milk                                                     best=/9",
                                                                                                     "\\9\\1\\"
             ],
+            "keywords": ["Nintendo", "Legend of Zelda", "Link", "link", "URL", "Uniform Resource Locator"],
             "source": "https://www.threadless.com/designs/url_link",
             "notes": "The full URL used to work, but threadless keeps changing their URL formats. <a href='https://www.threadless.com/@StevenRice'>Steven Rice's page</a> shows the shirt, but it <a href='https://www.threadless.com/product/3061'>links to a 404</a>.",
+            "images": ["front"],
             "dates": ["2021-08-24"]
         },
         {
             "id": "1dca916e-a4ca-4ae3-8119-dc0d21cfa27f",
-            "name": "Uncle's Evil Ring",
+            "name": "All I got was this evil ring",
+            "text": ["The", "Lord of the Rings", "Online™", "Shadows of Angmar", "", "My Uncle Went to the", "Misty Mountains", "and", "All I Got Was This", "Evil Ring", "💍", "www.lotro.com"],
+            "keywords": ["J. R. R. Tolkien", "Tolkien", "Lord of the Rings", "Hobbit", "Frodo Baggins", "Bilbo Baggins", "Lord of the Rings Online", "Shadows of Angmar"],
+            "source": "https://paxsite.com",
+            "images": ["front", "logo", "back"],
             "dates": ["2021-08-25"]
         },
         {
             "id": "6df08e74-9603-4b4e-9d07-2de46849e9cb",
-            "name": "Ultralisk",
+            "name": "Brutalisk",
+            "text": ["StarCraft", "", "BLIZZARD®", "ENTERTAINMENT"],
+            "keywords": ["Blizzard", "StarCraft", "Terran", "Marine", "Ultralisk", "Brutalisk"],
+            "source": "https://www.blizzcon.com",
+            "images": ["front", "back"],
             "dates": ["2021-08-26"]
         },
         {
             "id": "827faa19-6a22-44ef-bdb0-232a7f0fbc03",
-            "name": "Misbehave",
+            "name": "Browncoat",
+            "text": ["⭐ BROWNCOAT ⭐", "", "I AIM TO MISBEHAVE", "SERENITY", "Serenity © Universal Studios"],
+            "keywords": ["Joss Whedon", "Firefly", "Serenity", "Browncoat", "Independent Planets", "rebellion"],
+            "images": ["front", "back", "logo"],
             "dates": ["2021-08-27"]
         },
-
         {
-            "id": "7dfebc67-2b41-4e65-b88c-22251a5dde9e",
-            "name": "Cookies",
-            "text": ["🍪 🍪 🍪 🍪 🍪"],
-            "keywords": ["Namco", "Pac-Man", "Sesame Street", "Cookie Monster", "cookie"],
-            "source": "https://www.threadless.com/product/2362/Cookies/",
-            "dates": []
+            "id": "b5fac53d-6339-467d-996d-a4cfdcc485e7",
+            "name": "BlizzCon 2016",
+            "text": ["X", "2016", "BLIZZ", "CON", "", "BLIZZ", "CON", "ANAHEIM 2016"],
+            "keywords": ["Blizzard", "BlizzCon", "BlizzCon 2016", "StarCraft", "StarCraft 2", "StarCraft II", "SC2", "SCII", "Nova", "Nova: Covert Ops", "WarCraft", "World of Warcraft", "Sylvanas Windrunner", "Sylvanas", "Diablo", "Chromie", "Bronze Dragonflight", "Hearthstone", "Inkeeper", "Harth Stonebrew", "Sarge", "Overwatch", "Ana"],
+            "images": ["front", "back"],
+            "dates": ["2021-08-28"]
         },
         {
             "id": "47e31e62-e2f7-4679-9d73-725db4119fc0",
@@ -1340,6 +1352,38 @@
             "source": "https://shirt.woot.com/offers/book-the-movie",
             "images": ["front"],
             "images-name": "book-movie",
+            "dates": ["2021-08-28"]
+        },
+        {
+            "id": "6381231e-2b35-45db-9378-d6cc9ef063a7",
+            "name": "X-Men",
+            "style": "polo",
+            "text": ["⮾"],
+            "keywords": ["comics", "Marvel", "X-Men"],
+            "images": ["front", "logo"],
+            "dates": ["2021-08-29"]
+        },
+        {
+            "id": "cc03a091-1818-4fc2-9f50-ed8ed9ff861a",
+            "name": "Prisoner Kerrigan",
+            "text": ["[24601]", "StarCraft", "II", "", "StarCraft", "II", "10 YEAR ANNIVERSARY", "2010", "2020"],
+            "keywords": ["Blizzard", "StarCraft", "StarCraft II", "Kerrigan", "Sarah Kerrigan"],
+            "images": ["front", "back"],
+            "dates": ["2021-08-30"]
+        },
+        {
+            "id": "ab154159-b4d6-4a2b-b172-650101e534f8",
+            "name": "Other Shirt Is Clever",
+            "text": ["MY OTHER", "SHIRT", "IS CLEVER"],
+            "dates": ["2021-08-31"]
+        },
+
+        {
+            "id": "7dfebc67-2b41-4e65-b88c-22251a5dde9e",
+            "name": "Cookies",
+            "text": ["🍪 🍪 🍪 🍪 🍪"],
+            "keywords": ["Namco", "Pac-Man", "Sesame Street", "Cookie Monster", "cookie"],
+            "source": "https://www.threadless.com/product/2362/Cookies/",
             "dates": []
         },
 
@@ -1414,6 +1458,31 @@
             "source": "https://alpineschools.org/clearcreekcamp/",
             "images": ["front", "logo"],
             "images-name": "clear-creek",
+            "dates": []
+        },
+        {
+            "id": "165b0878-f0bb-46a7-8324-832b5d4f87ac",
+            "name": "Habits of the Mind",
+            "text": ["HABITS OF THE MIND", "BYU", "ENTERING CLASS OF 2002"],
+            "keywords": ["school", "university", "Brigham Young University", "BYU"],
+            "source": "https://byu.edu",
+            "images": ["front", "logo"],
+            "dates": []
+        },
+        {
+            "id": "e17c1892-2fde-4173-a752-72f8ebcf2785",
+            "name": "Salisbury 2001",
+            "text": ["SALISBURY", "2001", "", "TIMPANOGOS"],
+            "keywords": ["Salisbury", "family reunion", "Timpanogos", "cruise"],
+            "images": ["front", "back", "logo"],
+            "dates": []
+        },
+        {
+            "id": "1152fbad-233d-4d71-a015-dd1cf5ec1171",
+            "name": "UVSC",
+            "text": ["UTAH VALLEY", "STATE COLLEGE"],
+            "keywords": ["school", "college", "UVSC", "Utah Valley State College", "Utah Valley University", "university"],
+            "images": ["front", "logo"],
             "dates": []
         }
     ]
