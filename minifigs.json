@@ -781,6 +781,14 @@
             "set": 76173,
             "dates": ["2021-09-01"]
         },
+        {
+            "id": "b8630ce5-20ff-4f57-8da0-32516f653f2d",
+            "name": "Space Captain America",
+            "keywords": ["comics", "Marvel", "Space", "Captain America"],
+            "item": "sh228",
+            "set": 76049,
+            "dates": ["2021-09-02"]
+        },
 
 
 
@@ -791,14 +799,6 @@
             "keywords": ["Marvel", "comics", "Spider-Man", "Marvel Cinematic Universe", "robber", "Captain America"],
             "item": "sh422",
             "set": 76082,
-            "dates": []
-        },
-        {
-            "id": "b8630ce5-20ff-4f57-8da0-32516f653f2d",
-            "name": "Space Captain America",
-            "keywords": ["comics", "Marvel", "Space", "Captain America"],
-            "item": "sh228",
-            "set": 76049,
             "dates": []
         }
     ]
