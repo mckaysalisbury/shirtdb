@@ -35,11 +35,21 @@ function setupList(dataUrl, alterData, displayColumns, itemPage) {
     }</thead>`);
     $(document.body).append(table);
 
+    const keyword = new URLSearchParams(document.location.search).get("keyword");
+
+    function hasKeyword(row) {
+        if (!row.keywords) {
+            console.error("Row doesn't have 'keywords'.", row);
+            return false;
+        }
+        return !keyword || row.keywords.includes(keyword);
+    }
+
     // https://www.datatables.net/examples/ajax/objects.html
-    table.DataTable({
+    const dataTable = table.DataTable({
         ajax: {
             url: dataUrl,
-            dataSrc: (response) => (data = response.data).map(addRecentDate).map(alterData).map(listPrimaryImage),
+            dataSrc: (response) => (data = response.data).filter(hasKeyword).map(addRecentDate).map(alterData).map(listPrimaryImage),
         },
         rowId: 'id',
         columns: displayColumns.map((name) => { return {'data': name}}),
@@ -78,26 +88,38 @@ function htmlify(row) {
     return row;
 }
 
+function keywordsToLinks(row) {
+    row.keywords = row.keywords.map(keyword => `<a href="${itemsPage()}?keyword=${keyword}">${keyword}</a>`);
+    return row;
+}
+
+function itemsPage() {
+    return document.location.pathname.replace(/\.html/, "s.html");
+}
+
 function setupItem(url, preprocess) {
     const id = new URLSearchParams(document.location.search).get("id");
     if (id === null) {
-        alert("ID Not specified");
+        alert("ID Not specified. Redirecting to list of all items");
+        document.location = itemsPage();
     } else {
-        const div = $('<div id="mainDiv">')
+        const div = $('<div id="mainDiv">');
         $(document.body).append(div)
 
         $.ajax({url, success: function(result) {
             const matches = result.data.filter(minifig => minifig.id === id);
             if (matches.length === 0) {
-                alert("ID specified not found")
+                alert("ID specified not found");
+            } else if (matches.length > 1) {
+                alert("ID specified found twice");
             } else {
-                match = htmlify(preprocess(matches[0]));
+                match = keywordsToLinks(htmlify(preprocess(matches[0])));
                 for (key in match) {
                     if (key.startsWith(tablePrefix)) {
                         delete match[key]; // duplicate only needed for tables
                     }
                 }
-                ListBoy.RenderTo(match, "mainDiv")
+                ListBoy.RenderTo(match, "mainDiv");
             }
         }});
     }
