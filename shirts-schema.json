@@ -31,7 +31,7 @@
                     "type": "array",
                     "items": {
                         "type":"string",
-                        "enum": ["front", "back", "logo", "left", "right"]
+                        "enum": ["front", "back", "logo", "left", "right", "dark"]
                     }
                 },
                 "keywords": {
