@@ -1390,17 +1390,40 @@
             "source": "https://oldnavy.com",
             "dates": ["2021-09-04"]
         },
-
-
-
+        {
+            "id": "c1aacfc5-a615-41d6-ab7a-5d74f0e6671e",
+            "name": "Guardians of the Galaxy",
+            "style": "polo",
+            "dates": ["2021-09-05"]
+        },
+        {
+            "id": "c7525316-7e66-4318-a142-1f2d22680217",
+            "name": "Penny! Penny! Penny!",
+            "dates": ["2021-09-06"]
+        },
+        {
+            "id": "68ba961b-5d7d-4c87-b49e-fe6f9bfe8894",
+            "name": "Cosa Nostra",
+            "dates": ["2021-09-07"]
+        },
+        {
+            "id": "04156526-36c0-4cd2-b625-e670674c43ec",
+            "name": "Insurrection",
+            "text": ["THE BATTLE FOR PARADISE HAS BEGUN", "STAR TREK", "INSURRECTION"],
+            "keywords": ["Star Trek", "movie", "Insurrection", "Star Trek: Insurrection", "ST9", "Enterprise", "Enterprise-E", "NCC 1701-E", "Son'a", "Ru'afo"],
+            "dates": ["2021-09-08"]
+        },
         {
             "id": "7dfebc67-2b41-4e65-b88c-22251a5dde9e",
             "name": "Cookies",
             "text": ["🍪 🍪 🍪 🍪 🍪"],
             "keywords": ["Namco", "Pac-Man", "Sesame Street", "Cookie Monster", "cookie"],
             "source": "https://www.threadless.com/product/2362/Cookies/",
-            "dates": []
+            "dates": ["2021-09-09"]
         },
+
+
+
 
         {
             "id": "ed597377-5b47-4f14-9ab1-918ccd260de0",

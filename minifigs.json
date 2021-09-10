@@ -779,7 +779,7 @@
             "keywords": ["comics", "Marvel", "Spider-Man"],
             "item": "sh684",
             "set": 76173,
-            "dates": ["2021-09-01"]
+            "dates": ["2021-09-01", "2021-09-05"]
         },
         {
             "id": "b8630ce5-20ff-4f57-8da0-32516f653f2d",
@@ -789,16 +789,73 @@
             "set": 76049,
             "dates": ["2021-09-02"]
         },
-
-
-
-
         {
             "id": "710ccb19-93fc-439f-9ace-8e3023c92509",
             "name": "Masked Robber - Blue Mask, Red Shirt",
             "keywords": ["Marvel", "comics", "Spider-Man", "Marvel Cinematic Universe", "robber", "Captain America"],
             "item": "sh422",
             "set": 76082,
+            "dates": ["2021-09-07"]
+        },
+        {
+            "id": "1c03915c-a0ef-4425-9778-e0e76678a351",
+            "name": "Leonard Hofstadter",
+            "keywords": ["Big Bang Theory", "recycling", "glasses"],
+            "item": "idea014",
+            "set": 21302,
+            "dates": ["2021-09-08"]
+        },
+        {
+            "id": "a2aceae3-255f-4d91-9dff-b2c23f85d695",
+            "name": "Sheldon Cooper",
+            "item": "idea013",
+            "set": 21302,
+            "keywords": ["Big Bang Theory", "comics", "DC", "Flash"],
+            "dates": ["2021-09-09"]
+        },
+
+
+
+
+
+        {
+            "id": "8f31ecb0-95f6-46b4-8889-bf1d44c47a0f",
+            "name": "Penny",
+            "item": "idea015",
+            "set": 21302,
+            "keywords": ["Big Bang Theory"],
+            "dates": []
+        },
+        {
+            "id": "fa9ae531-7c0b-4cba-86fa-307bc517fa91",
+            "name": "Amy Farrah Fowler",
+            "item": "idea019",
+            "set": 21302,
+            "keywords": ["Big Bang Theory"],
+            "dates": []
+        },
+        {
+            "id": "b83b84b2-f79a-406d-8064-41175213637f",
+            "name": "Howard Wolowitz",
+            "item": "idea016",
+            "set": 21302,
+            "keywords": ["Big Bang Theory"],
+            "dates": []
+        },
+        {
+            "id": "64ec682d-7e2d-4a07-acf8-14b6f948fdac",
+            "name": "Bernadette Rostenkowski",
+            "item": "idea018",
+            "set": 21302,
+            "keywords": ["Big Bang Theory"],
+            "dates": []
+        },
+        {
+            "id": "acb4e245-0d4e-4e14-bb04-b1a5dd6ef0fb",
+            "name": "Raj Koothrappali",
+            "item": "idea017",
+            "set": 21302,
+            "keywords": ["Big Bang Theory"],
             "dates": []
         }
     ]
