@@ -813,18 +813,13 @@
             "keywords": ["Big Bang Theory", "comics", "DC", "Flash"],
             "dates": ["2021-09-09"]
         },
-
-
-
-
-
         {
             "id": "8f31ecb0-95f6-46b4-8889-bf1d44c47a0f",
             "name": "Penny",
             "item": "idea015",
             "set": 21302,
             "keywords": ["Big Bang Theory"],
-            "dates": []
+            "dates": ["2021-09-10"]
         },
         {
             "id": "fa9ae531-7c0b-4cba-86fa-307bc517fa91",
@@ -832,8 +827,11 @@
             "item": "idea019",
             "set": 21302,
             "keywords": ["Big Bang Theory"],
-            "dates": []
+            "dates": ["2021-09-13"]
         },
+
+
+
         {
             "id": "b83b84b2-f79a-406d-8064-41175213637f",
             "name": "Howard Wolowitz",

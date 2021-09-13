@@ -16,7 +16,7 @@
                 },
                 "style": {
                     "type": "string",
-                    "enum": ["t-shirt", "polo", "pocket", "long sleeve", "button down"]
+                    "enum": ["t-shirt", "polo", "pocket", "long sleeve", "button down", "embroidered"]
                 },
                 "text": {
                     "type": "array",

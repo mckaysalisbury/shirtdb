@@ -600,7 +600,7 @@
             "id": "a6e09661-5cfb-4223-b627-e452147b07ac",
             "name": "ArQAde: StarCraft",
             "text": ["ARQADE"],
-            "keywords": ["gaming.stackexchange.com", "Stack Exchange"],
+            "keywords": ["gaming.stackexchange.com", "Stack Exchange", "ArQAde"],
             "source": "https://contests.stackoverflow.com/promos/13/answerswarm",
             "images": ["front", "logo"],
             "images-name": "arqade-sc",
@@ -867,7 +867,7 @@
             "id": "4c1cd803-9590-4ce2-bea9-26d9afec6576",
             "name": "Super Duo Jump",
             "text": ["M", "L"],
-            "keywords": ["Nintendo", "Mario", "Luigi", "DC", "comics", "Batman", "Robin", "fusion"],
+            "keywords": ["Nintendo", "Mario", "Luigi", "DC", "comics", "Batman", "Robin", "mashup"],
             "source": "https://shirt.woot.com/offers/super-duo-jump",
             "images": ["front"],
             "dates": ["2021-07-17"]
@@ -1035,7 +1035,7 @@
             "id": "a58e519d-17c8-4eed-8b3f-fa6883059831",
             "name": "The Devourer",
             "text": [],
-            "keywords": ["Sesame Street", "Cookie Monster", "cookie", "milk", "galaxy", "Milky Way", "planet", "comics", "Marvel", "Galactus", "fusion"],
+            "keywords": ["Sesame Street", "Cookie Monster", "cookie", "milk", "galaxy", "Milky Way", "planet", "comics", "Marvel", "Galactus", "mashup"],
             "source": "https://shirt.woot.com/offers/the-devourer",
             "images": ["front"],
             "dates": ["2021-08-05"]
@@ -1044,7 +1044,7 @@
             "id": "8a581326-47e0-429f-9b98-b2fe353438da",
             "name": "Some Game Involving Falling Blocks In The Style Of M.C. Escher",
             "text": [],
-            "keywords": ["M.C. Escher", "Tetris", "fusion", "optical illusion"],
+            "keywords": ["M.C. Escher", "Tetris", "mashup", "optical illusion"],
             "source": "https://shirt.woot.com/offers/some-game-involving-falling-blocks-in-the-style-of-m-c-escher",
             "images": ["front"],
             "images-name": "escher-blocks",
@@ -1165,7 +1165,7 @@
             "id": "1e244453-ebd5-466b-bc9b-45fba67cad7d",
             "name": "Son of Manio",
             "text": [],
-            "keywords": ["Mario", "Magritte", "Son of Man", "fusion", "mushroom", "star", "fire flower", "pipe", "plumber"],
+            "keywords": ["Mario", "Magritte", "Son of Man", "mashup", "mushroom", "star", "fire flower", "pipe", "plumber"],
             "images": ["front"],
             "images-name": "son-of-manio",
             "source": "https://shirt.woot.com/offers/son-of-manio",
@@ -1179,13 +1179,13 @@
             "source": "https://shirt.woot.com/offers/po-tay-toes",
             "images-name": "po-tay-toes",
             "images": ["front"],
-            "dates": ["2021-08-18"]
+            "dates": ["2021-08-18", "2021-09-11"]
         },
         {
             "id": "6f8654be-27fd-4fe6-8ae5-543caaa6876c",
             "name": "ManDELOREAN",
             "text": ["DMC", "BOUNTYHUNTER", "MANDELOREAN"],
-            "keywords": ["Back to the Future", "Doc Brown", "Marty McFly", "time machine", "Delorean", "Star Wars", "Mandalorian", "baby Yoda", "Grogu", "fusion"],
+            "keywords": ["Back to the Future", "Doc Brown", "Marty McFly", "time machine", "Delorean", "Star Wars", "Mandalorian", "baby Yoda", "Grogu", "mashup"],
             "source": "https://shirt.woot.com/offers/mandelorean",
             "images": ["front"],
             "images-name": "mandelorean",
@@ -1324,6 +1324,7 @@
             "name": "BlizzCon 2016",
             "text": ["X", "2016", "BLIZZ", "CON", "", "BLIZZ", "CON", "ANAHEIM 2016"],
             "keywords": ["Blizzard", "BlizzCon", "BlizzCon 2016", "StarCraft", "StarCraft 2", "StarCraft II", "SC2", "SCII", "Nova", "Nova: Covert Ops", "WarCraft", "World of Warcraft", "Sylvanas Windrunner", "Sylvanas", "Diablo", "Chromie", "Bronze Dragonflight", "Hearthstone", "Inkeeper", "Harth Stonebrew", "Sarge", "Overwatch", "Ana"],
+            "source": "https://blizzcon.com",
             "images": ["front", "back"],
             "dates": ["2021-08-28"]
         },
@@ -1343,6 +1344,7 @@
             "style": "polo",
             "text": ["⮾"],
             "keywords": ["comics", "Marvel", "X-Men"],
+            "source": "https://thinkgeek.com",
             "images": ["front", "logo"],
             "dates": ["2021-08-29"]
         },
@@ -1351,14 +1353,18 @@
             "name": "Prisoner Kerrigan",
             "text": ["[24601]", "StarCraft", "II", "", "StarCraft", "II", "10 YEAR ANNIVERSARY", "2010", "2020"],
             "keywords": ["Blizzard", "StarCraft", "StarCraft II", "Kerrigan", "Sarah Kerrigan"],
+            "source": "https://gear.blizzard.com",
             "images": ["front", "back"],
             "dates": ["2021-08-30"]
         },
         {
             "id": "ab154159-b4d6-4a2b-b172-650101e534f8",
-            "name": "Other Shirt Is Clever",
+            "name": "My Other Shirt Is Clever",
             "text": ["MY OTHER", "SHIRT", "IS CLEVER"],
             "keywords": ["free shirt", "meta"],
+            "images": ["front", "logo"],
+            "source": "https://thinkgeek.com",
+            "images-name": "clever",
             "dates": ["2021-08-31"]
         },
         {
@@ -1366,6 +1372,9 @@
             "name": "Batman Graffiti",
             "text": [],
             "keywords": ["comics", "DC", "Batman", "graffiti"],
+            "notes": "I have two copies of this shirt",
+            "source": "https://sixflags.com",
+            "images": ["front"],
             "dates": ["2021-09-01"]
         },
         {
@@ -1373,6 +1382,8 @@
             "name": "Double-Slit Experiment T-Shirt",
             "text": ["FIGURE 1: PHOTON IS OBSERVED", "FIGURE 2: PHOTON IS UNOBSERVED", "FIGURE 3: PHOTON IN OBSERVED AFTER LEAVING THE PLANE", "*CONCLUSION: THIS IS A GREAT IDEA FOR A TSHIRT.", "TM & © Warner Bros. Entertainment Inc.", "($10)"],
             "keywords": ["Big Bang Theory", "physics", "quantum mechanics", "double-slit experiment", "Heisenberg principle", "wave-particle duality", "electron"],
+            "source": "https://thinkgeek.com",
+            "images": ["front"],
             "dates": ["2021-09-02"]
         },
         {
@@ -1380,6 +1391,8 @@
             "name": "Dark Knight",
             "text": ["THE", "DARK KNIGHT"],
             "keywords": ["comics", "DC", "Detective Comics", "Batman", "Dark Knight"],
+            "notes": "I probably picked this up at Target or something",
+            "images": ["front"], 
             "dates": ["2021-09-03"]
         },
         {
@@ -1388,22 +1401,34 @@
             "text": ["Unathletic"],
             "keywords": ["sports", "athletics"],
             "source": "https://oldnavy.com",
+            "images": ["front"],
             "dates": ["2021-09-04"]
         },
         {
             "id": "c1aacfc5-a615-41d6-ab7a-5d74f0e6671e",
             "name": "Guardians of the Galaxy",
             "style": "polo",
+            "text": [],
+            "source": "https://thinkgeek.com",
+            "keywords": ["comics", "Marvel", "Guardians of the Galaxy", "Ravagers"],
+            "images": ["logo", "front"],
             "dates": ["2021-09-05"]
         },
         {
             "id": "c7525316-7e66-4318-a142-1f2d22680217",
-            "name": "Penny! Penny! Penny!",
+            "name": "Penny!",
+            "text": ["PENNY!", "PENNY!", "PENNY!"],
+            "keywords": ["mashup", "Big Bang Theory", "Leonard", "Leonard Hofstadter", "Sheldon", "Sheldon Cooper", "Penny", "video games", "Nintendo", "Zelda", "Legend of Zelda", "Link", "Navi"],
+            "source": "https://thinkgeek.com",
+            "images": ["front"],
             "dates": ["2021-09-06"]
         },
         {
             "id": "68ba961b-5d7d-4c87-b49e-fe6f9bfe8894",
             "name": "Cosa Nostra",
+            "text": ["COSA", "30:00", "NOSTRA", "PIZZA", "#3569, Proudly Serving", "the Valley Burbclaves"],
+            "keywords": ["pizza", "Snow Crash", "Neal Stephenson", "Hiro Protagonist"],
+            "images": ["front"],
             "dates": ["2021-09-07"]
         },
         {
@@ -1411,6 +1436,7 @@
             "name": "Insurrection",
             "text": ["THE BATTLE FOR PARADISE HAS BEGUN", "STAR TREK", "INSURRECTION"],
             "keywords": ["Star Trek", "movie", "Insurrection", "Star Trek: Insurrection", "ST9", "Enterprise", "Enterprise-E", "NCC 1701-E", "Son'a", "Ru'afo"],
+            "images": ["front"],
             "dates": ["2021-09-08"]
         },
         {
@@ -1419,10 +1445,64 @@
             "text": ["🍪 🍪 🍪 🍪 🍪"],
             "keywords": ["Namco", "Pac-Man", "Sesame Street", "Cookie Monster", "cookie"],
             "source": "https://www.threadless.com/product/2362/Cookies/",
+            "images": ["front", "logo"],
             "dates": ["2021-09-09"]
+        },
+        {
+            "id": "2e2576b6-3f33-4635-aad9-db62fdfc1df6",
+            "name": "Pi Be Rational",
+            "text": ["Get Real", "Be Rational", "π", "√-1"],
+            "keywords": ["math", "pi", "square root", "irrational", "rational", "numbers", "imaginary", "real"],
+            "source": "https://www.snorgtees.com/pi-be-rational",
+            "images": ["front"],
+            "dates": ["2021-09-10"]
+        },
+        {
+            "id": "edfd43d2-63ae-431f-b639-b21b8ab317a1",
+            "name": "light blue polo",
+            "style": "polo",
+            "text": [],
+            "keywords": [],
+            "source": "https://oldnavy.com",
+            "dates": ["2021-09-12"]
+        },
+        {
+            "id": "86f393ef-72e5-4627-835d-4bb019d8f105",
+            "name": "Test or do not test",
+            "text": ["TEST OR DO NOT TEST", "THERE IS NO TRY", "", "PARASOFT®", "Automated Software Testing"],
+            "keywords": ["testing", "Star Wars", "Yoda", "Try not", "Do or do not", "There is no try"],
+            "source": "https://qcon.com",
+            "images": ["front", "back"],
+            "dates": ["2021-09-13"]
         },
 
 
+        {
+            "id": "e9be9319-4b20-4486-9d45-8a92c8e897c1",
+            "name": "Gaming StackExchange",
+            "text": ["♥ GAMING.STACKEXCHANGE.COM"],
+            "keywords": ["StackExchange", "ArQAde"],
+            "source": "https://gaming.stackexchange.com/",
+            "images": ["front"],
+            "dates": []
+        },
+        {
+            "id": "6f0fee02-1727-4169-a4b0-2ce64eaebc52",
+            "name": "This Was a Triumph",
+            "keywords": ["Valve", "Portal", "the cake is a lie", "cake", "cooking", "baking", "mixer", "bowl", "fork", "plate", "memory core", "companion cube", "weighted companion cube"],
+            "text": [],
+            "source": "https://shirt.woot.com/offers/this-was-a-triumph",
+            "images": ["front"],
+            "dates": []
+        },
+        {
+            "id": "0c13c0c6-0638-40f7-a33a-37c90ece918b",
+            "name": "Gremlin",
+            "text": ["Break things on purpose"],
+            "keywords": ["software", "Gremlin", "chaos monkey"],
+            "images": ["front", "back"],
+            "dates": []
+        },
 
 
         {
@@ -1521,6 +1601,33 @@
             "text": ["UTAH VALLEY", "STATE COLLEGE"],
             "keywords": ["school", "college", "UVSC", "Utah Valley State College", "Utah Valley University", "university"],
             "images": ["front", "logo"],
+            "dates": []
+        },
+        {
+            "id": "85a13d68-0a4a-4236-a859-ba12877f738d",
+            "name": "Salvation Army - Emergency Disaster Services",
+            "text": ["EMERGENCY DISASTER", "THE", "SALVATION", "ARMY", "®", "SERVICES"],
+            "keywords": ["Tropical Storm Allison", "flood", "Salvation Army", "Emergency Disaster Services"],
+            "images-name": "disaster",
+            "images": ["front", "logo", "back"],
+            "dates": []
+        },
+        {
+            "id": "49128e9d-94fd-46b5-adc3-276ed6fd8ea3",
+            "name": "Star Trek",
+            "style": "embroidered",
+            "text": ["STAR TREK®"],
+            "keywords": ["Star Trek"],
+            "notes": "This shirt was acquired a few decades ago, and has been worn through near the embroidery",
+            "images": ["front", "logo"],
+            "dates": []
+        },
+        {
+            "id": "4c25925b-095b-4e25-8268-a6af397424c4",
+            "name": "Hotsaints",
+            "text": ["℠", "", "℠ hot℠", "saints", ".com", "...chase and be chaste!℠"],
+            "keywords": ["online dating", "Hotsaints"],
+            "images": ["front", "back"],
             "dates": []
         }
     ]
