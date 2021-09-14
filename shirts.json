@@ -1475,6 +1475,16 @@
             "images": ["front", "back"],
             "dates": ["2021-09-13"]
         },
+        {
+            "id": "0c13c0c6-0638-40f7-a33a-37c90ece918b",
+            "name": "Gremlin",
+            "text": ["Break things on purpose"],
+            "keywords": ["software", "Gremlin", "chaos monkey"],
+            "images": ["front", "back"],
+            "dates": ["2021-09-14"]
+        },
+
+
 
 
         {
@@ -1495,14 +1505,6 @@
             "images": ["front"],
             "dates": []
         },
-        {
-            "id": "0c13c0c6-0638-40f7-a33a-37c90ece918b",
-            "name": "Gremlin",
-            "text": ["Break things on purpose"],
-            "keywords": ["software", "Gremlin", "chaos monkey"],
-            "images": ["front", "back"],
-            "dates": []
-        },
 
 
         {
@@ -1513,6 +1515,14 @@
             "notes": "I got this for participating in setting the world record for most number of eggs balanced at BYU.",
             "images-name": "world-record-egg",
             "images": ["front"],
+            "dates": []
+        },
+        {
+            "id": "4c25925b-095b-4e25-8268-a6af397424c4",
+            "name": "Hotsaints",
+            "text": ["℠", "", "℠ hot℠", "saints", ".com", "...chase and be chaste!℠"],
+            "keywords": ["online dating", "Hotsaints"],
+            "images": ["front", "back"],
             "dates": []
         },
         {
@@ -1620,14 +1630,6 @@
             "keywords": ["Star Trek"],
             "notes": "This shirt was acquired a few decades ago, and has been worn through near the embroidery",
             "images": ["front", "logo"],
-            "dates": []
-        },
-        {
-            "id": "4c25925b-095b-4e25-8268-a6af397424c4",
-            "name": "Hotsaints",
-            "text": ["℠", "", "℠ hot℠", "saints", ".com", "...chase and be chaste!℠"],
-            "keywords": ["online dating", "Hotsaints"],
-            "images": ["front", "back"],
             "dates": []
         }
     ]

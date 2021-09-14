@@ -829,17 +829,18 @@
             "keywords": ["Big Bang Theory"],
             "dates": ["2021-09-13"]
         },
-
-
-
         {
             "id": "b83b84b2-f79a-406d-8064-41175213637f",
             "name": "Howard Wolowitz",
             "item": "idea016",
             "set": 21302,
             "keywords": ["Big Bang Theory"],
-            "dates": []
+            "dates": ["2021-09-14"]
         },
+
+
+
+
         {
             "id": "64ec682d-7e2d-4a07-acf8-14b6f948fdac",
             "name": "Bernadette Rostenkowski",
