@@ -1483,19 +1483,6 @@
             "images": ["front", "back"],
             "dates": ["2021-09-14"]
         },
-
-
-
-
-        {
-            "id": "e9be9319-4b20-4486-9d45-8a92c8e897c1",
-            "name": "Gaming StackExchange",
-            "text": ["♥ GAMING.STACKEXCHANGE.COM"],
-            "keywords": ["StackExchange", "ArQAde"],
-            "source": "https://gaming.stackexchange.com/",
-            "images": ["front"],
-            "dates": []
-        },
         {
             "id": "6f0fee02-1727-4169-a4b0-2ce64eaebc52",
             "name": "This Was a Triumph",
@@ -1503,8 +1490,19 @@
             "text": [],
             "source": "https://shirt.woot.com/offers/this-was-a-triumph",
             "images": ["front"],
-            "dates": []
+            "dates": ["2021-09-15"]
         },
+        {
+            "id": "e9be9319-4b20-4486-9d45-8a92c8e897c1",
+            "name": "Gaming StackExchange",
+            "text": ["♥ GAMING.STACKEXCHANGE.COM"],
+            "keywords": ["StackExchange", "ArQAde"],
+            "source": "https://gaming.stackexchange.com/",
+            "images": ["front"],
+            "dates": ["2021-09-16"]
+        },
+
+
 
 
         {

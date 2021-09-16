@@ -837,18 +837,25 @@
             "keywords": ["Big Bang Theory"],
             "dates": ["2021-09-14"]
         },
-
-
-
-
+        {
+            "id": "6a448b30-ec52-4238-b3d0-8491dab8ce69",
+            "name": "Green Lantern, Simon Baz",
+            "keywords": ["comics", "DC", "Green Lantern"],
+            "item": "colsh08",
+            "set": 70126,
+            "dates": ["2021-09-15"]
+        },
         {
             "id": "64ec682d-7e2d-4a07-acf8-14b6f948fdac",
             "name": "Bernadette Rostenkowski",
             "item": "idea018",
             "set": 21302,
             "keywords": ["Big Bang Theory"],
-            "dates": []
+            "dates": ["2021-09-16"]
         },
+
+
+
         {
             "id": "acb4e245-0d4e-4e14-bb04-b1a5dd6ef0fb",
             "name": "Raj Koothrappali",
