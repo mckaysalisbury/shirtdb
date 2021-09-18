@@ -853,16 +853,13 @@
             "keywords": ["Big Bang Theory"],
             "dates": ["2021-09-16"]
         },
-
-
-
         {
             "id": "acb4e245-0d4e-4e14-bb04-b1a5dd6ef0fb",
             "name": "Raj Koothrappali",
             "item": "idea017",
             "set": 21302,
             "keywords": ["Big Bang Theory"],
-            "dates": []
+            "dates": ["2021-09-17"]
         }
     ]
 }
