@@ -47,7 +47,7 @@
             "keywords": ["encryption", "redacted", "legal", "illegal number", "hexadecimal", "AACS", "interpolation"],
             "images": ["front"],
             "source": "https://thinkgeek.com",
-            "dates": ["2021-04-29"]
+            "dates": ["2021-04-29", "2021-09-21"]
         },
         {
             "id": "844b8c14-c6b0-4381-b568-9074f22e73b0",
@@ -110,7 +110,7 @@
             "keywords": ["StarCrafts", "StarCraft", "Ultralisk", "Marines"],
             "images": ["front"],
             "source": "https://blizzcon.com",
-            "dates": ["2021-05-05"]
+            "dates": ["2021-05-05", "2021-09-20"]
         },
         {
             "id": "a46d37cd-9416-40b2-8df7-3b35e3d81e84",
