@@ -884,7 +884,7 @@
             "keywords": ["Minecraft", "Villager"],
             "item": "min028",
             "set": 21128,
-            "dates": []
+            "dates": ["2021-09-22"]
         },
         {
             "id": "c6f246cb-eb69-49c7-953e-de77a3a7ff4f",
@@ -911,9 +911,6 @@
             "set": 21154,
             "dates": []
         },
-
-
-
         {
             "id": "73117179-c8cd-4425-a781-72cc91898734",
             "name": "Steve - Medium Lavender Helmet, Medium Azure Armor, Flat Silver Legs",
