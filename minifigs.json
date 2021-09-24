@@ -887,28 +887,38 @@
             "dates": ["2021-09-22"]
         },
         {
+            "id": "8022efb5-6245-4d23-a81d-4db6843d5a39",
+            "name": "Wither Skeleton - Straight Arms",
+            "keywords": ["Minecraft", "skeleton", "wither skeleton", "nether"],
+            "item": "min025",
+            "set": 21154,
+            "dates": ["2021-09-23"]
+        },
+        {
             "id": "c6f246cb-eb69-49c7-953e-de77a3a7ff4f",
             "name": "Alex",
             "item": "min017",
             "set": 21158,
             "notes": "We have a couple of these, from 21158 and ",
             "keywords": ["Minecraft", "Alex"],
-            "dates": []
-        },
-        {
-            "id": "8022efb5-6245-4d23-a81d-4db6843d5a39",
-            "name": "Wither Skeleton - Straight Arms",
-            "keywords": ["Minecraft", "skeleton", "wither skeleton", "nether"],
-            "item": "min025",
-            "set": 21154,
-            "dates": []
+            "dates": ["2021-09-24"]
         },
         {
             "id": "6bd19604-4361-4342-88fb-8a9c376cfb94",
             "name": "Blaze - Cone Stand",
+            "style": "character",
             "keywords": ["Minecraft", "Blaze", "nether"],
             "item": "min071",
             "set": 21154,
+            "dates": []
+        },
+        {
+            "id": "246a65ff-7469-4e0b-b774-fbec72dd57c9",
+            "name": "Creeper",
+            "style": "character",
+            "keywords": ["Minecraft", "Creeper"],
+            "item": "min012",
+            "set": 21138,
             "dates": []
         },
         {
