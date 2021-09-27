@@ -101,7 +101,7 @@
             "images": ["front"],
             "images-name": "dark-cookies",
             "source": "https://thinkgeek.com",
-            "dates": ["2021-05-04"]
+            "dates": ["2021-05-04", "2021-09-27"]
         },
         {
             "id": "a51080ed-5c3f-425a-add3-533d161c8d4b",
@@ -1512,6 +1512,15 @@
             "images": ["front", "logo"],
             "dates": ["2021-09-19"]
         },
+        {
+            "id": "4f410ae4-06a5-42b4-aa40-ace4c44d0399",
+            "name": "Blue Sun",
+            "style": "polo",
+            "text": ["BLUE", "SUN", "靑日"],
+            "keywords": ["Firefly", "Serenity", "Blue Sun", "Blue Sun Corporation"],
+            "source": "https://thinkgeek.com",
+            "dates": ["2021-09-26"]
+        }
 
 
 
