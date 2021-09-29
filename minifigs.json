@@ -912,7 +912,24 @@
             "set": 21154,
             "dates": ["2021-09-27"]
         },
-
+        {
+            "id": "17f2e37a-7c02-458f-82b9-9f50113926bd",
+            "name": "Star-Lord - Mask, Jacket with Side Buttons",
+            "keywords": ["Marvel", "Guardians of the Galaxy", "Star-Lord", "Peter Quill"],
+            "actor": "Chris Pratt",
+            "item": "sh123",
+            "set": 76021,
+            "dates": ["2021-09-29"]
+        },
+        {
+            "id": "395dd928-bb90-4d3e-ad79-38ef5a1014e4",
+            "name": "Gamora, Dark Red Suit",
+            "keywords": ["Marvel", "Guardians of the Galaxy", "Gamora", "Gamora Zen Whoberi Ben Titan", "The Most Dangerous Woman in the Universe"],
+            "actor": "Zoe Saldana",
+            "item": "sh124",
+            "set": 76021,
+            "dates": []
+        },
         {
             "id": "5af27fcd-85d5-4f8d-b3d9-fe70b4d8b1e8",
             "name": "Drax",
@@ -922,7 +939,14 @@
             "set": 76021,
             "dates": []
         },
-
+        {
+            "id": "13be43d0-4cf0-427c-ba9f-4ad09f8afdd1",
+            "name": "The Sakaaran",
+            "keywords": ["Marvel", "Guardians of the Galaxy"],
+            "item": "sh120",
+            "set": 76021,
+            "dates": []
+        },
 
 
         {
