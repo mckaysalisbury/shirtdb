@@ -33,7 +33,7 @@
             "actor": "Lee Pace",
             "item": "sh126",
             "set": 76021,
-            "dates": ["2021-04-29"]
+            "dates": ["2021-04-29", "2021-09-28"]
         },
         {
             "id": "4116cfd0-d067-4f70-96d6-bdf153a1a910",
@@ -912,6 +912,19 @@
             "set": 21154,
             "dates": ["2021-09-27"]
         },
+
+        {
+            "id": "5af27fcd-85d5-4f8d-b3d9-fe70b4d8b1e8",
+            "name": "Drax",
+            "keywords": ["Marvel", "Guardians of the Galaxy", "Drax", "Drax the Destroyer"],
+            "actor": "Dave Bautista",
+            "item": "sh125",
+            "set": 76021,
+            "dates": []
+        },
+
+
+
         {
             "id": "246a65ff-7469-4e0b-b774-fbec72dd57c9",
             "name": "Creeper",
