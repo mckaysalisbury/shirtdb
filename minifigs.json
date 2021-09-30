@@ -922,20 +922,20 @@
             "dates": ["2021-09-29"]
         },
         {
-            "id": "395dd928-bb90-4d3e-ad79-38ef5a1014e4",
-            "name": "Gamora, Dark Red Suit",
-            "keywords": ["Marvel", "Guardians of the Galaxy", "Gamora", "Gamora Zen Whoberi Ben Titan", "The Most Dangerous Woman in the Universe"],
-            "actor": "Zoe Saldana",
-            "item": "sh124",
-            "set": 76021,
-            "dates": []
-        },
-        {
             "id": "5af27fcd-85d5-4f8d-b3d9-fe70b4d8b1e8",
             "name": "Drax",
             "keywords": ["Marvel", "Guardians of the Galaxy", "Drax", "Drax the Destroyer"],
             "actor": "Dave Bautista",
             "item": "sh125",
+            "set": 76021,
+            "dates": ["2021-09-30"]
+        },
+        {
+            "id": "395dd928-bb90-4d3e-ad79-38ef5a1014e4",
+            "name": "Gamora, Dark Red Suit",
+            "keywords": ["Marvel", "Guardians of the Galaxy", "Gamora", "Gamora Zen Whoberi Ben Titan", "The Most Dangerous Woman in the Universe"],
+            "actor": "Zoe Saldana",
+            "item": "sh124",
             "set": 76021,
             "dates": []
         },
