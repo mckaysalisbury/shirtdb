@@ -937,7 +937,7 @@
             "actor": "Zoe Saldana",
             "item": "sh124",
             "set": 76021,
-            "dates": []
+            "dates": ["2021-10-01"]
         },
         {
             "id": "13be43d0-4cf0-427c-ba9f-4ad09f8afdd1",
@@ -945,9 +945,37 @@
             "keywords": ["Marvel", "Guardians of the Galaxy"],
             "item": "sh120",
             "set": 76021,
+            "notes": "Also in 76020",
             "dates": []
         },
-
+        {
+            "id": "0c6c8ce3-c928-4551-814d-5c86c42e950d",
+            "name": "Nebula",
+            "keywords": ["Marvel", "Guardians of the Galaxy", "Nebula"],
+            "actor": "Karen Gillan",
+            "item": "sh121",
+            "set": 76020,
+            "dates": []
+        },
+        {
+            "id": "2e1f0e89-a4b3-4b60-9c03-0d5a58e746fd",
+            "name": "Rocket Raccoon - Orange Outfit",
+            "keywords": ["Marvel", "Guardians of the Galaxy", "Rocket", "Rocket Raccoon"],
+            "actor": "Bradley Cooper",
+            "item": "sh122",
+            "set": 76020,
+            "dates": []
+        },
+        {
+            "id": "b9137e58-da8c-443f-ace2-dd860ad30047",
+            "name": "Groot",
+            "style": "item",
+            "keywords": ["Marvel", "Guardians of the Galaxy", "Groot"],
+            "actor": "Vin Diesel",
+            "part": "spa0010",
+            "set": 76020,
+            "dates": []
+        },
 
         {
             "id": "246a65ff-7469-4e0b-b774-fbec72dd57c9",
