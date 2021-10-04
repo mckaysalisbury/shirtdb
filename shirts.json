@@ -1521,6 +1521,15 @@
             "source": "https://thinkgeek.com",
             "dates": ["2021-09-26"]
         },
+        {
+            "id": "ec32aa4c-f646-4cd8-91f9-144879cc1e29",
+            "name": "D20",
+            "style": "polo",
+            "text": ["20"],
+            "keywords": ["D20", "dice", "icosahedron", "dice chucking", "RPG", "TTRPG"],
+            "source": "https://thinkgeek.com",
+            "dates": ["2021-10-03"]
+        }
 
 
         {
