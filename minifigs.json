@@ -657,7 +657,7 @@
             "style": "giant",
             "item": "sh230",
             "set": 76049,
-            "dates": ["2021-08-12"]
+            "dates": ["2021-08-12", "2021-10-04"]
         },
         {
             "id": "1d3b33a9-28b2-43a7-b538-7fd0a7d4abd4",
@@ -940,6 +940,15 @@
             "dates": ["2021-10-01"]
         },
         {
+            "id": "2e1f0e89-a4b3-4b60-9c03-0d5a58e746fd",
+            "name": "Rocket Raccoon - Orange Outfit",
+            "keywords": ["Marvel", "Guardians of the Galaxy", "Rocket", "Rocket Raccoon"],
+            "actor": "Bradley Cooper",
+            "item": "sh122",
+            "set": 76020,
+            "dates": ["2021-10-05"]
+        },
+        {
             "id": "13be43d0-4cf0-427c-ba9f-4ad09f8afdd1",
             "name": "The Sakaaran",
             "keywords": ["Marvel", "Guardians of the Galaxy"],
@@ -954,15 +963,6 @@
             "keywords": ["Marvel", "Guardians of the Galaxy", "Nebula"],
             "actor": "Karen Gillan",
             "item": "sh121",
-            "set": 76020,
-            "dates": []
-        },
-        {
-            "id": "2e1f0e89-a4b3-4b60-9c03-0d5a58e746fd",
-            "name": "Rocket Raccoon - Orange Outfit",
-            "keywords": ["Marvel", "Guardians of the Galaxy", "Rocket", "Rocket Raccoon"],
-            "actor": "Bradley Cooper",
-            "item": "sh122",
             "set": 76020,
             "dates": []
         },
