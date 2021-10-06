@@ -949,21 +949,21 @@
             "dates": ["2021-10-05"]
         },
         {
-            "id": "13be43d0-4cf0-427c-ba9f-4ad09f8afdd1",
-            "name": "The Sakaaran",
-            "keywords": ["Marvel", "Guardians of the Galaxy"],
-            "item": "sh120",
-            "set": 76021,
-            "notes": "Also in 76020",
-            "dates": []
-        },
-        {
             "id": "0c6c8ce3-c928-4551-814d-5c86c42e950d",
             "name": "Nebula",
             "keywords": ["Marvel", "Guardians of the Galaxy", "Nebula"],
             "actor": "Karen Gillan",
             "item": "sh121",
             "set": 76020,
+            "dates": ["2021-10-06"]
+        },
+        {
+            "id": "13be43d0-4cf0-427c-ba9f-4ad09f8afdd1",
+            "name": "The Sakaaran",
+            "keywords": ["Marvel", "Guardians of the Galaxy"],
+            "item": "sh120",
+            "set": 76021,
+            "notes": "Also in 76020",
             "dates": []
         },
         {
