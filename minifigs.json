@@ -38,7 +38,7 @@
         {
             "id": "4116cfd0-d067-4f70-96d6-bdf153a1a910",
             "name": "Catwoman - Short Legs",
-            "keywords": ["DC", "Batman", "Catwoman", "Mighty Micro"],
+            "keywords": ["DC", "Batman", "Catwoman", "mighty micro"],
             "item": "sh243",
             "set": 76061,
             "dates": ["2021-04-30"]
@@ -99,7 +99,7 @@
         {
             "id": "a9e7cc33-9c47-48d9-96f7-c3f7783437c3",
             "name": "Captain America - Short Legs",
-            "keywords": ["Marvel", "Mighty Micro"],
+            "keywords": ["Marvel", "mighty micro"],
             "item": "sh250",
             "set": 76065,
             "dates": ["2021-05-11"]
@@ -208,7 +208,7 @@
         {
             "id": "b5f7486d-2b3b-408b-9b0b-f645622e1434",
             "name": "Robo SWAT with Helmet",
-            "keywords": ["The Lego Movie"],
+            "keywords": ["The LEGO Movie"],
             "item": "tlm046",
             "set": 70781,
             "dates": ["2021-05-27"]
@@ -958,15 +958,6 @@
             "dates": ["2021-10-06"]
         },
         {
-            "id": "13be43d0-4cf0-427c-ba9f-4ad09f8afdd1",
-            "name": "The Sakaaran",
-            "keywords": ["Marvel", "Guardians of the Galaxy"],
-            "item": "sh120",
-            "set": 76021,
-            "notes": "Also in 76020",
-            "dates": []
-        },
-        {
             "id": "b9137e58-da8c-443f-ace2-dd860ad30047",
             "name": "Groot",
             "style": "item",
@@ -975,6 +966,24 @@
             "part": "spa0010",
             "set": 76020,
             "dates": ["2021-10-07"]
+        },
+        {
+            "id": "affe215a-517f-47b6-8a4a-edf70d02917c",
+            "name": "Thanos - Short Legs",
+            "keywords": ["comics", "Marvel", "Thanos", "mighty micro"],
+            "item": "sh363",
+            "set": 76072,
+            "dates": ["2021-10-08"]
+        },
+
+        {
+            "id": "13be43d0-4cf0-427c-ba9f-4ad09f8afdd1",
+            "name": "The Sakaaran",
+            "keywords": ["Marvel", "Guardians of the Galaxy"],
+            "item": "sh120",
+            "set": 76021,
+            "notes": "Also in 76020",
+            "dates": []
         },
 
         {
@@ -992,6 +1001,46 @@
             "keywords": ["Minecraft", "Steve", "Armor"],
             "item": "min060",
             "set": 21143,
+            "dates": []
+        },
+        {
+            "id": "b6a9764c-1223-4092-a09f-e2ff57c031f8",
+            "name": "Iron Man - Short Legs",
+            "keywords": ["comics", "Marvel", "Iron Man", "Tony Stark", "mighty micro"],
+            "item": "sh362",
+            "set": 76072,
+            "dates": []
+        },
+        {
+            "id": "8d1eac55-1a1c-4afa-a0a8-ce70f0a2eb3e",
+            "name": "AIM Agent",
+            "keywords": ["comics", "Marvel", "AIM", "Advanced Ideas Mechanics"],
+            "item": "sh624",
+            "set": 76143,
+            "dates": []
+        },
+        {
+            "id": "d427e2d2-13a2-4eb1-a45a-822b470ac02c",
+            "name": "AIM Agent - Jet Pack",
+            "keywords": ["comics", "Marvel", "AIM", "Advanced Ideas Mechanics"],
+            "item": "sh627",
+            "set": 76143,
+            "dates": []
+        },
+        {
+            "id": "dd3fdf27-576a-4f82-b929-cfea9c707df7",
+            "name": "Captain America - Dark Blue Suit, Black Hands",
+            "keywords": ["comics", "Marvel", "Captain America", "Steve Rogers"],
+            "item": "sh625",
+            "set": 76143,
+            "dates": []
+        },
+        {
+            "id": "550e4585-fe26-4582-af38-adaa882c4db9",
+            "name": "Hawkeye - Black and Dark Purple Suit, Goggles, Quiver",
+            "keywords": ["comics", "Marvel", "Hawkeye", "Clint Barton"],
+            "item": "sh626",
+            "set": 76143,
             "dates": []
         }
     ]

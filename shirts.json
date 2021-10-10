@@ -225,7 +225,7 @@
             "images": ["front"],
             "images-name": "qr",
             "source": "https://thinkgeek.com",
-            "dates": ["2021-05-17"]
+            "dates": ["2021-05-17", "2021-10-08"]
         },
         {
             "id": "563640b6-9b27-4bcd-956a-9d221c4d56b4",
@@ -1529,6 +1529,14 @@
             "keywords": ["D20", "dice", "icosahedron", "dice chucking", "RPG", "TTRPG"],
             "source": "https://thinkgeek.com",
             "dates": ["2021-10-03"]
+        },
+        {
+            "id": "1623e5ad-8b63-42ec-ac5c-5e112740095b",
+            "name": "Bazinga Polo",
+            "text": ["BAZINGA!™"],
+            "style": "polo",
+            "keywords": ["Big Bang Theory", "Sheldon Cooper"],
+            "dates": ["2021-10-10"]
         },
 
 
