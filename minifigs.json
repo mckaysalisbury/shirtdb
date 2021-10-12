@@ -975,7 +975,6 @@
             "set": 76072,
             "dates": ["2021-10-08"]
         },
-
         {
             "id": "13be43d0-4cf0-427c-ba9f-4ad09f8afdd1",
             "name": "The Sakaaran",
@@ -985,7 +984,6 @@
             "notes": "Also in 76020",
             "dates": ["2021-10-11"]
         },
-
         {
             "id": "246a65ff-7469-4e0b-b774-fbec72dd57c9",
             "name": "Creeper",
@@ -993,7 +991,7 @@
             "keywords": ["Minecraft", "Creeper"],
             "item": "min012",
             "set": 21138,
-            "dates": []
+            "dates": ["2021-10-12"]
         },
         {
             "id": "73117179-c8cd-4425-a781-72cc91898734",
