@@ -197,7 +197,7 @@
             "keywords": ["SpaceX", "Mars", "Elon Musk"],
             "source": "https://www.spacex.com/",
             "images": ["front", "back"],
-            "dates": ["2021-05-14"]
+            "dates": ["2021-05-14", "2021-10-14"]
         },
         {
             "id": "8dd10d04-4107-47e9-a571-c079f4a37bb3",
@@ -594,7 +594,7 @@
             "keywords": ["Sesame Street", "Cookie Monster", "Cookies", "Disney", "DuckTales", "Scrooge McDuck", "money bin", "cookie bin"],
             "source": "https://shirt.woot.com/offers/cookie-diving",
             "images": ["front"],
-            "dates": ["2021-06-17"]
+            "dates": ["2021-06-17", "2021-10-13"]
         },
         {
             "id": "a6e09661-5cfb-4223-b627-e452147b07ac",

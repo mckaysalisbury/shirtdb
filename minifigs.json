@@ -994,12 +994,20 @@
             "dates": ["2021-10-12"]
         },
         {
+            "id": "550e4585-fe26-4582-af38-adaa882c4db9",
+            "name": "Hawkeye - Black and Dark Purple Suit, Goggles, Quiver",
+            "keywords": ["comics", "Marvel", "Hawkeye", "Clint Barton"],
+            "item": "sh626",
+            "set": 76143,
+            "dates": ["2021-10-13"]
+        },
+        {
             "id": "73117179-c8cd-4425-a781-72cc91898734",
             "name": "Steve - Medium Lavender Helmet, Medium Azure Armor, Flat Silver Legs",
             "keywords": ["Minecraft", "Steve", "Armor"],
             "item": "min060",
             "set": 21143,
-            "dates": []
+            "dates": ["2021-10-14"]
         },
         {
             "id": "b6a9764c-1223-4092-a09f-e2ff57c031f8",
@@ -1034,11 +1042,47 @@
             "dates": []
         },
         {
-            "id": "550e4585-fe26-4582-af38-adaa882c4db9",
-            "name": "Hawkeye - Black and Dark Purple Suit, Goggles, Quiver",
-            "keywords": ["comics", "Marvel", "Hawkeye", "Clint Barton"],
-            "item": "sh626",
-            "set": 76143,
+            "id": "5423c8ab-7b00-42f0-97cc-98f530fe5ce0",
+            "name": "Kai - Legacy, White Shirt",
+            "keywords": ["Ninjago", "Kai"],
+            "item": "njo643",
+            "set": 71730,
+            "dates": []
+        }
+        ,
+        {
+            "id": "8e39d744-927e-46dc-99f2-ab1453e669b4",
+            "name": "Skulkin - Hat",
+            "keywords": ["Ninjago", "Skulkin", "skeleton"],
+            "item": "njo642",
+            "set": 71730,
+            "dates": []
+        },
+        {
+            "id": "4ee3c08a-36cd-447a-a1b8-f8b1458ac37d",
+            "name": "Ant-Man (Scott Lang) - Original Suit",
+            "keywords": ["comics", "Marvel", "Avengers", "Ant-Man", "Scott Lang"],
+            "actor": "Paul Rudd",
+            "item": "sh201",
+            "set": 76039,
+            "dates": []
+        },
+        {
+            "id": "4ee3c08a-36cd-447a-a1b8-f8b1458ac37d",
+            "name": "Hank Pym",
+            "keywords": ["comics", "Marvel", "Avengers", "Ant-Man", "Hank Pym"],
+            "actor": "Michael Douglas",
+            "item": "sh201",
+            "set": 76039,
+            "dates": []
+        },
+        {
+            "id": "4ee3c08a-36cd-447a-a1b8-f8b1458ac37d",
+            "name": "Yellow Jacket",
+            "keywords": ["comics", "Marvel", "Ant-Man", "Darren Cross"],
+            "actor": "Corey Stoll",
+            "item": "sh201",
+            "set": 76039,
             "dates": []
         }
     ]
