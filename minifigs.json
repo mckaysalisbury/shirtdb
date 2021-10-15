@@ -1015,7 +1015,7 @@
             "keywords": ["comics", "Marvel", "Iron Man", "Tony Stark", "mighty micro"],
             "item": "sh362",
             "set": 76072,
-            "dates": []
+            "dates": ["2021-10-15"]
         },
         {
             "id": "8d1eac55-1a1c-4afa-a0a8-ce70f0a2eb3e",
@@ -1083,6 +1083,33 @@
             "actor": "Corey Stoll",
             "item": "sh201",
             "set": 76039,
+            "dates": []
+        },
+        {
+            "id": "c4e741fd-2a6d-4e26-85b2-a75f33b952e5",
+            "name": "Torpedo Ted",
+            "style": "character",
+            "keywords": ["Super Mario", "Torpedo Ted", "Bullet Bill"],
+            "item": "mar0073",
+            "set": 71394,
+            "dates": []
+        },
+        {
+            "id": "d4c30f44-a8a1-4c7b-986f-32a797e7f8c6",
+            "name": "Boo - Shy",
+            "style": "character",
+            "keywords": ["Super Mario", "Boo", "ghost"],
+            "item": "mar0075",
+            "set": 71394,
+            "dates": []
+        },
+        {
+            "id": "e41cc3c3-12e0-484a-baca-b9e8225de870",
+            "name": "1-Up Mushroom",
+            "style": "character",
+            "keywords": ["Super Mario", "1-Up", "mushroom"],
+            "item": "mar0066",
+            "set": 71394,
             "dates": []
         }
     ]
