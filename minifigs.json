@@ -1018,6 +1018,14 @@
             "dates": ["2021-10-15"]
         },
         {
+            "id": "dd3fdf27-576a-4f82-b929-cfea9c707df7",
+            "name": "Captain America - Dark Blue Suit, Black Hands",
+            "keywords": ["comics", "Marvel", "Captain America", "Steve Rogers"],
+            "item": "sh625",
+            "set": 76143,
+            "dates": ["2021-10-17", "2021-10-18"]
+        },
+        {
             "id": "8d1eac55-1a1c-4afa-a0a8-ce70f0a2eb3e",
             "name": "AIM Agent",
             "keywords": ["comics", "Marvel", "AIM", "Advanced Ideas Mechanics"],
@@ -1030,14 +1038,6 @@
             "name": "AIM Agent - Jet Pack",
             "keywords": ["comics", "Marvel", "AIM", "Advanced Ideas Mechanics"],
             "item": "sh627",
-            "set": 76143,
-            "dates": []
-        },
-        {
-            "id": "dd3fdf27-576a-4f82-b929-cfea9c707df7",
-            "name": "Captain America - Dark Blue Suit, Black Hands",
-            "keywords": ["comics", "Marvel", "Captain America", "Steve Rogers"],
-            "item": "sh625",
             "set": 76143,
             "dates": []
         },

@@ -353,7 +353,7 @@
             "keywords": [],
             "source": "QCon 2018",
             "images": ["front", "back", "left"],
-            "dates": ["2021-05-24"]
+            "dates": ["2021-05-24", "2021-10-18"]
         },
         {
             "id": "6310f4d3-0310-4c36-9e9a-b9ccf19af06e",
@@ -1537,6 +1537,15 @@
             "style": "polo",
             "keywords": ["Big Bang Theory", "Sheldon Cooper"],
             "dates": ["2021-10-10"]
+        },
+        {
+            "id": "aac7bd49-4793-40dc-8ab6-661371b95684",
+            "name": "Enterprise - Sciences division",
+            "style": "polo",
+            "text": [],
+            "keywords": ["Star Trek", "Starfleet uniform", "U.S.S. Enterprise", "Sciences blue", ""],
+            "source": "https://thinkgeek.com",
+            "dates": ["2021-10-17"]
         },
 
 
