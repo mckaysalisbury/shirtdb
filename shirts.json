@@ -344,7 +344,7 @@
             "keywords": ["Blizzard", "StarCraft II", "Archon"],
             "source": "https://blizzcon.com/",
             "images": ["front", "back"],
-            "dates": ["2021-05-22"]
+            "dates": ["2021-05-22", "2021-10-20"]
         },
         {
             "id": "68f25860-7811-46ca-9739-b1c69d06a358",
@@ -372,7 +372,7 @@
             "keywords": ["NAMCO", "Pac-Man", "ghost", "glow in the dark"],
             "source": "https://thinkgeek.com",
             "images": ["front", "dark"],
-            "dates": ["2021-05-26"]
+            "dates": ["2021-05-26", "2021-10-19"]
         },
         {
             "id": "b055fe52-b229-4af9-a031-b1757fbda1da",
