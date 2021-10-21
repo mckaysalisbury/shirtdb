@@ -1042,6 +1042,15 @@
             "dates": ["2021-10-20"]
         },
         {
+            "id": "e41cc3c3-12e0-484a-baca-b9e8225de870",
+            "name": "1-Up Mushroom",
+            "style": "character",
+            "keywords": ["Super Mario", "1-Up", "mushroom"],
+            "item": "mar0066",
+            "set": 71394,
+            "dates": ["2021-10-21"]
+        },
+        {
             "id": "5423c8ab-7b00-42f0-97cc-98f530fe5ce0",
             "name": "Kai - Legacy, White Shirt",
             "keywords": ["Ninjago", "Kai"],
@@ -1100,15 +1109,6 @@
             "style": "character",
             "keywords": ["Super Mario", "Boo", "ghost"],
             "item": "mar0075",
-            "set": 71394,
-            "dates": []
-        },
-        {
-            "id": "e41cc3c3-12e0-484a-baca-b9e8225de870",
-            "name": "1-Up Mushroom",
-            "style": "character",
-            "keywords": ["Super Mario", "1-Up", "mushroom"],
-            "item": "mar0066",
             "set": 71394,
             "dates": []
         }
