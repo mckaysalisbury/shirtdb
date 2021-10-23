@@ -421,7 +421,7 @@
             "images": ["front", "back"],
             "images-name": "I♥SCz",
             "source": "https://blizzcon.com",
-            "dates": ["2021-05-31"]
+            "dates": ["2021-05-31", "2021-10-22"]
         },
         {
             "id": "a38ff64e-2360-4876-9c55-e1b306d1d7d5",
@@ -491,7 +491,7 @@
             "source": "https://blizzcon.com",
             "images": ["front", "logo", "back", "left"],
             "images-name": "terran-dominion",
-            "dates": ["2021-06-05"]
+            "dates": ["2021-06-05", "2021-10-23"]
         },
         {
             "id": "d8c49ad6-8d3e-4ce2-8adb-c23923ee40d4",

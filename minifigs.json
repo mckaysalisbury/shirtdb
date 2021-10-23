@@ -99,7 +99,7 @@
         {
             "id": "a9e7cc33-9c47-48d9-96f7-c3f7783437c3",
             "name": "Captain America - Short Legs",
-            "keywords": ["Marvel", "mighty micro"],
+            "keywords": ["Marvel", "mighty micro", "Captain America"],
             "item": "sh250",
             "set": 76065,
             "dates": ["2021-05-11"]
@@ -296,7 +296,7 @@
         {
             "id": "995c0a8e-990d-46bc-8b3e-d1ac61520b1c",
             "name": "Captain America - Detailed Suit - Mask",
-            "keywords": ["Marvel", "Age of Ultron"],
+            "keywords": ["comics", "Marvel", "Age of Ultron", "Marvel Cinematic Universe", "Captain America"],
             "actor": "Chris Evans",
             "item": "sh177",
             "set": 76032,
@@ -1051,6 +1051,24 @@
             "dates": ["2021-10-21"]
         },
         {
+            "id": "c4e741fd-2a6d-4e26-85b2-a75f33b952e5",
+            "name": "Torpedo Ted",
+            "style": "character",
+            "keywords": ["Super Mario", "Torpedo Ted", "Bullet Bill"],
+            "item": "mar0073",
+            "set": 71394,
+            "dates": ["2021-10-22"]
+        },
+        {
+            "id": "d4c30f44-a8a1-4c7b-986f-32a797e7f8c6",
+            "name": "Boo - Shy",
+            "style": "character",
+            "keywords": ["Super Mario", "Boo", "ghost"],
+            "item": "mar0075",
+            "set": 71394,
+            "dates": []
+        },
+        {
             "id": "5423c8ab-7b00-42f0-97cc-98f530fe5ce0",
             "name": "Kai - Legacy, White Shirt",
             "keywords": ["Ninjago", "Kai"],
@@ -1092,24 +1110,6 @@
             "actor": "Corey Stoll",
             "item": "sh201",
             "set": 76039,
-            "dates": []
-        },
-        {
-            "id": "c4e741fd-2a6d-4e26-85b2-a75f33b952e5",
-            "name": "Torpedo Ted",
-            "style": "character",
-            "keywords": ["Super Mario", "Torpedo Ted", "Bullet Bill"],
-            "item": "mar0073",
-            "set": 71394,
-            "dates": []
-        },
-        {
-            "id": "d4c30f44-a8a1-4c7b-986f-32a797e7f8c6",
-            "name": "Boo - Shy",
-            "style": "character",
-            "keywords": ["Super Mario", "Boo", "ghost"],
-            "item": "mar0075",
-            "set": 71394,
             "dates": []
         }
     ]
