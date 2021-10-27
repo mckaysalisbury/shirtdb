@@ -451,7 +451,7 @@
             "source": "https://www.uniqlo.com/us/en/blizzard-short-sleeve-graphic-t-shirt-starcraft-412719.html",
             "images": ["front"],
             "images-name": "races",
-            "dates": ["2021-06-02"]
+            "dates": ["2021-06-02", "2021-10-26"]
         },
         {
             "id": "bdfa52cc-1b47-4457-9623-ff7e35caba1b",
@@ -1519,6 +1519,7 @@
             "text": ["BLUE", "SUN", "靑日"],
             "keywords": ["Firefly", "Serenity", "Blue Sun", "Blue Sun Corporation"],
             "source": "https://thinkgeek.com",
+            "images": ["front", "logo"],
             "dates": ["2021-09-26"]
         },
         {
@@ -1528,6 +1529,7 @@
             "text": ["20"],
             "keywords": ["D20", "dice", "icosahedron", "dice chucking", "RPG", "TTRPG"],
             "source": "https://thinkgeek.com",
+            "images": ["front", "logo"],
             "dates": ["2021-10-03"]
         },
         {
@@ -1536,6 +1538,7 @@
             "text": ["BAZINGA!™"],
             "style": "polo",
             "keywords": ["Big Bang Theory", "Sheldon Cooper"],
+            "images": ["front", "logo"],
             "dates": ["2021-10-10"]
         },
         {
@@ -1545,6 +1548,8 @@
             "text": [],
             "keywords": ["Star Trek", "Starfleet uniform", "U.S.S. Enterprise", "Sciences blue", ""],
             "source": "https://thinkgeek.com",
+            "images-name": "sciences",
+            "images": ["front", "logo"],
             "dates": ["2021-10-17"]
         },
         {
@@ -1552,6 +1557,7 @@
             "name": "NASA",
             "text": ["NASA"],
             "keywords": ["NASA", "National Aeronotics and Space Administration", "space", "government"],
+            "images": ["front", "logo"],
             "dates": ["2021-10-24"]
         },
 
