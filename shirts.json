@@ -460,7 +460,7 @@
             "keywords": ["Nintendo", "Mario", "Super Mario Bros.", "TMNT", "Teenage Mutant Ninja Turtles", "Koopa Troopa", "Koopa Paratroopa"],
             "images": ["front", "logo"],
             "images-name": "koopas",
-            "dates": ["2021-06-03"]
+            "dates": ["2021-06-03", "2021-10-28"]
         },
         {
             "id": "527784a5-dd6d-4748-b571-f98aa34c1a04",
@@ -511,7 +511,7 @@
             "source": "https://teefury.com",
             "images-name": "green-eggs",
             "images": ["front"],
-            "dates": ["2021-06-07"]
+            "dates": ["2021-06-07", "2021-10-27"]
         },
         {
             "id": "a1959e64-bb5a-41f8-8528-1deafb1e1261",
@@ -538,7 +538,7 @@
             "keywords": ["Blizzard", "Protoss", "Zeratul", "Artanis", "Selendis"],
             "source": "https://gear.blizzard.com",
             "images": ["front", "back", "logo"],
-            "dates": ["2021-06-11"]
+            "dates": ["2021-06-11", "2021-10-29"]
         },
         {
             "id": "1ff0f00a-f9d7-4e82-9439-7d05217645dd",
