@@ -1089,12 +1089,12 @@
             "name": "Hank Pym",
             "keywords": ["comics", "Marvel", "Avengers", "Ant-Man", "Hank Pym"],
             "actor": "Michael Douglas",
-            "item": "sh201",
+            "item": "sh202",
             "set": 76039,
             "dates": ["2021-10-28"]
         },
         {
-            "id": "4ee3c08a-36cd-447a-a1b8-f8b1458ac37d",
+            "id": "56cfa972-3eb4-412d-9f84-105795e44b16",
             "name": "Ant-Man (Scott Lang) - Original Suit",
             "keywords": ["comics", "Marvel", "Avengers", "Ant-Man", "Scott Lang"],
             "actor": "Paul Rudd",
@@ -1103,11 +1103,11 @@
             "dates": ["2021-11-01"]
         },
         {
-            "id": "4ee3c08a-36cd-447a-a1b8-f8b1458ac37d",
+            "id": "50bf18d0-1aa1-4c90-b10d-36f7d09bf32b",
             "name": "Yellow Jacket",
             "keywords": ["comics", "Marvel", "Ant-Man", "Darren Cross"],
             "actor": "Corey Stoll",
-            "item": "sh201",
+            "item": "sh189",
             "set": 76039,
             "dates": []
         },
