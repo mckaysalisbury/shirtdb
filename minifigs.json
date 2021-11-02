@@ -1100,7 +1100,7 @@
             "actor": "Paul Rudd",
             "item": "sh201",
             "set": 76039,
-            "dates": []
+            "dates": ["2021-11-01"]
         },
         {
             "id": "4ee3c08a-36cd-447a-a1b8-f8b1458ac37d",
@@ -1119,6 +1119,206 @@
             "item": "idea077",
             "set": 21324,
             "dates": ["2021-10-29"]
+        },
+        {
+            "id": "1ada1475-7c9d-46b7-b665-f52512445aa0",
+            "name": "Amber Grant",
+            "keywords": ["comics", "Marvel", "Spider-man", "Amber Grant"],
+            "item": "sh725",
+            "set": 76178,
+            "dates": []
+        },
+        {
+            "id": "b019d96b-9adf-43d5-8839-786aa7fbe2c0",
+            "name": "Aunt May - Light Bluish Gray Sweater",
+            "keywords": ["comics", "Marvel", "Spider-man", "Aunt May", "May Parker", "May Reilly Parker"],
+            "item": "sh721",
+            "set": 76178,
+            "dates": []
+        },
+        {
+            "id": "6a6b1f18-ab50-4d50-8fa6-665747fa9ddc",
+            "name": "Ben Urich",
+            "keywords": ["comics", "Marvel", "Spider-man", "Ben Urich", "Daily Bugle"],
+            "item": "sh719",
+            "set": 76178,
+            "dates": []
+        },
+        {
+            "id": "cabc97a4-afdf-4e0a-b0d8-03f316b45aae",
+            "name": "Bernie the Cab Driver",
+            "keywords": ["comics", "Marvel", "Spider-man", "Bernie"],
+            "item": "sh720",
+            "set": 76178,
+            "dates": []
+        },
+        {
+            "id": "4ba37213-4d44-4939-a2ba-fe398cd9b2ac",
+            "name": "Betty Brant",
+            "keywords": ["comics", "Marvel", "Spider-man", "Daily Bugle", "Betty Brant"],
+            "item": "sh726",
+            "set": 76178,
+            "dates": []
+        },
+        {
+            "id": "a3966ad1-1507-45bc-8054-a3f966452f2e",
+            "name": "Black Cat",
+            "keywords": ["comics", "Marvel", "Spider-man", "Black Cat", "Felicia Hardy"],
+            "item": "sh715",
+            "set": 76178,
+            "dates": []
+        },
+        {
+            "id": "8abac279-8f96-484c-9a84-1533cc5e4cd3",
+            "name": "Blade",
+            "keywords": ["comics", "Marvel", "Spider-man", "Blade", "Frank Blade", "Daywalker", "vampire"],
+            "item": "sh713",
+            "set": 76178,
+            "dates": []
+        },
+        {
+            "id": "721fa07f-c868-4298-9deb-b7eb80195256",
+            "name": "Carnage - 2 Long and 2 Short Appendages",
+            "keywords": ["comics", "Marvel", "Spider-man", "Carnage", "Symbiote", "Cletus Kasady", "Klyntar"],
+            "item": "sh723",
+            "set": 76178,
+            "dates": []
+        },
+        {
+            "id": "c3f1d1b7-a4b1-4459-aa03-09ae7f424ec2",
+            "name": "Daredevil",
+            "keywords": ["comics", "Marvel", "Spider-man", "Daredevil", "Matt Murdoch", "Nelson & Murdock", "Man Without Fear"],
+            "item": "sh724",
+            "set": 76178,
+            "dates": []
+        },
+        {
+            "id": "105eb4fe-148e-41a1-baba-dcf8096782de",
+            "name": "Dr. Octopus (Otto Octavius) / Doc Ock - Dark Green Suit with Appendages",
+            "keywords": ["comics", "Marvel", "Spider-man", "Dr. Octopus", "Doc Ock", "Otto Octavius"],
+            "item": "sh727",
+            "set": 76178,
+            "dates": []
+        },
+        {
+            "id": "4e41eabb-fd06-4bbc-8fe9-284c9fe3a3de",
+            "name": "Firestar",
+            "keywords": ["comics", "Marvel", "Spider-man", "Firestar", "Angelica Jones", "Angel"],
+            "item": "sh712",
+            "set": 76178,
+            "dates": []
+        },
+        {
+            "id": "2fa77583-2588-43df-ac7e-547251c819cd",
+            "name": "Ghost Spider / Spider-Gwen, White Hood Basic Smooth",
+            "keywords": ["comics", "Marvel", "Spider-man", "Ghost Spider", "Spider-Gwen", "Gwen Stacy"],
+            "item": "sh682",
+            "set": 76178,
+            "dates": []
+        },
+        {
+            "id": "da8b1973-11ab-4d1d-99f8-1768d5c389e6",
+            "name": "Green Goblin - Bright Green, Dark Purple Outfit",
+            "keywords": ["comics", "Marvel", "Spider-man", "Green Goblin", "Norman Osborn"],
+            "item": "sh695",
+            "set": 76178,
+            "dates": ["2021-10-31"]
+        },
+        {
+            "id": "37762249-1e3b-45ed-abcb-fae4aa1ceca5",
+            "name": "Gwen Stacy",
+            "keywords": ["comics", "Marvel", "Spider-man", "Gwen Stacy"],
+            "item": "sh718",
+            "set": 76178,
+            "dates": []
+        },
+        {
+            "id": "c699cc62-e70a-436b-83dd-44fdc4b4d3f3",
+            "name": "J. Jonah Jameson - Vest with Striped Tie, Swept Back Hair",
+            "keywords": ["comics", "Marvel", "Spider-man", "Daily Bugle", "J. Jonah Jameson"],
+            "item": "sh710",
+            "set": 76178,
+            "dates": []
+        },
+        {
+            "id": "24eec96e-158d-4f7a-9574-e333a5c07b17",
+            "name": "Mysterio - Light Bluish Gray Head, Satin Trans-Light Blue Helmet, Double Hole Cape",
+            "keywords": ["comics", "Marvel", "Spider-man", "Mysterio", "Quentin Beck"],
+            "item": "sh709",
+            "set": 76178,
+            "dates": []
+        },
+        {
+            "id": "a8a7e198-7f08-4a60-994a-0d9433378886",
+            "name": "Peter Parker - Red Jacket",
+            "keywords": ["comics", "Marvel", "Spider-man", "Peter Parker", "Daily Bugle"],
+            "item": "sh714",
+            "set": 76178,
+            "dates": []
+        },
+        {
+            "id": "41853bd3-2291-4231-a900-940912cc5ea1",
+            "name": "Robbie Robertson",
+            "keywords": ["comics", "Marvel", "Spider-man", "Robbie Robertson", "Daily Bugle"],
+            "item": "sh716",
+            "set": 76178,
+            "dates": []
+        },
+        {
+            "id": "c33c1e6f-dec0-48af-88b9-193cd174252c",
+            "name": "Ron Barney",
+            "keywords": ["comics", "Marvel", "Spider-man", "Daily Bugle"],
+            "item": "sh717",
+            "set": 76178,
+            "dates": []
+        },
+        {
+            "id": "f0154564-a963-47dc-9a0d-f2cf4b76ef00",
+            "name": "Sandman - Green Outfit, Tan Sand Form with Swirling Base",
+            "keywords": ["comics", "Marvel", "Spider-man", "Sandman", "Flint Marko", "William Baker"],
+            "item": "sh685",
+            "set": 76178,
+            "dates": []
+        },
+        {
+            "id": "99926dd4-4cf6-4e34-ad49-7f575c7f3338",
+            "name": "Spider-Ham",
+            "keywords": ["comics", "Marvel", "Spider-man", "Spider-Ham", "Peter Porker"],
+            "item": "sh638",
+            "set": 76178,
+            "dates": []
+        },
+        {
+            "id": "419351b5-dd0f-42db-88bf-1b268a4834d5",
+            "name": "Spider-Man - Printed Arms, Red Boots",
+            "keywords": ["comics", "Marvel", "Spider-man", "Peter Parker"],
+            "item": "sh708",
+            "set": 76178,
+            "dates": []
+        },
+        {
+            "id": "c55cbfc6-c061-4abc-adf1-8e79d34d5d2f",
+            "name": "Spider-Man (Miles Morales) - Dark Red Hood",
+            "keywords": ["comics", "Marvel", "Spider-man", "Miles Morales"],
+            "item": "sh679",
+            "set": 76178,
+            "dates": []
+        },
+        {
+            "id": "2b96a080-8522-43d6-ad9a-4771eaa5bba0",
+            "name": "The Punisher",
+            "keywords": ["comics", "Marvel", "Punisher", "Frank Castle", "skull"],
+            "item": "sh722",
+            "set": 76178,
+            "dates": []
+        },
+        {
+            "id": "71c60a04-be1f-4999-b4f9-99fe4840a905",
+            "name": "Venom - 2 Long and 2 Short Appendages",
+            "keywords": ["comics", "Marvel", "Spider-man", "Venom", "Symbiote", "Eddie Brock", "Flash Thompson", "Klyntar"],
+            "item": "sh711",
+            "set": 76178,
+            "dates": []
         }
     ]
 }
