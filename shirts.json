@@ -874,9 +874,9 @@
         },
         {
             "id": "6ff318a1-4268-4aaf-a8f9-934510375a97",
-            "name": "Aperature mechanic",
+            "name": "Aperture mechanic",
             "style": "button down",
-            "text": ["APERATURE", "LABORATORIES"],
+            "text": ["APERTURE", "LABORATORIES"],
             "keywords": ["Valve", "Portal"],
             "images": ["front", "logo"],
             "dates": ["2021-07-18"]
@@ -1020,7 +1020,7 @@
             "keywords": ["Blizzard", "BlizzCon", "BlizzCon 2005", "WarCraft", "World of Warcraft", "Naga", "StarCraft", "ghost", "StarCraft: Ghost", "Nova", "Night Elf", "Diablo"],
             "source": "https://blizzcon.com",
             "images": ["front", "right"],
-            "dates": ["2021-08-03"]
+            "dates": ["2021-08-03", "2021-11-07"]
         },
         {
             "id": "91634c3f-789e-4ff7-a45d-01f23aa675f2",
@@ -1566,6 +1566,14 @@
             "text": [],
             "keywords": ["video games", "Nintendo", "Zelda", "Hyrule", "Link", "The Legend of Zelda"],
             "dates": ["2021-10-31"]
+        },
+        {
+            "id": "a73658a9-fc2c-4902-aa99-11f3de9ac003",
+            "name": "Aperture Laboratories",
+            "text": ["APERTURE", "LABORATORIES"],
+            "style": "pocket polo",
+            "keywords": ["video games", "Valve", "Portal", "Aperture Science", "Half-Life"],
+            "dates": ["2021-11-07"]
         },
 
 
