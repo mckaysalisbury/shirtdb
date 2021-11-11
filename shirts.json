@@ -576,7 +576,7 @@
             "keywords": ["Anime", "鋼の錬金術師", "Hagane no Renkinjutsushi", "Edward Elric", "Alphonse Elric"],
             "images": ["front", "logo"],
             "images-name": "fma",
-            "dates": ["2021-06-15"]
+            "dates": ["2021-06-15", "2021-11-10"]
         },
         {
             "id": "95193574-afba-4b7a-a113-20e1b67e3893",
@@ -1575,6 +1575,13 @@
             "keywords": ["video games", "Valve", "Portal", "Aperture Science", "Half-Life"],
             "dates": ["2021-11-07"]
         },
+        {
+            "id": "cafb77f5-2eca-47ee-80ae-50b298f2e0f5",
+            "name": "Welcome home",
+            "text": ["Welcome home."],
+            "keywords": ["work", "Lending Home", "Kiavi"],
+            "dates": ["2021-11-11"]
+        }
 
 
 
