@@ -567,7 +567,7 @@
             "keywords": ["Firefly", "Serenity", "dinosaur", "Wash", "Hoban Washburne"],
             "images-name": "dinosaur-serenity",
             "images": ["front"],
-            "dates": ["2021-06-14"]
+            "dates": ["2021-06-14", "2021-11-12"]
         },
         {
             "id": "59f98a38-65f1-494f-b609-09990a8713e0",
@@ -1581,7 +1581,7 @@
             "text": ["Welcome home."],
             "keywords": ["work", "Lending Home", "Kiavi"],
             "dates": ["2021-11-11"]
-        }
+        },
 
 
 

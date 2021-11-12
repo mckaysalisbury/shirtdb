@@ -1337,6 +1337,46 @@
             "item": "sh711",
             "set": 76178,
             "dates": []
+        },
+        {
+            "id": "37b59dc3-3567-4c4e-9cfa-5d1ecfc1c3dd",
+            "name": "Captain Marvel - Bright Light Yellow Hair",
+            "keywords": ["comics", "Marvel", "Captain Marvel", "Carol Danvers"],
+            "item": "sh639",
+            "set": 76152,
+            "dates": []
+        },
+        {
+            "id": "66433cb7-1a8b-4bed-ae56-d5661904ba4e",
+            "name": "Hulk with Black Hair and Magenta Pants",
+            "keywords": ["comics", "Marvel", "Hulk", "Bruce Banner"],
+            "item": "sh643",
+            "set": 76152,
+            "dates": ["2021-11-12"]
+        },
+        {
+            "id": "7b70aee4-6302-4687-a529-84a51957f762",
+            "name": "Iron Man with Silver Hexagon on Chest and 1 x 1 Round Bricks",
+            "keywords": ["comics", "Marvel", "Iron Man", "Tony Stark"],
+            "item": "sh649",
+            "set": 76152,
+            "dates": []
+        },
+        {
+            "id": "99478e92-c433-4503-9463-ed0f1d0f16ff",
+            "name": "Loki - Spongy Cape (Juniors), Dark Green Legs",
+            "keywords": ["comics", "Marvel", "Loki", "Asgardian"],
+            "item": "sh644",
+            "set": 76152,
+            "dates": []
+        },
+        {
+            "id": "6a97ccda-5bff-441e-8fb6-b1f8d8244b2c",
+            "name": "Thor - Spongy Cape (Juniors), Pearl Dark Gray Legs",
+            "keywords": ["comics", "Marvel", "Thor", "Asgardian"],
+            "item": "sh645",
+            "set": 76152,
+            "dates": []
         }
     ]
 }
