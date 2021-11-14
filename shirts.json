@@ -147,7 +147,8 @@
             "keywords": ["Marvel", "Captain America", "Shield"],
             "source": "https://thinkgeek.com",
             "images": ["front", "logo"],
-            "dates": ["2021-07-04", "2021-05-09", "2021-09-18"]
+            "notes": "I have two of these",
+            "dates": ["2021-07-04", "2021-05-09", "2021-09-18", "2021-11-14"]
         },
         {
             "id": "3a17fc8b-01a6-40ef-b644-11654c1674ee",
@@ -750,7 +751,7 @@
             "keywords": ["Marvel", "Marvel Cinematic Universe", "Avengers: Endgame", "Thor", "Captain America", "shield", "Mjolnir"],
             "source": "https://shirt.woot.com/offers/also-worthy",
             "images": ["front", "logo"],
-            "dates": ["2021-07-03"]
+            "dates": ["2021-07-03", "2021-11-13"]
         },
         {
             "id": "bb6d129c-9199-4465-b7b5-c471a3dcb59f",
