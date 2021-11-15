@@ -631,11 +631,11 @@
             "id": "0e202712-3d74-4820-9ec6-c65f322adb74",
             "name": "StarCraft II Lightning",
             "text": ["StarCraft", "II"],
-            "keywords": ["Blizzard", "StarCraft"],
+            "keywords": ["Blizzard", "StarCraft", "lightning"],
             "source": "https://blizzcon.com",
             "images": ["front", "logo"],
             "images-name": "sc2-lightning",
-            "dates": ["2021-06-21"]
+            "dates": ["2021-06-21", "2021-11-15"]
         },
         {
             "id": "a2f2f041-518b-45f2-bf10-5c084ace7138",
