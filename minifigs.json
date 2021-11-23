@@ -1112,15 +1112,6 @@
             "dates": ["2021-11-03"]
         },
         {
-            "id": "1d5350a9-be22-47eb-95a8-e0accd8471a7",
-            "name": "Cookie Monster",
-            "keywords": ["television", "Sesame Street", "Cookie Monster", "cookie"],
-            "actor": "Frank Oz",
-            "item": "idea077",
-            "set": 21324,
-            "dates": ["2021-10-29", "2021-11-02"]
-        },
-        {
             "id": "3d1b17d9-1c0f-4af0-8b41-0c3d114b27e1",
             "name": "Doc Brown",
             "keywords": ["movie", "Back to the Future", "Doc Brown", "Emmett Brown"],
@@ -1336,6 +1327,60 @@
             "keywords": ["comics", "Marvel", "Spider-man", "Venom", "Symbiote", "Eddie Brock", "Flash Thompson", "Klyntar"],
             "item": "sh711",
             "set": 76178,
+            "dates": []
+        },
+        {
+            "id": "29c340d5-da46-4eb4-b066-ef9c5a22407f",
+            "name": "Big Bird",
+            "keywords": ["television", "Sesame Street", "Big Bird", "muppet", "bird"],
+            "actor": "Caroll Spinney",
+            "item": "idea073",
+            "set": 21324,
+            "dates": ["2021-11-23"]
+        },
+        {
+            "id": "c04630a7-f254-43e6-86c5-51e33723bcb9",
+            "name": "Elmo",
+            "keywords": ["television", "Sesame Street", "Elmo", "muppet", "monster"],
+            "actor": "Kevin Clash",
+            "item": "idea074",
+            "set": 21324,
+            "dates": []
+        },
+        {
+            "id": "6da820e8-77c5-49f8-a642-132a4aa9ec31",
+            "name": "Ernie",
+            "keywords": ["television", "Sesame Street", "Ernie", "muppet"],
+            "actor": "Jim Henson",
+            "item": "idea075",
+            "set": 21324,
+            "dates": []
+        },
+        {
+            "id": "ca9a31ac-b1aa-4b13-9942-ab9b8e67009d",
+            "name": "Bert",
+            "keywords": ["television", "Sesame Street", "Bert", "muppet"],
+            "actor": "Frank Oz",
+            "item": "idea076",
+            "set": 21324,
+            "dates": []
+        },
+        {
+            "id": "1d5350a9-be22-47eb-95a8-e0accd8471a7",
+            "name": "Cookie Monster",
+            "keywords": ["television", "Sesame Street", "Cookie Monster", "cookie", "monster", "muppet"],
+            "actor": "Frank Oz",
+            "item": "idea077",
+            "set": 21324,
+            "dates": ["2021-10-29", "2021-11-02"]
+        },
+        {
+            "id": "8eedc304-6830-4a05-9291-db8639acffd5",
+            "name": "Oscar the Grouch",
+            "keywords": ["television", "Sesame Street", "Oscar", "Oscar the Grouch", "grouch", "monster", "muppet"],
+            "actor": "Caroll Spinney",
+            "item": "idea077",
+            "set": 21324,
             "dates": []
         },
         {
