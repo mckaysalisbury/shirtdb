@@ -277,15 +277,6 @@
             "dates": ["2021-06-08"]
         },
         {
-            "id": "171d0bb9-2ddd-4a35-9887-84844a0da9c8",
-            "name": "Hulk with Black Hair and Dark Purple Pants",
-            "style": "giant",
-            "keywords": ["Marvel"],
-            "item": "sh095",
-            "set": 76018,
-            "dates": ["2021-06-09", "2021-11-10"]
-        },
-        {
             "id": "36854b33-6cd5-4857-9dab-0e2383edd24d",
             "name": "Robo SWAT",
             "keywords": ["The LEGO Movie"],
@@ -1381,6 +1372,47 @@
             "actor": "Caroll Spinney",
             "item": "idea077",
             "set": 21324,
+            "dates": []
+        },
+        {
+            "id": "171d0bb9-2ddd-4a35-9887-84844a0da9c8",
+            "name": "Hulk with Black Hair and Dark Purple Pants",
+            "style": "giant",
+            "keywords": ["Marvel", "comics", "Hulk", "Bruce Banner"],
+            "item": "sh095",
+            "set": 76018,
+            "dates": ["2021-06-09", "2021-11-10"]
+        },
+        {
+            "id": "24ab1709-e6fb-4d02-9bb5-87b95d40b946",
+            "name": "Thor - No Beard",
+            "keywords": ["Marvel", "comics", "Thor", "Thor Odinson"],
+            "item": "sh098",
+            "set": 76018,
+            "dates": []
+        },
+        {
+            "id": "3e8a78ef-1e3b-4cb8-95ac-0c8c2a649dee",
+            "name": "Falcon - Red",
+            "keywords": ["Marvel", "comics", "Falcon", "Sam Wilson", "Samuel Thomas Wilson"],
+            "item": "sh099",
+            "set": 76018,
+            "dates": []
+        },
+        {
+            "id": "389fddc9-169f-4bf1-b184-a3070b8f6270",
+            "name": "Taskmaster - White Cape and Hood",
+            "keywords": ["Marvel", "comics", "Taskmaster"],
+            "item": "sh100",
+            "set": 76018,
+            "dates": []
+        },
+        {
+            "id": "388739ff-2451-4a9e-8a34-992cf15f5c1e",
+            "name": "MODOK",
+            "keywords": ["Marvel", "comics", "MODOK", "M.O.D.O.K.", "Mental Organism Designed Only for Killing", "Mobile Organism Designed Only for Killing", "Mechanized Organism Designed Only for Killing"],
+            "item": "sh101",
+            "set": 76018,
             "dates": []
         },
         {
