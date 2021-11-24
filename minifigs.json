@@ -1286,7 +1286,7 @@
             "keywords": ["comics", "Marvel", "Spider-man", "Spider-Ham", "Peter Porker"],
             "item": "sh638",
             "set": 76178,
-            "dates": ["2021-11-21"]
+            "dates": ["2021-11-21", "2021-11-24"]
         },
         {
             "id": "419351b5-dd0f-42db-88bf-1b268a4834d5",
@@ -1416,42 +1416,39 @@
             "dates": []
         },
         {
-            "id": "37b59dc3-3567-4c4e-9cfa-5d1ecfc1c3dd",
-            "name": "Captain Marvel - Bright Light Yellow Hair",
-            "keywords": ["comics", "Marvel", "Captain Marvel", "Carol Danvers"],
-            "item": "sh639",
-            "set": 76152,
-            "dates": []
-        },
-        {
-            "id": "66433cb7-1a8b-4bed-ae56-d5661904ba4e",
-            "name": "Hulk with Black Hair and Magenta Pants",
+            "id": "c143680e-530d-4168-9d49-cecacf67c8e2",
+            "name": "Hulk with Black Hair and Dark Purple Pants with Avengers Logo",
+            "style": "giant",
             "keywords": ["comics", "Marvel", "Hulk", "Bruce Banner"],
-            "item": "sh643",
+            "actor": "Mark Ruffalo",
+            "item": "sh173",
             "set": 76152,
             "dates": ["2021-11-12"]
         },
         {
-            "id": "7b70aee4-6302-4687-a529-84a51957f762",
-            "name": "Iron Man with Silver Hexagon on Chest and 1 x 1 Round Bricks",
-            "keywords": ["comics", "Marvel", "Iron Man", "Tony Stark"],
-            "item": "sh649",
+            "id": "f1177519-ed35-4622-b156-a398b7f608a4",
+            "name": "Scarlet Witch",
+            "keywords": ["comics", "Marvel", "Marvel Cinematic Universe", "Scarlet Witch", "Wanda Maximoff"],
+            "actor": "Elizabeth Olsen",
+            "item": "sh174",
+            "set": 76031,
+            "dates": []
+        },
+        {
+            "id": "02db0fe2-4027-486b-aaeb-36f3fe645d54",
+            "name": "Ultron Prime",
+            "keywords": ["comics", "Marvel", "Marvel Cinematic Universe", "Ultron"],
+            "actor": "James Spader",
+            "item": "sh175",
             "set": 76152,
             "dates": []
         },
         {
-            "id": "99478e92-c433-4503-9463-ed0f1d0f16ff",
-            "name": "Loki - Spongy Cape (Juniors), Dark Green Legs",
-            "keywords": ["comics", "Marvel", "Loki", "Asgardian"],
-            "item": "sh644",
-            "set": 76152,
-            "dates": []
-        },
-        {
-            "id": "6a97ccda-5bff-441e-8fb6-b1f8d8244b2c",
-            "name": "Thor - Spongy Cape (Juniors), Pearl Dark Gray Legs",
-            "keywords": ["comics", "Marvel", "Thor", "Asgardian"],
-            "item": "sh645",
+            "id": "0a4fd80d-f2b9-449e-8f57-c9251304fb42",
+            "name": "Iron Man Mark 43 Armor",
+            "keywords": ["comics", "Marvel", "Marvel Cinematic Universe", "Iron Man", "Tony Stark", "Mark 43"],
+            "actor": "Robert Downey Jr.",
+            "item": "sh167",
             "set": 76152,
             "dates": []
         }
