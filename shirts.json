@@ -645,7 +645,7 @@
             "source": "https://shirt.woot.com/offers/the-cat-in-the-box",
             "images-name": "cat-in-the-box",
             "images": ["front"],
-            "dates": ["2021-06-22"]
+            "dates": ["2021-06-22", "2021-11-26"]
         },
         {
             "id": "9787e980-89e3-424d-879c-5f3c3ef25309",
@@ -733,7 +733,7 @@
             "source": "https://www.threadless.com/shop/@threadless/design/this-is-not-a-pipe/",
             "images": ["front", "logo"],
             "images-name": "pipe",
-            "dates": ["2021-07-01"]
+            "dates": ["2021-07-01", "2021-11-25"]
         },
         {
             "id": "00eb712c-3d14-4d55-9b1c-8263d1788dfa",
