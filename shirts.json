@@ -745,7 +745,7 @@
             "source": "https://shirt.woot.com/offers/survival-tracking-guide",
             "images-name": "survival",
             "images": ["front"],
-            "dates": ["2021-06-30"]
+            "dates": ["2021-06-30", "2021-12-07"]
         },
         {
             "id": "4e532a3c-3d5b-4f71-bbda-ebab721e9e04",
@@ -854,7 +854,7 @@
             "keywords": ["Tetris", "airplane"],
             "source": "http://www.thinkgeek.com/tshirts-apparel/glennz/cb17/",
             "images": ["front"],
-            "dates": ["2021-07-13"]
+            "dates": ["2021-07-13", "2021-12-08"]
         },
         {
             "id": "e3689fb1-3a08-4b9c-a564-613741537f81",
