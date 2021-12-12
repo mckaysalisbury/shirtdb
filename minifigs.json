@@ -285,16 +285,6 @@
             "dates": ["2021-06-10"]
         },
         {
-            "id": "995c0a8e-990d-46bc-8b3e-d1ac61520b1c",
-            "name": "Captain America - Detailed Suit - Mask",
-            "keywords": ["comics", "Marvel", "Age of Ultron", "Marvel Cinematic Universe", "Captain America"],
-            "actor": "Chris Evans",
-            "item": "sh177",
-            "set": 76032,
-            "notes": "I also own the identical minifig which also appears in set 30447",
-            "dates": ["2021-06-11"]
-        },
-        {
             "id": "5256bba4-6439-4800-ae1d-0e2bd6fa0061",
             "name": "El Macho Wrestler",
             "keywords": ["The LEGO Movie", "Master Builder", "lucha libre"],
@@ -653,10 +643,11 @@
         {
             "id": "1d3b33a9-28b2-43a7-b538-7fd0a7d4abd4",
             "name": "Spider-Man - Black Web Pattern, Red Torso Small Vest, Red Boots",
-            "keywords": ["Marvel", "Spider-Man"],
+            "keywords": ["comics", "Marvel", "Spider-Man", "Marvel Cinematic Universe", "Stark Suit"],
+            "actor": "Tom Holland",
             "item": "sh420",
             "set": 76082,
-            "notes": "See also <a href='minifig.html?id=f7866ff4-2da8-4ae9-b8f6-a0ec61ca8b1c'>a very similiar minifig</a>",
+            "notes": "See the Stark Suit tag for a very similiar minifig",
             "dates": ["2021-08-13"]
         },
         {
@@ -693,24 +684,22 @@
         },
         {
             "id": "573eb7be-9524-4131-958f-172877f00a1f",
-            "name": "Iron Man Mark 45 Armor",
-            "keywords": ["comics", "Marvel", "Marvel Cinematic Universe", "Iron Man", "Age of Ultron"],
-            "actor": "Robert Downey Jr.",
+            "name": "Iron Man Mark 45 Armor - with strange head",
+            "keywords": ["comics", "Marvel", "Marvel Cinematic Universe", "Iron Man", "Age of Ultron", "Mark 45"],
             "item": "sh164",
-            "set": 76029,
             "part": "3626cpb1941",
-            "notes": "This appears to have come with the wrong head.",
-            "dates": ["2021-08-20", "2021-12-10"]
+            "notes": "The body matches perfectly the body from Mark 45, but it has a strange head. I think I found this minifig on the sidewalk somewhere. See the Mark 45 tag for the real minifig.",
+            "dates": ["2021-08-20"]
         },
         {
             "id": "f7866ff4-2da8-4ae9-b8f6-a0ec61ca8b1c",
             "name": "Spider-Man - Black Web Pattern, Red Torso Small Vest, Red Boots - with Mask Pulled Up Showing Mouth Pattern",
-            "keywords": ["comics", "Marvel", "Spider-Man", "Marvel Cinematic Universe"],
+            "keywords": ["comics", "Marvel", "Spider-Man", "Marvel Cinematic Universe", "Stark Suit"],
             "actor": "Tom Holland",
             "item": "sh420",
             "set": 40343,
             "part": "3626cpb2398",
-            "notes": "according to LEGO databases, this minifig is the same as <a href='minifig.html?id=1d3b33a9-28b2-43a7-b538-7fd0a7d4abd4'>another minifig</a>, but this minifig came in a set that had an alternate head. So both bricklink items are linked, and this minfig is treated as separate.",
+            "notes": "according to LEGO databases, this minifig is the same as the other suit with the Stark Suit tag, but this minifig came in a set that had an alternate head. So both bricklink items are linked, and this minfig is treated as separate.",
             "dates": ["2021-08-23"]
         },
         {
@@ -1422,7 +1411,7 @@
             "keywords": ["comics", "Marvel", "Hulk", "Bruce Banner"],
             "actor": "Mark Ruffalo",
             "item": "sh173",
-            "set": 76152,
+            "set": 76031,
             "dates": ["2021-11-12"]
         },
         {
@@ -1440,7 +1429,7 @@
             "keywords": ["comics", "Marvel", "Marvel Cinematic Universe", "Ultron"],
             "actor": "James Spader",
             "item": "sh175",
-            "set": 76152,
+            "set": 76031,
             "dates": []
         },
         {
@@ -1449,7 +1438,90 @@
             "keywords": ["comics", "Marvel", "Marvel Cinematic Universe", "Iron Man", "Tony Stark", "Mark 43"],
             "actor": "Robert Downey Jr.",
             "item": "sh167",
-            "set": 76152,
+            "set": 76032,
+            "notes": "This exact minifig I have from both 76031 and 76032",
+            "dates": []
+        },
+        {
+            "id": "928b3944-1f23-4239-8419-bfd2212f8c61",
+            "name": "Ultimate Ultron",
+            "keywords": ["comics", "Marvel", "Marvel Cinematic Universe", "Ultron"],
+            "actor": "James Spader",
+            "item": "sh176",
+            "set": 76032,
+            "dates": []
+        },
+        {
+            "id": "995c0a8e-990d-46bc-8b3e-d1ac61520b1c",
+            "name": "Captain America - Detailed Suit - Mask",
+            "keywords": ["comics", "Marvel", "Age of Ultron", "Marvel Cinematic Universe", "Captain America"],
+            "actor": "Chris Evans",
+            "item": "sh177",
+            "set": 76032,
+            "notes": "I also own the identical minifig which also appears in set 30447",
+            "dates": ["2021-06-11"]
+        },
+        {
+            "id": "d1781a93-9438-4d35-9ab6-eafab1a07500",
+            "name": "Vision - Dark Azure Spot on Forehead",
+            "keywords": ["comics", "Marvel", "Marvel Cinematic Uinverse", "Vision"],
+            "actor": "Paul Bettany",
+            "item": "sh178",
+            "set": 76032,
+            "dates": []
+        },
+        {
+            "id": "6a5116cd-6340-4f18-986a-57649407445d",
+            "name": "Black Widow - Short Hair",
+            "keywords": ["comics", "Marvel", "Marvel Cinematic Universe", "Black Widow", "Natasha Romanoff"],
+            "actor": "Scarlet Johansson",
+            "item": "sh186",
+            "set": 76032,
+            "dates": []
+        },
+        {
+            "id": "5304dc16-3e82-42c5-b1a0-86199f3c83dc",
+            "name": "Iron Man Mark 45 Armor",
+            "keywords": ["comics", "Marvel", "Marvel Cinematic Universe", "Iron Man", "Tony Stark", "Mark 45"],
+            "actor": "Robert Downey Jr.",
+            "item": "sh164",
+            "set": 76029,
+            "notes": "See the Mark 45 tag for a similar minifig",
+            "dates": ["2021-12-10"]
+        },
+        {
+            "id": "c80bbed2-624f-4742-bb02-cecdf79777a0",
+            "name": "Ultron Sentry",
+            "keywords": ["comics", "Marvel", "Marvel Cinematic Universe", "Ultron"],
+            "actor": "James Spader",
+            "item": "sh166",
+            "set": 76029,
+            "notes": "The set came with two of this minifig",
+            "dates": []
+        },
+        {
+            "id": "4f263681-576a-45b5-b1a1-27b273d9e6fd",
+            "name": "Ultron Sentry Officer",
+            "keywords": ["comics", "Marvel", "Marvel Cinematic Universe", "Ultron"],
+            "actor": "James Spader",
+            "item": "sh165",
+            "set": 76029,
+            "dates": []
+        },
+        {
+            "id": "0976ab7b-2d09-4e25-90d5-a8e65eb81cbc",
+            "name": "Iron Man with Circle on Chest",
+            "keywords": ["comics", "Marvel", "Iron Man", "Tony Stark"],
+            "item": "sh231",
+            "set": 10721,
+            "dates": []
+        },
+        {
+            "id": "c0bcdd1b-50d7-4d6c-995e-0fa5f4c64492",
+            "name": "Loki - Shiny Starched Fabric Cape",
+            "keywords": ["comics", "Marvel", "Loki", "Mind stone", "Infinity stone"],
+            "item": "sh033a",
+            "set": 10721,
             "dates": []
         }
     ]

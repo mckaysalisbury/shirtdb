@@ -827,7 +827,7 @@
             "text": ["Ⓐ"],
             "keywords": ["Marvel", "Avengers", "Captain America", "Thor", "Black Widow", "Hawkeye", "Iron Man", "Hulk"],
             "images": ["front"],
-            "dates": ["2021-07-10"]
+            "dates": ["2021-07-10", "2021-12-11"]
         },
         {
             "id": "bfa44e33-6cd7-41b4-82b3-a2a5fe2b0bc6",
@@ -1014,7 +1014,7 @@
             "keywords": ["comics", "DC", "Green Lantern"],
             "images": ["front", "logo"],
             "source": "https://thinkgeek.com",
-            "dates": ["2021-08-01"]
+            "dates": ["2021-08-01", "2021-12-12"]
         },
         {
             "id": "3682aa19-3b86-44ea-9655-5a101b180d89",
