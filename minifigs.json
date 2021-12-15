@@ -1514,7 +1514,7 @@
             "keywords": ["comics", "Marvel", "Iron Man", "Tony Stark"],
             "item": "sh231",
             "set": 10721,
-            "dates": []
+            "dates": ["2021-12-14"]
         },
         {
             "id": "c0bcdd1b-50d7-4d6c-995e-0fa5f4c64492",
@@ -1522,6 +1522,51 @@
             "keywords": ["comics", "Marvel", "Loki", "Mind stone", "Infinity stone"],
             "item": "sh033a",
             "set": 10721,
+            "dates": []
+        },
+        {
+            "id": "44431597-1f4b-4a1f-b743-97a52627aa25",
+            "name": "Iron Man Mark 50 Armor",
+            "keywords": ["comics", "Marvel", "Marvel Cinematic Universe", "Iron Man", "Tony Stark", "Mark 50"],
+            "actor": "Robert Downey Jr.",
+            "item": "sh496",
+            "set": 76125,
+            "dates": ["2021-12-15"]
+        },
+        {
+            "id": "991d1cbb-4bc4-44aa-9912-21a15a800409",
+            "name": "Outrider - Extended Arms",
+            "keywords": ["comics", "Marvel", "Marvel Cinematic Universe", "Outrider"],
+            "item": "sh505",
+            "set": 76125,
+            "notes": "2 came in the set",
+            "dates": []
+        },
+        {
+            "id": "c16db753-59e2-4448-bf5c-234a938f9155",
+            "name": "Iron Man Mark 1 Armor (Trans-Clear Head)",
+            "keywords": ["comics", "Marvel", "Marvel Cinematic Universe", "Iron Man", "Tony Stark", "Mark 1"],
+            "actor": "Robert Downey Jr.",
+            "item": "sh565",
+            "set": 76125,
+            "dates": []
+        },
+        {
+            "id": "68671766-17a9-45fd-8ac6-59bcaadbd843",
+            "name": "Iron Man Mark 5 Armor (Trans-Clear Head)",
+            "keywords": ["comics", "Marvel", "Marvel Cinematic Universe", "Iron Man", "Tony Stark", "Mark 5"],
+            "actor": "Robert Downey Jr.",
+            "item": "sh566",
+            "set": 76125,
+            "dates": []
+        },
+        {
+            "id": "2e3a627e-b733-4356-b165-119bc601a1a4",
+            "name": "Iron Man Mark 41 Armor (Trans-Clear Head)",
+            "keywords": ["comics", "Marvel", "Marvel Cinematic Universe", "Iron Man", "Tony Stark", "Mark 41"],
+            "actor": "Robert Downey Jr.",
+            "item": "sh567",
+            "set": 76125,
             "dates": []
         }
     ]
