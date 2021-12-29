@@ -922,7 +922,7 @@
             "source": "https://shirt.woot.com/offers/when-asteroids-strike",
             "images": ["front"],
             "images-name": "asteroids",
-            "dates": ["2021-07-20"]
+            "dates": ["2021-07-20", "2021-12-21"]
         },
         {
             "id": "785dc05e-c1f0-41c0-9914-7a493872a251",
@@ -949,7 +949,7 @@
             "keywords": ["music", "Jonathan Coulton", "Code Monkey", "html", "link"],
             "images": ["front"],
             "source": "https://www.jonathancoulton.com/physical-store/",
-            "dates": ["2021-07-23"]
+            "dates": ["2021-07-23", "2021-12-20"]
         },
         {
             "id": "00927e4d-539a-45e5-b487-f4f1373dc8e4",
@@ -959,7 +959,7 @@
             "images-name": "sc2-emoji",
             "images": ["front", "back"],
             "source": "https://blizzcon.com",
-            "dates": ["2021-07-24"]
+            "dates": ["2021-07-24", "2021-12-18"]
         },
         {
             "id": "f1fcfdbc-ee4d-4875-9eab-6c67e97d2a64",
@@ -977,7 +977,7 @@
             "keywords": ["Firefly", "Serenity", "Joss Whedon"],
             "images": ["front"],
             "source": "https://comic-con.org",
-            "dates": ["2021-07-27"]
+            "dates": ["2021-07-27", "2021-12-27"]
         },
         {
             "id": "5974d76d-25ba-4b77-9de4-10b29d230a42",
@@ -986,7 +986,7 @@
             "keywords": ["Blizzard", "StarCraft", "StarCrafts", "Zerg", "Spawning Pool", "Drone", "Zergling"],
             "images": ["front", "back"],
             "source": "https://blizzcon.com",
-            "dates": ["2021-07-28"]
+            "dates": ["2021-07-28", "2021-12-22"]
         },{
             "id": "4006e521-d0ea-40b4-b329-2a9efdb5f59e",
             "name": "Wolverine",
@@ -994,17 +994,17 @@
             "keywords": ["Marvel", "Marvel comics", "Wolverine", "snikt", "adamantium"],
             "images": ["front"],
             "source": "https://oldnavy.gap.com/",
-            "dates": ["2021-07-29"]
+            "dates": ["2021-07-29", "2021-12-28"]
         },
         {
             "id": "6693467d-27e8-49fe-97a3-679f626d0410",
             "name": "qep'a' cha'maH chorghDIch",
-            "text": ["Hoch vorlaHbe'", "Dargh wIb", "qep'a' cha'maH", "chorghDI"],
+            "text": ["Hoch vorlaHbe'", "Dargh wIb", "qep'a' cha'maH", "chorghDIch"],
             "keywords": ["Star Trek", "Klingon", "tlhIngan Hol", "qep'a'", "piqaD", "bitter tea can't cure everything"],
             "images": ["front"],
             "images-name": "cha'maH-chorghDIch",
             "source": "https://www.kli.org/activities/qepmey/qepa-chamah-chorgdich",
-            "dates": ["2021-07-30"]
+            "dates": ["2021-07-30", "2021-12-29"]
         },
         {
             "id": "b23816e9-47b1-4d52-ad03-982362dd8057",
@@ -1551,11 +1551,14 @@
             "style": "polo",
             "keywords": ["Big Bang Theory", "Sheldon Cooper"],
             "images": ["front", "logo"],
+            "source": "https://bestbuy.com",
+            "notes": "I believe this came free with the purchase of one of the Big Bang Theory seasons on DVD at Best Buy",
             "dates": ["2021-10-10"]
         },
         {
             "id": "a0527355-ef90-4256-ab48-9621eb58708d",
             "name": "NASA",
+            "style": "polo",
             "text": ["NASA"],
             "keywords": ["NASA", "National Aeronotics and Space Administration", "space", "government"],
             "images": ["front", "logo"],
@@ -1564,28 +1567,64 @@
         {
             "id": "0ac32ea4-5f48-49ac-8d73-09a1ad122261",
             "name": "Hylian Crest",
+            "style": "polo",
             "text": [],
+            "images": ["front", "logo"],
             "keywords": ["video games", "Nintendo", "Zelda", "Hyrule", "Link", "The Legend of Zelda"],
-            "dates": ["2021-10-31"]
+            "dates": ["2021-10-31", "2021-12-26"]
         },
         {
             "id": "a73658a9-fc2c-4902-aa99-11f3de9ac003",
             "name": "Aperture Laboratories",
             "text": ["APERTURE", "LABORATORIES"],
+            "images": ["front", "logo"],
             "style": "pocket polo",
             "keywords": ["video games", "Valve", "Portal", "Aperture Science", "Half-Life"],
-            "dates": ["2021-11-07"]
+            "dates": ["2021-11-07", "2021-12-19"]
         },
         {
             "id": "cafb77f5-2eca-47ee-80ae-50b298f2e0f5",
             "name": "Welcome home",
             "text": ["Welcome home."],
+            "images": ["front", "back"],
             "keywords": ["work", "Lending Home", "Kiavi"],
             "dates": ["2021-11-11"]
         },
-
-
-
+        {
+            "id": "47728c5d-2acb-4f43-a9ff-7c85c3bc8336",
+            "name": "Super Santa Jump",
+            "source": "https://shirt.woot.com/offers/super-santa-jump",
+            "text": [],
+            "keywords": ["mashup", "video games", "Mario", "Super Mario Bros", "Christmas", "Santa"],
+            "dates": ["2021-12-23"]
+        },
+        {
+            "id": "4c357c15-b1c5-402a-a4ff-f2b09d19c409",
+            "name": "Thinkgeek Christmas Space Shuttle",
+            "text": ["Think", "Geek"],
+            "keywords": ["space shuttle", "Christmas", "Christmas lights", "Thinkgeek"],
+            "source": "https://thinkgeek.com",
+            "dates": ["2021-12-24"]
+        },
+        {
+            "id": "8588a78e-a3ec-4402-ab7b-eae612c5884f",
+            "name": "North Pole Coal Miners",
+            "text": ["NORTH POLE", "12", "25", "COAL MINERS", "ASSOCIATION"],
+            "keywords": ["Christmas", "coal"],
+            "source": "https://shirt.woot.com/offers/north-pole-coal-miners",
+            "dates": ["2021-12-25"]
+        },
+        {
+            "id": "bfc747c6-d585-498f-b397-a821b064cb11",
+            "name": "Kiavi",
+            "dates": []
+        },
+        {
+            "id": "66bd48ab-1466-4cde-b497-77967cd48861",
+            "name": "Sam Wilson - Captain America",
+            "text": [],
+            "dates": []
+        },
         {
             "id": "ed597377-5b47-4f14-9ab1-918ccd260de0",
             "name": "World record egg balancing",

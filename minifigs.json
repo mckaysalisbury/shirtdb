@@ -1549,7 +1549,7 @@
             "actor": "Robert Downey Jr.",
             "item": "sh565",
             "set": 76125,
-            "dates": ["2021-12-16"]
+            "dates": ["2021-12-16", "2021-12-19"]
         },
         {
             "id": "68671766-17a9-45fd-8ac6-59bcaadbd843",
@@ -1558,7 +1558,7 @@
             "actor": "Robert Downey Jr.",
             "item": "sh566",
             "set": 76125,
-            "dates": []
+            "dates": ["2021-12-20"]
         },
         {
             "id": "2e3a627e-b733-4356-b165-119bc601a1a4",
@@ -1567,7 +1567,178 @@
             "actor": "Robert Downey Jr.",
             "item": "sh567",
             "set": 76125,
+            "dates": ["2021-12-21"]
+        },
+        {
+            "id": "d0ed040c-88fa-4bbe-83c3-5ec846ec759e",
+            "name": "The Scarlet Witch, Marvel Studios",
+            "keywords": ["comics", "Marvel", "Marvel Cinematic Universe", "collectible", "Scarlet Witch", "Wanda Maximoff"],
+            "actor": "Elizabeth Olsen",
+            "item": "colmar01",
+            "set": 71031,
             "dates": []
+        },
+        {
+            "id": "4c59398d-ffc6-44e5-9c04-6dc1a293677a",
+            "name": "The Vision, Marvel Studios",
+            "keywords": ["comics", "Marvel", "Marvel Cinematic Universe", "collectible", "Vision"],
+            "actor": "Paul Bettany",
+            "item": "colmar02",
+            "set": 71031,
+            "dates": []
+        },
+        {
+            "id": "d3fd000b-7576-409f-b182-6c5811da2457",
+            "name": "Monica Rambeau, Marvel Studios",
+            "keywords": ["comics", "Marvel", "Marvel Cinematic Universe", "collectible", "Monica Rambeau"],
+            "actor": "Teyonah Parris",
+            "item": "colmar03",
+            "set": 71031,
+            "dates": []
+        },
+        {
+            "id": "ef0b2836-2f8f-4cb9-a9b9-08a7229e9fb4",
+            "name": "Winter Soldier, Marvel Studios",
+            "keywords": ["comics", "Marvel", "Marvel Cinematic Universe", "collectible", "Bucky Barnes", "James Buchanan Barnes Jr.", "Winter Soldier", "White Wolf"],
+            "actor": "Sebastian Stan",
+            "item": "colmar04",
+            "set": 71031,
+            "dates": []
+        },
+        {
+            "id": "42ccff1f-f06d-49aa-ba50-2adf7113256a",
+            "name": "Captain America, Marvel Studios",
+            "keywords": ["comics", "Marvel", "Marvel Cinematic Universe", "collectible", "Captain America", "Falcon", "Sam Wilson", "Samuel Wilson"],
+            "actor": "Anthony Mackie",
+            "item": "colmar05",
+            "set": 71031,
+            "dates": []
+        },
+        {
+            "id": "9d5b5199-5b46-42be-a968-a627daad4b58",
+            "name": "Loki, Marvel Studios",
+            "keywords": ["comics", "Marvel", "Marvel Cinematic Universe", "collectible", "Loki", "Loki Laufeyson", "variant", "Frog Thor"],
+            "actor": "Tom Hiddleston",
+            "item": "colmar06",
+            "set": 71031,
+            "dates": []
+        },
+        {
+            "id": "88cc4f82-394e-4760-a31a-a99feb99c640",
+            "name": "Sylvie, Marvel Studios",
+            "keywords": ["comics", "Marvel", "Marvel Cinematic Universe", "collectible", "Sylvie", "Sylvie Laufeydottir", "Loki", "variant", "Alligator Thor"],
+            "actor": "Sophia Di Martino",
+            "item": "colmar07",
+            "set": 71031,
+            "dates": []
+        },
+        {
+            "id": "b95b9b9c-2983-4a19-951d-88d16b76550d",
+            "name": "Zombie Hunter Spidey, Marvel Studios",
+            "keywords": ["comics", "Marvel", "Marvel Cinematic Universe", "collectible", "Zombies", "Spider-Man", "Peter Parker", "variant", "Alligator Thor"],
+            "actor": "Hudson Thames",
+            "item": "colmar08",
+            "set": 71031,
+            "dates": []
+        },
+        {
+            "id": "abc8712f-6c50-4c7f-8aad-9be96746c981",
+            "name": "Zombie Captain America, Marvel Studios",
+            "keywords": ["comics", "Marvel", "Marvel Cinematic Universe", "collectible", "Zombies", "Zombie Captain America", "Captain America", "Steve Rogers"],
+            "actor": "Josh Keaton",
+            "item": "colmar09",
+            "set": 71031,
+            "dates": []
+        },
+        {
+            "id": "7bef772d-f342-48d8-b409-54b87dc0c51a",
+            "name": "Captain Carter, Marvel Studios",
+            "keywords": ["comics", "Marvel", "Marvel Cinematic Universe", "collectible", "Captain America", "Peggy Carter", "Margaret Elizabeth Carter"],
+            "actor": "Hayley Atwell",
+            "item": "colmar10",
+            "set": 71031,
+            "dates": []
+        },
+        {
+            "id": "45987d90-72be-45f2-9b0a-49014665b7ba",
+            "name": "T'Challa Star-Lord, Marvel Studios",
+            "keywords": ["comics", "Marvel", "Marvel Cinematic Universe", "collectible", "T'Challa", "Star-Lord"],
+            "actor": "Chadwick Boseman",
+            "item": "colmar11",
+            "set": 71031,
+            "dates": []
+        },
+        {
+            "id": "1480d999-00be-4622-8a73-2e568f19c25f",
+            "name": "Gamora with Blade of Thanos, Marvel Studios",
+            "keywords": ["comics", "Marvel", "Marvel Cinematic Universe", "collectible", "Gamora", "Peggy Carter", "Margaret Elizabeth Carter"],
+            "actor": "Zoe Saldana",
+            "item": "colmar12",
+            "set": 71031,
+            "dates": []
+        },
+        {
+            "id": "8ead7ca0-80e0-4155-ac33-9e7aeb1dc75b",
+            "name": "Black Widow - Printed Arms",
+            "keywords": ["comics", "Marvel", "Marvel Cinematic Universe", "advent calendar", "Black Widow", "Natasha Romanoff"],
+            "actor": "Scarlett Johansson",
+            "item": "sh637",
+            "set": 76196,
+            "dates": ["2021-12-27"]
+        },
+        {
+            "id": "aa054644-c2d2-4817-b7fc-fa49ea9f417c",
+            "name": "Spider-Man - Bright Light Orange Letter Jacket",
+            "keywords": ["comics", "Marvel", "Marvel Cinematic Universe", "advent calendar", "Spider-Man", "Peter Parker", "Midtown High School"],
+            "actor": "Tom Holland",
+            "item": "sh757",
+            "set": 76196,
+            "dates": []
+        },
+        {
+            "id": "330e09ad-38d9-4cc3-bdf7-e6836baf9356",
+            "name": "Tony Stark - Christmas Sweater",
+            "keywords": ["comics", "Marvel", "Marvel Cinematic Universe", "advent calendar", "Tony Stark", "Iron Man", "Christmas"],
+            "actor": "Robert Downey Jr.",
+            "item": "sh760",
+            "set": 76196,
+            "dates": ["2021-12-22"]
+        },
+        {
+            "id": "35856650-2406-4864-8788-fb70565daaf3",
+            "name": "Thanos - No Helmet",
+            "keywords": ["comics", "Marvel", "Marvel Cinematic Universe", "advent calendar", "Thanos", "coal"],
+            "actor": "Josh Brolin",
+            "item": "sh761",
+            "set": 76196,
+            "dates": ["2021-12-23"]
+        },
+        {
+            "id": "41b69564-b886-4418-afab-625b27fd1f1d",
+            "name": "Captain Marvel - Bright Light Yellow Hair",
+            "keywords": ["comics", "Marvel", "Marvel Cinematic Universe", "advent calendar", "Captain Marvel", "Carol Danvers"],
+            "actor": "Brie Larson",
+            "item": "sh639",
+            "set": 76196,
+            "dates": []
+        }, 
+        {
+            "id": "84fe885c-ad01-430d-8c3b-3c311a53696c",
+            "name": "Nick Fury - Dark Bluish Gray Beanie",
+            "keywords": ["comics", "Marvel", "Marvel Cinematic Universe", "advent calendar", "Nick Fury", "Christmas"],
+            "actor": "Samuel L. Jackson",
+            "item": "sh758",
+            "set": 76196,
+            "dates": ["2021-12-28"]
+        },
+        {
+            "id": "9bbebfc7-93f9-4d0e-af4c-cbb4c5fea151",
+            "name": "Thor - Red Scarf",
+            "keywords": ["comics", "Marvel", "Marvel Cinematic Universe", "advent calendar", "Thor", "Christmas"],
+            "actor": "Chris Hemsworth",
+            "item": "sh756",
+            "set": 76196,
+            "dates": ["2021-12-29"]
         }
     ]
 }
