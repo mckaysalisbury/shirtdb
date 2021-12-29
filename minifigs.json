@@ -1739,6 +1739,60 @@
             "item": "sh756",
             "set": 76196,
             "dates": ["2021-12-29"]
+        },
+        {
+            "id": "85c56e03-8562-4a8c-8a72-758480bcf093",
+            "name": "Harry Potter, Sand Blue Jacket, Smiling",
+            "keywords": ["Wizarding World", "Harry Potter", "advent calendar", "Harry Potter"],
+            "actor": "Daniel Radcliffe",
+            "item": "hp316",
+            "set": 76390,
+            "dates": []
+        },
+        {
+            "id": "63b0f1d4-9593-4664-aaea-8af63c1579c1",
+            "name": "Dudley Dursley, Striped Pajamas",
+            "keywords": ["Wizarding World", "Harry Potter", "advent calendar", "Dudley Dursley"],
+            "actor": "Harry Melling",
+            "item": "hp317",
+            "set": 76390,
+            "dates": []
+        },
+        {
+            "id": "66b717c4-f4eb-4ebe-93ef-3bb3de9c0017",
+            "name": "Griphook, Dark Red Suit",
+            "keywords": ["Wizarding World", "Harry Potter", "advent calendar", "Griphook"],
+            "actor": "Warwick Davis",
+            "item": "hp318",
+            "set": 76390,
+            "dates": []
+        },
+        {
+            "id": "fafddb42-9787-4475-8ecc-9aac59a3ecea",
+            "name": "Ron Weasley, Hogwarts Robe",
+            "keywords": ["Wizarding World", "Harry Potter", "advent calendar", "Ron Weasley", "Ronald Weasley"],
+            "actor": "Rupert Grint",
+            "item": "hp319",
+            "set": 76390,
+            "dates": []
+        },
+        {
+            "id": "ad810304-2641-49f8-8c54-ff75ad837eeb",
+            "name": "Hermione Granger, Hogwarts Robe",
+            "keywords": ["Wizarding World", "Harry Potter", "advent calendar", "Hermione Granger"],
+            "actor": "Emma Watson",
+            "item": "hp320",
+            "set": 76390,
+            "dates": []
+        },
+        {
+            "id": "c3ca584b-bdd1-4584-9544-fad3c7403f2c",
+            "name": "Draco Malfoy, Hogwarts Robe",
+            "keywords": ["Wizarding World", "Harry Potter", "advent calendar", "Draco Malfoy"],
+            "actor": "Tom Felton",
+            "item": "hp321",
+            "set": 76390,
+            "dates": []
         }
     ]
 }
