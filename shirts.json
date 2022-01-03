@@ -1023,7 +1023,7 @@
             "keywords": ["They Might Be Giants", "TMBG", "8-bit", "pixel"],
             "images": ["front"],
             "source": "https://www.theymightbegiants.com/shows",
-            "dates": ["2021-08-02"]
+            "dates": ["2021-08-02", "2022-01-03"]
         },
         {
             "id": "2162d3ff-2bdf-45bd-a4bd-4222c4334d1d",
@@ -1060,7 +1060,7 @@
             "source": "https://shirt.woot.com/offers/some-game-involving-falling-blocks-in-the-style-of-m-c-escher",
             "images": ["front"],
             "images-name": "escher-blocks",
-            "dates": ["2021-08-06"]
+            "dates": ["2021-08-06", "2021-12-31"]
         },
         {
             "id": "041accb8-3b2b-4c43-adda-800c81980f1b",
@@ -1150,7 +1150,7 @@
             "images-name": "be-batman",
             "source": "https://merch.sixflags.com/",
             "images": ["front"],
-            "dates": ["2021-08-14"]
+            "dates": ["2021-08-14", "2021-12-30"]
         },
         {
             "id": "ced3a3e2-3d3e-4b17-b801-386c2b7fb3dc",
@@ -1613,6 +1613,15 @@
             "keywords": ["Christmas", "coal"],
             "source": "https://shirt.woot.com/offers/north-pole-coal-miners",
             "dates": ["2021-12-25"]
+        },
+        {
+            "id": "3880ea56-2b80-4d77-bfe7-dc83d572c940",
+            "name": "blue stripes",
+            "style": "button down",
+            "text": [],
+            "keywords": [ "stripes" ],
+            "source": "https://gap.com",
+            "dates": ["2022-01-02"]
         },
         {
             "id": "bfc747c6-d585-498f-b397-a821b064cb11",
