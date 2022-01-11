@@ -1292,7 +1292,7 @@
             "keywords": ["comics", "Marvel", "Spider-man", "Miles Morales"],
             "item": "sh679",
             "set": 76178,
-            "dates": []
+            "dates": ["2022-01-11"]
         },
         {
             "id": "2b96a080-8522-43d6-ad9a-4771eaa5bba0",
@@ -1300,7 +1300,7 @@
             "keywords": ["comics", "Marvel", "Punisher", "Frank Castle", "skull"],
             "item": "sh722",
             "set": 76178,
-            "dates": []
+            "dates": ["2022-01-04"]
         },
         {
             "id": "71c60a04-be1f-4999-b4f9-99fe4840a905",
@@ -1794,6 +1794,125 @@
             "item": "hp321",
             "set": 76390,
             "dates": []
+        },
+        {
+            "id": "52d4a35b-4ca8-4898-9595-2729f41e978e",
+            "name": "Lobster Lovin' Batman, The LEGO Batman Movie",
+            "keywords": ["comics", "DC", "Batman", "The LEGO Batman Movie", "Bruce Wayne", "lobster", "lobster thermidor"],
+            "actor": "Will Arnett",
+            "item": "coltlbm01",
+            "set": 71017,
+            "dates": []
+        },
+        {
+            "id": "0f491447-19cd-4a90-b2a7-2ea17c84a2a9",
+            "name": "Fairy Batman, The LEGO Ba736deecb-00a3-4006-ac66-2513f4e95c9dtman Movie",
+            "keywords": ["comics", "DC", "Batman", "The LEGO Batman Movie", "Bruce Wayne", "fairy"],
+            "actor": "Will Arnett",
+            "item": "coltlbm03",
+            "set": 71017,
+            "dates": []
+        },
+        {
+            "id": "dfcaf9be-63d0-45d5-83fa-c14c9715973a",
+            "name": "Barbara Gordon, The LEGO Batman Movie",
+            "keywords": ["comics", "DC", "Batman", "The LEGO Batman Movie", "Barbara Gordon", "Commissioner Gordon", "Batgirl"],
+            "actor": "Rosario Dawson",
+            "item": "coltlbm06",
+            "set": 71017,
+            "dates": []
+        },
+        {
+            "id": "c144051a-5026-41b3-87bf-1d3dc8895f7a",
+            "name": "Commissioner Gordon, The LEGO Batman Movie",
+            "keywords": ["comics", "DC", "Batman", "The LEGO Batman Movie", "Commissioner Gordon", "James Gordon"],
+            "actor": "Héctor Elizondo",
+            "item": "coltlbm07",
+            "set": 71017,
+            "dates": []
+        },
+        {
+            "id": "c027973c-1c20-44dc-bd3e-2f364b2a3b83",
+            "name": "Arkham Asylum Joker, The LEGO Batman Movie",
+            "keywords": ["comics", "DC", "Batman", "The LEGO Batman Movie", "Joker", "Dick Grayson"],
+            "actor": "Zach Galifianakis",
+            "item": "coltlbm08",
+            "set": 71017,
+            "dates": []
+        },
+        {
+            "id": "98292a48-0653-4537-abbd-d7d46c57dba2",
+            "name": "Dick Grayson, The LEGO Batman Movie",
+            "keywords": ["comics", "DC", "Batman", "The LEGO Batman Movie", "Robin", "Dick Grayson"],
+            "actor": "Michael Cera",
+            "item": "coltlbm09",
+            "set": 71017,
+            "dates": ["2022-01-05"]
+        },
+        {
+            "id": "0462f81a-4793-4432-9a65-34440d8b988a",
+            "name": "Nurse Harley Quinn, The LEGO Batman Movie",
+            "keywords": ["comics", "DC", "Batman", "The LEGO Batman Movie", "Harley Quinn", "nurse"],
+            "actor": "Jenny Slate",
+            "item": "coltlbm13",
+            "set": 71017,
+            "dates": []
+        },
+        {
+            "id": "41e97af8-cb41-451e-be11-b3b721e04329",
+            "name": "Calculator, The LEGO Batman Movie",
+            "keywords": ["comics", "DC", "Batman", "The LEGO Batman Movie", "Calculator"],
+            "item": "coltlbm18",
+            "set": 71017,
+            "dates": []
+        },
+        {
+            "id": "59c96ae9-1fa1-46f8-89e2-bce745a676ed",
+            "name": "Green Lantern (masked)",
+            "keywords": ["comics", "DC", "Green Lantern"],
+            "item": "colsh08",
+            "set": 71026,
+            "dates": []
+        },
+        {
+            "id": "7717d955-ee3b-4c7b-888e-97a7946d1522",
+            "name": "Batman (first appearance)",
+            "keywords": ["comics", "DC", "Batman", "Bruce Wayne"],
+            "item": "colsh10",
+            "set": 71026,
+            "dates": []
+        },
+        {
+            "id": "7a01be1c-caea-44cf-9486-47b12d876c8d",
+            "name": "Joker (white suit)",
+            "keywords": ["comics", "DC", "Batman", "Joker"],
+            "item": "colsh13",
+            "set": 71026,
+            "dates": []
+        },
+        {
+            "id": "7717d955-ee3b-4c7b-888e-97a7946d1522",
+            "name": "Bat-Mite",
+            "keywords": ["comics", "DC", "Batman", "Bat-Mite"],
+            "item": "colsh16",
+            "set": 71026,
+            "dates": []
+        },
+        {
+            "id": "780fb33e-9383-4b12-a5e8-e455d8567581",
+            "name": "Robin - Short Legs",
+            "keywords": ["comics", "DC", "Batman", "Robin", "Mighty Micros"],
+            "item": "sh244",
+            "set": 76062,
+            "dates": ["2022-01-06"]
+        },
+        {
+            "id": "9eb95d55-dd02-4015-a396-8f1a9a5f2acd",
+            "name": "Bane - Short Legs",
+            "keywords": ["comics", "DC", "Batman", "Bane", "Mighty Micros"],
+            "item": "sh245",
+            "set": 76062,
+            "dates": ["2022-01-10"]
         }
     ]
 }
