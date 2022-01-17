@@ -1913,6 +1913,55 @@
             "item": "sh245",
             "set": 76062,
             "dates": ["2022-01-10"]
+        },
+        {
+            "id": "7ccab99c-22ac-40b9-8382-c6ee4a0cac8c",
+            "name": "Stormtrooper (Dual Molded Helmet, Gray Squares on Back, Frown)",
+            "keywords": ["Star Wars", "Stormtrooper", "advent calendar"],
+            "item": "sw1137",
+            "set": 75037,
+            "dates": []
+        },
+        {
+            "id": "f18a5df8-b183-463e-b903-5230a56a2b54",
+            "name": "Tusken Raider - Head Spikes, Diagonal Belt",
+            "keywords": ["Star Wars", "advent calendar", "Tusken Raider"],
+            "item": "sw1074",
+            "set": 75037,
+            "dates": []
+        },
+        {
+            "id": "719b0e5a-bd59-4c30-a419-6a162b5ece66",
+            "name": "Scout Trooper (Dual Molded Helmet, Printed Legs, Frown)",
+            "keywords": ["Star Wars", "Scout Trooper", "advent calendar"],
+            "item": "sw1116",
+            "set": 75037,
+            "dates": []
+        },
+        {
+            "id": "1fb058cd-0125-4aef-a7d9-ff6fc97a0370",
+            "name": "IG-11",
+            "keywords": ["Star Wars", "IG-11", "bounty hunter", "advent calendar"],
+            "item": "sw1115",
+            "set": 75037,
+            "dates": []
+        },
+        {
+            "id": "a48fa628-b87e-48b4-9907-dd2b8621dcc8",
+            "name": "Grogu / The Child / Baby Yoda - Red Christmas Sweater and Scarf",
+            "style": "microfigure",
+            "keywords": ["Star Wars", "advent calendar", "Christmas", "The Child", "Baby Yoda", "Grogu"],
+            "item": "sw1173",
+            "set": 75037,
+            "dates": []
+        },
+        {
+            "id": "7c8edbca-ffe1-4141-8f48-fec210de01d9",
+            "name": "The Mandalorian (Din Djarin / 'Mando') - Red Christmas Scarf",
+            "keywords": ["Star Wars", "advent calendar", "Christmas", "The Mandalorian", "Mando", "Din Djarin"],
+            "item": "sw1170",
+            "set": 75037,
+            "dates": []
         }
     ]
 }
