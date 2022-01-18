@@ -1041,7 +1041,7 @@
             "keywords": ["Blizzard", "BlizzCon", "BlizzCon 2016"],
             "images": ["front", "left", "right"],
             "images-name": "games-well",
-            "dates": ["2021-08-04"]
+            "dates": ["2021-08-04", "2022-01-17"]
         },
         {
             "id": "a58e519d-17c8-4eed-8b3f-fa6883059831",
@@ -1078,7 +1078,7 @@
             "keywords": ["Blizzard", "StarCraft", "StarCraft II", "Terran", "Tychus", "Zerg", "hydralisk"],
             "images": ["front", "back"],
             "images-name": "tychus-hydralisk",
-            "dates": ["2021-08-07"]
+            "dates": ["2021-08-07", "2022-01-18"]
         },
         {
             "id": "2b890529-f029-4013-a3f5-0bd9406c18dc",
