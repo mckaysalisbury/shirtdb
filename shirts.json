@@ -351,9 +351,9 @@
             "id": "68f25860-7811-46ca-9739-b1c69d06a358",
             "name": "Frontend Backend",
             "text": ["FRONTEND", "BACKEND", "SQUARESPACE"],
-            "keywords": [],
+            "keywords": ["programming"],
             "source": "QCon 2018",
-            "images": ["programming", "front", "back", "left"],
+            "images": ["front", "back", "left"],
             "dates": ["2021-05-24", "2021-10-18"]
         },
         {
@@ -1321,7 +1321,7 @@
             "keywords": ["video games", "Blizzard", "StarCraft", "Terran", "Marine", "Ultralisk", "Brutalisk"],
             "source": "https://www.blizzcon.com",
             "images": ["front", "back"],
-            "dates": ["2021-08-26"]
+            "dates": ["2021-08-26", "2022-01-22"]
         },
         {
             "id": "827faa19-6a22-44ef-bdb0-232a7f0fbc03",
@@ -1329,7 +1329,7 @@
             "text": ["⭐ BROWNCOAT ⭐", "", "I AIM TO MISBEHAVE", "SERENITY", "Serenity © Universal Studios"],
             "keywords": ["TV", "Joss Whedon", "Firefly", "Serenity", "Browncoat", "Independent Planets", "rebellion"],
             "images": ["front", "back", "logo"],
-            "dates": ["2021-08-27"]
+            "dates": ["2021-08-27", "2022-01-21"]
         },
         {
             "id": "b5fac53d-6339-467d-996d-a4cfdcc485e7",
@@ -1522,7 +1522,7 @@
             "keywords": ["comics", "Marvel", "Hydra", "octopus", "Red Skull"],
             "source": "https://thinkgeek.com",
             "images": ["front", "logo"],
-            "dates": ["2021-09-19"]
+            "dates": ["2021-09-19", "2022-01-23"]
         },
         {
             "id": "4f410ae4-06a5-42b4-aa40-ace4c44d0399",
