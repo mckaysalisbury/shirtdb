@@ -1962,6 +1962,39 @@
             "item": "sw1170",
             "set": 75037,
             "dates": []
+        },
+        {
+            "id": "532745f4-65e0-418a-a607-b4501098a5be",
+            "name": "AIM Agent",
+            "keywords": ["comics", "Marvel", "AIM", "Advanced Ideas Mechanics"],
+            "item": "sh624",
+            "set": 76167,
+            "notes": "Two came in this set",
+            "dates": []
+        },
+        {
+            "id": "fe43598d-4785-49eb-b976-9fb35f585a7c",
+            "name": "Tony Stark - Open Neck Shirt",
+            "keywords": ["comics", "Marvel", "Tony Stark", "Iron Man"],
+            "item": "sh666",
+            "set": 76167,
+            "dates": []
+        },
+        {
+            "id": "07fb24ac-fe7f-4a4e-950b-e10db306fc4a",
+            "name": "Iron Man Mark 2 Armor (Trans-Clear Head)",
+            "keywords": ["comics", "Marvel", "Iron Man"],
+            "item": "sh667",
+            "set": 76167,
+            "dates": []
+        },
+        {
+            "id": "649d8a97-42f2-430c-8db2-3a67d339ae01",
+            "name": "Iron Man with Silver Hexagon on Chest, Wings with Stickers",
+            "keywords": ["comics", "Marvel", "Iron Man"],
+            "item": "sh673s",
+            "set": 76167,
+            "dates": []
         }
     ]
 }
