@@ -110,7 +110,7 @@
             "keywords": ["Blizzard", "video games", "StarCrafts", "StarCraft", "Ultralisk", "Marines"],
             "images": ["front"],
             "source": "https://blizzcon.com",
-            "dates": ["2021-05-05", "2021-09-20"]
+            "dates": ["2021-05-05", "2021-09-20", "2022-02-03"]
         },
         {
             "id": "a46d37cd-9416-40b2-8df7-3b35e3d81e84",
@@ -168,7 +168,7 @@
             "source": "https://thinkgeek.com",
             "images": ["front"],
             "images-name": "psi-phi",
-            "dates": ["2021-05-11", "2021-09-25"]
+            "dates": ["2021-05-11", "2021-09-25", "2022-02-04"]
         },
         {
             "id": "232709ff-df17-4325-ba4e-03233a94e89a",
