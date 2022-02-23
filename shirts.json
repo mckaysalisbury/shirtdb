@@ -1014,7 +1014,7 @@
             "keywords": ["comics", "DC", "Green Lantern"],
             "images": ["front", "logo"],
             "source": "https://thinkgeek.com",
-            "dates": ["2021-08-01", "2021-12-12"]
+            "dates": ["2021-08-01", "2021-12-12", "2022-02-20"]
         },
         {
             "id": "3682aa19-3b86-44ea-9655-5a101b180d89",
@@ -1191,7 +1191,7 @@
             "source": "https://shirt.woot.com/offers/po-tay-toes",
             "images-name": "po-tay-toes",
             "images": ["front"],
-            "dates": ["2021-08-18", "2021-09-11"]
+            "dates": ["2021-08-18", "2021-09-11", "2022-02-23"]
         },
         {
             "id": "6f8654be-27fd-4fe6-8ae5-543caaa6876c",
@@ -1433,7 +1433,7 @@
             "keywords": ["TV", "video games", "mashup", "Big Bang Theory", "Leonard", "Leonard Hofstadter", "Sheldon", "Sheldon Cooper", "Penny", "video games", "Nintendo", "Zelda", "Legend of Zelda", "Link", "Navi"],
             "source": "https://thinkgeek.com",
             "images": ["front"],
-            "dates": ["2021-09-06"]
+            "dates": ["2021-09-06", "2022-02-21"]
         },
         {
             "id": "68ba961b-5d7d-4c87-b49e-fe6f9bfe8894",
@@ -1441,7 +1441,7 @@
             "text": ["COSA", "30:00", "NOSTRA", "PIZZA", "#3569, Proudly Serving", "the Valley Burbclaves"],
             "keywords": ["books", "pizza", "Snow Crash", "Neal Stephenson", "Hiro Protagonist"],
             "images": ["front"],
-            "dates": ["2021-09-07"]
+            "dates": ["2021-09-07", "2022-02-20"]
         },
         {
             "id": "04156526-36c0-4cd2-b625-e670674c43ec",
@@ -1467,7 +1467,7 @@
             "keywords": ["math", "pi", "square root", "irrational", "rational", "numbers", "imaginary", "real"],
             "source": "https://www.snorgtees.com/pi-be-rational",
             "images": ["front"],
-            "dates": ["2021-09-10"]
+            "dates": ["2021-09-10", "2022-02-22"]
         },
         {
             "id": "edfd43d2-63ae-431f-b639-b21b8ab317a1",
