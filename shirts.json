@@ -1595,6 +1595,7 @@
             "name": "Super Santa Jump",
             "source": "https://shirt.woot.com/offers/super-santa-jump",
             "text": [],
+            "images": ["front"],
             "keywords": ["mashup", "video games", "Mario", "Super Mario Bros", "Christmas", "Santa"],
             "dates": ["2021-12-23"]
         },
@@ -1604,6 +1605,7 @@
             "text": ["Think", "Geek"],
             "keywords": ["space shuttle", "Christmas", "Christmas lights", "Thinkgeek"],
             "source": "https://thinkgeek.com",
+            "images": ["front"],
             "dates": ["2021-12-24"]
         },
         {
@@ -1611,6 +1613,7 @@
             "name": "North Pole Coal Miners",
             "text": ["NORTH POLE", "12", "25", "COAL MINERS", "ASSOCIATION"],
             "keywords": ["Christmas", "coal"],
+            "images": ["front"],
             "source": "https://shirt.woot.com/offers/north-pole-coal-miners",
             "dates": ["2021-12-25"]
         },
@@ -1620,6 +1623,7 @@
             "style": "button down",
             "text": [],
             "keywords": ["stripes"],
+            "images": ["front"],
             "source": "https://gap.com",
             "dates": ["2022-01-02"]
         },
@@ -1629,6 +1633,7 @@
             "text": ["🏠 Kiavi"],
             "keywords": ["work", "Kiavi"],
             "source": "https://kiavi.com",
+            "images": ["front", "logo"],
             "dates": ["2022-01-10"]
         },
         {
@@ -1637,7 +1642,53 @@
             "text": [],
             "keywords": ["comics", "TV", "Marvel", "Captain America", "Falcon", "Sam Wilson"],
             "source": "https://www.kohls.com/product/prd-4998987/mens-marvel-falcon-winter-soldier-tee.jsp",
+            "images": ["front"],
             "dates": ["2022-01-06"]
+        },
+        {
+            "id": "bd4444f0-e0d0-40c0-8bcf-3a618d12d348",
+            "name": "Tony Stark costume",
+            "text": [],
+            "keywords": ["comics", "Marvel", "Marvel Cinematic Universe", "Tony Stark", "Iron Man", "costume"],
+            "source": "https://thinkgeek.com",
+            "notes": "This shirt has / came with a battery powered light resembling an arc reactor fitted to the inside with velcro.",
+            "images": ["front", "back"],
+            "dates": []
+        },
+        {
+            "id": "b9994c33-81bc-4353-adfb-e271965f6c2a",
+            "name": "Venkman costume",
+            "text": ["👻🚫", "VENKMAN"],
+            "keywords": ["Ghostbusters", "Venkman", "ghost", "glow in the dark", "costume"],
+            "images": ["front"],
+            "dates": []
+        },
+        {
+            "id": "d521c473-462b-409d-a070-d2758069de0c",
+            "name": "Bloodsail Buccaneers",
+            "text": ["Bloodsail Buccaneers", "Crew Member", "est. 2004", "", "BLIZZARD®️", "ENTERTAINMENT"],
+            "keywords": ["video games", "Blizzard", "World of WarCraft", "BlizzCon"],
+            "source": "https://blizzcon.com",
+            "images": ["front", "back"],
+            "dates": []
+        },
+        {
+            "id": "1ff06846-b7f2-401e-b7b0-c592e6d056c5",
+            "name": "Support Piracy",
+            "text": ["SUPPORT", "PIRACY", "PIRATES", "of the Burning Sea", "WWW.BURNINGSEA.COM"],
+            "keywords": ["video games", "Pirates of the Burning Sea", "pirates"],
+            "source": "https://paxsite.com",
+            "images": ["front"],
+            "dates": []
+        },
+        {
+            "id": "5cf15c62-aace-4ec3-a2da-33fcf90038bf",
+            "name": "AHSSP 1998",
+            "text": ["AHSSP", "1998", "Brigham Young University", "Department of Computer Science", "", "Brigham Young University", "great(School) :- people(School, waycool),", "classes(School, quitegood).", "P- great(School).", "School = byu.", "AHSSP", "Programming Logic", "Department of", "Computer Science"],
+            "keywords": ["BYU", "Brigham Young University", "school", "Prolog", "logic", "code", "glasses", "computer science"],
+            "source": "https://cs.byu.edu",
+            "images": ["front", "back"],
+            "dates": []
         },
         {
             "id": "ed597377-5b47-4f14-9ab1-918ccd260de0",
@@ -1762,6 +1813,14 @@
             "keywords": ["TV", "Star Trek"],
             "notes": "This shirt was acquired a few decades ago, and has been worn through near the embroidery",
             "images": ["front", "logo"],
+            "dates": []
+        },
+        {
+            "id": "f52bafbf-e1fb-4feb-873b-34e46879ff56",
+            "name": "Los Hermanos - Examiner",
+            "text": ["Los 🌹", "Hermanos", "MEXICAN RESTAURANT", "", "The Utah", "Examiner", "WOMAN EATS WORLDS", "HOTTEST PEPPER", "AND THEN BREATHES", "FIRE", "Los 🌹", "Hermanos", "UNBELIEVABLY", "DELICIOUS!", "GUADALAJARAN ARCHAEOLOGIST", "UNCOVERS WORLDS", "VERY FIRST TACO!", "WOMAN", "CLAIMS ALIENS", "ABDUCTED HER", "BURRITO!", "9 63211 38444 4", "US $2.95 CAN $3.95"],
+            "keywords": ["restaurant", "Los Hermanos", "taco", "burrito", "rose", "alien", "abduction"],
+            "images": ["front", "back", "logo"],
             "dates": []
         }
     ]
