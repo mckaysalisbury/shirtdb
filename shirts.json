@@ -34,7 +34,7 @@
             "images": ["front"],
             "images-name": "pidra",
             "source": "https://shirt.woot.com/offers/hail-pidra",
-            "dates": ["2021-04-28", "2021-09-29"]
+            "dates": ["2021-04-28", "2021-09-29", "2022-02-28"]
         },
         {
             "id": "2a656d74-f284-42cc-a174-25c6bf4d440d",
@@ -1396,7 +1396,7 @@
             "keywords": ["TV", "Big Bang Theory", "physics", "quantum mechanics", "double-slit experiment", "Heisenberg principle", "wave-particle duality", "electron"],
             "source": "https://thinkgeek.com",
             "images": ["front"],
-            "dates": ["2021-09-02"]
+            "dates": ["2021-09-02", "2022-02-26"]
         },
         {
             "id": "e5e52c99-5f91-4c40-b067-507b3a8f9806",
@@ -1414,7 +1414,7 @@
             "keywords": ["sports", "athletics"],
             "source": "https://oldnavy.com",
             "images": ["front"],
-            "dates": ["2021-09-04"]
+            "dates": ["2021-09-04", "2022-02-25"]
         },
         {
             "id": "c1aacfc5-a615-41d6-ab7a-5d74f0e6671e",
@@ -1644,6 +1644,15 @@
             "source": "https://www.kohls.com/product/prd-4998987/mens-marvel-falcon-winter-soldier-tee.jsp",
             "images": ["front"],
             "dates": ["2022-01-06"]
+        },
+        {
+            "id": "5d244620-91bc-440b-8ac8-9a25a72f767c",
+            "name": "White shirt",
+            "text": [],
+            "style": "button down",
+            "keywords": ["white", "button down", "collar", "best dress", "pocket"],
+            "notes": "I've got a few of these that are basically identical",
+            "dates": ["2022-02-27"]
         },
         {
             "id": "bd4444f0-e0d0-40c0-8bcf-3a618d12d348",
