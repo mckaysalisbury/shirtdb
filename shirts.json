@@ -148,7 +148,7 @@
             "source": "https://thinkgeek.com",
             "images": ["front", "logo"],
             "notes": "I have two of these",
-            "dates": ["2021-07-04", "2021-05-09", "2021-09-18", "2021-11-14"]
+            "dates": ["2021-07-04", "2021-05-09", "2021-09-18", "2021-11-14", "2022-03-06"]
         },
         {
             "id": "3a17fc8b-01a6-40ef-b644-11654c1674ee",
@@ -158,7 +158,7 @@
             "source": "https://uniqlo.com",
             "images": ["front"],
             "images-name": "marvel-sketch",
-            "dates": ["2021-05-10", "2021-10-05"]
+            "dates": ["2021-05-10", "2021-10-05", "2022-03-05"]
         },
         {
             "id": "483cfacb-f44b-4e3b-aa20-67d98bf5535b",
@@ -198,7 +198,7 @@
             "keywords": ["SpaceX", "Mars", "Elon Musk"],
             "source": "https://www.spacex.com/",
             "images": ["front", "back"],
-            "dates": ["2021-05-14", "2021-10-14"]
+            "dates": ["2021-05-14", "2021-10-14", "2022-03-04"]
         },
         {
             "id": "8dd10d04-4107-47e9-a571-c079f4a37bb3",

@@ -1994,6 +1994,28 @@
             "keywords": ["comics", "Marvel", "Iron Man"],
             "item": "sh673s",
             "set": 76167,
+            "dates": ["2023-03-04"]
+        },
+        {
+            "id": "7627c979-bbe9-4c63-bef3-812545e24a9d",
+            "name": "Batman, Knightmare Batman",
+            "keywords": ["comics", "DC", "Batman", "Knightmare", "Knightmare Batman", "DC Extended Universe", "Justice League", "Zack Snyder's Justice League"],
+            "item": "sh532",
+            "set": 853744,
+            "dates": ["2023-03-06"]
+        },
+        {
+            "id": "ee510583-d63a-4c65-8d58-5b9de0346604",
+            "name": "Parademon - Dark Green, Collapsed Wings",
+            "keywords": ["comics", "DC", "Batman", "Knightmare", "DC Extended Universe", "Justice League", "Zack Snyder's Justice League", "parademon"],
+            "item": "sh433",
+            "dates": []
+        },
+        {
+            "id": "bf8b5ca9-b804-4d5e-a5f7-c809cc8a7097",
+            "name": "Parademon - Dark Green, Extended Wings",
+            "keywords": ["comics", "DC", "Batman", "Knightmare", "DC Extended Universe", "Justice League", "Zack Snyder's Justice League", "parademon"],
+            "item": "sh439",
             "dates": []
         }
     ]
