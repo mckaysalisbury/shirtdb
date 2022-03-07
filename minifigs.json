@@ -2042,6 +2042,23 @@
             "keywords": ["comics", "DC", "Batman", "Knightmare", "DC Extended Universe", "Justice League", "Zack Snyder's Justice League", "parademon"],
             "item": "sh439",
             "dates": []
+        },
+        {
+            "id": "116dc461-fe62-4406-830c-b79d3d46c1f1",
+            "name": "Jay - Core, Hair",
+            "keywords": ["Ninjago", "Jay", "ninja"],
+            "item": "njo729",
+            "notes": "This set had an upgrade for Jay so he's more than just 'hair'.",
+            "set": 71760,
+            "dates": []
+        },
+        {
+            "id": "c288cae1-e900-4a1f-994e-537891ecf19a",
+            "name": "Viper Flyer",
+            "keywords": ["Ninjago", "viper", "snake"],
+            "item": "njo723",
+            "set": 71760,
+            "dates": []
         }
     ]
 }

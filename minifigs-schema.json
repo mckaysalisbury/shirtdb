@@ -38,6 +38,9 @@
                 "part": {
                     "type": "string"
                 },
+                "notes": {
+                    "type": "string"
+                },
                 "dates": {
                     "type": "array",
                     "items": {
