@@ -2059,6 +2059,42 @@
             "item": "njo723",
             "set": 71760,
             "dates": []
+        },
+        {
+            "id": "92e1891b-fafd-4f5e-a991-d72e295985ef",
+            "name": "Harry Potter, Black and Dark Red Uniform",
+            "keywords": ["Harry Potter", "Goblet of Fire", "Triwizard Tournament"],
+            "actor": "Daniel Radcliffe",
+            "item": "hp176",
+            "set": 75946,
+            "dates": []
+        },
+        {
+            "id": "c38e9528-7de9-4159-a343-e3477a2b8fa6",
+            "name": "Viktor Krum, Reddish Brown Jacket",
+            "keywords": ["Harry Potter", "Goblet of Fire", "Victor Krum", "Triwizard Tournament"],
+            "actor": "Stanislav Ianevski",
+            "item": "hp177",
+            "set": 75946,
+            "dates": []
+        },
+        {
+            "id": "64a3f38e-d6c6-4c47-a468-d3a935facdf4",
+            "name": "Fleur Delacour",
+            "keywords": ["Harry Potter", "Goblet of Fire", "Fleur Delacour", "Triwizard Tournament"],
+            "actor": "Clémence Poésy",
+            "item": "hp178",
+            "set": 75946,
+            "dates": ["2023-03-07"]
+        },
+        {
+            "id": "64a3f38e-d6c6-4c47-a468-d3a935facdf4",
+            "name": "Cedric Diggory, Black and Yellow Uniform",
+            "keywords": ["Harry Potter", "Goblet of Fire", "Cedric Diggory", "Triwizard Tournament"],
+            "actor": "Robert Pattinson",
+            "item": "hp179",
+            "set": 75946,
+            "dates": []
         }
     ]
 }
