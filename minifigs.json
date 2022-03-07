@@ -2095,6 +2095,14 @@
             "item": "hp179",
             "set": 75946,
             "dates": []
+        },
+        {
+            "id": "fd358b4d-a3aa-45b2-a153-45a1e6b1e747",
+            "name": "Zane - Legacy",
+            "keywords": ["Ninjago", "Zane", "White Phantom"],
+            "item": "njo494",
+            "notes": "While this item appears in 4 sets, I'm not sure which it came from. Bryan bought it for his D&D character.",
+            "dates": []
         }
     ]
 }
