@@ -4,6 +4,7 @@
     "properties": {
       "data": {
         "type": "array",
+        "required": ["id", "name", "keywords", "dates"],
         "items": {
             "type": "object",
             "properties": {
@@ -40,6 +41,28 @@
                 },
                 "notes": {
                     "type": "string"
+                },
+                "rpg": {
+                    "type": "array",
+                    "items": {
+                        "type": "object",
+                        "required": ["campaign", "player", "character"],
+                        "properties": {
+                            "campaign": {
+                                "type": "string",
+                                "enum": ["Tyranny of Dragons", "Dragon of Icespire Peak", "Lost Mine of Phandelver - Family", "Lost Mine of Phandelver - Dave"]
+                            },
+                            "player": {
+                                "type": "string"
+                            },
+                            "character": {
+                                "type": "string"
+                            },
+                            "nickname": {
+                                "type": "string"
+                            }
+                        }
+                    }
                 },
                 "dates": {
                     "type": "array",

@@ -136,6 +136,9 @@
             "id": "5563d887-4be9-41a8-bccd-ded5ecc4512e",
             "name": "Wyldstyle with hood",
             "keywords": ["The LEGO Movie"],
+            "rpg": [
+                { "campaign": "Tyranny of Dragons", "player": "Bryan", "character": "Bryanos II" }
+            ],
             "actor": "Elizabeth Banks",
             "item": "tlm017",
             "set": 70801,
@@ -1342,6 +1345,9 @@
             "actor": "Caroll Spinney",
             "item": "idea073",
             "set": 21324,
+            "rpg": [
+                { "campaign": "Tyranny of Dragons", "player": "Doug", "character": "Glenn" }
+            ],
             "dates": ["2021-11-23"]
         },
         {
@@ -1854,6 +1860,9 @@
             "actor": "Héctor Elizondo",
             "item": "coltlbm07",
             "set": 71017,
+            "rpg": [
+                { "campaign": "Tyranny of Dragons", "player": "Will", "character": "Salazar"}
+            ],
             "dates": []
         },
         {
@@ -2092,6 +2101,9 @@
             "name": "Cedric Diggory, Black and Yellow Uniform",
             "keywords": ["Harry Potter", "Goblet of Fire", "Cedric Diggory", "Triwizard Tournament"],
             "actor": "Robert Pattinson",
+            "rpg": [
+                { "campaign": "Tyranny of Dragons", "player": "Mark", "character": "Theodore" }
+            ],
             "item": "hp179",
             "set": 75946,
             "dates": ["2022-03-09"]
@@ -2099,10 +2111,75 @@
         {
             "id": "fd358b4d-a3aa-45b2-a153-45a1e6b1e747",
             "name": "Zane - Legacy",
-            "keywords": ["Ninjago", "Zane", "White Phantom"],
+            "keywords": ["Ninjago", "Zane"],
+            "rpg": [
+                { "campaign": "Tyranny of Dragons", "player": "Bryan", "character": "Bryanos II", "nickname": "White Phantom" }
+            ],
             "item": "njo494",
             "notes": "While this item appears in 4 sets, I'm not sure which it came from. Bryan bought it for his D&D character.",
             "dates": ["2022-03-08"]
+        },
+        {
+            "id": "188072f9-464b-4238-bf7b-b199e870bafa",
+            "name": "Video Game Guy",
+            "keywords": ["collectible minifigures", "series 12", "video game", "gamer", "headphones", "controller", "Player 1", "glasses"],
+            "item": "col182",
+            "set": 71007,
+            "dates": []
+        },
+        {
+            "id": "e058027c-876b-4534-ba38-cba24eba07da",
+            "name": "Wizard",
+            "keywords": ["collectible minifigures", "series 12", "wizard", "castle", "robe", "staff"],
+            "item": "col179",
+            "rpg": [
+                { "campaign": "Tyranny of Dragons", "player": "Kelly", "character": "Thoth" }
+            ],
+            "set": 71007,
+            "dates": []
+        },
+        {
+            "id": "a1a1170f-c95f-4a22-bff4-4cee0801fb0a",
+            "name": "Brick Costume Guy",
+            "keywords": ["collectible minifigures", "series 20", "costume", "LEGO", "10"],
+            "set": 71027,
+            "item": "col370",
+            "dates": []
+        },
+        {
+            "id": "b83ea78e-8ec7-4902-a896-d7f523be93c6",
+            "name": "Martial Arts Boy",
+            "keywords": ["collectible minifigures", "series 20", "martial arts", "nunchuks", "karate", "black belt"],
+            "set": 71027,
+            "item": "col367",
+            "dates": []
+        },
+        {
+            "id": "098f6ad8-e26a-440b-8698-bf9e9a2a3e67",
+            "name": "Pirate Girl",
+            "keywords": ["collectible minifigures", "series 20", "Pirates", "swashbuckler"],
+            "rpg": [
+                { "campaign": "Tyranny of Dragons", "player": "Deanna", "character": "Aria" }
+            ],
+            "set": 71027,
+            "item": "col362",
+            "dates": []
+        },
+        {
+            "id": "797fa2d3-86c8-4e85-8e67-d87795294ba3",
+            "name": "Space Fan",
+            "keywords": ["collectible minifigures", "series 20", "space", "rocket", "NASA", "hat", "goggles", "diagram", "schematic", "heart", "star", "ringed planet", "saturn"],
+            "set": 71027,
+            "item": "col363",
+            "dates": []
+        },
+        {
+            "id": "28ccef73-4ce0-4ce8-bc84-dd7bac221c46",
+            "name": "Tournament Knight",
+            "keywords": ["collectible minifigures", "series 20", "Castle", "armor", "knight", "bird", "raven", "sword", "helmet"],
+            "set": 71027,
+            "item": "col361",
+            "dates": []
         }
     ]
 }
