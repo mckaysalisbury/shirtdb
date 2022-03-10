@@ -16,7 +16,7 @@
                 },
                 "style": {
                     "type": "string",
-                    "enum": ["minifig", "giant", "item", "character", "microfigure", "nanofigure"]
+                    "enum": ["minifig", "giant", "item", "character", "microfigure", "nanofigure", "electronic"]
                 },
                 "image": {
                     "type":"string"

@@ -61,10 +61,19 @@
             "dates": ["2021-05-04"]
         },
         {
+            "id": "f3708beb-49d0-42c2-bcf4-791931c86288",
+            "name": "Luigi",
+            "keywords": ["video games", "Nintendo", "Super Mario", "Luigi", "electronic"],
+            "style": "electronic",
+            "item": "mar0062",
+            "set": 71387,
+            "dates": ["2022-03-10"]
+        },
+        {
             "id": "9cdae6ca-3516-44ec-9d54-5e4d9dd6f346",
             "name": "Poison Mushroom",
             "style": "item",
-            "keywords": ["Super Mario", "Character Pack Series 2"],
+            "keywords": ["video games", "Nintendo", "Super Mario", "Character Pack Series 2"],
             "item": "mar0060",
             "set": 71386,
             "dates": ["2021-05-05"]
@@ -73,7 +82,7 @@
             "id": "2bc363d4-bbee-4b1b-be54-89226f063cfa",
             "name": "Super Mushroom",
             "style": "item",
-            "keywords": ["Super Mario"],
+            "keywords": ["video games", "Nintendo", "Super Mario"],
             "set": 30385,
             "part": "66855pb01",
             "dates": ["2021-05-06"]
@@ -82,7 +91,7 @@
             "id": "b8fb99a2-07c0-4453-8e55-a8f0ee62a06b",
             "name": "Question Mark Block",
             "style": "item",
-            "keywords": ["Super Mario"],
+            "keywords": ["video games", "Nintendo", "Super Mario"],
             "set": 30385,
             "part": "3003pb118",
             "dates": ["2021-05-07"]
@@ -91,7 +100,7 @@
             "id": "5f7eb38d-a657-4311-b456-5598d2485e7f",
             "name": "Paragoomba",
             "style": "character",
-            "keywords": ["Super Mario"],
+            "keywords": ["video games", "Nintendo", "Super Mario"],
             "item": "mar0025",
             "set": 71361,
             "dates": ["2021-05-10"]
