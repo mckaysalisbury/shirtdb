@@ -2189,6 +2189,38 @@
             "set": 71027,
             "item": "col361",
             "dates": []
+        },
+        {
+            "id": "d7895d35-35ee-449d-867f-dcdd4b67220e",
+            "name": "Night Protector",
+            "keywords": ["collectible minifigures", "series 22", "shield", "sword"],
+            "set": 71032,
+            "item": "col392",
+            "dates": []
+        },
+        {
+            "id": "388a82e8-8f3a-4764-b386-2250ee4d9618",
+            "name": "Robot Repair Tech",
+            "keywords": ["collectible minifigures", "series 22", "robot", "anvil", "hammer", "drill", "wrench"],
+            "set": 71032,
+            "item": "col386",
+            "dates": []
+        },
+        {
+            "id": "19259a5f-0c6e-4799-ac3f-7028422d6a97",
+            "name": "Snow Guardian",
+            "keywords": ["collectible minifigures", "series 22", "shield", "sword", "broadsword", "dog", "wolf", "snow", "winter"],
+            "set": 71032,
+            "item": "col389",
+            "dates": []
+        },
+        {
+            "id": "f926c524-f4b6-42f4-a4c2-d66c3da3a783",
+            "name": "Troubadour",
+            "keywords": ["collectible minifigures", "series 22", "guitar", "coin", "ducat", "sitar", "mandolin", "troubadour", "troubador", "bard", "oud", "lute"],
+            "set": 71032,
+            "item": "col388",
+            "dates": []
         }
     ]
 }
