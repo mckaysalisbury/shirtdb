@@ -2076,7 +2076,7 @@
             "keywords": ["Ninjago", "viper", "snake"],
             "item": "njo723",
             "set": 71760,
-            "dates": []
+            "dates": ["2022-03-15"]
         },
         {
             "id": "92e1891b-fafd-4f5e-a991-d72e295985ef",
@@ -2139,7 +2139,7 @@
         {
             "id": "e058027c-876b-4534-ba38-cba24eba07da",
             "name": "Wizard",
-            "keywords": ["collectible minifigures", "series 12", "wizard", "castle", "robe", "staff"],
+            "keywords": ["collectible minifigures", "series 12", "wizard", "castle", "robe", "staff", "Merlin"],
             "item": "col179",
             "rpg": [
                 { "campaign": "Tyranny of Dragons", "player": "Kelly", "character": "Thoth" }
@@ -2172,7 +2172,7 @@
             ],
             "set": 71027,
             "item": "col362",
-            "dates": []
+            "dates": ["2023-03-14"]
         },
         {
             "id": "797fa2d3-86c8-4e85-8e67-d87795294ba3",
