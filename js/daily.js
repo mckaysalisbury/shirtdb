@@ -124,3 +124,8 @@ function setupItem(url, preprocess) {
         }});
     }
 }
+
+function findDuplicates() {
+    const ids = data.map(i => i.id);
+    return ids.filter((item, index) => index !== ids.indexOf(item));
+}

@@ -521,7 +521,7 @@
             "dates": ["2021-07-19"]
         },
         {
-            "id": "11e15889-97ec-4c5f-a07c-184fa32f95e1",
+            "id": "7c7966b6-5eac-4a3c-8f74-7f7fdf247740",
             "name": "Blacktron 1",
             "keywords": ["Space", "Blacktron"],
             "notes": "I have a couple of these. From this set and from 6955",
@@ -579,7 +579,7 @@
             "dates": ["2021-07-28"]
         },
         {
-            "id": "088dcd6c-675a-4a94-9876-9afad52e9214",
+            "id": "6438a5cd-8795-4142-b62e-77da6db36bb0",
             "name": "Count Dooku",
             "keywords": ["Star Wars"],
             "item": "sw0060",
@@ -1934,7 +1934,7 @@
             "dates": []
         },
         {
-            "id": "7717d955-ee3b-4c7b-888e-97a7946d1522",
+            "id": "f3f374be-fe8c-4294-99ff-21f663b62ce8",
             "name": "Bat-Mite",
             "keywords": ["comics", "DC", "Batman", "Bat-Mite"],
             "item": "colsh16",
@@ -2220,6 +2220,46 @@
             "keywords": ["collectible minifigures", "series 22", "guitar", "coin", "ducat", "sitar", "mandolin", "troubadour", "troubador", "bard", "oud", "lute"],
             "set": 71032,
             "item": "col388",
+            "dates": []
+        },
+        {
+            "id": "1698d857-d07a-43aa-ac66-e0bf2565d010",
+            "name": "Shang-Chi",
+            "keywords": ["comics", "Marvel", "Marvel Cinematic Universe", "Shang-Chi"],
+            "set": 76177,
+            "item": "sh700",
+            "dates": []
+        },
+        {
+            "id": "d441ad63-5e40-4038-b32b-0e521a4c20e9",
+            "name": "Wenwu (The Mandarin)",
+            "keywords": ["comics", "Marvel", "Marvel Cinematic Universe", "Shang-Chi", "Mandarin", "The Mandarin", "Wenwu"],
+            "set": 76177,
+            "item": "sh701",
+            "dates": []
+        },
+        {
+            "id": "7064dc96-7413-4f8a-8944-d1ee3c416e89",
+            "name": "Death Dealer",
+            "keywords": ["comics", "Marvel", "Marvel Cinematic Universe", "Shang-Chi", "Mandarin"],
+            "set": 76177,
+            "item": "sh705",
+            "dates": []
+        },
+        {
+            "id": "7064dc96-7413-4f8a-8944-d1ee3c416e89",
+            "name": "Death Dealer",
+            "keywords": ["comics", "Marvel", "Marvel Cinematic Universe", "Shang-Chi", "Mandarin"],
+            "set": 76177,
+            "item": "sh705",
+            "dates": []
+        },
+        {
+            "id": "fd23175e-fa22-4b44-992f-a5d906932420",
+            "name": "Xialing",
+            "keywords": ["comics", "Marvel", "Marvel Cinematic Universe", "Shang-Chi", "Xialing"],
+            "set": 76177,
+            "item": "sh706",
             "dates": []
         }
     ]
