@@ -354,7 +354,7 @@
             "keywords": ["programming"],
             "source": "QCon 2018",
             "images": ["front", "back", "left"],
-            "dates": ["2021-05-24", "2021-10-18"]
+            "dates": ["2021-05-24", "2021-10-18", "2022-03-24"]
         },
         {
             "id": "6310f4d3-0310-4c36-9e9a-b9ccf19af06e",
@@ -444,7 +444,7 @@
             "images": ["front", "back"],
             "images-name": "I♥SCz",
             "source": "https://blizzcon.com",
-            "dates": ["2021-05-31", "2021-10-22"]
+            "dates": ["2021-05-31", "2021-10-22", "2022-03-23"]
         },
         {
             "id": "a38ff64e-2360-4876-9c55-e1b306d1d7d5",
@@ -1653,6 +1653,14 @@
             "keywords": ["white", "button down", "collar", "best dress", "pocket"],
             "notes": "I've got a few of these that are basically identical",
             "dates": ["2022-02-27", "2022-03-12", "2022-03-13", "2022-03-20"]
+        },
+        {
+            "id": "2b1a72db-a6d7-44e6-91d9-f8561d2b9b81",
+            "name": "blue stripes",
+            "style": "polo",
+            "text": [],
+            "keywords": ["stripes"],
+            "dates": ["2022-03-23"]
         },
         {
             "id": "bd4444f0-e0d0-40c0-8bcf-3a618d12d348",
