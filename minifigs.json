@@ -2064,11 +2064,11 @@
         {
             "id": "116dc461-fe62-4406-830c-b79d3d46c1f1",
             "name": "Jay - Core, Hair",
-            "keywords": ["Ninjago", "Jay", "ninja"],
+            "keywords": ["Ninjago", "Jay", "ninja", "sword", "nunchucks", "sword-chucks"],
             "item": "njo729",
             "notes": "This set had an upgrade for Jay so he's more than just 'hair'.",
             "set": 71760,
-            "dates": []
+            "dates": ["2023-03-25"]
         },
         {
             "id": "c288cae1-e900-4a1f-994e-537891ecf19a",
