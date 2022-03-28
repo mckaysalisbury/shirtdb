@@ -345,7 +345,7 @@
             "keywords": ["video games", "Blizzard", "StarCraft II", "Archon"],
             "source": "https://blizzcon.com/",
             "images": ["front", "back"],
-            "dates": ["2021-05-22", "2021-10-20"]
+            "dates": ["2021-05-22", "2021-10-20", "2022-03-28"]
         },
         {
             "id": "68f25860-7811-46ca-9739-b1c69d06a358",
@@ -373,7 +373,7 @@
             "keywords": ["video games", "NAMCO", "Pac-Man", "ghost", "glow in the dark"],
             "source": "https://thinkgeek.com",
             "images": ["front", "dark"],
-            "dates": ["2021-05-26", "2021-10-19"]
+            "dates": ["2021-05-26", "2021-10-19", "2022-03-26"]
         },
         {
             "id": "b055fe52-b229-4af9-a031-b1757fbda1da",
@@ -561,7 +561,7 @@
             "keywords": ["video games", "Blizzard", "Protoss", "Zeratul", "Artanis", "Selendis"],
             "source": "https://gear.blizzard.com",
             "images": ["front", "back", "logo"],
-            "dates": ["2021-06-11", "2021-10-29"]
+            "dates": ["2021-06-11", "2021-10-29", "2022-03-26"]
         },
         {
             "id": "1ff0f00a-f9d7-4e82-9439-7d05217645dd",
@@ -1652,7 +1652,7 @@
             "style": "button down",
             "keywords": ["white", "button down", "collar", "best dress", "pocket"],
             "notes": "I've got a few of these that are basically identical",
-            "dates": ["2022-02-27", "2022-03-12", "2022-03-13", "2022-03-20"]
+            "dates": ["2022-02-27", "2022-03-12", "2022-03-13", "2022-03-20", "2022-03-26", "2022-03-27"]
         },
         {
             "id": "2b1a72db-a6d7-44e6-91d9-f8561d2b9b81",

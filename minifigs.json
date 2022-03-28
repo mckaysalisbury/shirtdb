@@ -453,7 +453,7 @@
             "keywords": ["comics", "Marvel", "Marvel Cinematic Universe", "Masters of the Mystic Arts", "Sorcerer Supreme"],
             "item": "sh297",
             "set": 76060,
-            "dates": []
+            "dates": ["2022-03-28"]
         },
         {
             "id": "617a5310-c4fe-4925-8d33-0de3eb3e7ef1",
@@ -2066,7 +2066,7 @@
             "name": "Jay - Core, Hair",
             "keywords": ["Ninjago", "Jay", "ninja", "sword", "nunchucks", "sword-chucks"],
             "item": "njo729",
-            "notes": "This set had an upgrade for Jay so he's more than just 'hair'.",
+            "notes": "This set had an upgrade for Jay so he's more than just 'hair'. He has a head wrap now.",
             "set": 71760,
             "dates": ["2023-03-25"]
         },
