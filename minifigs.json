@@ -445,7 +445,7 @@
             "keywords": ["comics", "Marvel", "Marvel Cinematic Universe", "Masters of the Mystic Arts"],
             "item": "sh297",
             "set": 76060,
-            "dates": []
+            "dates": ["2022-03-29"]
         },
         {
             "id": "d4e02465-ee8a-4fee-b527-7a44774872c0",
@@ -1939,7 +1939,7 @@
             "keywords": ["comics", "DC", "Batman", "Bat-Mite"],
             "item": "colsh16",
             "set": 71026,
-            "dates": []
+            "dates": ["2022-04-01"]
         },
         {
             "id": "780fb33e-9383-4b12-a5e8-e455d8567581",
@@ -2228,7 +2228,7 @@
             "keywords": ["comics", "Marvel", "Marvel Cinematic Universe", "Shang-Chi"],
             "set": 76177,
             "item": "sh700",
-            "dates": []
+            "dates": ["2022-03-30"]
         },
         {
             "id": "d441ad63-5e40-4038-b32b-0e521a4c20e9",
@@ -2247,20 +2247,12 @@
             "dates": []
         },
         {
-            "id": "7064dc96-7413-4f8a-8944-d1ee3c416e89",
-            "name": "Death Dealer",
-            "keywords": ["comics", "Marvel", "Marvel Cinematic Universe", "Shang-Chi", "Mandarin"],
-            "set": 76177,
-            "item": "sh705",
-            "dates": []
-        },
-        {
             "id": "fd23175e-fa22-4b44-992f-a5d906932420",
             "name": "Xialing",
             "keywords": ["comics", "Marvel", "Marvel Cinematic Universe", "Shang-Chi", "Xialing"],
             "set": 76177,
             "item": "sh706",
-            "dates": []
+            "dates": ["2022-03-31"]
         }
     ]
 }

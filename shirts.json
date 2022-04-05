@@ -148,7 +148,7 @@
             "source": "https://thinkgeek.com",
             "images": ["front", "logo"],
             "notes": "I have two of these",
-            "dates": ["2021-07-04", "2021-05-09", "2021-09-18", "2021-11-14", "2022-03-06"]
+            "dates": ["2021-07-04", "2021-05-09", "2021-09-18", "2021-11-14", "2022-03-06", "2022-04-03"]
         },
         {
             "id": "3a17fc8b-01a6-40ef-b644-11654c1674ee",
@@ -178,7 +178,7 @@
             "source": "https://shirt.woot.com/offers/1985-b-c",
             "images-name": "1985bc",
             "images": ["front"],
-            "dates": ["2021-05-12", "2021-09-28", "2021-11-05"]
+            "dates": ["2021-05-12", "2021-09-28", "2021-11-05", "2022-04-04"]
         },
         {
             "id": "bc18dcdd-6355-442a-b6d1-06b4b0926617",
@@ -324,10 +324,10 @@
             "id": "810b3e40-57ce-4cb7-8e07-9d18ad9c5014",
             "name": "Avengers",
             "text": ["Ⓐ"],
-            "keywords": ["comics", "movies", "Marvel Cinematic Univers", "Marvel", "Avengers", "Captain America", "Iron Man", "Hulk", "Thor"],
+            "keywords": ["comics", "movies", "Marvel Cinematic Univers", "Marvel", "Avengers", "Captain America", "Iron Man", "Hulk", "Thor", "white"],
             "images": ["front"],
             "images-name": "avengers-a",
-            "dates": ["2021-05-20", "2021-10-25"]
+            "dates": ["2021-05-20", "2021-10-25", "2022-03-30"]
         },
         {
             "id": "68682b55-9bff-4dfa-aa80-0bc70a23f3ae",
@@ -474,7 +474,7 @@
             "source": "https://www.uniqlo.com/us/en/blizzard-short-sleeve-graphic-t-shirt-starcraft-412719.html",
             "images": ["front"],
             "images-name": "races",
-            "dates": ["2021-06-02", "2021-10-26"]
+            "dates": ["2021-06-02", "2021-10-26", "2022-03-31"]
         },
         {
             "id": "bdfa52cc-1b47-4457-9623-ff7e35caba1b",
@@ -543,7 +543,7 @@
             "keywords": ["video games", "Blizzard", "BlizzCon", "WarCraft", "Diablo", "StarCraft", "Dranei", "Protoss", "Zealot", "Terran", "Tychus Findlay", "Murloc", "Blood Elf"],
             "source": "https://blizzcon.com",
             "images": ["front", "logo", "right", "back"],
-            "dates": ["2021-06-09"]
+            "dates": ["2021-06-09", "2022-04-02"]
         },
         {
             "id": "20fffcad-fce2-4021-af17-e3c8e4bd1aac",
@@ -552,7 +552,7 @@
             "keywords": ["comics", "Marvel", "Captain America"],
             "images-name": "captain-america",
             "images": ["front"],
-            "dates": ["2021-06-10"]
+            "dates": ["2021-06-10", "2022-04-01"]
         },
         {
             "id": "07967588-d1ec-4fbf-b836-bf11463bc084",
@@ -1661,6 +1661,21 @@
             "text": [],
             "keywords": ["stripes"],
             "dates": ["2022-03-23"]
+        },
+        {
+            "id": "5eb41309-0fa8-4199-b445-5640172a0030",
+            "name": "Necromancy",
+            "text": ["NECROMANCY", "REDUCE, REUSE, REANIMATE"],
+            "keywords": ["games", "necromancy", "skull", "D&D"],
+            "notes": "Kelly gave this as a gift to me",
+            "dates": ["2022-03-29"]
+        },
+        {
+            "id": "729e416f-ff44-477d-ba28-7c3e8980cbf0",
+            "name": "Borg",
+            "text": ["BORG", "", "STAR TREK", "THE NEXT GENERATION®️"],
+            "keywords": ["Television", "Star Trek", "Star Trek: The Next Generation", "The Next Generation", "Borg"],
+            "dates": ["2022-04-05"]
         },
         {
             "id": "bd4444f0-e0d0-40c0-8bcf-3a618d12d348",
