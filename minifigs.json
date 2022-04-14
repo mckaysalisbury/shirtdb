@@ -589,18 +589,10 @@
         {
             "id": "7e61ddb4-5b6c-4f81-a413-9bcfe257e679",
             "name": "D-O with Santa Hat",
-            "keywords": ["Star Wars"],
+            "keywords": ["Star Wars", "Christmas"],
             "item": "sw1118",
             "set": 75279,
             "dates": ["2021-07-30"]
-        },
-        {
-            "id": "17cf2324-3da8-4260-923e-6e9bc2de5dab",
-            "name": "Santa Darth Maul",
-            "keywords": ["Star Wars"],
-            "item": "sw0423",
-            "set": 9509,
-            "dates": ["2021-08-02"]
         },
         {
             "id": "01283101-0cfc-49df-acbc-10161808234e",
@@ -609,6 +601,31 @@
             "item": "sw1117",
             "set": 75279,
             "dates": ["2021-08-03"]
+        },
+        {
+            "id": "fcdef04c-4eac-48fe-a360-54c03f12226b",
+            "name": "Porg, Star Wars with White Body, Dark Bluish Gray Wings and Tail - Brick Built",
+            "keywords": ["Star Wars"],
+            "style": "item",
+            "part": "Porg05",
+            "set": 75279,
+            "dates": ["2021-08-06"]
+        },
+        {
+            "id": "b4096abc-a90e-473b-89dd-00a0f1a2f061",
+            "name": "Darth Vader (Red Christmas Sweater with Death Star)",
+            "keywords": ["Star Wars", "Christmas"],
+            "item": "sw1121",
+            "set": 75279,
+            "dates": ["2021-08-10"]
+        },
+        {
+            "id": "17cf2324-3da8-4260-923e-6e9bc2de5dab",
+            "name": "Santa Darth Maul",
+            "keywords": ["Star Wars"],
+            "item": "sw0423",
+            "set": 9509,
+            "dates": ["2021-08-02"]
         },
         {
             "id": "18bfd06f-0b31-497f-8b7d-e7717617b996",
@@ -628,29 +645,12 @@
             "dates": ["2021-08-05"]
         },
         {
-            "id": "fcdef04c-4eac-48fe-a360-54c03f12226b",
-            "name": "Porg, Star Wars with White Body, Dark Bluish Gray Wings and Tail - Brick Built",
-            "keywords": ["Star Wars"],
-            "style": "item",
-            "part": "Porg05",
-            "set": 75279,
-            "dates": ["2021-08-06"]
-        },
-        {
             "id": "327cb6eb-0614-467d-b636-f7e6cb52ea73",
             "name": "Santa Darth Vader",
             "keywords": ["Star Wars", "Christmas"],
             "item": "sw0599",
             "set": 75056,
             "dates": ["2021-08-09"]
-        },
-        {
-            "id": "b4096abc-a90e-473b-89dd-00a0f1a2f061",
-            "name": "Darth Vader (Red Christmas Sweater with Death Star)",
-            "keywords": ["Star Wars", "Christmas"],
-            "item": "sw1121",
-            "set": 75279,
-            "dates": ["2021-08-10"]
         },
         {
             "id": "6738dcfa-c873-4590-9c80-c140164cdf1e",
@@ -2085,7 +2085,7 @@
             "actor": "Daniel Radcliffe",
             "item": "hp176",
             "set": 75946,
-            "dates": []
+            "dates": ["2022-04-14"]
         },
         {
             "id": "c38e9528-7de9-4159-a343-e3477a2b8fa6",
@@ -2253,6 +2253,46 @@
             "set": 76177,
             "item": "sh706",
             "dates": ["2022-03-31"]
+        },
+        {
+            "id": "f351094f-38fd-4a74-b578-69aa01511c0c",
+            "name": "Ultimate Macy",
+            "keywords": ["Nexo Knights", "Macy", "Mace", "Armor", "Helmet"],
+            "set": 70331,
+            "item": "nex031",
+            "dates": []
+        },
+        {
+            "id": "c22a18ea-ce3c-471f-a8a6-8c837fe958f3",
+            "name": "Kai - Legacy",
+            "keywords": ["Ninjago", "ninja", "Kai", "red", "dragon"],
+            "set": 71701,
+            "item": "njo492",
+            "dates": []
+        },
+        {
+            "id": "abf9b0ff-fc41-440a-89d5-ea73af803943",
+            "name": "Lord Garmadon - Legacy",
+            "keywords": ["Ninjago", "Lord Garmadon", "Garmadon", "bone", "staff"],
+            "set": 71701,
+            "item": "njo596",
+            "dates": []
+        },
+        {
+            "id": "6bd476c4-77b0-4d9c-8191-19716fa411c3",
+            "name": "Kai - Legacy, White Shirt",
+            "keywords": ["Ninjago", "Kai", "training", "red", "mask", "fire"],
+            "set": 71730,
+            "item": "njo643",
+            "dates": []
+        },
+        {
+            "id": "3c7a06ee-d3e5-46ed-b503-82e8bde44c47",
+            "name": "Skulkin - Hat",
+            "keywords": ["Ninjago", "Skulkin", "skeleton", "skull"],
+            "set": 71730,
+            "item": "njo642",
+            "dates": []
         }
     ]
 }
