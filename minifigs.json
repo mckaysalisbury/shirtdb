@@ -597,7 +597,7 @@
         {
             "id": "01283101-0cfc-49df-acbc-10161808234e",
             "name": "Festive Poe Dameron",
-            "keywords": ["Star Wars"],
+            "keywords": ["Star Wars", "Christmas"],
             "item": "sw1117",
             "set": 75279,
             "dates": ["2021-08-03"]
@@ -605,7 +605,7 @@
         {
             "id": "fcdef04c-4eac-48fe-a360-54c03f12226b",
             "name": "Porg, Star Wars with White Body, Dark Bluish Gray Wings and Tail - Brick Built",
-            "keywords": ["Star Wars"],
+            "keywords": ["movies", "Star Wars", "porg"],
             "style": "item",
             "part": "Porg05",
             "set": 75279,
@@ -614,15 +614,59 @@
         {
             "id": "b4096abc-a90e-473b-89dd-00a0f1a2f061",
             "name": "Darth Vader (Red Christmas Sweater with Death Star)",
-            "keywords": ["Star Wars", "Christmas"],
+            "keywords": ["movies", "Star Wars", "Christmas", "Darth Vader", "Anakin Skywalker"],
             "item": "sw1121",
             "set": 75279,
             "dates": ["2021-08-10"]
         },
         {
+            "id": "d61bdd32-2125-410f-ad79-e403d24d5edd",
+            "name": "Luke Skywalker (Tatooine, White Legs, Stern / Smile Face Print)",
+            "actor": "Mark Hamill",
+            "keywords": ["movies", "Star Wars", "Luke Skywalker"],
+            "item": "sw0778",
+            "set": 75279,
+            "dates": []
+        },
+        {
+            "id": "34c2a71c-3d30-4bcd-a642-e79ed55adab3",
+            "name": "Sith Trooper - Episode 9",
+            "keywords": ["movies", "Star Wars", "Sith Trooper", "trooper"],
+            "item": "sw1065",
+            "set": 75279,
+            "dates": []
+        },
+        {
+            "id": "0e3fe89e-54c5-4704-af47-0f9de1f34ca7",
+            "name": "Rey - White Tied Robe",
+            "keywords": ["movies", "Star Wars", "Rey"],
+            "actor": "Daisy Ridley",
+            "item": "sw1054",
+            "set": 75279,
+            "dates": []
+        },
+        {
+            "id": "33cb5ea5-7131-407b-8a6e-cf5067293958",
+            "name": "Battle Droid with One Straight Arm",
+            "keywords": ["movies", "Star Wars", "battle droid", "droid", "trade federation"],
+            "item": "sw0001c",
+            "set": 75219,
+            "notes": "This minifig is in a lot of sets. I have it from multiple Advent Calendars",
+            "dates": []
+        },
+        {
+            "id": "22e01c8d-6171-4034-bc9f-20b1120ae8a5",
+            "name": "Stormtrooper (Dual Molded Helmet, Gray Squares on Back, Grimacing)",
+            "keywords": ["movies", "Star Wars", "Stormtrooper", "trooper"],
+            "item": "sw0997b",
+            "set": 75279,
+            "dates": []
+        },
+        {
             "id": "17cf2324-3da8-4260-923e-6e9bc2de5dab",
             "name": "Santa Darth Maul",
-            "keywords": ["Star Wars"],
+            "keywords": ["movies", "Star Wars", "Darth Maul"],
+            "actor": "Ray Park",
             "item": "sw0423",
             "set": 9509,
             "dates": ["2021-08-02"]
@@ -630,7 +674,7 @@
         {
             "id": "18bfd06f-0b31-497f-8b7d-e7717617b996",
             "name": "BB-8 with Santa Hat",
-            "keywords": ["Star Wars"],
+            "keywords": ["movies", "Star Wars"],
             "notes": "Came with snowboard",
             "item": "sw0874",
             "set": 75184,
@@ -1942,6 +1986,14 @@
             "dates": ["2022-04-01"]
         },
         {
+            "id": "c24090ef-5b4b-49d4-83d6-55d5a00c6a5f",
+            "name": "Bat-Merch Batgirl",
+            "keywords": ["comics", "movies", "DC", "The LEGO Batman Movie", "Batman", "Batgirl", "Barbara Gordon", "Babs"],
+            "item": "coltlbm35",
+            "set": 71020,
+            "dates": []
+        },
+        {
             "id": "780fb33e-9383-4b12-a5e8-e455d8567581",
             "name": "Robin - Short Legs",
             "keywords": ["comics", "DC", "Batman", "Robin", "Mighty Micros"],
@@ -2260,7 +2312,7 @@
             "keywords": ["Nexo Knights", "Macy", "Mace", "Armor", "Helmet"],
             "set": 70331,
             "item": "nex031",
-            "dates": []
+            "dates": ["2022-04-15"]
         },
         {
             "id": "c22a18ea-ce3c-471f-a8a6-8c837fe958f3",
@@ -2292,6 +2344,14 @@
             "keywords": ["Ninjago", "Skulkin", "skeleton", "skull"],
             "set": 71730,
             "item": "njo642",
+            "dates": []
+        },
+        {
+            "id": "13eb034a-a4ff-4fc0-bfbb-4c162187ac71",
+            "name": "Centaur Warrior",
+            "keywords": ["collectible", "centaur", "bow", "apple", "quiver"],
+            "set": 71029,
+            "item": "col379",
             "dates": []
         }
     ]
