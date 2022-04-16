@@ -2353,6 +2353,14 @@
             "set": 71029,
             "item": "col379",
             "dates": []
+        },
+        {
+            "id": "deb9b7b2-f287-4249-9fb4-684dc3bdac44",
+            "name": "Metal Dragon",
+            "keywords": ["Vidiyo", "dragon", "music"],
+            "set": 43109,
+            "item": "vid019",
+            "dates": []
         }
     ]
 }
