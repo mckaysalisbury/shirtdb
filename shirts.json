@@ -637,7 +637,7 @@
             "source": "https://store.intrepidmuseum.org",
             "images-name": "enterprise",
             "images": ["logo", "front"],
-            "dates": ["2021-06-19", "2021-11-09"]
+            "dates": ["2021-06-19", "2021-11-09", "2022-04-19"]
         },
         {
             "id": "30ef53cc-1dd2-463b-b98a-4d106606ab10",
@@ -1201,7 +1201,7 @@
             "source": "https://shirt.woot.com/offers/mandelorean",
             "images": ["front"],
             "images-name": "mandelorean",
-            "dates": ["2021-08-19", "2021-11-04"]
+            "dates": ["2021-08-19", "2021-11-04", "2022-04-18"]
         },
         {
             "id": "e0528296-eef7-4e4e-a348-4eb0aa778fa9",
@@ -1652,7 +1652,7 @@
             "style": "button down",
             "keywords": ["white", "button down", "collar", "best dress", "pocket"],
             "notes": "I've got a few of these that are basically identical",
-            "dates": ["2022-02-27", "2022-03-12", "2022-03-13", "2022-03-20", "2022-03-26", "2022-03-27", "2022-04-10"]
+            "dates": ["2022-02-27", "2022-03-12", "2022-03-13", "2022-03-20", "2022-03-26", "2022-03-27", "2022-04-10", "2022-04-17"]
         },
         {
             "id": "2b1a72db-a6d7-44e6-91d9-f8561d2b9b81",
