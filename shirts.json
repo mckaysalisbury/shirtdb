@@ -627,7 +627,7 @@
             "source": "https://contests.stackoverflow.com/promos/13/answerswarm",
             "images": ["front", "logo"],
             "images-name": "arqade-sc",
-            "dates": ["2021-06-18", "2021-11-16"]
+            "dates": ["2021-06-18", "2021-11-16", "2022-04-20"]
         },
         {
             "id": "5de85cc1-7cec-476e-ac2f-8cd2fd69cfc0",
@@ -1588,7 +1588,7 @@
             "text": ["Welcome home."],
             "images": ["front", "back"],
             "keywords": ["work", "Lending Home", "Kiavi"],
-            "dates": ["2021-11-11"]
+            "dates": ["2021-11-11", "2022-04-21"]
         },
         {
             "id": "47728c5d-2acb-4f43-a9ff-7c85c3bc8336",
