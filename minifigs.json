@@ -631,10 +631,10 @@
         {
             "id": "34c2a71c-3d30-4bcd-a642-e79ed55adab3",
             "name": "Sith Trooper - Episode 9",
-            "keywords": ["movies", "Star Wars", "Sith Trooper", "trooper"],
+            "keywords": ["movies", "Star Wars", "Sith Trooper", "trooper", "red"],
             "item": "sw1065",
             "set": 75279,
-            "dates": []
+            "dates": ["2022-04-29"]
         },
         {
             "id": "0e3fe89e-54c5-4704-af47-0f9de1f34ca7",
