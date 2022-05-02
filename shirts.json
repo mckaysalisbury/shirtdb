@@ -697,7 +697,7 @@
             "source": "https://shirt.woot.com/offers/they-beat-the-same",
             "images": ["front"],
             "images-name": "beat-same",
-            "dates": ["2021-06-25", "2021-11-22"]
+            "dates": ["2021-06-25", "2021-11-22", "2022-04-30"]
         },
         {
             "id": "003e4a07-1e2a-433d-9cf6-b1453b5e8de6",
@@ -764,7 +764,7 @@
             "keywords": ["video games", "Blizzard", "StarCraft", "StarCraft II", "Terran", "Jim Raynor", "Marine"],
             "source": "https://blizzcon.com",
             "images": ["front", "back"],
-            "dates": ["2021-07-02", "2021-12-09"]
+            "dates": ["2021-07-02", "2021-12-09", "2022-05-02"]
         },
         {
             "id": "48f89360-e645-47cb-8e28-187247127aaf",
@@ -1652,7 +1652,7 @@
             "style": "button down",
             "keywords": ["white", "button down", "collar", "best dress", "pocket"],
             "notes": "I've got a few of these that are basically identical",
-            "dates": ["2022-02-27", "2022-03-12", "2022-03-13", "2022-03-20", "2022-03-26", "2022-03-27", "2022-04-10", "2022-04-17", "2022-04-24"]
+            "dates": ["2022-02-27", "2022-03-12", "2022-03-13", "2022-03-20", "2022-03-26", "2022-03-27", "2022-04-10", "2022-04-17", "2022-04-24", "2022-05-01"]
         },
         {
             "id": "2b1a72db-a6d7-44e6-91d9-f8561d2b9b81",
