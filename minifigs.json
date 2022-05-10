@@ -2369,6 +2369,22 @@
             "item": "tnt024",
             "notes": "Acquired not in a set",
             "dates": ["2022-05-04"]
+        },
+        {
+            "id": "ddb7fdb1-0817-48a8-af4a-a0acd839ccf8",
+            "name": "Griphook",
+            "keywords": ["books", "movies", "Harry Potter", "Wizarding World", "goblin", "key", "sword", "Godric Gryffindor"],
+            "item": "colhp28",
+            "set": 71028,
+            "dates": ["2022-05-10"]
+        },
+        {
+            "id": "8f2772d4-90d0-4269-9483-fee43c23b0d1",
+            "name": "GPL Tech",
+            "keywords": ["LEGO", "Ninjago", "GIT", "IT Bat Nerd", "laptop", "Batman", "Garmadon Propulsion Laboratories", "Garmadon Information Technology"],
+            "item": "coltlnm18",
+            "set": 71019,
+            "dates": []
         }
     ]
 }
