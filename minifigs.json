@@ -1720,7 +1720,7 @@
         {
             "id": "b95b9b9c-2983-4a19-951d-88d16b76550d",
             "name": "Zombie Hunter Spidey, Marvel Studios",
-            "keywords": ["comics", "Marvel", "Marvel Cinematic Universe", "What If...?", "collectible", "Zombies", "Spider-Man", "Peter Parker", "variant", "Alligator Thor"],
+            "keywords": ["comics", "Marvel", "Marvel Cinematic Universe", "What If...?", "collectible", "Zombies", "Spider-Man", "Peter Parker"],
             "actor": "Hudson Thames",
             "item": "colmar08",
             "set": 71031,
@@ -2385,6 +2385,33 @@
             "item": "coltlnm18",
             "set": 71019,
             "dates": []
-        }
+        },
+        {
+            "id": "791b9cb0-9271-4bcb-8a82-a1c7eacb0c44",
+            "name": "Bro Thor (Fat Thor)",
+            "keywords": ["comics", "Marvel", "movies", "Marvel Cinematic Universe", "Thor", "Odinson", "Asgardian"],
+            "actor": "Chris Hemsworth",
+            "item": "sh753",
+            "set": 76200,
+            "dates": []
+        },
+        {
+            "id": "43c54094-a877-4392-be72-78ca9f70d29e",
+            "name": "Korg",
+            "keywords": ["comics", "Marvel", "movies", "Marvel Cinematic Universe", "Korg", "Kronan"],
+            "actor": "Taika Waititi",
+            "item": "sh752",
+            "set": 76200,
+            "dates": []
+        },
+        {
+            "id": "23bdbbad-4746-4168-bd79-da0952c86a37",
+            "name": "Miek",
+            "keywords": ["comics", "Marvel", "movies", "Marvel Cinematic Universe", "Miek", "Sakaaran"],
+            "actor": "Stephen Murdoch",
+            "item": "sh754",
+            "set": 76200,
+            "dates": []
+        },
     ]
 }
