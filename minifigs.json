@@ -2413,5 +2413,68 @@
             "set": 76200,
             "dates": []
         },
+        {
+            "id": "fd95dce7-bea5-4ed0-9dce-d03b6c999c7c",
+            "name": "Black Panther - Claw Necklace, Dark Purple and Lavender Highlights",
+            "keywords": ["comics", "Marvel", "movies", "Marvel Cinematic Universe", "Infinity Saga", "Avengers: Endgame", "Black Panther", "Wakandan", "T'Challa"],
+            "actor": "Chadwick Boseman",
+            "item": "sh728",
+            "set": 76192,
+            "dates": []
+        },
+        {
+            "id": "6b7a689d-509b-4a3d-889f-02cb51771303",
+            "name": "Captain America - Detailed Suit, Open Mouth, Reddish Brown Hands",
+            "keywords": ["comics", "Marvel", "movies", "Marvel Cinematic Universe", "Infinity Saga", "Avengers: Endgame", "Captain America", "Steve Rogers"],
+            "actor": "Chris Evans",
+            "item": "sh729",
+            "set": 76192,
+            "dates": []
+        },
+        {
+            "id": "3470471d-4a69-4a6e-b827-59fbfb1cc5ec",
+            "name": "Chitauri - Dark Bluish Gray",
+            "keywords": ["comics", "Marvel", "movies", "Marvel Cinematic Universe", "Infinity Saga", "Avengers: Endgame", "Chitauri"],
+            "item": "sh730",
+            "set": 76192,
+            "dates": []
+        },
+        {
+            "id": "58fdea13-cc5e-4460-a034-99fe23ba9988",
+            "name": "Iron Man Mark 85 Armor - Black Hair",
+            "keywords": ["comics", "Marvel", "movies", "Marvel Cinematic Universe", "Infinity Saga", "Avengers: Endgame", "Iron Man", "Tony Stark"],
+            "actor": "Robert Downey Jr.",
+            "item": "sh731",
+            "set": 76192,
+            "dates": []
+        },
+        {
+            "id": "de3a8bd0-9082-4f1e-beea-c735c876793e",
+            "name": "Scarlet Witch - Plain Black Legs",
+            "keywords": ["comics", "Marvel", "movies", "Marvel Cinematic Universe", "Infinity Saga", "Avengers: Endgame", "Scarlet Witch", "Wanda Maximoff"],
+            "actor": "Elizabeth Olsen",
+            "item": "sh732",
+            "set": 76192,
+            "dates": []
+        },
+        {
+            "id": "69ff5eca-2e32-43e5-86d7-da9c9f9725ef",
+            "name": "Thanos - Dark Bluish Gray Armor without Helmet",
+            "style": "giant",
+            "keywords": ["comics", "Marvel", "movies", "Marvel Cinematic Universe", "Infinity Saga", "Avengers: Endgame", "Thanos", "Titan"],
+            "actor": "Josh Brolin",
+            "item": "sh733",
+            "set": 76192,
+            "dates": []
+        },
+        {
+            "id": "7d9be19f-06b1-446d-99d0-12155fde4f02",
+            "name": "Thor - Long Dark Tan Hair",
+            "keywords": ["comics", "Marvel", "movies", "Marvel Cinematic Universe", "Infinity Saga", "Avengers: Endgame", "Thor", "Odinson", "Asgardian"],
+            "actor": "Chris Hemsworth",
+            "item": "sh734",
+            "set": 76192,
+            "dates": []
+        }
     ]
 }
