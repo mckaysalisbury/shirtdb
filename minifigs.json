@@ -589,6 +589,7 @@
         {
             "id": "7e61ddb4-5b6c-4f81-a413-9bcfe257e679",
             "name": "D-O with Santa Hat",
+            "style": "item",
             "keywords": ["Star Wars", "Christmas"],
             "item": "sw1118",
             "set": 75279,
@@ -1706,7 +1707,7 @@
             "actor": "Tom Hiddleston",
             "item": "colmar06",
             "set": 71031,
-            "dates": []
+            "dates": ["2022-05-17"]
         },
         {
             "id": "88cc4f82-394e-4760-a31a-a99feb99c640",
@@ -1715,7 +1716,7 @@
             "actor": "Sophia Di Martino",
             "item": "colmar07",
             "set": 71031,
-            "dates": []
+            "dates": ["2022-05-18"]
         },
         {
             "id": "b95b9b9c-2983-4a19-951d-88d16b76550d",
@@ -2256,7 +2257,7 @@
             "keywords": ["collectible minifigures", "series 22", "robot", "anvil", "hammer", "drill", "wrench"],
             "set": 71032,
             "item": "col386",
-            "dates": []
+            "dates": ["2022-05-19"]
         },
         {
             "id": "19259a5f-0c6e-4799-ac3f-7028422d6a97",
@@ -2389,7 +2390,7 @@
         {
             "id": "791b9cb0-9271-4bcb-8a82-a1c7eacb0c44",
             "name": "Bro Thor (Fat Thor)",
-            "keywords": ["comics", "Marvel", "movies", "Marvel Cinematic Universe", "Thor", "Odinson", "Asgardian"],
+            "keywords": ["comics", "Marvel", "movies", "Marvel Cinematic Universe", "Thor", "Odinson", "Asgardian", "Stormbreaker"],
             "actor": "Chris Hemsworth",
             "item": "sh753",
             "set": 76200,
@@ -2414,6 +2415,16 @@
             "dates": []
         },
         {
+            "id": "40638887-ad69-4155-962c-a2dd52f9e215",
+            "name": "Ant-Man (Scott Lang) Statuette / Trophy - Upgraded Suit",
+            "style": "nanofigure",
+            "keywords": ["comics", "Marvel", "movies", "Marvel Cinematic Universe", "Infinity Saga", "Avengers: Endgame", "Ant-Man", "Scott Lang"],
+            "actor": "Paul Rudd",
+            "item": "90398pb044",
+            "set": 76192,
+            "dates": []
+        },
+        {
             "id": "fd95dce7-bea5-4ed0-9dce-d03b6c999c7c",
             "name": "Black Panther - Claw Necklace, Dark Purple and Lavender Highlights",
             "keywords": ["comics", "Marvel", "movies", "Marvel Cinematic Universe", "Infinity Saga", "Avengers: Endgame", "Black Panther", "Wakandan", "T'Challa"],
@@ -2425,7 +2436,7 @@
         {
             "id": "6b7a689d-509b-4a3d-889f-02cb51771303",
             "name": "Captain America - Detailed Suit, Open Mouth, Reddish Brown Hands",
-            "keywords": ["comics", "Marvel", "movies", "Marvel Cinematic Universe", "Infinity Saga", "Avengers: Endgame", "Captain America", "Steve Rogers"],
+            "keywords": ["comics", "Marvel", "movies", "Marvel Cinematic Universe", "Infinity Saga", "Avengers: Endgame", "Captain America", "Steve Rogers", "shield", "Mjolnir"],
             "actor": "Chris Evans",
             "item": "sh729",
             "set": 76192,
@@ -2451,11 +2462,11 @@
         {
             "id": "de3a8bd0-9082-4f1e-beea-c735c876793e",
             "name": "Scarlet Witch - Plain Black Legs",
-            "keywords": ["comics", "Marvel", "movies", "Marvel Cinematic Universe", "Infinity Saga", "Avengers: Endgame", "Scarlet Witch", "Wanda Maximoff"],
+            "keywords": ["comics", "Marvel", "movies", "Marvel Cinematic Universe", "Infinity Saga", "Avengers: Endgame", "Scarlet Witch", "Wanda Maximoff", "shield"],
             "actor": "Elizabeth Olsen",
             "item": "sh732",
             "set": 76192,
-            "dates": []
+            "dates": ["2022-05-20"]
         },
         {
             "id": "69ff5eca-2e32-43e5-86d7-da9c9f9725ef",
@@ -2470,11 +2481,11 @@
         {
             "id": "7d9be19f-06b1-446d-99d0-12155fde4f02",
             "name": "Thor - Long Dark Tan Hair",
-            "keywords": ["comics", "Marvel", "movies", "Marvel Cinematic Universe", "Infinity Saga", "Avengers: Endgame", "Thor", "Odinson", "Asgardian"],
+            "keywords": ["comics", "Marvel", "movies", "Marvel Cinematic Universe", "Infinity Saga", "Avengers: Endgame", "Thor", "Odinson", "Asgardian", "Stormbreaker"],
             "actor": "Chris Hemsworth",
             "item": "sh734",
             "set": 76192,
-            "dates": []
+            "dates": ["2022-05-16"]
         }
     ]
 }
