@@ -236,7 +236,7 @@
             "images": ["front", "dark"],
             "images-name": "cloak",
             "source": "https://shirt.woot.com/offers/shirt-of-stealth",
-            "dates": ["2021-05-18", "2021-10-11", "2022-03-11"]
+            "dates": ["2021-05-18", "2021-10-11", "2022-03-11", "2022-05-21"]
         },
         {
             "id": "2889ff8e-180e-4896-b027-af6704765801",
@@ -318,7 +318,7 @@
             "keywords": ["math", "pi"],
             "source": "https://thinkgeek.com",
             "images": ["front"],
-            "dates": ["2021-05-19", "2021-10-15", "2022-03-14"]
+            "dates": ["2021-05-19", "2021-10-15", "2022-03-14", "2022-05-23"]
         },
         {
             "id": "810b3e40-57ce-4cb7-8e07-9d18ad9c5014",
@@ -392,7 +392,7 @@
             "keywords": ["board games", "Chess", "Mousetrap", "Monopoly", "Risk", "Barrel of monkeys", "jacks", "Battleship", "Operation", "green army men"],
             "source": "https://shirt.woot.com/offers/game-time",
             "images": ["logo", "front"],
-            "dates": ["2021-05-28", "2021-10-06", "2022-03-18"]
+            "dates": ["2021-05-28", "2021-10-06", "2022-03-18", "2022-05-21"]
         },
         {
             "id": "23f6ee3b-3a2f-4fbb-abb9-2053676de6c7",
@@ -1652,7 +1652,7 @@
             "style": "button down",
             "keywords": ["white", "button down", "collar", "best dress", "pocket"],
             "notes": "I've got a few of these that are basically identical",
-            "dates": ["2022-02-27", "2022-03-12", "2022-03-13", "2022-03-20", "2022-03-26", "2022-03-27", "2022-04-10", "2022-04-17", "2022-04-24", "2022-05-01", "2022-05-08"]
+            "dates": ["2022-02-27", "2022-03-12", "2022-03-13", "2022-03-20", "2022-03-26", "2022-03-27", "2022-04-10", "2022-04-17", "2022-04-24", "2022-05-01", "2022-05-08", "2022-05-22"]
         },
         {
             "id": "2b1a72db-a6d7-44e6-91d9-f8561d2b9b81",
