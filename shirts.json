@@ -189,7 +189,7 @@
             "images": ["front"],
             "images-name": "false",
             "notes": "I have two copies of this shirt",
-            "dates": ["2021-05-13", "2021-07-31", "2021-10-12", "2022-03-09"]
+            "dates": ["2021-05-13", "2021-07-31", "2021-10-12", "2022-03-09", "2022-05-28"]
         },
         {
             "id": "8d9afdfe-686d-4f84-b0de-8275fb9d60c7",
@@ -1050,7 +1050,7 @@
             "keywords": ["TV", "comics", "Sesame Street", "Cookie Monster", "cookie", "milk", "galaxy", "Milky Way", "planet", "comics", "Marvel", "Galactus", "mashup"],
             "source": "https://shirt.woot.com/offers/the-devourer",
             "images": ["front"],
-            "dates": ["2021-08-05", "2022-01-04", "2022-03-07"]
+            "dates": ["2021-08-05", "2022-01-04", "2022-03-07", "2022-05-27"]
         },
         {
             "id": "8a581326-47e0-429f-9b98-b2fe353438da",
@@ -1691,7 +1691,7 @@
             "keywords": ["video games", "text"],
             "source": "https://shirt.woot.com/offers/i-have-no-idea",
             "dates": ["2022-05-25"]
-        }
+        },
         {
             "id": "bd4444f0-e0d0-40c0-8bcf-3a618d12d348",
             "name": "Tony Stark costume",
