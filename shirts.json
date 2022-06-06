@@ -827,7 +827,7 @@
             "text": ["Ⓐ"],
             "keywords": ["comics", "movies", "Marvel Cinematic Universe", "Marvel", "Avengers", "Captain America", "Thor", "Black Widow", "Hawkeye", "Iron Man", "Hulk"],
             "images": ["front"],
-            "dates": ["2021-07-10", "2021-12-11"]
+            "dates": ["2021-07-10", "2021-12-11", "2022-06-06"]
         },
         {
             "id": "bfa44e33-6cd7-41b4-82b3-a2a5fe2b0bc6",
@@ -968,7 +968,7 @@
             "keywords": ["video games", "Blizzard", "BlizzCon", "BlizzCon 2008", "key art", "WarCraft", "World of WarCraft", "Thrall", "Diablo", "Diablo 3", "Tyrael", "StarCraft", "StarCraft II", "Zeratul", "Dark Templar"],
             "images": ["front", "back", "logo", "right"],
             "source": "https://blizzcon.com",
-            "dates": ["2021-07-26", "2021-12-13"]
+            "dates": ["2021-07-26", "2021-12-13", "2022-06-04"]
         },
         {
             "id": "f16dd309-768e-4c7d-9351-a75ba26c21f1",
@@ -1625,7 +1625,7 @@
             "keywords": ["stripes"],
             "images": ["front"],
             "source": "https://gap.com",
-            "dates": ["2022-01-02"]
+            "dates": ["2022-01-02", "2022-06-05"]
         },
         {
             "id": "bfc747c6-d585-498f-b397-a821b064cb11",
