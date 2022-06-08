@@ -1917,7 +1917,7 @@
             "rpg": [
                 { "campaign": "Tyranny of Dragons", "player": "Will", "character": "Salazar"}
             ],
-            "dates": []
+            "dates": ["2022-06-07"]
         },
         {
             "id": "c027973c-1c20-44dc-bd3e-2f364b2a3b83",
@@ -2098,21 +2098,21 @@
             "keywords": ["comics", "DC", "Batman", "Knightmare", "Knightmare Batman", "DC Extended Universe", "Justice League", "Zack Snyder's Justice League"],
             "item": "sh532",
             "set": 853744,
-            "dates": ["2022-03-06", "2022-06-06"]
+            "dates": ["2022-03-06"]
         },
         {
             "id": "ee510583-d63a-4c65-8d58-5b9de0346604",
             "name": "Parademon - Dark Green, Collapsed Wings",
             "keywords": ["comics", "DC", "Batman", "Knightmare", "DC Extended Universe", "Justice League", "Zack Snyder's Justice League", "parademon"],
             "item": "sh433",
-            "dates": []
+            "dates": ["2022-06-06"]
         },
         {
             "id": "bf8b5ca9-b804-4d5e-a5f7-c809cc8a7097",
             "name": "Parademon - Dark Green, Extended Wings",
             "keywords": ["comics", "DC", "Batman", "Knightmare", "DC Extended Universe", "Justice League", "Zack Snyder's Justice League", "parademon"],
             "item": "sh439",
-            "dates": []
+            "dates": ["2022-06-06"]
         },
         {
             "id": "116dc461-fe62-4406-830c-b79d3d46c1f1",
