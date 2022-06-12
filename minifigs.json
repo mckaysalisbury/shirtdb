@@ -1973,10 +1973,10 @@
         {
             "id": "7a01be1c-caea-44cf-9486-47b12d876c8d",
             "name": "Joker (white suit)",
-            "keywords": ["comics", "DC", "Batman", "Joker"],
+            "keywords": ["comics", "DC", "Batman", "Joker", "cotton candy"],
             "item": "colsh13",
             "set": 71026,
-            "dates": []
+            "dates": ["2022-06-10"]
         },
         {
             "id": "f3f374be-fe8c-4294-99ff-21f663b62ce8",
@@ -2233,7 +2233,7 @@
             "keywords": ["collectible minifigures", "series 20", "space", "rocket", "NASA", "hat", "goggles", "diagram", "schematic", "heart", "star", "ringed planet", "saturn"],
             "set": 71027,
             "item": "col363",
-            "dates": []
+            "dates": ["2022-06-09"]
         },
         {
             "id": "28ccef73-4ce0-4ce8-bc84-dd7bac221c46",
@@ -2385,7 +2385,7 @@
             "keywords": ["LEGO", "Ninjago", "GIT", "IT Bat Nerd", "laptop", "Batman", "Garmadon Propulsion Laboratories", "Garmadon Information Technology"],
             "item": "coltlnm18",
             "set": 71019,
-            "dates": []
+            "dates": ["2022-06-08"]
         },
         {
             "id": "791b9cb0-9271-4bcb-8a82-a1c7eacb0c44",
