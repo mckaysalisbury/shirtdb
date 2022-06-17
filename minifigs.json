@@ -1887,7 +1887,7 @@
             "actor": "Will Arnett",
             "item": "coltlbm01",
             "set": 71017,
-            "dates": []
+            "dates": ["2022-06-15"]
         },
         {
             "id": "0f491447-19cd-4a90-b2a7-2ea17c84a2a9",
@@ -1901,11 +1901,11 @@
         {
             "id": "dfcaf9be-63d0-45d5-83fa-c14c9715973a",
             "name": "Barbara Gordon, The LEGO Batman Movie",
-            "keywords": ["comics", "DC", "Batman", "The LEGO Batman Movie", "Barbara Gordon", "Commissioner Gordon", "Batgirl"],
+            "keywords": ["comics", "DC", "Batman", "The LEGO Batman Movie", "Barbara Gordon", "Commissioner Gordon", "Batgirl", "Batsignal button"],
             "actor": "Rosario Dawson",
             "item": "coltlbm06",
             "set": 71017,
-            "dates": []
+            "dates": ["2022-06-17"]
         },
         {
             "id": "c144051a-5026-41b3-87bf-1d3dc8895f7a",
@@ -1992,7 +1992,7 @@
             "keywords": ["comics", "movies", "DC", "The LEGO Batman Movie", "Batman", "Batgirl", "Barbara Gordon", "Babs"],
             "item": "coltlbm35",
             "set": 71020,
-            "dates": []
+            "dates": ["2022-06-16"]
         },
         {
             "id": "780fb33e-9383-4b12-a5e8-e455d8567581",

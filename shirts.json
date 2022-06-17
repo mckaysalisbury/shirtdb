@@ -959,7 +959,7 @@
             "images-name": "sc2-emoji",
             "images": ["front", "back"],
             "source": "https://blizzcon.com",
-            "dates": ["2021-07-24", "2021-12-18"]
+            "dates": ["2021-07-24", "2021-12-18", "2022-06-16"]
         },
         {
             "id": "f1fcfdbc-ee4d-4875-9eab-6c67e97d2a64",
@@ -986,7 +986,7 @@
             "keywords": ["video games", "Blizzard", "StarCraft", "StarCrafts", "Zerg", "Spawning Pool", "Drone", "Zergling"],
             "images": ["front", "back"],
             "source": "https://blizzcon.com",
-            "dates": ["2021-07-28", "2021-12-22"]
+            "dates": ["2021-07-28", "2021-12-22", "2022-06-15"]
         },{
             "id": "4006e521-d0ea-40b4-b329-2a9efdb5f59e",
             "name": "Wolverine",
@@ -1181,7 +1181,7 @@
             "images": ["front"],
             "images-name": "son-of-manio",
             "source": "https://shirt.woot.com/offers/son-of-manio",
-            "dates": ["2021-08-17", "2022-01-05"]
+            "dates": ["2021-08-17", "2022-01-05", "2022-06-17"]
         },
         {
             "id": "e1f1759d-1f2f-4244-9d34-fac973d88b71",
