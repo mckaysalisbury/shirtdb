@@ -1130,7 +1130,7 @@
             "notes": "New Relic was courting Hulu",
             "images": ["front", "back", "logo"],
             "images-name": "data-nerd",
-            "dates": ["2021-08-12", "2022-01-13"]
+            "dates": ["2021-08-12", "2022-01-13", "2022-06-21"]
         },
         {
             "id": "b675aa91-bd3b-444d-aedb-a4a018d011bd",
@@ -1303,7 +1303,7 @@
             "source": "https://www.threadless.com/designs/url_link",
             "notes": "The full URL used to work, but threadless keeps changing their URL formats. <a href='https://www.threadless.com/@StevenRice'>Steven Rice's page</a> shows the shirt, but it <a href='https://www.threadless.com/product/3061'>links to a 404</a>.",
             "images": ["front"],
-            "dates": ["2021-08-24", "2022-01-07"]
+            "dates": ["2021-08-24", "2022-01-07", "2022-06-22"]
         },
         {
             "id": "1dca916e-a4ca-4ae3-8119-dc0d21cfa27f",
@@ -1650,16 +1650,18 @@
             "name": "White shirt",
             "text": [],
             "style": "button down",
+            "images": ["front"],
             "keywords": ["white", "button down", "collar", "best dress", "pocket"],
             "notes": "I've got a few of these that are basically identical",
             "dates": ["2022-02-27", "2022-03-12", "2022-03-13", "2022-03-20", "2022-03-26", "2022-03-27", "2022-04-10", "2022-04-17", "2022-04-24", "2022-05-01", "2022-05-08", "2022-05-22", "2022-05-29", "2022-06-12", "2022-06-19"]
         },
         {
             "id": "2b1a72db-a6d7-44e6-91d9-f8561d2b9b81",
-            "name": "blue stripes",
+            "name": "blue stripe polo",
             "style": "polo",
             "text": [],
             "keywords": ["stripes"],
+            "images": ["front"],
             "dates": ["2022-03-23"]
         },
         {
@@ -1668,6 +1670,7 @@
             "text": ["NECROMANCY", "REDUCE, REUSE, REANIMATE"],
             "keywords": ["games", "necromancy", "skull", "D&D"],
             "notes": "Kelly gave this as a gift to me",
+            "images": ["front"],
             "dates": ["2022-03-29"]
         },
         {
