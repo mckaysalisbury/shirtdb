@@ -2504,6 +2504,22 @@
             "item": "collt09",
             "set": 71030,
             "dates": []
+        },
+        {
+            "id": "394cbe3b-0195-44e4-ab9d-df4a391e7ea6",
+            "name": "Retro Space Hero",
+            "keywords": ["collectible", "space",  "ray gun", "cape", "roman"],
+            "item": "col296",
+            "set": 71018,
+            "dates": []
+        },
+        {
+            "id": "f86a5d0e-5b5a-4cd0-8da8-789f63d1bb6a",
+            "name": "Retro Space Hero",
+            "keywords": ["collectible", "space",  "ray gun", "cape", "roman"],
+            "item": "col296",
+            "set": 71018,
+            "dates": []
         }
     ]
 }
