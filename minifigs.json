@@ -2486,6 +2486,24 @@
             "item": "sh734",
             "set": 76192,
             "dates": ["2022-05-16"]
+        },
+        {
+            "id": "01a0fda6-351e-4b22-a4ff-d7c30885076e",
+            "name": "Marvin the Martian, Looney Tunes",
+            "keywords": ["television", "Looney Tunes", "Marvin the Martian", "Mars", "Roman", "ray gun"],
+            "actor": "Mel Blanc",
+            "item": "collt10",
+            "set": 71030,
+            "dates": []
+        },
+        {
+            "id": "77dd5b3d-ac7f-4878-a090-7cc506e483a5",
+            "name": "Tasmanian Devil, Looney Tunes",
+            "keywords": ["television", "Looney Tunes", "Tasmanian Devil", "Taz", "Australia", "pie", "drumstick", "spinner"],
+            "actor": "Mel Blanc",
+            "item": "collt09",
+            "set": 71030,
+            "dates": []
         }
     ]
 }
