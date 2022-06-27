@@ -2515,10 +2515,42 @@
         },
         {
             "id": "f86a5d0e-5b5a-4cd0-8da8-789f63d1bb6a",
-            "name": "Retro Space Hero",
-            "keywords": ["collectible", "space",  "ray gun", "cape", "roman"],
+            "name": "Rocket Boy",
+            "keywords": ["collectible", "space",  "rocket", "costume", "flag"],
             "item": "col296",
             "set": 71018,
+            "dates": []
+        },
+        {
+            "id": "453908ef-3242-42b5-8755-578e33d697d9",
+            "name": "Astronaut - Female, Orange Spacesuit with Dark Bluish Gray Lines, Trans Light Blue Large Visor, Freckles with Smirk and Winking",
+            "keywords": ["city", "space", "Mars", "spacesuit", "jackhammer"],
+            "item": "cty1008",
+            "set": 40345,
+            "dates": []
+        },
+        {
+            "id": "e465bc10-2faf-4c8b-99f2-ffd62fe50e1c",
+            "name": "Astronaut - Male, White Spacesuit with Lime Belt, Trans Orange Large Visor, Stubble and Smirk",
+            "keywords": ["city", "space", "Mars", "spacesuit", "metal detector", "detector"],
+            "item": "cty1009",
+            "set": 40345,
+            "dates": []
+        },
+        {
+            "id": "120a644a-2936-4e79-a832-6dd8a4246e1a",
+            "name": "Ground Crew Technician - Male, Jumpsuit and Construction Helmet",
+            "keywords": ["city", "space", "Mars", "helmet", "goggles", "wrench"],
+            "item": "cty1010",
+            "set": 40345,
+            "dates": []
+        },
+        {
+            "id": "83ca0b57-84b4-44f0-84aa-a7f1347173e4",
+            "name": "Scientist - Female, Blue Goggles and White Legs",
+            "keywords": ["city", "space", "Mars", "labcoat", "goggles", "camera"],
+            "item": "cty1011",
+            "set": 40345,
             "dates": []
         }
     ]
