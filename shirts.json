@@ -1678,6 +1678,7 @@
             "name": "Borg",
             "text": ["BORG", "", "STAR TREK", "THE NEXT GENERATION®️"],
             "keywords": ["Television", "Star Trek", "Star Trek: The Next Generation", "The Next Generation", "Borg"],
+            "images": ["front", "back"],
             "dates": ["2022-04-05"]
         },
         {
@@ -1685,6 +1686,7 @@
             "name": "Kiavi Hackathon 2022",
             "text": ["HACK", "ATHON", "2022", "🏠Kiavi"],
             "keywords": ["work", "kiavi", "hackathon"],
+            "images": ["front"],
             "dates": ["2022-04-11"]
         },
         {
@@ -1693,6 +1695,7 @@
             "text": ["A DAY", "WITHOUT", "Video", "games", "IS LIKE . . .", "JUST KIDDING, I HAVE NO IDEA"],
             "keywords": ["video games", "text"],
             "source": "https://shirt.woot.com/offers/i-have-no-idea",
+            "images": ["front"],
             "dates": ["2022-05-25"]
         },
         {
