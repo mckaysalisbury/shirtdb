@@ -1109,7 +1109,7 @@
             "source": "https://tanga.com",
             "images-name": "mind-head",
             "images": ["front", "logo"],
-            "dates": ["2021-08-10", "2022-01-12"]
+            "dates": ["2021-08-10", "2022-01-12", "2022-06-30"]
         },
         {
             "id": "2e806e73-146a-417c-992f-78ccbeb3a2e1",
@@ -1634,7 +1634,7 @@
             "keywords": ["work", "Kiavi"],
             "source": "https://kiavi.com",
             "images": ["front", "logo"],
-            "dates": ["2022-01-10"]
+            "dates": ["2022-01-10", "2022-06-29"]
         },
         {
             "id": "66bd48ab-1466-4cde-b497-77967cd48861",
