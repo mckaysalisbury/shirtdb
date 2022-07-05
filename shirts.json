@@ -1321,7 +1321,7 @@
             "keywords": ["video games", "Blizzard", "StarCraft", "Terran", "Marine", "Ultralisk", "Brutalisk"],
             "source": "https://www.blizzcon.com",
             "images": ["front", "back"],
-            "dates": ["2021-08-26", "2022-01-22"]
+            "dates": ["2021-08-26", "2022-01-22", "2022-07-02"]
         },
         {
             "id": "827faa19-6a22-44ef-bdb0-232a7f0fbc03",
@@ -1329,7 +1329,7 @@
             "text": ["⭐ BROWNCOAT ⭐", "", "I AIM TO MISBEHAVE", "SERENITY", "Serenity © Universal Studios"],
             "keywords": ["TV", "Joss Whedon", "Firefly", "Serenity", "Browncoat", "Independent Planets", "rebellion"],
             "images": ["front", "back", "logo"],
-            "dates": ["2021-08-27", "2022-01-21"]
+            "dates": ["2021-08-27", "2022-01-21", "2022-07-05"]
         },
         {
             "id": "b5fac53d-6339-467d-996d-a4cfdcc485e7",
@@ -1643,7 +1643,7 @@
             "keywords": ["comics", "TV", "Marvel", "Captain America", "Falcon", "Sam Wilson"],
             "source": "https://www.kohls.com/product/prd-4998987/mens-marvel-falcon-winter-soldier-tee.jsp",
             "images": ["front"],
-            "dates": ["2022-01-06", "2022-05-16"]
+            "dates": ["2022-01-06", "2022-05-16", "2022-07-04"]
         },
         {
             "id": "5d244620-91bc-440b-8ac8-9a25a72f767c",
@@ -1653,7 +1653,11 @@
             "images": ["front"],
             "keywords": ["white", "button down", "collar", "best dress", "pocket"],
             "notes": "I've got a few of these that are basically identical",
-            "dates": ["2022-02-27", "2022-03-12", "2022-03-13", "2022-03-20", "2022-03-26", "2022-03-27", "2022-04-10", "2022-04-17", "2022-04-24", "2022-05-01", "2022-05-08", "2022-05-22", "2022-05-29", "2022-06-12", "2022-06-19", "2022-06-26"]
+            "dates": [
+                "2022-02-27", "2022-03-12", "2022-03-13", "2022-03-20", "2022-03-26", "2022-03-27", "2022-04-10", "2022-04-17",
+                "2022-04-24", "2022-05-01", "2022-05-08", "2022-05-22", "2022-05-29", "2022-06-12", "2022-06-19", "2022-06-26",
+                "2022-07-03"
+            ]
         },
         {
             "id": "2b1a72db-a6d7-44e6-91d9-f8561d2b9b81",

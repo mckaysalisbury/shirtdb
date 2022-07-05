@@ -2536,6 +2536,14 @@
             "item": "cty1011",
             "set": 40345,
             "dates": []
+        },
+        {
+            "id": "4673a5da-cd99-4dc6-873b-d983bde48f80",
+            "name": "Wolverine - Mask, Blue Hands",
+            "keywords": ["comics", "Marvel", "X-Men", "Wolverine", "Logan", "adamantium", "claws", "mask"],
+            "item": "sh805",
+            "set": 76202,
+            "dates": ["2022-07-05"]
         }
     ]
 }
