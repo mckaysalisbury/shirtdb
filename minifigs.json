@@ -1438,7 +1438,7 @@
             "actor": "Frank Oz",
             "item": "idea077",
             "set": 21324,
-            "dates": ["2021-10-29", "2021-11-02"]
+            "dates": ["2021-10-29", "2021-11-02", "2022-07-07"]
         },
         {
             "id": "8eedc304-6830-4a05-9291-db8639acffd5",
@@ -2519,7 +2519,7 @@
             "keywords": ["city", "space", "Mars", "spacesuit", "metal detector", "detector"],
             "item": "cty1009",
             "set": 40345,
-            "dates": []
+            "dates": ["2022-07-06"]
         },
         {
             "id": "120a644a-2936-4e79-a832-6dd8a4246e1a",
