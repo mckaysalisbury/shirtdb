@@ -2535,7 +2535,7 @@
             "keywords": ["city", "space", "Mars", "labcoat", "goggles", "camera"],
             "item": "cty1011",
             "set": 40345,
-            "dates": []
+            "dates": ["2022-07-12"]
         },
         {
             "id": "4673a5da-cd99-4dc6-873b-d983bde48f80",
@@ -2544,6 +2544,23 @@
             "item": "sh805",
             "set": 76202,
             "dates": ["2022-07-05"]
+        },
+        {
+            "id": "6b3e7e3f-c4b9-4011-8acb-e0c9eaec0638",
+            "name": "Dragon Slayer",
+            "keywords": ["games", "Minecraft", "player", "bow", "enchanted bow", "eye of ender"],
+            "item": "min067",
+            "set": 21151,
+            "dates": []
+        },
+        {
+            "id": "5661172f-538b-4f2d-9871-f28ceda2da5a",
+            "name": "Enderman - Dark Tan and Tan Box",
+            "style": "character",
+            "keywords": ["games", "Minecraft", "enderman", "end stone"],
+            "item": "min066",
+            "set": 21151,
+            "dates": []
         }
     ]
 }
