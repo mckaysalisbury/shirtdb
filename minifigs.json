@@ -2563,6 +2563,14 @@
             "dates": []
         },
         {
+            "id": "d014a907-a386-4dd9-af23-9eb07578d43b",
+            "name": "Computer Programmer",
+            "keywords": ["collectible minifigures", "series 19", "laptop", "C:\\", "DOS", "glasses", "tape", "bowtie", "vest", "argyle"],
+            "item": "col345",
+            "set": 8831,
+            "dates": []
+        },
+        {
             "id": "70b4da71-4600-4920-a59c-88bc7616b20b",
             "name": "Programmer",
             "keywords": ["collectible minifigures", "series 19", "laptop", "binary", "01001100 01000101 01000111 01001111", "robot", "glasses"],
