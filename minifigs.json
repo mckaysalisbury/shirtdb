@@ -2561,6 +2561,22 @@
             "item": "min066",
             "set": 21151,
             "dates": []
+        },
+        {
+            "id": "70b4da71-4600-4920-a59c-88bc7616b20b",
+            "name": "Programmer",
+            "keywords": ["collectible minifigures", "series 19", "laptop", "binary", "01001100 01000101 01000111 01001111", "robot", "glasses"],
+            "item": "col345",
+            "set": 71025,
+            "dates": []
+        },
+        {
+            "id": "f8671f06-deaa-4865-a3ed-487b9798c534",
+            "name": "Video Game Champ",
+            "keywords": ["collectible minifigures", "series 19", "video game", "gamer", "headphones", "controller", "game case", "Play-Box", "Space Game"],
+            "item": "col341",
+            "set": 71025,
+            "dates": []
         }
     ]
 }
