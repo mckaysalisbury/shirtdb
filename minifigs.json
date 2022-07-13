@@ -2551,7 +2551,7 @@
             "keywords": ["games", "Minecraft", "player", "bow", "enchanted bow", "eye of ender"],
             "item": "min067",
             "set": 21151,
-            "dates": []
+            "dates": ["2022-07-13"]
         },
         {
             "id": "5661172f-538b-4f2d-9871-f28ceda2da5a",
@@ -2565,7 +2565,7 @@
         {
             "id": "d014a907-a386-4dd9-af23-9eb07578d43b",
             "name": "Computer Programmer",
-            "keywords": ["collectible minifigures", "series 19", "laptop", "C:\\", "DOS", "glasses", "tape", "bowtie", "vest", "argyle"],
+            "keywords": ["collectible minifigures", "series 19", "laptop", "C:\\", "DOS", "glasses", "tape", "bowtie", "vest", "argyle", "stereotype"],
             "item": "col345",
             "set": 8831,
             "dates": []
@@ -2584,6 +2584,14 @@
             "keywords": ["collectible minifigures", "series 19", "video game", "gamer", "headphones", "controller", "game case", "Play-Box", "Space Game"],
             "item": "col341",
             "set": 71025,
+            "dates": []
+        },
+        {
+            "id": "69c88a65-ab30-474c-a771-94f51776ef2a",
+            "name": "Astronaut",
+            "keywords": ["collectible minifigures", "series 15", "astronaut", "space", "flag", "spacae flag"],
+            "item": "col229",
+            "set": 70111,
             "dates": []
         }
     ]
