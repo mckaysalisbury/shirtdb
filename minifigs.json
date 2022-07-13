@@ -4,7 +4,7 @@
         {
             "id": "5d82d607-5766-4d3a-a73f-4f386404cbe2",
             "name": "Batman - Short Legs",
-            "keywords": ["DC", "Batman", "mighty micro"],
+            "keywords": ["comics", "DC", "Batman", "mighty micro"],
             "item": "sh242",
             "set": 76061,
             "dates": ["2021-04-26"]
@@ -12,7 +12,7 @@
         {
             "id": "c3c7fc5a-77c4-4e36-993c-a2e997bdec00",
             "name": "Battle-Ready Batman",
-            "keywords": ["The LEGO Movie 2", "DC", "Batman", "You're welcome"],
+            "keywords": ["movie", "The LEGO Movie 2", "DC", "Batman", "You're welcome"],
             "actor": "Will Arnett",
             "item": "tlm118",
             "set": 70836,
@@ -21,7 +21,7 @@
         {
             "id": "a4545977-4e6e-4db5-a0ee-e277c629a997",
             "name": "Captain Marvel - Red Sash",
-            "keywords": ["Marvel", "Captain Marvel"],
+            "keywords": ["comics", "Marvel", "Captain Marvel"],
             "item": "sh226",
             "set": 76049,
             "dates": ["2021-04-28"]
@@ -29,7 +29,7 @@
         {
             "id": "c6489394-fbe4-464a-8d2d-882c9c50f650",
             "name": "Ronan the Accuser",
-            "keywords": ["Marvel", "Guardians of the Galaxy", "Ronan the Accuser", "Infinity Stone"],
+            "keywords": ["comics", "Marvel", "Guardians of the Galaxy", "Ronan the Accuser", "Infinity Stone"],
             "actor": "Lee Pace",
             "item": "sh126",
             "set": 76021,
@@ -38,7 +38,7 @@
         {
             "id": "4116cfd0-d067-4f70-96d6-bdf153a1a910",
             "name": "Catwoman - Short Legs",
-            "keywords": ["DC", "Batman", "Catwoman", "mighty micro"],
+            "keywords": ["comics", "DC", "Batman", "Catwoman", "mighty micro"],
             "item": "sh243",
             "set": 76061,
             "dates": ["2021-04-30"]
@@ -46,7 +46,7 @@
         {
             "id": "a7cc4778-af1c-4047-8fe6-c45563386081",
             "name": "Captain America - Detailed Suit - Dark Brown Eyebrows",
-            "keywords": ["Marvel", "Captain America: Civil War", "Captain America"],
+            "keywords": ["comics", "Marvel", "Captain America: Civil War", "Captain America"],
             "actor": "Chris Evans",
             "item": "sh264",
             "set": 76047,
@@ -55,7 +55,7 @@
         {
             "id": "057acd21-a174-4f7d-b738-76520a8ba14b",
             "name": "Captain America - Blue Suit, Brown Belt",
-            "keywords": ["Marvel", "Captain America"],
+            "keywords": ["comics", "Marvel", "Captain America"],
             "item": "sh106",
             "set": 76017,
             "dates": ["2021-05-04"]
@@ -124,7 +124,7 @@
         {
             "id": "730a0052-596e-4217-a843-7cd48b6fa254",
             "name": "Emmet - Lopsided Closed Mouth Smile, with Piece of Resistance",
-            "keywords": ["The LEGO Movie"],
+            "keywords": ["movies", "The LEGO Movie", "Emmet"],
             "actor": "Chris Pratt",
             "item": "tlm018",
             "set": 70801,
@@ -135,7 +135,7 @@
         {
             "id": "df9cc73b-d5c7-4875-8797-d1b44be4ca31",
             "name": "Benny - closed eyes",
-            "keywords": ["The LEGO Movie"],
+            "keywords": ["movies", "The LEGO Movie", "Benny", "space"],
             "actor": "Charlie Day",
             "item": "tlm094",
             "set": 70818,
@@ -144,7 +144,7 @@
         {
             "id": "5563d887-4be9-41a8-bccd-ded5ecc4512e",
             "name": "Wyldstyle with hood",
-            "keywords": ["The LEGO Movie"],
+            "keywords": ["movies", "The LEGO Movie", "Wyldstyle", "Lucy"],
             "rpg": [
                 { "campaign": "Tyranny of Dragons", "player": "Bryan", "character": "Bryanos II" }
             ],
@@ -156,7 +156,7 @@
         {
             "id": "85299c15-fc0c-42a3-95e7-564a11af690e",
             "name": "President Business - Smiling, Raised Eyebrows",
-            "keywords": ["The LEGO Movie"],
+            "keywords": ["movies", "The LEGO Movie"],
             "actor": "Will Ferrell",
             "item": "tlm095",
             "set": 70818,
@@ -165,7 +165,7 @@
         {
             "id": "12e1a77b-cbce-4220-9cf4-8604ae1dd485",
             "name": "Vitruvius",
-            "keywords": ["The LEGO Movie"],
+            "keywords": ["movies", "The LEGO Movie"],
             "actor": "Morgan Freeman",
             "item": "tlm021",
             "set": 70809,
@@ -183,7 +183,7 @@
         {
             "id": "e4442866-bbfa-4f31-9eac-78402f6a9f21",
             "name": "Lord Business",
-            "keywords": ["The LEGO Movie"],
+            "keywords": ["movies", "The LEGO Movie", "Lord Business", "President Business"],
             "actor": "Will Ferrell",
             "item": "tlm029",
             "set": 70809,
@@ -192,7 +192,7 @@
         {
             "id": "8d513a1a-5e3d-4b88-941d-427bf417fbd0",
             "name": "Emmet - Lopsided Open Mouth Smile",
-            "keywords": ["The LEGO Movie"],
+            "keywords": ["movies", "The LEGO Movie", "Emmet"],
             "actor": "Chris Pratt",
             "item": "tlm096",
             "set": 70818,
@@ -211,7 +211,7 @@
         {
             "id": "a758278a-cbc7-4975-b430-648a0963d479",
             "name": "Unikitty - Biznis Kitty",
-            "keywords": ["The LEGO Movie"],
+            "keywords": ["movies", "The LEGO Movie", "Unikitty"],
             "style": "character",
             "actor": "Alison Brie",
             "item": "tlm075",
@@ -221,7 +221,7 @@
         {
             "id": "b5f7486d-2b3b-408b-9b0b-f645622e1434",
             "name": "Robo SWAT with Helmet",
-            "keywords": ["The LEGO Movie"],
+            "keywords": ["movies", "The LEGO Movie"],
             "item": "tlm046",
             "set": 70781,
             "dates": ["2021-05-27"]
@@ -229,7 +229,7 @@
         {
             "id": "56012d91-940e-4d4e-9d1a-76f91005b0c6",
             "name": "Ma Cop",
-            "keywords": ["The LEGO Movie"],
+            "keywords": ["movies", "The LEGO Movie"],
             "actor": "Melissa Sturm",
             "item": "tlm019",
             "set": 70809,
@@ -238,7 +238,7 @@
         {
             "id": "5378c1c1-2493-4ece-a11d-68e643c76748",
             "name": "Frank the Foreman",
-            "keywords": ["The LEGO Movie"],
+            "keywords": ["movies", "The LEGO Movie"],
             "actor": "Keegan-Michael Key",
             "item": "tlm047",
             "set": 70807,
@@ -247,7 +247,7 @@
         {
             "id": "b359e989-cdff-43fb-ba75-45a79e04b5c3",
             "name": "Robo Skeleton",
-            "keywords": ["The LEGO Movie"],
+            "keywords": ["movies", "The LEGO Movie"],
             "actor": "David Burrows",
             "item": "tlm048",
             "set": 70807,
@@ -256,7 +256,7 @@
         {
             "id": "8d26bd03-02f9-4083-858c-e7bd30552cf3",
             "name": "Vitruvius - Ghost Shroud",
-            "keywords": ["The LEGO Movie"],
+            "keywords": ["movies", "The LEGO Movie", "Vitruvius"],
             "actor": "Morgan Freeman",
             "item": "tlm092",
             "set": 70818,
@@ -265,7 +265,7 @@
         {
             "id": "d48bec9a-f35e-48f1-90b8-1fdd546ca38c",
             "name": "Maddox",
-            "keywords": ["The LEGO Movie", "The LEGO Movie 2"],
+            "keywords": ["movies", "The LEGO Movie", "The LEGO Movie 2"],
             "item": "tlm119",
             "set": 70836,
             "dates": ["2021-06-04"]
@@ -273,7 +273,7 @@
         {
             "id": "a31477a7-2fa7-4e27-b5ed-988ff1bc2f8d",
             "name": "Emmet - without Piece of Resistance",
-            "keywords": ["The LEGO Movie"],
+            "keywords": ["movies", "The LEGO Movie", "Emmet"],
             "actor": "Chris Pratt",
             "item": "tlm066",
             "set": 30280,
@@ -283,7 +283,7 @@
             "id": "f466b54d-c106-4382-8756-7b8d0a52891e",
             "name": "Unikitty - Puzzled, Sitting",
             "style": "character",
-            "keywords": ["The LEGO Movie"],
+            "keywords": ["movies", "The LEGO Movie", "Unikitty"],
             "actor": "Alison Brie",
             "item": "tlm093",
             "set": 70818,
@@ -292,7 +292,7 @@
         {
             "id": "36854b33-6cd5-4857-9dab-0e2383edd24d",
             "name": "Robo SWAT",
-            "keywords": ["The LEGO Movie"],
+            "keywords": ["movies", "The LEGO Movie"],
             "item": "tlm025",
             "set": 70801,
             "dates": ["2021-06-10"]
@@ -300,7 +300,7 @@
         {
             "id": "5256bba4-6439-4800-ae1d-0e2bd6fa0061",
             "name": "El Macho Wrestler",
-            "keywords": ["The LEGO Movie", "Master Builder", "lucha libre"],
+            "keywords": ["movies", "The LEGO Movie", "Master Builder", "lucha libre"],
             "item": "tlm022",
             "set": 70809,
             "dates": ["2021-06-14"]
@@ -308,7 +308,7 @@
         {
             "id": "d9a8a0c7-d73b-4795-8a7b-f89ec04e99c8",
             "name": "Pa Cop",
-            "keywords": ["The LEGO Movie"],
+            "keywords": ["movies", "The LEGO Movie"],
             "item": "tlm020",
             "set": 70809,
             "dates": ["2021-06-15"]
@@ -316,7 +316,7 @@
         {
             "id": "cf3e8b37-a1d4-43ef-b279-6b720b7149c9",
             "name": "Sweet Mayhem - Crooked Smile, Raised Eyebrow",
-            "keywords": ["The LEGO Movie", "The LEGO Movie 2"],
+            "keywords": ["movies", "The LEGO Movie", "The LEGO Movie 2"],
             "actor": "Stephanie Beatriz",
             "item": "tlm116",
             "set": 70842,
@@ -325,7 +325,7 @@
         {
             "id": "604af7ac-7dc6-4540-915f-647e5ff50a05",
             "name": "Unikitty - Rampage Kitty",
-            "keywords": ["The LEGO Movie"],
+            "keywords": ["movies", "The LEGO Movie", "Unikitty"],
             "style": "character",
             "actor": "Alison Brie",
             "item": "tlm191",
@@ -335,7 +335,7 @@
         {
             "id": "bb212c7c-0866-4b22-af22-e85d17ced8c5",
             "name": "Emmet - Lopsided Smile / Angry, Worn Uniform",
-            "keywords": ["The LEGO Movie"],
+            "keywords": ["movies", "The LEGO Movie", "Emmet"],
             "actor": "Chris Pratt",
             "item": "tlm142",
             "set": 70842,
@@ -1177,7 +1177,7 @@
         {
             "id": "3d1b17d9-1c0f-4af0-8b41-0c3d114b27e1",
             "name": "Doc Brown",
-            "keywords": ["movie", "Back to the Future", "Doc Brown", "Emmett Brown"],
+            "keywords": ["movies", "Back to the Future", "Doc Brown", "Emmett Brown"],
             "actor": "Christopher Lloyd",
             "item": "idea002",
             "set": 21103,
@@ -1186,7 +1186,7 @@
         {
             "id": "6ebf4897-bc00-48db-a107-09b70638b1ba",
             "name": "Marty McFly",
-            "keywords": ["movie", "Back to the Future", "Marty McFly"],
+            "keywords": ["movies", "Back to the Future", "Marty McFly"],
             "actor": "Michael J. Fox",
             "item": "idea001",
             "set": 21103,
@@ -2587,11 +2587,27 @@
             "dates": []
         },
         {
+            "id": "3346ad52-7128-488e-bc0c-ea4e6b1e7c63",
+            "name": "Monster Scientist",
+            "keywords": ["collectible minifgures", "series 14", "lab coat", "potion", "goggles", "big head"],
+            "item": "col213",
+            "set": 71010,
+            "dates": []
+        },
+        {
             "id": "69c88a65-ab30-474c-a771-94f51776ef2a",
             "name": "Astronaut",
             "keywords": ["collectible minifigures", "series 15", "astronaut", "space", "flag", "spacae flag"],
             "item": "col229",
             "set": 70111,
+            "dates": []
+        },
+        {
+            "id": "72545a18-3908-44c5-b172-eeb5c4df1cd4",
+            "name": "Awesome Remix Emmet",
+            "keywords": ["movies", "The LEGO Movie", "The LEGO Movie 2", "Emmet", "coffee", "headphones", "phone", "Everything is Awesome"],
+            "item": "tlm148",
+            "set": 71023,
             "dates": []
         }
     ]
