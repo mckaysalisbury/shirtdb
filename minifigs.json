@@ -2589,7 +2589,7 @@
         {
             "id": "3346ad52-7128-488e-bc0c-ea4e6b1e7c63",
             "name": "Monster Scientist",
-            "keywords": ["collectible minifgures", "series 14", "lab coat", "potion", "goggles", "big head"],
+            "keywords": ["collectible minifgures", "series 14", "lab coat", "potion", "goggles", "big head", "fly", "vial", "scientist", "mad scientist"],
             "item": "col213",
             "set": 71010,
             "dates": []
@@ -2608,6 +2608,46 @@
             "keywords": ["movies", "collectible minifigures", "The LEGO Movie", "The LEGO Movie 2", "Emmet", "coffee", "headphones", "phone", "Everything is Awesome"],
             "item": "tlm148",
             "set": 71023,
+            "dates": []
+        },
+        {
+            "id": "5aa724a2-546b-4b25-8246-5fe0b5237fc7",
+            "name": "Mickey Mouse - Blue Overalls, Red Bandana",
+            "keywords": ["cartoon", "Disney", "Disneyland", "Mickey Mouse", "Mickey", "train", "engineer", "bandana", "mouse"],
+            "item": "dis042",
+            "set": 71044,
+            "dates": []
+        },
+        {
+            "id": "18614622-5d18-48a7-8ea5-0ede01f4c9df",
+            "name": "Minnie Mouse - Red Polka Dot Skirt",
+            "keywords": ["cartoon", "Disney", "Disneyland", "Minnie Mouse", "Minnie", "bow", "skirt"],
+            "item": "dis043",
+            "set": 71044,
+            "dates": []
+        },
+        {
+            "id": "b7138e5f-2c05-4a1d-97ff-a11d802d6c84",
+            "name": "Goofy - Turtleneck Top and Bright Light Orange Vest",
+            "keywords": ["cartoon", "Disney", "Disneyland", "Goofy", "dog"],
+            "item": "dis044",
+            "set": 71044,
+            "dates": []
+        },
+        {
+            "id": "eef42de3-621f-4250-82a0-fe07876b4d86",
+            "name": "Chip - Dark Blue Suit",
+            "keywords": ["cartoon", "Disney", "Disneyland", "train", "conductor", "Chip", "chipmunk"],
+            "item": "dis045",
+            "set": 71044,
+            "dates": []
+        },
+        {
+            "id": "508e6db2-1f73-4099-934a-836b28f8fa70",
+            "name": "Dale - Dark Blue Vest",
+            "keywords": ["cartoon", "Disney", "Disneyland", "train", "conductor", "Dale", "chipmunk"],
+            "item": "dis046",
+            "set": 71044,
             "dates": []
         }
     ]
