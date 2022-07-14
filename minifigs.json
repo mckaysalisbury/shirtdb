@@ -2560,7 +2560,7 @@
             "keywords": ["games", "Minecraft", "enderman", "end stone"],
             "item": "min066",
             "set": 21151,
-            "dates": []
+            "dates": ["2022-07-14"]
         },
         {
             "id": "d014a907-a386-4dd9-af23-9eb07578d43b",
@@ -2605,7 +2605,7 @@
         {
             "id": "72545a18-3908-44c5-b172-eeb5c4df1cd4",
             "name": "Awesome Remix Emmet",
-            "keywords": ["movies", "The LEGO Movie", "The LEGO Movie 2", "Emmet", "coffee", "headphones", "phone", "Everything is Awesome"],
+            "keywords": ["movies", "collectible minifigures", "The LEGO Movie", "The LEGO Movie 2", "Emmet", "coffee", "headphones", "phone", "Everything is Awesome"],
             "item": "tlm148",
             "set": 71023,
             "dates": []
