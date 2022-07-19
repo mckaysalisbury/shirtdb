@@ -2568,7 +2568,7 @@
             "keywords": ["collectible minifigures", "series 19", "laptop", "C:\\", "DOS", "glasses", "tape", "bowtie", "vest", "argyle", "stereotype"],
             "item": "col345",
             "set": 8831,
-            "dates": []
+            "dates": ["2022-07-17", "2022-07-18"]
         },
         {
             "id": "70b4da71-4600-4920-a59c-88bc7616b20b",
@@ -2597,10 +2597,10 @@
         {
             "id": "69c88a65-ab30-474c-a771-94f51776ef2a",
             "name": "Astronaut",
-            "keywords": ["collectible minifigures", "series 15", "astronaut", "space", "flag", "spacae flag"],
+            "keywords": ["collectible minifigures", "series 15", "astronaut", "space", "flag", "space flag"],
             "item": "col229",
             "set": 70111,
-            "dates": []
+            "dates": ["2022-07-15"]
         },
         {
             "id": "72545a18-3908-44c5-b172-eeb5c4df1cd4",

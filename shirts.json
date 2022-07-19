@@ -1212,7 +1212,7 @@
             "notes": "I got this as Hulu was producing Runaways as it was being made. I did a couple of surveys, and particpated in a focus group. I provided some story suggestions that were eventually put in.",
             "images-name": "runaways-s1",
             "images": ["front", "left"],
-            "dates": ["2021-08-20", "2022-01-27"]
+            "dates": ["2021-08-20", "2022-01-27", "2022-07-18"]
         },
         {
             "id": "9a0331ca-8a01-4bfa-8ce3-e3b4a8aeb4eb",
@@ -1312,7 +1312,7 @@
             "keywords": ["books", "video games", "J. R. R. Tolkien", "Tolkien", "Lord of the Rings", "Hobbit", "Frodo Baggins", "Bilbo Baggins", "Lord of the Rings Online", "Shadows of Angmar"],
             "source": "https://paxsite.com",
             "images": ["front", "logo", "back"],
-            "dates": ["2021-08-25", "2022-01-26"]
+            "dates": ["2021-08-25", "2022-01-26", "2022-07-16"]
         },
         {
             "id": "6df08e74-9603-4b4e-9d07-2de46849e9cb",
@@ -1367,7 +1367,7 @@
             "keywords": ["video games", "Blizzard", "StarCraft", "StarCraft II", "Kerrigan", "Sarah Kerrigan"],
             "source": "https://gear.blizzard.com",
             "images": ["front", "back"],
-            "dates": ["2021-08-30", "2022-02-01"]
+            "dates": ["2021-08-30", "2022-02-01", "2022-07-15"]
         },
         {
             "id": "ab154159-b4d6-4a2b-b172-650101e534f8",
@@ -1656,7 +1656,7 @@
             "dates": [
                 "2022-02-27", "2022-03-12", "2022-03-13", "2022-03-20", "2022-03-26", "2022-03-27", "2022-04-10", "2022-04-17",
                 "2022-04-24", "2022-05-01", "2022-05-08", "2022-05-22", "2022-05-29", "2022-06-12", "2022-06-19", "2022-06-26",
-                "2022-07-03", "2022-07-10"
+                "2022-07-03", "2022-07-10", "2022-07-17"
             ]
         },
         {
