@@ -2566,7 +2566,7 @@
             "id": "d014a907-a386-4dd9-af23-9eb07578d43b",
             "name": "Computer Programmer",
             "keywords": ["collectible minifigures", "series 19", "laptop", "C:\\", "DOS", "glasses", "tape", "bowtie", "vest", "argyle", "stereotype"],
-            "item": "col345",
+            "item": "col108",
             "set": 8831,
             "dates": ["2022-07-17", "2022-07-18"]
         },
@@ -2584,7 +2584,7 @@
             "keywords": ["collectible minifigures", "series 19", "video game", "gamer", "headphones", "controller", "game case", "Play-Box", "Space Game"],
             "item": "col341",
             "set": 71025,
-            "dates": []
+            "dates": ["2022-07-21"]
         },
         {
             "id": "3346ad52-7128-488e-bc0c-ea4e6b1e7c63",
@@ -2592,7 +2592,7 @@
             "keywords": ["collectible minifgures", "series 14", "lab coat", "potion", "goggles", "big head", "fly", "vial", "scientist", "mad scientist"],
             "item": "col213",
             "set": 71010,
-            "dates": []
+            "dates": ["2022-07-22"]
         },
         {
             "id": "69c88a65-ab30-474c-a771-94f51776ef2a",

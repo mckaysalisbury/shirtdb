@@ -168,7 +168,7 @@
             "source": "https://thinkgeek.com",
             "images": ["front"],
             "images-name": "psi-phi",
-            "dates": ["2021-05-11", "2021-09-25", "2022-02-04"]
+            "dates": ["2021-05-11", "2021-09-25", "2022-02-04", "2022-07-21"]
         },
         {
             "id": "232709ff-df17-4325-ba4e-03233a94e89a",
@@ -1338,7 +1338,7 @@
             "keywords": ["video games", "Blizzard", "BlizzCon", "BlizzCon 2016", "StarCraft", "StarCraft 2", "StarCraft II", "SC2", "SCII", "Nova", "Nova: Covert Ops", "WarCraft", "World of Warcraft", "Sylvanas Windrunner", "Sylvanas", "Diablo", "Chromie", "Bronze Dragonflight", "Hearthstone", "Inkeeper", "Harth Stonebrew", "Sarge", "Overwatch", "Ana"],
             "source": "https://blizzcon.com",
             "images": ["front", "back"],
-            "dates": ["2021-08-28", "2022-01-25"]
+            "dates": ["2021-08-28", "2022-01-25", "2022-07-22"]
         },
         {
             "id": "47e31e62-e2f7-4679-9d73-725db4119fc0",
