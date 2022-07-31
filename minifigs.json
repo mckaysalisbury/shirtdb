@@ -2649,6 +2649,22 @@
             "item": "dis046",
             "set": 71044,
             "dates": ["2022-07-27"]
+        },
+        {
+            "id": "c18c3bab-c39a-4a09-8131-0fc7d1c22d44",
+            "name": "Batman, Roller Disco Batman",
+            "keywords": ["comics", "DC", "Detective Comics", "Batman", "Bruce Wayne", "roller skates", "disco", "cape"],
+            "item": "sh376",
+            "set": 30607,
+            "dates": []
+        },
+        {
+            "id": "9d81de87-0349-494c-ad52-587dd76765bc",
+            "name": "Batman, Tears of Batman Clown",
+            "keywords": ["comics", "DC", "Detective Comics", "Batman", "Bruce Wayne", "clown", "patches", "bowtie", "cape"],
+            "item": "sh376",
+            "set": 30607,
+            "dates": []
         }
     ]
 }
