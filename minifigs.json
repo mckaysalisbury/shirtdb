@@ -1922,11 +1922,11 @@
         {
             "id": "c027973c-1c20-44dc-bd3e-2f364b2a3b83",
             "name": "Arkham Asylum Joker, The LEGO Batman Movie",
-            "keywords": ["comics", "DC", "Batman", "The LEGO Batman Movie", "Joker", "Dick Grayson"],
+            "keywords": ["comics", "DC", "Batman", "The LEGO Batman Movie", "Joker"],
             "actor": "Zach Galifianakis",
             "item": "coltlbm08",
             "set": 71017,
-            "dates": ["2022-06-21"]
+            "dates": ["2022-06-21", "2022-08-01"]
         },
         {
             "id": "98292a48-0653-4537-abbd-d7d46c57dba2",
@@ -2664,6 +2664,15 @@
             "keywords": ["comics", "DC", "Detective Comics", "Batman", "Bruce Wayne", "clown", "patches", "bowtie", "cape"],
             "item": "sh376",
             "set": 30607,
+            "dates": []
+        },
+        {
+            "id": "298d7714-cba0-4529-a74d-db3bd4665543",
+            "name": "Mechakoopa, Super Mario, Series 4",
+            "style": "item",
+            "keywords": ["video games", "Nintendo", "Super Mario", "koopa", "mechakoopa", "wind-up"],
+            "item": "mar0110",
+            "set": 71402,
             "dates": []
         }
     ]
