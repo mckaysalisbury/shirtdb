@@ -1626,7 +1626,7 @@
             "item": "sh505",
             "set": 76125,
             "notes": "2 came in the set",
-            "dates": []
+            "dates": ["2022-06-06"]
         },
         {
             "id": "c16db753-59e2-4448-bf5c-234a938f9155",
@@ -1891,8 +1891,8 @@
         },
         {
             "id": "0f491447-19cd-4a90-b2a7-2ea17c84a2a9",
-            "name": "Fairy Batman, The LEGO Ba736deecb-00a3-4006-ac66-2513f4e95c9dtman Movie",
-            "keywords": ["comics", "DC", "Batman", "The LEGO Batman Movie", "Bruce Wayne", "fairy", "pink"],
+            "name": "Fairy Batman, The LEGO Batman Movie",
+            "keywords": ["comics", "DC", "Batman", "The LEGO Batman Movie", "Bruce Wayne", "fairy", "pink", "Fairy Batmother"],
             "actor": "Will Arnett",
             "item": "coltlbm03",
             "set": 71017,
@@ -2097,14 +2097,16 @@
             "name": "Parademon - Dark Green, Collapsed Wings",
             "keywords": ["comics", "DC", "Batman", "Knightmare", "DC Extended Universe", "Justice League", "Zack Snyder's Justice League", "parademon"],
             "item": "sh433",
-            "dates": ["2022-06-06"]
+            "set": 853744,
+            "dates": []
         },
         {
             "id": "bf8b5ca9-b804-4d5e-a5f7-c809cc8a7097",
             "name": "Parademon - Dark Green, Extended Wings",
             "keywords": ["comics", "DC", "Batman", "Knightmare", "DC Extended Universe", "Justice League", "Zack Snyder's Justice League", "parademon"],
             "item": "sh439",
-            "dates": ["2022-06-06"]
+            "set": 853744,
+            "dates": ["2022-08-10"]
         },
         {
             "id": "116dc461-fe62-4406-830c-b79d3d46c1f1",
@@ -2673,6 +2675,30 @@
             "keywords": ["video games", "Nintendo", "Super Mario", "koopa", "mechakoopa", "wind-up"],
             "item": "mar0110",
             "set": 71402,
+            "dates": []
+        },
+        {
+            "id": "67c0289f-d897-479e-aeae-c6fc87421700",
+            "name": "Chief O'Hara",
+            "keywords": ["movies", "The LEGO Batman Movie", "comics", "DC", "Batman", "Gotham", "Gotham City Police Department", "GCPD", "police", "badge", "Chief O'Hara", "gun"],
+            "item": "sh399",
+            "set": 853651,
+            "dates": []
+        },
+        {
+            "id": "e680b238-756d-4f0a-9d0e-5e87f106632b",
+            "name": "GCPD Officer 1",
+            "keywords": ["movies", "The LEGO Batman Movie", "comics", "DC", "Batman", "Gotham", "Gotham City Police Department", "GCPD", "police", "badge", "handcuffs", "hat", "circle beard"],
+            "item": "sh399",
+            "set": 853651,
+            "dates": []
+        },
+        {
+            "id": "4b0a6f16-c3ce-41a6-ba33-ad8579cb3edd",
+            "name": "GCPD Officer 2",
+            "keywords": ["movies", "The LEGO Batman Movie", "comics", "DC", "Batman", "Gotham", "Gotham City Police Department", "GCPD", "police", "badge", "binoculars", "helmet", "mustache", "handlebar mustache"],
+            "item": "sh399",
+            "set": 853651,
             "dates": []
         }
     ]
