@@ -1835,7 +1835,7 @@
             "keywords": ["school", "university", "Brigham Young University", "BYU"],
             "source": "https://byu.edu",
             "images": ["front", "logo"],
-            "dates": ["2022-04-16"]
+            "dates": ["2022-04-16", "2022-08-13"]
         },
         {
             "id": "e17c1892-2fde-4173-a752-72f8ebcf2785",
@@ -1879,6 +1879,15 @@
             "keywords": ["restaurant", "Los Hermanos", "taco", "burrito", "rose", "alien", "abduction"],
             "images": ["front", "back", "logo"],
             "dates": []
+        },
+        {
+            "id": "ddc6433e-3f89-4cf7-a446-3d02820535b3",
+            "name": "National Video Game Museum - Breakout",
+            "text": ["NATIONAL VIDEOGAME MUSEUM", "Frisco, TX"],
+            "keywords": ["video games", "Breakout", "Texas", "National Videogame Museum", "bricks"],
+            "images-name": "nvgm-breakout",
+            "images": ["front"],
+            "dates": ["2022-08-13"]
         }
     ]
 }
