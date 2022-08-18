@@ -2700,6 +2700,30 @@
             "item": "sh399",
             "set": 853651,
             "dates": ["2022-08-12"]
+        },
+        {
+            "id": "3d760570-de91-4c50-beb4-73fa222a0372",
+            "name": "Dark Blue Suit with Train Logo, Dark Bluish Gray Legs, Dark Red Hat, Beard and Glasses",
+            "keywords": ["city", "train", "conductor", "hat", "glasses"],
+            "item": "trn148",
+            "set": 7938,
+            "dates": []
+        },
+        {
+            "id": "89645f9a-194e-4edb-b640-7259ebd7645b",
+            "name": "Shirt with Female Rainbow Stars Pattern, White Legs, Black Bob Cut Hair",
+            "keywords": ["city", "stars", "rainbow"],
+            "item": "cty0182",
+            "set": 7938,
+            "dates": []
+        },
+        {
+            "id": "e8d66d78-770b-4332-b964-a6f73bf83688",
+            "name": "Sunset and Palm Trees - Dark Blue Legs, Reddish Brown Male Hair",
+            "keywords": ["city", "sunset", "palm", "tree"],
+            "item": "twn109",
+            "set": 7938,
+            "dates": []
         }
     ]
 }
