@@ -2704,7 +2704,7 @@
         {
             "id": "3d760570-de91-4c50-beb4-73fa222a0372",
             "name": "Dark Blue Suit with Train Logo, Dark Bluish Gray Legs, Dark Red Hat, Beard and Glasses",
-            "keywords": ["city", "train", "conductor", "hat", "glasses"],
+            "keywords": ["city", "train", "conductor", "hat", "glasses", "beard"],
             "item": "trn148",
             "set": 7938,
             "dates": ["2022-08-18"]
@@ -2715,6 +2715,7 @@
             "keywords": ["city", "stars", "rainbow"],
             "item": "cty0182",
             "set": 7938,
+            "notes": "This was given to the boys, and has been mixed up.",
             "dates": []
         },
         {
@@ -2723,6 +2724,47 @@
             "keywords": ["city", "sunset", "palm", "tree"],
             "item": "twn109",
             "set": 7938,
+            "notes": "This was given to the boys, and has been mixed up.",
+            "dates": []
+        },
+        {
+            "id": "88c74e26-9d80-4689-aeab-b5eca4e54a25",
+            "name": "Engineer Max with Dark Bluish Gray Hands",
+            "keywords": ["city", "train", "engineer", "hat", "scarf", "overalls"],
+            "item": "trn131",
+            "set": 7898,
+            "dates": []
+        },
+        {
+            "id": "b38869d8-31e1-44f2-b49e-5681409a6274",
+            "name": "Orange Vest with Safety Stripes - Orange Legs, Red Construction Helmet, Black Hair, Eyebrows, and Smirk",
+            "keywords": ["city", "train", "construction", "helmet"],
+            "item": "trn132",
+            "set": 7898,
+            "dates": ["2022-08-19"]
+        },
+        {
+            "id": "6b7227f3-8d78-4262-9da6-a8b58ba141fd",
+            "name": "Orange Vest with Safety Stripes - Orange Legs, Red Construction Helmet, Brown Moustache, Dark Bluish Gray Hands",
+            "keywords": ["city", "train", "construction", "helmet"],
+            "item": "trn129a",
+            "set": 7898,
+            "dates": []
+        },
+        {
+            "id": "fe2bbf92-6003-4962-9fc5-c08f84a236c4",
+            "name": "Orange Vest with Safety Stripes - Orange Legs, Red Construction Helmet, Red Bangs",
+            "keywords": ["city", "train", "construction", "helmet"],
+            "item": "trn130",
+            "set": 7898,
+            "dates": []
+        },
+        {
+            "id": "abb92d69-6680-4cdf-9c44-88cbea78466c",
+            "name": "Overalls with Safety Stripe Orange, Orange Legs, Red Construction Helmet, Smirk and Stubble Beard",
+            "keywords": ["city", "construction", "helmet"],
+            "item": "cty0079",
+            "set": 7898,
             "dates": []
         }
     ]
