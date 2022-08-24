@@ -2510,7 +2510,7 @@
         {
             "id": "453908ef-3242-42b5-8755-578e33d697d9",
             "name": "Astronaut - Female, Orange Spacesuit with Dark Bluish Gray Lines, Trans Light Blue Large Visor, Freckles with Smirk and Winking",
-            "keywords": ["city", "space", "Mars", "spacesuit", "jackhammer"],
+            "keywords": ["City", "space", "Mars", "spacesuit", "jackhammer"],
             "item": "cty1008",
             "set": 40345,
             "dates": ["2022-07-08"]
@@ -2518,7 +2518,7 @@
         {
             "id": "e465bc10-2faf-4c8b-99f2-ffd62fe50e1c",
             "name": "Astronaut - Male, White Spacesuit with Lime Belt, Trans Orange Large Visor, Stubble and Smirk",
-            "keywords": ["city", "space", "Mars", "spacesuit", "metal detector", "detector"],
+            "keywords": ["City", "space", "Mars", "spacesuit", "metal detector", "detector"],
             "item": "cty1009",
             "set": 40345,
             "dates": ["2022-07-06"]
@@ -2526,7 +2526,7 @@
         {
             "id": "120a644a-2936-4e79-a832-6dd8a4246e1a",
             "name": "Ground Crew Technician - Male, Jumpsuit and Construction Helmet",
-            "keywords": ["city", "space", "Mars", "helmet", "goggles", "wrench"],
+            "keywords": ["City", "space", "Mars", "helmet", "goggles", "wrench"],
             "item": "cty1010",
             "set": 40345,
             "dates": ["2022-07-11"]
@@ -2534,7 +2534,7 @@
         {
             "id": "83ca0b57-84b4-44f0-84aa-a7f1347173e4",
             "name": "Scientist - Female, Blue Goggles and White Legs",
-            "keywords": ["city", "space", "Mars", "labcoat", "goggles", "camera"],
+            "keywords": ["City", "space", "Mars", "labcoat", "goggles", "camera"],
             "item": "cty1011",
             "set": 40345,
             "dates": ["2022-07-12"]
@@ -2704,7 +2704,7 @@
         {
             "id": "3d760570-de91-4c50-beb4-73fa222a0372",
             "name": "Dark Blue Suit with Train Logo, Dark Bluish Gray Legs, Dark Red Hat, Beard and Glasses",
-            "keywords": ["city", "train", "conductor", "hat", "glasses", "beard"],
+            "keywords": ["City", "train", "conductor", "hat", "glasses", "beard"],
             "item": "trn148",
             "set": 7938,
             "dates": ["2022-08-18"]
@@ -2712,7 +2712,7 @@
         {
             "id": "89645f9a-194e-4edb-b640-7259ebd7645b",
             "name": "Shirt with Female Rainbow Stars Pattern, White Legs, Black Bob Cut Hair",
-            "keywords": ["city", "stars", "rainbow"],
+            "keywords": ["City", "stars", "rainbow"],
             "item": "cty0182",
             "set": 7938,
             "notes": "This was given to the boys, and has been mixed up.",
@@ -2721,7 +2721,7 @@
         {
             "id": "e8d66d78-770b-4332-b964-a6f73bf83688",
             "name": "Sunset and Palm Trees - Dark Blue Legs, Reddish Brown Male Hair",
-            "keywords": ["city", "sunset", "palm", "tree"],
+            "keywords": ["City", "sunset", "palm", "tree"],
             "item": "twn109",
             "set": 7938,
             "notes": "This was given to the boys, and has been mixed up.",
@@ -2730,15 +2730,16 @@
         {
             "id": "88c74e26-9d80-4689-aeab-b5eca4e54a25",
             "name": "Engineer Max with Dark Bluish Gray Hands",
-            "keywords": ["city", "train", "engineer", "hat", "scarf", "overalls"],
+            "keywords": ["City", "train", "engineer", "hat", "scarf", "overalls"],
             "item": "trn131",
             "set": 7898,
+            "notes": "This was given to the boys, and has been mixed up.",
             "dates": []
         },
         {
             "id": "b38869d8-31e1-44f2-b49e-5681409a6274",
             "name": "Orange Vest with Safety Stripes - Orange Legs, Red Construction Helmet, Black Hair, Eyebrows, and Smirk",
-            "keywords": ["city", "train", "construction", "helmet"],
+            "keywords": ["City", "train", "construction", "helmet"],
             "item": "trn132",
             "set": 7898,
             "dates": ["2022-08-19"]
@@ -2746,7 +2747,7 @@
         {
             "id": "6b7227f3-8d78-4262-9da6-a8b58ba141fd",
             "name": "Orange Vest with Safety Stripes - Orange Legs, Red Construction Helmet, Brown Moustache, Dark Bluish Gray Hands",
-            "keywords": ["city", "train", "construction", "helmet"],
+            "keywords": ["City", "train", "construction", "helmet"],
             "item": "trn129a",
             "set": 7898,
             "dates": ["2022-08-22"]
@@ -2754,7 +2755,7 @@
         {
             "id": "fe2bbf92-6003-4962-9fc5-c08f84a236c4",
             "name": "Orange Vest with Safety Stripes - Orange Legs, Red Construction Helmet, Red Bangs",
-            "keywords": ["city", "train", "construction", "helmet"],
+            "keywords": ["City", "train", "construction", "helmet"],
             "item": "trn130",
             "set": 7898,
             "dates": ["2022-08-24"]
@@ -2762,10 +2763,72 @@
         {
             "id": "abb92d69-6680-4cdf-9c44-88cbea78466c",
             "name": "Overalls with Safety Stripe Orange, Orange Legs, Red Construction Helmet, Smirk and Stubble Beard",
-            "keywords": ["city", "construction", "helmet"],
+            "keywords": ["City", "construction", "helmet"],
             "item": "cty0079",
             "set": 7898,
             "dates": ["2022-08-23"]
+        },
+        {
+            "id": "09110477-82bf-4587-8d50-b561f06e2b72",
+            "name": "Blue Jacket with Pockets and Orange Stripes, Dark Blue Legs, Black Hat",
+            "keywords": ["City", "Winter Village", "beard", "glasses", "hat"],
+            "item": "twn124",
+            "set": 10216,
+            "dates": []
+        },
+        {
+            "id": "47d11866-909f-4c3a-9c73-f53e295b4fbe",
+            "name": "Chef - White Torso with 8 Buttons, Light Bluish Gray Legs, Gray Beard",
+            "keywords": ["City", "Winter Village", "hat"],
+            "item": "twn120",
+            "notes": "This was given to the boys, and has been mixed up.",
+            "set": 10216,
+            "dates": []
+        },
+        {
+            "id": "a791e90b-8588-412b-99cd-ab846e6bdd1a",
+            "name": "Dark Bluish Gray Jacket with Magenta Scarf, Blue Legs, Bright Light Yellow Female Hair Mid-Length",
+            "keywords": ["City", "Winter Village"],
+            "notes": "This was given to the boys, and has been mixed up.",
+            "item": "twn119",
+            "set": 10216,
+            "dates": []
+        },
+        {
+            "id": "613fc8dc-99d6-4d69-9dad-c019525c6460",
+            "name": "Overalls with Safety Stripe Orange, Black Legs, Dark Bluish Gray Knit Cap, Brown Eyebrows, Thin Grin",
+            "keywords": ["City", "Winter Village", "construction"],
+            "notes": "This was given to the boys, and has been mixed up.",
+            "item": "twn122",
+            "set": 10216,
+            "dates": []
+        },
+        {
+            "id": "88560494-c170-452d-8d75-3e2f5a53c174",
+            "name": "Plaid Button Shirt, Blue Short Legs, Dark Blue Hood, Lopsided Smile with Dimple",
+            "keywords": ["City", "Winter Village", "hood", "coat"],
+            "notes": "This was given to the boys, and has been mixed up.",
+            "item": "twn125",
+            "set": 10216,
+            "dates": []
+        },
+        {
+            "id": "5eeafe12-a685-4197-be90-40f1b3734cdf",
+            "name": "Plain Black Torso with Black Arms, Tan Short Legs, Black Male Hair",
+            "keywords": ["City", "Winter Village"],
+            "notes": "This was given to the boys, and has been mixed up.",
+            "item": "twn122",
+            "set": 10216,
+            "dates": []
+        },
+        {
+            "id": "760bd43a-c6d1-4347-8694-589b6fe0ae40",
+            "name": "Sweater Cropped with Bow, Heart Necklace, Red Skirt, Reddish Brown Female Hair over Shoulder, Small Eylashes and Wide Smile",
+            "keywords": ["City", "Winter Village", "dress"],
+            "notes": "This was given to the boys, and has been mixed up.",
+            "item": "twn121",
+            "set": 10216,
+            "dates": []
         }
     ]
 }
