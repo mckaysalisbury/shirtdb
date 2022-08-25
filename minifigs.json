@@ -2829,6 +2829,33 @@
             "item": "twn121",
             "set": 10216,
             "dates": []
+        },
+        {
+            "id": "9633f31b-9d04-4ed8-8464-40bec0528849",
+            "name": "Black Vest with Blue Striped Tie, Blue Legs, White Arms, Reddish Brown Male Hair, Moustache",
+            "keywords": ["City", "train", "tie"],
+            "notes": "This was given to the boys, and has been mixed up.",
+            "item": "twn033",
+            "set": 7897,
+            "dates": []
+        },
+        {
+            "id": "e40215bb-41ba-4f5d-b6e8-6b2e9f3722ea",
+            "name": "Dark Blue Jacket, Light Blue Shirt, Blue Legs, Red Cap",
+            "keywords": ["City", "train", "hat", "cap"],
+            "notes": "This was given to the boys, and has been mixed up.",
+            "item": "twn035",
+            "set": 7897,
+            "dates": []
+        },
+        {
+            "id": "e4f38085-8495-4007-8e64-e9ee7339ec20",
+            "name": "Dark Blue Suit with Train Logo, Black Legs, Brown Eyebrows, Black Hat",
+            "keywords": ["City", "train", "conductor", "hat"],
+            "notes": "This was given to the boys, and has been mixed up.",
+            "item": "trn128",
+            "set": 7897,
+            "dates": []
         }
     ]
 }
