@@ -2856,6 +2856,49 @@
             "item": "trn128",
             "set": 7897,
             "dates": []
+        },
+        {
+            "id": "85028d91-c7fd-4bee-ba2f-9fe9f931e267",
+            "name": "Dark Blue Suit with Train Logo, Sand Blue Legs, Dark Red Hat - Conductor",
+            "keywords": ["City", "train", "conductor", "hat", "tie"],
+            "item": "trn138",
+            "set": 7997,
+            "dates": []
+        },
+        {
+            "id": "ff444a3b-559c-48f5-934d-2fc1fb4b5502",
+            "name": "Overalls with Tools in Pocket Blue, Red Construction Helmet, Cheek Lines",
+            "keywords": ["City", "train", "construction", "helmet"],
+            "item": "trn141",
+            "set": 7997,
+            "dates": []
+        },
+        {
+            "id": "f24b3a91-8964-4fdf-bb52-b9c3c3f833e1",
+            "name": "Red Jacket with Zipper Pockets and Classic Space Logo, Black Legs, Reddish Brown Flat Top Hair",
+            "keywords": ["City", "train", "space", "flat top", "hair", "zipper"],
+            "notes": "This was given to the boys, and has been mixed up.",
+            "item": "trn140",
+            "set": 7997,
+            "dates": []
+        },
+        {
+            "id": "b0797520-0146-4162-9a8f-9419157f17ef",
+            "name": "Shirt with 2 Pockets No Collar, Blue Legs, Blue Cap",
+            "keywords": ["City", "train", "hat", "cap"],
+            "notes": "This was given to the boys, and has been mixed up.",
+            "item": "trn139",
+            "set": 7997,
+            "dates": []
+        },
+        {
+            "id": "dbdcaed3-7214-453e-916e-af0ce7d34a1a",
+            "name": "Suit Black, Reddish Brown Male Hair, Thin Grin with Teeth",
+            "keywords": ["City", "train", "suit", "hair"],
+            "notes": "This was given to the boys, and has been mixed up.",
+            "item": "trn142",
+            "set": 7997,
+            "dates": []
         }
     ]
 }
