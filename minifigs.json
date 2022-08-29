@@ -2899,6 +2899,69 @@
             "item": "trn142",
             "set": 7997,
             "dates": []
+        },
+        {
+            "id": "ffb0df72-7732-40b4-b3cc-2d0d99213da2",
+            "name": "Lone Ranger",
+            "keywords": ["radio", "movie", "Lone Ranger", "train", "western", "John Reid", "cowboy", "badge", "mask", "hat", "revolver", "gun"],
+            "actor": "Armie Hammer",
+            "item": "tlr001",
+            "set": 79111,
+            "dates": []
+        },
+        {
+            "id": "2debfb85-0396-4f8a-8977-36c3c38a3e64",
+            "name": "Tonto",
+            "keywords": ["radio", "movie", "Lone Ranger", "train", "Indian", "Native American", "First Peoples", "crow", "pocketwatch", "shovel"],
+            "actor": "Johnny Depp",
+            "item": "tlr002",
+            "set": 79111,
+            "dates": []
+        },
+        {
+            "id": "b7f91749-eaf6-4faf-a85a-84fecf932ce0",
+            "name": "Butch Cavendish",
+            "keywords": ["radio", "movie", "Lone Ranger", "train", "western", "Butch Cavendish", "outlaw", "hat", "rifle", "beard"],
+            "actor": "William Fichtner",
+            "item": "tlr008",
+            "set": 79111,
+            "dates": []
+        },
+        {
+            "id": "fde8f91f-f7bd-4810-93a1-296841206a7e",
+            "name": "Captain J. Fuller",
+            "keywords": ["radio", "movie", "Lone Ranger", "train", "western", "Captain J. Fuller", "Fuller", "soldier", "sword", "hat", "sheath", "captain"],
+            "actor": "Barry Pepper",
+            "item": "tlr016",
+            "set": 79111,
+            "dates": []
+        },
+        {
+            "id": "e11e0cc3-355d-4694-aa8e-8ec00a80db53",
+            "name": "Danny Reid",
+            "keywords": ["radio", "movie", "Lone Ranger", "train", "western", "Dan Reid", "Danny Reid", "slingshot"],
+            "actor": "James Badge Dale",
+            "item": "tlr013",
+            "set": 79111,
+            "dates": []
+        },
+        {
+            "id": "e7dd5334-f479-4f1c-8a1a-5b25c377b057",
+            "name": "Latham Cole",
+            "keywords": ["radio", "movie", "Lone Ranger", "train", "western", "Latham Cole", "Cole", "bowler", "hat", "beard", "mustache"],
+            "actor": "Tom Wilkinson",
+            "item": "tlr015",
+            "set": 79111,
+            "dates": []
+        },
+        {
+            "id": "6ef24614-e327-4a03-8100-7bc7304f8da8",
+            "name": "Rebecca Reid",
+            "keywords": ["radio", "movie", "Lone Ranger", "train", "western"],
+            "actor": "Ruth Wilson",
+            "item": "tlr014",
+            "set": 79111,
+            "dates": []
         }
     ]
 }
