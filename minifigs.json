@@ -2907,7 +2907,7 @@
             "actor": "Armie Hammer",
             "item": "tlr001",
             "set": 79111,
-            "dates": []
+            "dates": ["2022-08-30"]
         },
         {
             "id": "2debfb85-0396-4f8a-8977-36c3c38a3e64",
@@ -2957,7 +2957,7 @@
         {
             "id": "6ef24614-e327-4a03-8100-7bc7304f8da8",
             "name": "Rebecca Reid",
-            "keywords": ["radio", "movie", "Lone Ranger", "train", "western"],
+            "keywords": ["radio", "movie", "Lone Ranger", "train", "western", "dress"],
             "actor": "Ruth Wilson",
             "item": "tlr014",
             "set": 79111,
