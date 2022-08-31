@@ -2962,6 +2962,46 @@
             "item": "tlr014",
             "set": 79111,
             "dates": []
+        },
+        {
+            "id": "0b04fd2d-c466-4d1f-b144-80207282e2cb",
+            "name": "Scrooge McDuck",
+            "keywords": ["television", "Disney", "cartoon", "collectible", "Disney Series 2", "duck", "DuckTales", "Scrooge", "Scrooge McDuck", "McDuck", "coin", "lucky dime", "top hat", "cane", "glasses"],
+            "item": "dis029",
+            "set": 71024,
+            "dates": []
+        },
+        {
+            "id": "0b04fd2d-c466-4d1f-b144-80207282e2cb",
+            "name": "Huey Duck",
+            "keywords": ["television", "Disney", "cartoon", "collectible", "Disney Series 2", "duck", "nephew", "DuckTales", "hat", "cap", "red", "Huey", "Junior Woodchuck", "Junior Woodchuck guide book", "compass"],
+            "item": "dis026",
+            "set": 71024,
+            "dates": []
+        },
+        {
+            "id": "0b04fd2d-c466-4d1f-b144-80207282e2cb",
+            "name": "Dewey Duck",
+            "keywords": ["television", "Disney", "cartoon", "collectible", "Disney Series 2", "duck", "nephew", "DuckTales", "hat", "cap", "blue", "Dewey", "slingshot"],
+            "item": "dis027",
+            "set": 71024,
+            "dates": []
+        },
+        {
+            "id": "0b04fd2d-c466-4d1f-b144-80207282e2cb",
+            "name": "Louie Duck",
+            "keywords": ["television", "Disney", "cartoon", "collectible", "Disney Series 2", "duck", "nephew", "DuckTales", "hat", "cap", "green", "Louie", "flashlight"],
+            "item": "dis028",
+            "set": 71024,
+            "dates": []
+        },
+        {
+            "id": "0b04fd2d-c466-4d1f-b144-80207282e2cb",
+            "name": "Vintage Mickey",
+            "keywords": ["television", "Disney", "cartoon", "collectible", "Disney Series 2", "Mickey", "Mickey Mouse", "mouse", "Steamboat Willy", "hat", "ship wheel", "wheel", "rudder"],
+            "item": "dis",
+            "set": 71024,
+            "dates": []
         }
     ]
 }
