@@ -2934,7 +2934,7 @@
             "actor": "Barry Pepper",
             "item": "tlr016",
             "set": 79111,
-            "dates": []
+            "dates": ["2022-09-02"]
         },
         {
             "id": "e11e0cc3-355d-4694-aa8e-8ec00a80db53",
@@ -2961,6 +2961,46 @@
             "actor": "Ruth Wilson",
             "item": "tlr014",
             "set": 79111,
+            "dates": []
+        },
+        {
+            "id": "dcb8b914-9e39-40e9-8159-e0e50706d0a7",
+            "name": "Alien",
+            "keywords": ["television", "Disney", "cartoon", "collectible", "Disney Series 1", "Pixar", "Toy Story", "Pizza Planet", "alien", "antenna"],
+            "item": "dis002",
+            "set": 71012,
+            "dates": []
+        },
+        {
+            "id": "102b63e8-4be4-42d9-bd5a-96cfd630375b",
+            "name": "Buzz Lightyear",
+            "keywords": ["television", "Disney", "cartoon", "collectible", "Disney Series 1", "Pixar", "Toy Story", "Space Ranger", "space suit", "wings", "helmet"],
+            "item": "dis003",
+            "set": 71012,
+            "dates": []
+        },
+        {
+            "id": "34d43f11-2307-45b7-ad55-d2506d91f3cc",
+            "name": "Mickey Mouse",
+            "keywords": ["television", "Disney", "cartoon", "collectible", "Disney Series 1", "Mickey", "Mickey Mouse", "mouse"],
+            "item": "dis012",
+            "set": 71012,
+            "dates": []
+        },
+        {
+            "id": "5fe4603e-abb5-4453-837d-d3e2900fa499",
+            "name": "Syndrome",
+            "keywords": ["television", "Disney", "cartoon", "collectible", "Disney Series 1", "Pixar", "Incredibles", "Syndrome", "Buddy Pine", "IncrediBoy", "super", "super-villan"],
+            "item": "dis014",
+            "set": 71012,
+            "dates": []
+        },
+        {
+            "id": "3f6f6985-5c03-4a4d-b984-6dae1a5fc05d",
+            "name": "Peter Pan",
+            "keywords": ["television", "Disney", "cartoon", "collectible", "Disney Series 1", "Peter Pan", "dagger", "hat", "lost boy"],
+            "item": "dis015",
+            "set": 71012,
             "dates": []
         },
         {
@@ -2999,7 +3039,7 @@
             "id": "0b04fd2d-c466-4d1f-b144-80207282e2cb",
             "name": "Vintage Mickey",
             "keywords": ["television", "Disney", "cartoon", "collectible", "Disney Series 2", "Mickey", "Mickey Mouse", "mouse", "Steamboat Willy", "hat", "ship wheel", "wheel", "rudder"],
-            "item": "dis",
+            "item": "dis024",
             "set": 71024,
             "dates": []
         }
