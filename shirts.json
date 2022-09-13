@@ -595,7 +595,7 @@
         {
             "id": "59f98a38-65f1-494f-b609-09990a8713e0",
             "name": "Fullmetal Alchemist",
-            "text": ["FULlMETAL", "ALCHEMIST"],
+            "text": ["FULLMETAL", "ALCHEMIST"],
             "keywords": ["TV", "anime", "Fullmetal Alchemist", "鋼の錬金術師", "Hagane no Renkinjutsushi", "Edward Elric", "Alphonse Elric"],
             "images": ["front", "logo"],
             "images-name": "fma",
