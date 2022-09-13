@@ -3064,7 +3064,7 @@
         {
             "id": "dac617d1-e24f-473a-84a9-fcf7db2f9d52",
             "name": "Robin - Green Glasses, Smile / Worried Pattern",
-            "keywords": ["movies", "comics", "DC", "Detective Comics", "The LEGO Batman Movie", "LEGO Batman", "Robin", "Dick Grayson", "glasses", "cape"],
+            "keywords": ["movies", "comics", "video games", "LEGO Dimensions", "Dimensions", "DC", "Detective Comics", "The LEGO Batman Movie", "LEGO Batman", "Robin", "Dick Grayson", "glasses", "cape"],
             "actor": "Michael Cera",
             "item": "dim041",
             "set": 71264,
@@ -3073,11 +3073,19 @@
         {
             "id": "cd244d6c-ec52-42ae-8e0a-68debf87a6c0",
             "name": "Batgirl - Yellow Cape, Dual Sided Head with Smile / Scared Pattern",
-            "keywords": ["movies", "comics", "DC", "Detective Comics", "The LEGO Batman Movie", "LEGO Batman", "Batgirl", "Babs", "Barbara Gordon", "utility belt", "cape", "cowl"],
+            "keywords": ["movies", "comics", "video games", "LEGO Dimensions", "Dimensions", "DC", "Detective Comics", "The LEGO Batman Movie", "LEGO Batman", "Batgirl", "Babs", "Barbara Gordon", "utility belt", "cape", "cowl"],
             "actor": "Rosario Dawson",
             "item": "dim044",
             "set": 71264,
             "dates": []
+        },
+        {
+            "id": "83cdb31b-005a-433b-ac07-5c27b866d4a1",
+            "name": "Sonic the Hedgehog",
+            "keywords": ["video games", "LEGO Dimensions", "Dimensions", "Sonic the Hedgehog", "SEGA", "Sonic", "hedgehog", "ring"],
+            "item": "dim031",
+            "set": 71244,
+            "dates": ["2022-09-12"]
         }
     ]
 }
