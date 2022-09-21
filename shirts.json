@@ -571,7 +571,7 @@
             "source": "https://shirt.woot.com/offers/university-wikipedius",
             "images-name": "wikipedius",
             "images": ["front", "logo"],
-            "dates": ["2021-06-12", "2021-11-19", "2022-04-26"]
+            "dates": ["2021-06-12", "2021-11-19", "2022-04-26", "2022-09-21"]
         },
         {
             "id": "4e37f235-9eb7-4295-8a85-68aced0ccc0f",
@@ -637,7 +637,7 @@
             "source": "https://store.intrepidmuseum.org",
             "images-name": "enterprise",
             "images": ["logo", "front"],
-            "dates": ["2021-06-19", "2021-11-09", "2022-04-19"]
+            "dates": ["2021-06-19", "2021-11-09", "2022-04-19", "2022-09-20"]
         },
         {
             "id": "30ef53cc-1dd2-463b-b98a-4d106606ab10",
