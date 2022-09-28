@@ -66,7 +66,7 @@
             "keywords": ["comics", "Marvel", "Red Skull", "Hydra", "tesseract"],
             "item": "sh107",
             "set": 76017,
-            "dates": ["2022-08-28"]
+            "dates": ["2022-09-28"]
         },
         {
             "id": "9c1edda4-1737-47d1-a8de-5c644b9204db",
@@ -124,11 +124,19 @@
         {
             "id": "a9e7cc33-9c47-48d9-96f7-c3f7783437c3",
             "name": "Captain America - Short Legs",
-            "keywords": ["Marvel", "mighty micro", "Captain America"],
+            "keywords": ["comics", "Marvel", "mighty micro", "Captain America"],
             "item": "sh250",
             "set": 76065,
             "dates": ["2021-05-11"]
         },
+        {
+            "id": "4f5b5bc4-d6c1-4426-8920-2b5198bd482f",
+            "name": "Red Skull - Short Legs",
+            "keywords": ["comics", "Marvel", "mighty micro", "Red Skull"],
+            "item": "sh251",
+            "set": 76065,
+            "dates": []
+        }
         {
             "id": "c0af7df2-abe1-4282-84e0-c443c72d9578",
             "name": "Stormtrooper - Rebels",
