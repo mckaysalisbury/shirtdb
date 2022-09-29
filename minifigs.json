@@ -138,6 +138,22 @@
             "dates": []
         },
         {
+            "id": "12f3513a-41e6-4f52-8da8-b98c00be1a04",
+            "name": "Baron Von Strucker",
+            "keywords": ["comics", "Marvel", "Baron Von Strucker", "Strucker", "monacle", "Hydra"],
+            "item": "sh179",
+            "set": 76041,
+            "dates": []
+        },
+        {
+            "id": "7c54bc1c-d40f-414c-985e-ef03a5deb476",
+            "name": "HYDRA Henchman - Chitauri Armor",
+            "keywords": ["comics", "Marvel", "Hydra", "henchman", "goggles"],
+            "item": "sh171",
+            "set": 76041,
+            "dates": []
+        },
+        {
             "id": "c0af7df2-abe1-4282-84e0-c443c72d9578",
             "name": "Stormtrooper - Rebels",
             "keywords": ["Star Wars", "Rebels", "Stormtrooper"],
