@@ -1889,6 +1889,14 @@
             "images-name": "nvgm-breakout",
             "images": ["front"],
             "dates": ["2022-08-13"]
+        },
+        {
+            "id": "417fbcae-c95c-4eef-bb2d-6166e932a680",
+            "name": "Dragon (polo)",
+            "text": ["🐉"],
+            "style": "polo",
+            "keywords": ["fantasy", "dragon"],
+            "dates": ["2022-10-02"]
         }
     ]
 }
