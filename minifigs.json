@@ -3025,7 +3025,7 @@
             "keywords": ["television", "Disney", "cartoon", "collectible", "Disney Series 1", "Mickey", "Mickey Mouse", "mouse"],
             "item": "dis012",
             "set": 71012,
-            "dates": []
+            "dates": ["2022-10-17"]
         },
         {
             "id": "5fe4603e-abb5-4453-837d-d3e2900fa499",
@@ -3126,6 +3126,51 @@
             "item": "dim031",
             "set": 71244,
             "dates": ["2022-09-12"]
+        },
+        {
+            "id": "aa106170-4d35-4e79-a690-2783ae8a2380",
+            "name": "Draco Malfoy, Slytherin Stripe and Shield Torso, Black Legs",
+            "keywords": ["books", "movies", "Harry Potter", "Draco Malfoy", "Malfoy", "Slitherin", "uniform", "snake", "tie", "vest"],
+            "actor": "Tom Felton",
+            "item": "hp115",
+            "set": 4841,
+            "dates": ["2022-10-18"]
+        },
+        {
+            "id": "f6609320-5c1c-4dcd-a5eb-8c7cfe3ec8c8",
+            "name": "Ginny Weasley, Gryffindor Stripe and Shield Torso, Black Legs",
+            "keywords": ["books", "movies", "Harry Potter", "Ginny Weasley", "Ginerva Molly Weasley", "Weasley", "Griffindor", "uniform", "lion", "tie", "vest"],
+            "actor": "Bonnie Wright",
+            "item": "hp114",
+            "set": 4841,
+            "dates": []
+        },
+        {
+            "id": "7d71a6bd-bb8d-445c-bdde-509ab1e35f13",
+            "name": "Harry Potter, Dark Blue Open Jacket with Stripe, Dark Bluish Gray Legs",
+            "keywords": ["books", "movies", "Harry Potter", "Harry James Potter", "jacket", "glasses", "scar"],
+            "actor": "Daniel Radcliffe",
+            "item": "hp116",
+            "set": 4841,
+            "dates": []
+        },
+        {
+            "id": "ae188bbd-1b97-49ec-8421-6b9c7c4d2f08",
+            "name": "Luna Lovegood, Dark Pink Jacket, Ponytail",
+            "keywords": ["books", "movies", "Harry Potter", "Luna Lovegood", "Quibbler", "Ponytail", "spectrespecs"],
+            "actor": "Evanna Lynch",
+            "item": "hp103",
+            "set": 4841,
+            "dates": []
+        },
+        {
+            "id": "50367b1f-34b9-490f-8816-fb5d1c3e7cc6",
+            "name": "Ron Weasley, Tartan Vest, Black Legs",
+            "keywords": ["books", "movies", "Harry Potter", "Ron Weasley", "Weasley", "Daily Prophet", "sweater"],
+            "actor": "Rupert Grint",
+            "image": "hp113",
+            "set": 4841,
+            "dates": []
         }
     ]
 }
