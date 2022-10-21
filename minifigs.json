@@ -3168,8 +3168,72 @@
             "name": "Ron Weasley, Tartan Vest, Black Legs",
             "keywords": ["books", "movies", "Harry Potter", "Ron Weasley", "Weasley", "Daily Prophet", "sweater"],
             "actor": "Rupert Grint",
-            "image": "hp113",
+            "item": "hp113",
             "set": 4841,
+            "dates": []
+        },
+        {
+            "id": "0c16f920-cb68-4243-9e7b-6efde430151c",
+            "name": "Harry Potter, Dark Blue Sweater with Letter 'H'",
+            "text": ["H"],
+            "keywords": ["books", "movies", "Harry Potter", "Wizarding World", "Potterverse", "advent calendar", "2019", "Harry James Potter", "Christmas", "sweater", "wand", "scar", "glasses"],
+            "actor": "Daniel Radcliffe",
+            "item": "hp206",
+            "set": 75964,
+            "dates": []
+        },
+        {
+            "id": "3d1d0a18-f659-4f5b-9852-759618ca4baa",
+            "name": "Professor Minerva McGonagall (Single Sided Head)",
+            "keywords": ["books", "movies", "Harry Potter", "Wizarding World", "Potterverse", "advent calendar", "2019", "Professor McGonagall", "Minerva McGonagall", "pointed hat", "Griffindor", "wand"],
+            "actor": "Maggie Smith",
+            "item": "hp152a",
+            "set": 75964,
+            "dates": []
+        },
+        {
+            "id": "feacb869-06f9-4d6f-a9c3-d1166ddc99ed",
+            "name": "Ron Weasley, Dark Red Sweater with Letter 'R'",
+            "text": ["R"],
+            "keywords": ["books", "movies", "Harry Potter", "Wizarding World", "Potterverse", "advent calendar", "2019", "Ron Weasley", "Ronald Weasley", "Weasley", "Christmas", "sweater", "wand", "R"],
+            "actor": "Rupert Grint",
+            "item": "hp207",
+            "set": 75964,
+            "dates": []
+        },
+        {
+            "id": "c6fc019a-7dda-4f37-a877-9e1c58efb139",
+            "name": "Hermione Granger, Hogwarts Robe Clasped with Gryffindor Shield, Black Short Legs",
+            "keywords": ["books", "movies", "Harry Potter", "Wizarding World", "Potterverse", "advent calendar", "2019", "Hermione Granger", "Griffindor", "Hogwarts", "robes", "scarf", "wand"],
+            "actor": "Emma Watson",
+            "item": "hp208",
+            "set": 75964,
+            "dates": []
+        },
+        {
+            "id": "0739a905-5b2b-41a2-9862-2da61174ceb3",
+            "name": "Professor Filius Flitwick, Light Bluish Gray Vest",
+            "keywords": ["books", "movies", "Harry Potter", "Wizarding World", "Potterverse", "advent calendar", "2019", "Professor Flitwick", "Filius Flitwick", "vest", "wand", "bowtie", "glasses", "mustache"],
+            "actor": "Warwick Davis",
+            "item": "hp205",
+            "set": 75964,
+            "dates": []
+        },
+        {
+            "id": "b8313066-4e2b-4697-858a-d7898cbca6da",
+            "name": "Statue - Hogwarts Architect (Monochrome)",
+            "keywords": ["books", "movies", "Harry Potter", "Wizarding World", "Potterverse", "advent calendar", "2019", "Hogwarts", "architect", "statue", "scroll"],
+            "item": "hp204",
+            "set": 75964,
+            "dates": []
+        },
+        {
+            "id": "ec29e112-ed0d-4a2d-afd7-29bcc3fa18ae",
+            "name": "Albus Dumbledore, Dark Red Robe, Light Bluish Gray Hair",
+            "keywords": ["books", "movies", "Harry Potter", "Wizarding World", "Potterverse", "advent calendar", "2019", "Professor Dumbledore", "Albus Dumbledore", "Albus Percival Wulfric Brian Dumbledore", "Headmaster", "Hogwarts"],
+            "actor": "Richard Harris",
+            "item": "hp147",
+            "set": 75964,
             "dates": []
         }
     ]
