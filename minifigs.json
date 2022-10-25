@@ -3235,6 +3235,14 @@
             "item": "hp147",
             "set": 75964,
             "dates": []
+        },
+        {
+            "id": "a779eb32-f0d0-4d22-9edf-11aabf699f3f",
+            "name": "HipHop Robot",
+            "keywords": ["Vidiyo", "music", "Daft Punk", "robot", "microphone", "equalizer", "note", "bling"],
+            "item": "vid014",
+            "set": 43107,
+            "dates": []
         }
     ]
 }
