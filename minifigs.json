@@ -3170,7 +3170,7 @@
             "actor": "Rupert Grint",
             "item": "hp113",
             "set": 4841,
-            "dates": []
+            "dates": ["2022-10-25"]
         },
         {
             "id": "0c16f920-cb68-4243-9e7b-6efde430151c",
@@ -3242,7 +3242,7 @@
             "keywords": ["Vidiyo", "music", "Daft Punk", "robot", "microphone", "equalizer", "note", "bling"],
             "item": "vid014",
             "set": 43107,
-            "dates": []
+            "dates": ["2022-10-24"]
         }
     ]
 }
