@@ -1905,6 +1905,14 @@
             "style": "button down",
             "keywords": ["white shirt", "pocket", "collar", "tie-dye"],
             "dates": ["2022-10-09"]
+        },
+        {
+            "id": "3b9f87a5-48d9-4ec1-9ea6-934d00dba73e",
+            "name": "Two kinds of people - extrapolate",
+            "text": ["There are two", "kinds of people", "I) Those who cannot extrapolate", "from incomplete data."],
+            "keywords": ["two kinds", "2 kinds", "extrapolate", "extrapolation", "incomplete", "incomplete information", "data"],
+            "images-name": "extrapolate",
+            "dates": ["2022-10-26"]
         }
     ]
 }
