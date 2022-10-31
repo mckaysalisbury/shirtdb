@@ -3243,6 +3243,14 @@
             "item": "vid014",
             "set": 43107,
             "dates": ["2022-10-24"]
+        },
+        {
+            "id": "cb94f735-8b34-4c67-b784-7e45f3a44140",
+            "name": "Count Dooku - Large Eyes",
+            "keywords": ["movies", "Star Wars", "Count Dooku"],
+            "item": "sw0224",
+            "set": 852555,
+            "dates": ["2022-10-31"]
         }
     ]
 }
