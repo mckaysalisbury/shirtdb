@@ -3247,10 +3247,29 @@
         {
             "id": "cb94f735-8b34-4c67-b784-7e45f3a44140",
             "name": "Count Dooku - Large Eyes",
-            "keywords": ["movies", "Star Wars", "Count Dooku"],
+            "keywords": ["movies", "Star Wars", "Count Dooku", "Count Dooku of Serenno", "Darth Tyranus"],
+            "actor": "Christopher Lee",
             "item": "sw0224",
             "set": 852555,
             "dates": ["2022-10-31"]
+        },
+        {
+            "id": "b1a886a0-5247-4360-b24b-51836961e49e",
+            "name": "Mace Windu - Large Eyes",
+            "keywords": ["movies", "Star Wars", "Mace Windu"],
+            "actor": "Samuel L. Jackson",
+            "item": "sw0220",
+            "set": 852555,
+            "dates": []
+        },
+        {
+            "id": "04fddeac-c2ce-4083-9ae1-3ce510e3ef5b",
+            "name": "Yoda (Clone Wars, Gray Hair)",
+            "keywords": ["movies", "Star Wars", "Yoda"],
+            "actor": "Frank Oz",
+            "item": "sw0219",
+            "set": 852555,
+            "dates": []
         }
     ]
 }
