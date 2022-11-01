@@ -2019,6 +2019,14 @@
             "dates": ["2022-04-01"]
         },
         {
+            "id": "3b9275b5-1623-4cce-b7aa-ac6a349053d5",
+            "name": "Cheetah",
+            "keywords": ["comics", "DC", "Cheetah", "Wonder Woman"],
+            "item": "colsh06",
+            "set": 71026,
+            "dates": []
+        },
+        {
             "id": "c24090ef-5b4b-49d4-83d6-55d5a00c6a5f",
             "name": "Bat-Merch Batgirl",
             "keywords": ["comics", "movies", "DC", "The LEGO Batman Movie", "Batman", "Batgirl", "Barbara Gordon", "Babs"],
