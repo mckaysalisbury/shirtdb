@@ -1920,6 +1920,13 @@
             "text": ["I'M WITH", "ILLOGICAL", "➡️"],
             "keywords": ["television", "Star Trek", "Vulcan", "logic", "illogical", "Spock", "Captain Kirk", "James T. Kirk"],
             "dates": ["2022-10-31"]
+        },
+        {
+            "id": "ec857fe8-d861-426b-8af4-7059f25d7dde",
+            "name": "Rogers The Musical",
+            "text": ["ROGERS", "THE MUSICAL", "MARVEL STUDIOS", "hawkeye"],
+            "keywords": ["television", "movies", "comics", "Marvel Cinematic Universe", "Hawkeye", "Steve Rogers", "Rogers", "musical", "Captain America", "Captain America shield", "Clint Barton", "Kate Bishop"],
+            "dates": ["2022-11-01"]
         }
     ]
 }
