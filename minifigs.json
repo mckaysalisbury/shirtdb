@@ -732,10 +732,20 @@
         {
             "id": "327cb6eb-0614-467d-b636-f7e6cb52ea73",
             "name": "Santa Darth Vader",
-            "keywords": ["Star Wars", "Christmas"],
+            "keywords": ["movies", "Star Wars", "Christmas", "Darth Vader", "Anakin Skywalker", "lightsaber", "red lightsaber", "bag"],
+            "actor": "James Earl Jones",
             "item": "sw0599",
             "set": 75056,
             "dates": ["2021-08-09"]
+        },
+        {
+            "id": "a7a76999-850d-474c-8c99-5bec58af7e2f",
+            "name": "Luke Skywalker (Tatooine, White Legs, Detailed Face Print)",
+            "actor": "Mark Hamill",
+            "keywords": ["movies", "Star Wars", "Luke Skywalker", "lightsaber", "blue lightsaber"],
+            "item": "sw0551",
+            "set": 75056,
+            "dates": ["2022-11-03"]
         },
         {
             "id": "6738dcfa-c873-4590-9c80-c140164cdf1e",
