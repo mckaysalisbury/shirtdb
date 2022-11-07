@@ -748,6 +748,49 @@
             "dates": ["2022-11-03"]
         },
         {
+            "id": "8aca6e8a-6c85-47c4-af14-5ed61d9fc861",
+            "name": "Clone Trooper - Printed Legs, Santa Hat, Scowl",
+            "keywords": ["movies", "Star Wars", "clone trooper", "trooper", "Christmas", "holiday", "Santa", "hat", "Santa hat", "mug", "cup"],
+            "item": "sw0596",
+            "set": 75056,
+            "dates": []
+        },
+        {
+            "id": "5f231089-c333-4051-9b45-d496ee424d54",
+            "name": "Snowtrooper, Light Bluish Gray Hips, Light Bluish Gray Hands, Printed Head, Torso Back Printing",
+            "keywords": ["movies", "Star Wars", "Hoth", "snowtrooper", "backpack", "hood"],
+            "item": "sw0463",
+            "set": 75056,
+            "dates": []
+        },
+        {
+            "id": "963474b8-0984-4282-a75e-01f7f99afb16",
+            "name": "Snowspeeder Pilot - White Helmet, Headset",
+            "keywords": ["movies", "Star Wars", "Star Wars: The Empire Strikes Back", "Star Wars: Episode V", "General Rieekan", "pilot", "helmet"],
+            "item": "sw0597",
+            "set": 75056,
+            "dates": [],
+            "notes": "I think the boys have this and may have mixed it up"
+        },
+                {
+            "id": "00b82c41-4614-48c7-a710-607bd0602efe",
+            "name": "General Rieekan",
+            "keywords": ["movies", "Star Wars", "Star Wars: The Empire Strikes Back", "Star Wars: Episode V", "snowspeeder", "Carlist Rieekan", "general"],
+            "item": "sw0460",
+            "set": 75056,
+            "dates": [],
+            "notes": "I think the boys have this and may have mixed it up"
+        },
+        {
+            "id": "b2822f8d-f0b6-4300-bcf7-b521cf446b34",
+            "name": "Astromech Droid, Christmas",
+            "style": "character",
+            "keywords": ["movies", "Star Wars", "droid", "Christmas", "holiday", "Christmas Tree"],
+            "item": "sw0598",
+            "set": 75056,
+            "dates": []
+        },
+        {
             "id": "6738dcfa-c873-4590-9c80-c140164cdf1e",
             "name": "Hyperion",
             "keywords": ["comics", "Marvel"],
@@ -3288,6 +3331,33 @@
             "item": "sw0219",
             "set": 852555,
             "dates": ["2022-10-31"]
+        },
+        {
+            "id": "48100bdc-22e3-49e1-8a78-26363b12a307",
+            "name": "Cheetah (Dr. Barbara Minerva)",
+            "keywords": ["comics", "movies", "DC", "DC Extended Universe", "DCEU", "Cheetah", "Barbara Minerva", "Dr. Minerva", "Dr. Barbara Minerva"],
+            "actor": "Kristen Wiig",
+            "item": "sh635",
+            "set": 76157,
+            "dates": ["2022-11-04"]
+        },
+        {
+            "id": "2d43c699-4367-4a61-8db3-26b7ab203974",
+            "name": "Maxwell Lord",
+            "keywords": ["comics", "movies", "DC", "DC Extended Universe", "DCEU", "Maxwell Lord", "Wonder Woman"],
+            "actor": "Pedro Pascal",
+            "item": "sh636",
+            "set": 76157,
+            "dates": []
+        },
+        {
+            "id": "b3b2b6e4-8b43-4ed0-8bf2-5b3aeaa84822",
+            "name": "Cheetah (Dr. Barbara Minerva)",
+            "keywords": ["comics", "movies", "DC", "DC Extended Universe", "DCEU", "Wonder Woman", "Diana Prince", "wings", "gold suit", "Wonder Woman"],
+            "actor": "Gal Gadot",
+            "item": "sh634",
+            "set": 76157,
+            "dates": []
         }
     ]
 }
