@@ -3358,6 +3358,74 @@
             "item": "sh634",
             "set": 76157,
             "dates": []
+        },
+        {
+            "id": "1d8afa28-b25f-4603-81b3-6bf087d7cc91",
+            "name": "Bespin Guard - Light Nougat Head, Detailed Gold Trim, Furrowed Eyebrows",
+            "keywords": ["movies", "Star Wars", "Star Wars: Episode V", "Star Wars: The Empire Strikes Back", "Bespin", "guard"],
+            "item": "sw0762",
+            "set": 75146,
+            "dates": []
+        },
+        {
+            "id": "33c12abb-2c32-44cd-ae05-a3177a54e931",
+            "name": "Imperial Navy Trooper (Black Jumpsuit)",
+            "keywords": ["movies", "Star Wars", "trooper"],
+            "item": "sw0583",
+            "set": 75146,
+            "dates": []
+        },
+        {
+            "id": "2f1f3c98-3061-41fd-ab28-be20f482b13f",
+            "name": "Snowtrooper, Light Bluish Gray Hips, Light Bluish Gray Hands - Backpack attached to Neck Bracket with Plate, Modified w/ Clip Ring",
+            "keywords": ["movies", "Star Wars", "Hoth", "snowtrooper", "hood"],
+            "item": "sw0764",
+            "set": 75146,
+            "dates": [],
+            "notes": "This could have been from an advent calendar that I didn't get all of, or the boys might have it in their bricks somewhere"
+        },
+        {
+            "id": "a297db99-66b9-4129-99c1-e3d58c7464f5",
+            "name": "Hoth Rebel Trooper White Uniform (Tan Beard, without Backpack)",
+            "keywords": ["movies", "Star Wars", "Hoth"],
+            "item": "sw0765",
+            "set": 75146,
+            "dates": [],
+            "notes": "This could have been from an advent calendar that I didn't get all of, or the boys might have it in their bricks somewhere"
+        },
+        {
+            "id": "f2eb9f48-b569-4ca6-9b70-a8cc38f682bc",
+            "name": "Silver Protocol Droid (U-3PO)",
+            "keywords": ["movies", "Star Wars", "droid", "3PO", "U-3PO", "protocol droid"],
+            "item": "sw0766",
+            "set": 75146,
+            "dates": []
+        },
+        {
+            "id": "06b8ac95-f298-4144-b5d9-5aa7f9f2402a",
+            "name": "Luke Skywalker (Jedi Master)",
+            "keywords": ["movies", "Star Wars", "Luke", "Luke Skywalker", "Jedi Master", "green", "lightsaber"],
+            "item": "sw0635",
+            "set": 75146,
+            "dates": [],
+            "notes": "This could have been from an advent calendar that I didn't get all of, or the boys might have it in their bricks somewhere"
+        },
+        {
+            "id": "9dd307b0-adab-4477-a308-61ca4e3217ea",
+            "name": "Imperial Stormtrooper - Printed Legs, Dark Blue Helmet Vents",
+            "keywords": ["movies", "Star Wars", "trooper", "stormtrooper", "helmet"],
+            "item": "sw0585",
+            "set": 75146,
+            "dates": [],
+            "notes": "This could have been from an advent calendar that I didn't get all of, or the boys might have it in their bricks somewhere"
+        },
+        {
+            "id": "7067b6d6-0c22-416b-bf21-eaf53df2f660",
+            "name": "Snow Chewbacca",
+            "keywords": ["movies", "Star Wars", "Wookie", "Chewie", "Chewbacca", "snow", "winter", "holiday", "Christmas"],
+            "item": "sw0763",
+            "set": 75146,
+            "dates": []
         }
     ]
 }
