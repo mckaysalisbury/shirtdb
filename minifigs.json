@@ -92,7 +92,7 @@
             "style": "electronic",
             "item": "mar0062",
             "set": 71387,
-            "dates": ["2022-03-10"]
+            "dates": ["2022-03-10", "2022-11-14"]
         },
         {
             "id": "9cdae6ca-3516-44ec-9d54-5e4d9dd6f346",
@@ -3434,6 +3434,23 @@
             "keywords": ["movies", "Star Wars", "Wookie", "Chewie", "Chewbacca", "snow", "winter", "holiday", "Christmas"],
             "item": "sw0763",
             "set": 75146,
+            "dates": []
+        },
+        {
+            "id": "8ebabbe8-cdd1-4c83-91be-f5c73bff5054",
+            "name": "Yoshi - White Tile, Round 1 x 1 Quarter on Front",
+            "keywords": ["video games", "Nintendo", "Mario", "Super Mario World", "Yoshi", "green"],
+            "style": "character",
+            "item": "mar0012",
+            "set": 71367,
+            "dates": ["2022-11-15"]
+        },
+        {
+            "id": "3d9f7a6c-51e2-4a65-b49b-1939b1bc8cec",
+            "name": "Goomba - Surprised",
+            "keywords": ["video games", "Nintendo", "Mario", "Super Mario Bros.", "goomba"],
+            "style": "character",
+            "set": 71367,
             "dates": []
         }
     ]
