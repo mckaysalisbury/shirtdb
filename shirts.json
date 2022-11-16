@@ -825,9 +825,9 @@
             "id": "dff0af98-a416-457a-94ef-9c2bebc939f0",
             "name": "Avengers",
             "text": ["Ⓐ"],
-            "keywords": ["comics", "movies", "Marvel Cinematic Universe", "Marvel", "Avengers", "Captain America", "Thor", "Black Widow", "Hawkeye", "Iron Man", "Hulk"],
+            "keywords": ["comics", "movies", "Marvel Cinematic Universe", "Marvel", "Avengers", "Captain America", "Thor", "Black Widow", "Hawkeye", "Iron Man", "Hulk", "black"],
             "images": ["front"],
-            "dates": ["2021-07-10", "2021-12-11", "2022-06-06"]
+            "dates": ["2021-07-10", "2021-12-11", "2022-06-06", "2022-11-16"]
         },
         {
             "id": "bfa44e33-6cd7-41b4-82b3-a2a5fe2b0bc6",
