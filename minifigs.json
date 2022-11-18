@@ -3469,8 +3469,26 @@
             "keywords": ["video games", "Nintendo", "Mario", "Super Mario Bros.", "goomba"],
             "style": "character",
             "set": 71367,
-            "dates": [],
+            "dates": ["2022-11-18"],
             "notes": "I think the boys have this and may have mixed it up"
+        },
+        {
+            "id": "7805ce00-f9d0-4fad-b5c1-5099d61ffad0",
+            "name": "Professor E. Gadd",
+            "keywords": ["video games", "Nintendo", "Mario", "Super Mario Bros.", "Luigi", "Luigi's Mansion"],
+            "style": "character",
+            "set": 71397,
+            "item": "mar0109",
+            "dates": ["2022-11-17"]
+        },
+        {
+            "id": "5ba56feb-23ed-4beb-bc9e-e2162729b4ae",
+            "name": "Gold Ghost",
+            "keywords": ["video games", "Nintendo", "Mario", "Super Mario Bros.", "Luigi", "Luigi's Mansion"],
+            "style": "character",
+            "set": 71397,
+            "item": "mar0108",
+            "dates": []
         }
     ]
 }
