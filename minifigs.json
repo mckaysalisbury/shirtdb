@@ -100,7 +100,7 @@
             "keywords": ["video games", "Nintendo", "Mario", "Super Mario Bros.", "goomba"],
             "style": "character",
             "set": 71360,
-            "dates": [],
+            "dates": ["2022-11-21"],
             "notes": "I think the boys have this and may have mixed it up"
         },
         {
@@ -3488,7 +3488,7 @@
             "style": "character",
             "set": 71397,
             "item": "mar0108",
-            "dates": []
+            "dates": ["2022-11-22"]
         }
     ]
 }
