@@ -922,7 +922,7 @@
             "source": "https://shirt.woot.com/offers/when-asteroids-strike",
             "images": ["front"],
             "images-name": "asteroids",
-            "dates": ["2021-07-20", "2021-12-21", "2022-06-14"]
+            "dates": ["2021-07-20", "2021-12-21", "2022-06-14", "2022-11-29"]
         },
         {
             "id": "785dc05e-c1f0-41c0-9914-7a493872a251",
@@ -949,7 +949,7 @@
             "keywords": ["music", "Jonathan Coulton", "Code Monkey", "html", "link"],
             "images": ["front"],
             "source": "https://www.jonathancoulton.com/physical-store/",
-            "dates": ["2021-07-23", "2021-12-20", "2022-06-09"]
+            "dates": ["2021-07-23", "2021-12-20", "2022-06-09", "2022-11-30"]
         },
         {
             "id": "00927e4d-539a-45e5-b487-f4f1373dc8e4",

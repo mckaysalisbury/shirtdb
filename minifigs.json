@@ -780,7 +780,7 @@
             "keywords": ["movies", "Star Wars", "clone trooper", "trooper", "Christmas", "holiday", "Santa", "hat", "Santa hat", "mug", "cup"],
             "item": "sw0596",
             "set": 75056,
-            "dates": []
+            "dates": ["2022-11-29"]
         },
         {
             "id": "5f231089-c333-4051-9b45-d496ee424d54",
@@ -3379,12 +3379,12 @@
         },
         {
             "id": "b3b2b6e4-8b43-4ed0-8bf2-5b3aeaa84822",
-            "name": "Cheetah (Dr. Barbara Minerva)",
+            "name": "Wonder Woman (Diana Prince) - Gold Wings",
             "keywords": ["comics", "movies", "DC", "DC Extended Universe", "DCEU", "Wonder Woman", "Diana Prince", "wings", "gold suit", "Wonder Woman"],
             "actor": "Gal Gadot",
             "item": "sh634",
             "set": 76157,
-            "dates": []
+            "dates": ["2022-11-30"]
         },
         {
             "id": "1d8afa28-b25f-4603-81b3-6bf087d7cc91",
