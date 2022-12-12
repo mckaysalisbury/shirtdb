@@ -82,7 +82,7 @@
             "images": ["front", "logo"],
             "images-name": "spider-polo",
             "source": "https://thinkgeek.com",
-            "dates": ["2021-05-02", "2021-05-23"]
+            "dates": ["2021-05-02", "2021-05-23", "2022-12-11"]
         },
         {
             "id": "acfeacba-d62b-4c93-bdbb-3d1dc5ccd514",
@@ -1040,7 +1040,7 @@
             "keywords": ["video games", "Blizzard", "BlizzCon", "BlizzCon 2005", "WarCraft", "World of Warcraft", "Naga", "StarCraft", "ghost", "StarCraft: Ghost", "Nova", "Night Elf", "Diablo"],
             "source": "https://blizzcon.com",
             "images": ["front", "right"],
-            "dates": ["2021-08-03", "2021-11-06", "2022-01-15", "2022-06-25"]
+            "dates": ["2021-08-03", "2021-11-06", "2022-01-15", "2022-06-25", "2022-12-12"]
         },
         {
             "id": "91634c3f-789e-4ff7-a45d-01f23aa675f2",
@@ -1049,7 +1049,7 @@
             "keywords": ["video games", "Blizzard", "BlizzCon", "BlizzCon 2016"],
             "images": ["front", "left", "right"],
             "images-name": "games-well",
-            "dates": ["2021-08-04", "2022-01-17", "2022-06-27"]
+            "dates": ["2021-08-04", "2022-01-17", "2022-06-27", "2022-12-10"]
         },
         {
             "id": "a58e519d-17c8-4eed-8b3f-fa6883059831",
