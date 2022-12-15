@@ -183,7 +183,7 @@
         {
             "id": "c0af7df2-abe1-4282-84e0-c443c72d9578",
             "name": "Stormtrooper - Rebels",
-            "keywords": ["Star Wars", "Rebels", "Stormtrooper"],
+            "keywords": ["Star Wars", "Rebels", "stormtrooper"],
             "item": "sw0617",
             "notes": "This was given away as part of a Toys R Us promotion? Or Target?",
             "dates": ["2021-05-12"]
@@ -623,10 +623,26 @@
         {
             "id": "9d1a63d7-3c69-4da4-9dbd-99a6af7a4021",
             "name": "Santa Jango Fett",
-            "keywords": ["Star Wars", "Christmas", "Jango Fett"],
+            "keywords": ["movies", "Star Wars", "Christmas", "Jango Fett"],
             "item": "sw0506",
             "set": 75023,
             "dates": ["2021-07-26"]
+        },
+        {
+            "id": "7e2e195f-944f-4e09-bc80-84af56959dca",
+            "name": "Scout Trooper (Black Legs)",
+            "keywords": ["movies", "Star Wars", "Empire", "trooper", "Scout Trooper"],
+            "item": "sw0505",
+            "set": 75023,
+            "dates": []
+        },
+        {
+            "id": "60514c8d-de64-4ecd-91ad-f4c5d3b8eb9a",
+            "name": "Clone Trooper (Phase 1) - Scowl",
+            "keywords": ["movies", "Star Wars", "Clone Trooper", "trooper", "Republic", "helmet"],
+            "item": "sw0442",
+            "set": 75023,
+            "dates": []
         },
         {
             "id": "2a358f67-f3f0-4741-a986-d9bc15f6f640",
@@ -725,7 +741,7 @@
         {
             "id": "22e01c8d-6171-4034-bc9f-20b1120ae8a5",
             "name": "Stormtrooper (Dual Molded Helmet, Gray Squares on Back, Grimacing)",
-            "keywords": ["movies", "Star Wars", "Stormtrooper", "trooper"],
+            "keywords": ["movies", "Star Wars", "stormtrooper", "trooper"],
             "item": "sw0997b",
             "set": 75279,
             "dates": ["2022-05-03"]
@@ -788,7 +804,8 @@
             "keywords": ["movies", "Star Wars", "Hoth", "snowtrooper", "backpack", "hood"],
             "item": "sw0463",
             "set": 75056,
-            "dates": ["2022-11-07"]
+            "dates": [],
+            "notes": "This could have been from an advent calendar that I didn't get all of, or the boys might have it in their bricks somewhere"
         },
         {
             "id": "963474b8-0984-4282-a75e-01f7f99afb16",
@@ -2133,7 +2150,7 @@
         {
             "id": "7ccab99c-22ac-40b9-8382-c6ee4a0cac8c",
             "name": "Stormtrooper (Dual Molded Helmet, Gray Squares on Back, Frown)",
-            "keywords": ["Star Wars", "Stormtrooper", "advent calendar"],
+            "keywords": ["Star Wars", "stormtrooper", "advent calendar"],
             "item": "sw1137",
             "set": 75037,
             "dates": ["2022-02-04"]
@@ -3397,7 +3414,7 @@
         {
             "id": "33c12abb-2c32-44cd-ae05-a3177a54e931",
             "name": "Imperial Navy Trooper (Black Jumpsuit)",
-            "keywords": ["movies", "Star Wars", "trooper"],
+            "keywords": ["movies", "Star Wars", "trooper", "Death Star", "Death Star trooper"],
             "item": "sw0583",
             "set": 75146,
             "dates": ["2022-12-07"]
@@ -3408,8 +3425,7 @@
             "keywords": ["movies", "Star Wars", "Hoth", "snowtrooper", "hood"],
             "item": "sw0764",
             "set": 75146,
-            "dates": [],
-            "notes": "This could have been from an advent calendar that I didn't get all of, or the boys might have it in their bricks somewhere"
+            "dates": ["2022-11-07"]
         },
         {
             "id": "a297db99-66b9-4129-99c1-e3d58c7464f5",
@@ -3489,6 +3505,65 @@
             "set": 71397,
             "item": "mar0108",
             "dates": ["2022-11-22"]
+        },
+        {
+            "id": "ce0bfbb0-05e0-42e9-9043-a3a2aac24d50",
+            "name": "First Order Stormtrooper (Pointed Mouth Pattern)",
+            "keywords": ["movies", "Star Wars", "trooper", "stormtrooper", "First Order"],
+            "set": 75245,
+            "item": "sw0905",
+            "dates": []
+        },
+        {
+            "id": "664df774-0719-4048-b1eb-cba0bafaac82",
+            "name": "Chewbacca (Dark Tan Fur)",
+            "keywords": ["movies", "Star Wars", "wookie", "Chewbacca", "bandolier"],
+            "set": 75245,
+            "item": "sw0532",
+            "dates": ["2022-12-14"]
+        },
+        {
+            "id": "f72b8eae-4363-42f9-8fa4-932a0578ef99",
+            "name": "Luke Skywalker, Old (Dark Brown Robe)",
+            "keywords": ["movies", "Star Wars", "Luke Skywalker", "Jedi Master", "Skywalker"],
+            "set": 75245,
+            "item": "sw1039",
+            "notes": "This could have been from an advent calendar that I didn't get all of, or the boys might have it in their bricks somewhere",
+            "dates": []
+        },
+        {
+            "id": "45c36917-6414-4a33-952a-9e6ed8c1b1c3",
+            "name": "Imperial Gunner (Closed Mouth, White Imperial Logo)",
+            "keywords": ["movies", "Star Wars", "Empire", "gunner"],
+            "set": 75245,
+            "item": "sw1045",
+            "notes": "This could have been from an advent calendar that I didn't get all of, or the boys might have it in their bricks somewhere",
+            "dates": []
+        },
+        {
+            "id": "b609b953-cb48-4941-bff1-72cb6c6215fc",
+            "name": "Rebel Fleet Trooper - Detailed Vest",
+            "keywords": ["movies", "Star Wars", "Rebellion", "rebel", "trooper", "helmet"],
+            "set": 75245,
+            "item": "sw0995",
+            "dates": []
+        },
+        {
+            "id": "0adb91f5-da81-4eae-9350-23546d8114ae",
+            "name": "Cloud Car Pilot",
+            "keywords": ["movies", "Star Wars", "Bespin", "cloud car", "pilot"],
+            "set": 75245,
+            "item": "sw0969",
+            "dates": [],
+            "notes": "This could have been from an advent calendar that I didn't get all of, or the boys might have it in their bricks somewhere"
+        },
+        {
+            "id": "fcd4fd5e-c960-4cda-9351-32492f340c40",
+            "name": "Ghost, Chain Master Wrayth / Ghost Warrior Wrayth",
+            "keywords": ["Ninjago", "ghost", "chain master", "warrior"],
+            "set": 70744,
+            "item": "njo178",
+            "dates": []
         }
     ]
 }
