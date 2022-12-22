@@ -1682,7 +1682,7 @@
             "item": "sh177",
             "set": 76032,
             "notes": "I also own the identical minifig which also appears in set 30447",
-            "dates": ["2021-06-11"]
+            "dates": ["2021-06-11", "2022-12-21"]
         },
         {
             "id": "d1781a93-9438-4d35-9ab6-eafab1a07500",
@@ -1710,7 +1710,7 @@
             "item": "sh164",
             "set": 76029,
             "notes": "See the Mark 45 tag for a similar minifig",
-            "dates": ["2021-12-10"]
+            "dates": ["2021-12-10", "2022-12-22"]
         },
         {
             "id": "c80bbed2-624f-4742-bb02-cecdf79777a0",
@@ -3563,6 +3563,14 @@
             "keywords": ["Ninjago", "ghost", "chain master", "warrior"],
             "set": 70744,
             "item": "njo178",
+            "dates": []
+        },
+        {
+            "id": "a2826508-a10f-449d-878d-479be5dbe08f",
+            "name": "Captain America - Dark Blue Suit, Red Hands, Helmet",
+            "keywords": ["comics", "Marvel", "Captain America", "Steve Rogers", "helmet", "star"],
+            "set": 76168,
+            "item": "sh686",
             "dates": []
         }
     ]
