@@ -3574,6 +3574,62 @@
             "dates": []
         },
         {
+            "id": "d5ded633-34f8-4adc-a777-415af82faa78",
+            "name": "Star-Lord - Dark Red Legs - with jet boots and blasters",
+            "keywords": ["comics", "Marvel", "Marvel Cinematic Universe", "Guardians of the Galaxy", "advent calendar", "2022", "Star-Lord", "Peter Quill", "jet boots", "blasters"],
+            "actor": "Chriss Pratt",
+            "set": 76231,
+            "item": "sh834",
+            "dates": []
+        },
+        {
+            "id": "f210db54-a000-46d5-9a2e-da2e51651074",
+            "name": "Rocket Raccoon - with Rocket's Blaster",
+            "keywords": ["comics", "Marvel", "Marvel Cinematic Universe", "Guardians of the Galaxy", "advent calendar", "2022", "Rocket Raccoon", "Rocket"],
+            "actor": "Bradley Cooper",
+            "set": 76231,
+            "item": "sh742",
+            "notes": "This also contains the blaster from 76231-8",
+            "dates": []
+        },
+        {
+            "id": "6b7ab290-6cf9-4711-84f7-bbc591abe608",
+            "name": "Nebula - Holiday Sweater",
+            "actor": "Karen Gillan",
+            "keywords": ["comics", "Marvel", "Marvel Cinematic Universe", "Guardians of the Galaxy", "advent calendar", "2022", "Nebula", "holiday", "sweater", "ugly sweater", "gift", "Thanos", "infinity stones"],
+            "set": 76231,
+            "item": "sh835",
+            "dates": []
+        },
+        {
+            "id": "8c46ac28-0840-40d6-971a-69cd72bf23a4",
+            "name": "Mantis - Black Belt with Clasps",
+            "keywords": ["comics", "Marvel", "Marvel Cinematic Universe", "Guardians of the Galaxy", "advent calendar", "2022", "Mantis", "guitar", "antennae"],
+            "actor": "Pom Klementieff",
+            "set": 76231,
+            "item": "sh745",
+            "dates": []
+        },
+        {
+            "id": "790acb57-b0f8-44e2-aa04-c00f44e2caa4",
+            "name": "Groot, Teen Groot - Dark Tan with Neck Bracket - with phone and stand, with Holiday Tree Groot Wearable",
+            "keywords": ["comics", "Marvel", "Marvel Cinematic Universe", "Guardians of the Galaxy", "advent calendar", "2022", "Groot", "phone", "teen groot", "Christmas", "holiday", "Christmas tree", "tree", "star"],
+            "actor": "Vin Diesel",
+            "set": 76231,
+            "item": "sh836",
+            "notes": "This minifig is also wearing the tree from 76231-21 on their back",
+            "dates": []
+        },
+        {
+            "id": "20d24787-bb11-43a8-98e6-57430862f6d6",
+            "name": "Holiday Sweater Drax, Silverware",
+            "keywords": ["comics", "Marvel", "Marvel Cinematic Universe", "Guardians of the Galaxy", "advent calendar", "2022", "holiday", "sweater", "ugly sweater", "Drax", "spoon", "fork", "Groot", "baby", "baby Groot", "music", "notes"],
+            "actor": "Dave Bautista",
+            "set": 76231,
+            "item": "sh837",
+            "dates": []
+        },
+        {
             "id": "96546406-edf3-43b7-9e69-76aac9bb9023",
             "name": "Orc",
             "keywords": ["collectible", "series 24", "orc", "shield", "sword"],
