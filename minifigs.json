@@ -3572,6 +3572,38 @@
             "set": 76168,
             "item": "sh686",
             "dates": []
+        },
+        {
+            "id": "96546406-edf3-43b7-9e69-76aac9bb9023",
+            "name": "Orc",
+            "keywords": ["collectible", "series 24", "orc", "shield", "sword"],
+            "set": 71037,
+            "item": "col418",
+            "dates": []
+        },
+        {
+            "id": "99a42dee-4293-4948-8346-c6e293f62824",
+            "name": "Brown Astronaut and Spacebaby",
+            "keywords": ["collectible", "series 24", "space", "baby", "helmet", "walkie-talkie"],
+            "set": 71037,
+            "item": "col413",
+            "dates": []
+        },
+        {
+            "id": "73b5925b-fefa-4de3-9dda-6589c960328a",
+            "name": "T-Rex Costume Fan",
+            "keywords": ["collectible", "series 24", "dinosaur", "costume", "T-Rex", "tyrannosaurus rex", "tyrannosaurus", "tail"],
+            "set": 71037,
+            "item": "col417",
+            "dates": []
+        },
+        {
+            "id": "bea387f5-fc61-4bff-98d1-d4948dc99918",
+            "name": "Falconer",
+            "keywords": ["collectible", "series 24", "falconer", "falcon", "eagle", "crest", "cape", "bow", "arrow"],
+            "set": 71037,
+            "item": "col416",
+            "dates": []
         }
     ]
 }
