@@ -3660,6 +3660,42 @@
             "set": 71037,
             "item": "col416",
             "dates": []
+        },
+        {
+            "id": "170cac71-1e52-4047-a4c0-bb04da50822e",
+            "name": "Cho Chang",
+            "keywords": ["books", "movies", "Harry Potter", "Wizarding World", "Cho Chang", "Cho", "Hogwarts", "Ravenclaw", "book", "wand"],
+            "set": 40419,
+            "actor": "Katie Leung",
+            "item": "hp223",
+            "dates": []
+        },
+        {
+            "id": "ab03dbff-5ec6-48fe-93e6-0048cb07be53",
+            "name": "Draco Malfoy, Slytherin Sweater, Black Legs",
+            "keywords": ["books", "movies", "Harry Potter", "Wizarding World", "Draco", "Draco Malfoy", "Malfoy", "Hogwarts", "Slytherin", "wand", "apple"],
+            "actor": "Tom Felton",
+            "set": 40419,
+            "item": "hp222",
+            "dates": []
+        },
+        {
+            "id": "1e17f594-74c3-497d-8bf5-5e2c19b6fa5d",
+            "name": "Hannah Abbott",
+            "keywords": ["books", "movies", "Harry Potter", "Wizarding World", "Hogwarts", "Hannah Abbott", "Hufflepuff", "wand", "lantern"],
+            "actor": "Charlotte Skeoch",
+            "set": 40419,
+            "item": "hp222",
+            "dates": []
+        },
+        {
+            "id": "050503f3-e1c5-4e5e-99c6-fe812a97a34a",
+            "name": "Harry Potter, Gryffindor Sweater, Black Legs",
+            "keywords": ["books", "movies", "Harry Potter", "Wizarding World", "Hogwarts", "Griffindor", "Harry", "Potter", "wand", "marauders' map"],
+            "actor": "Daniel Radcliffe",
+            "set": 40419,
+            "item": "hp220",
+            "dates": []
         }
     ]
 }
