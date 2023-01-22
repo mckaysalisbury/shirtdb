@@ -3699,7 +3699,39 @@
         },
         {
             "id": "901e1083-47ef-4a6a-bc2a-38970958e4f9",
-
+            "name": "Harry Potter, 20th Anniversary Pearl Gold",
+            "keywords": ["books", "movies", "Harry Potter", "Wizarding World", "Hogwarts", "Griffindor", "Harry", "Potter", "wand", "gold", "anniversary"],
+            "actor": "Daniel Radcliffe",
+            "set": 76386,
+            "item": "hp284",
+            "dates": []
+        },
+        {
+            "id": "7aab96d3-6be1-4a9f-b71f-fbb7e05778d8",
+            "name": "Harry Potter, Slytherin Robe, Gregory Goyle Transformation",
+            "keywords": ["books", "movies", "Harry Potter", "Wizarding World", "Hogwarts", "Griffindor", "Harry", "Potter", "Gregory Goyle", "Goyle", "Slitherin", "wand", "polyjuice"],
+            "actor": "Josh Herdman",
+            "set": 76386,
+            "item": "hp285",
+            "dates": []
+        },
+        {
+            "id": "a5835fbd-e269-4994-899a-cd4d0df92b5f",
+            "name": "Hermione Granger, Slytherin Robe - with cat mask",
+            "keywords": ["books", "movies", "Harry Potter", "Wizarding World", "Hogwarts", "Griffindor", "Hermoine", "Hermoine Granger", "Slitherin", "wand", "cat", "potion", "polyjuice"],
+            "actor": "Emma Watson",
+            "notes": "The minifig also came with a cat mask 18513pb01 which she sports",
+            "part": "18513pb01",
+            "dates": []
+        },
+        {
+            "id": "537f16bb-2093-4574-aa70-23ba5f09fc61",
+            "name": "Ron Weasley, Slytherin Robe, Vincent Crabbe Transformation",
+            "keywords": ["books", "movies", "Harry Potter", "Wizarding World", "Hogwarts", "Griffindor", "Ron", "Ron Weasley", "Ronald Weasley", "Weasley", "Slitherin", "Vincent Crabbe", "Crabbe", "wand", "polyjuice"],
+            "actor": "Jamie Waylett",
+            "set": 76386,
+            "item": "hp287",
+            "dates": []
         }
     ]
 }

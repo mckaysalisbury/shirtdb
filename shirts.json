@@ -1009,8 +1009,10 @@
         {
             "id": "d594062d-304d-412f-a64c-7e464c5d86cb",
             "name": "qep'a' cha'maH HutDIch",
-            "keywords": ["TV", "Star Trek", "Klingon", "tlhIngan Hol", "qep'a'", "pIqaD"],
+            "text": ["wa'maH cha' pem wa'maH cha' ram", "SuvtaH SuvtaH", "qep'a' cha'maH HutDIch"],
+            "keywords": ["TV", "Star Trek", "Klingon", "tlhIngan Hol", "qep'a'", "pIqaD", "21 days 21 nights", "fighting fighting", "29th great meeting"],
             "images-name": "cha'maH-HutDIch",
+            "images": ["front"],
             "source": "https://www.kli.org/activities/qepmey/qepa-chamah-hutdich",
             "dates": ["2022-11-11"]
         },
@@ -1906,6 +1908,7 @@
             "text": ["🐉"],
             "style": "polo",
             "keywords": ["fantasy", "dragon"],
+            "images": ["front", "logo"],
             "dates": ["2022-10-02"]
         },
         {
@@ -1913,6 +1916,7 @@
             "name": "Tie-dye white shirt",
             "text": [],
             "style": "button down",
+            "images": ["front"],
             "keywords": ["white shirt", "pocket", "collar", "tie-dye"],
             "dates": ["2022-10-09"]
         },
@@ -1922,6 +1926,7 @@
             "text": ["There are two", "kinds of people", "I) Those who cannot extrapolate", "from incomplete data."],
             "keywords": ["two kinds", "2 kinds", "extrapolate", "extrapolation", "incomplete", "incomplete information", "data"],
             "images-name": "extrapolate",
+            "images": ["front"],
             "dates": ["2022-10-26", "2022-11-12"]
         },
         {
@@ -1929,6 +1934,7 @@
             "name": "Illogical",
             "text": ["I'M WITH", "ILLOGICAL", "➡️"],
             "keywords": ["television", "Star Trek", "Vulcan", "logic", "illogical", "Spock", "Captain Kirk", "James T. Kirk"],
+            "images": ["front"],
             "dates": ["2022-10-31"]
         },
         {
@@ -1936,6 +1942,7 @@
             "name": "Rogers The Musical",
             "text": ["ROGERS", "THE MUSICAL", "MARVEL STUDIOS", "hawkeye"],
             "keywords": ["television", "movies", "comics", "Marvel Cinematic Universe", "Hawkeye", "Steve Rogers", "Rogers", "musical", "Captain America", "Captain America shield", "Clint Barton", "Kate Bishop"],
+            "images": ["front"],
             "dates": ["2022-11-01", "2022-11-17"]
         },
         {
@@ -1943,19 +1950,76 @@
             "name": "Outer Planets Alliance",
             "text": ["O.P.A.", "OUTER PLANETS ALLIANCE"],
             "keywords": ["television", "The Expanse", "Outer Planets Alliance", "OPA", "Open Policy Agent"],
+            "images": ["front"],
             "dates": ["2022-11-02"]
         },
         {
             "id": "33ca8c0a-f6d7-4fa2-bb98-f57082cce3c4",
             "name": "Know your roots",
-            "text": ["KNOW YOUR", "ROOTS"],
+            "text": ["Nintendo®️", "SELECT START", "B A", "™️ & ©️ 2003 Nintendo. All Rights Reserved", "KNOW YOUR", "ROOTS"],
             "keywords": ["video games", "Nintendo", "controller", "NES", "Nintendo Entertainment System"],
+            "images": ["front", "logo"],
             "dates": ["2022-11-21"]
         },
         {
             "id": "c0b11007-779a-4b8d-a239-5122f74cb0f8",
             "name": "Razer mouse long sleeve",
+            "style": "long sleeve",
+            "text": ["Razer™️", "WWW.RAZERZONE.COM", "", "Razer™️", "", "Razer™️", "", "Razer™️", "WWW.RAZERZONE.COM"],
+            "keywords": ["computer", "hardware", "mouse"],
+            "images": ["logo", "front", "back"],
             "dates": ["2022-12-02"]
+        },
+        {
+            "id": "44f3b079-3a8a-4805-b28d-8ca537c006bb",
+            "name": "Teenage Mutant Ninja Turtles",
+            "text": ["TEENAGE MUTANT NINJA", "TURTLES"],
+            "keywords": ["television", "cartoon", "TMNT", "Teenage Mutant Ninja Turtles", "Ninja Turtles", "Shredder", "Donatello", "Raphael", "Leonardo", "Michaelangelo", "Oroku Saki", "bo", "bo staff", "sai", "katana", "nunchucks"],
+            "images": ["front"],
+            "dates": []
+        },
+        {
+            "id": "0e7c8a19-8815-4a66-976b-0bf06a96f442",
+            "name": "digital camouflage",
+            "text": [],
+            "keywords": ["camouflage"],
+            "images": ["front"],
+            "dates": []
+        },
+        {
+            "id": "773a3f89-25c9-4459-800c-13f03c952637",
+            "name": "Washington Nationals",
+            "text": ["W", "NATIONALS"],
+            "keywords": ["sports", "baseball", "Major League Baseball", "MLB", "Nationals", "Washington Nationals", "Washington", "Washington, D.C."],
+            "images": ["front"],
+            "source": "https://www.mlb.com/nationals/ballpark",
+            "dates": []
+        },
+        {
+            "id": "7a016f7a-89d2-4909-b947-27ef5bb827cb",
+            "name": "Jazz - 17",
+            "text": ["adidas", "NBA", "🏀JAZZ", "17"],
+            "keywords": ["sports", "basketball", "National Basketball Association", "NBA", "Utah Jazz", "Jazz", "Utah", "17"],
+            "images": ["front"],
+            "dates": []
+        },
+        {
+            "id": "ecfd17d2-7a3e-4424-a7f7-c165008c8741",
+            "name": "blue polo",
+            "style": "polo",
+            "text": [],
+            "keywords": [],
+            "images": ["front"],
+            "dates": []
+        },
+        {
+            "id": "9eb77aeb-a035-467a-8a3a-ed94c1defc8e",
+            "name": "black polo",
+            "style": "polo",
+            "text": [],
+            "keywords": [],
+            "images": ["front"],
+            "dates": []
         }
     ]
 }
