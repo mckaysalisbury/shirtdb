@@ -3722,7 +3722,8 @@
             "actor": "Emma Watson",
             "notes": "The minifig also came with a cat mask 18513pb01 which she sports",
             "part": "18513pb01",
-            "dates": []
+            "item": "hp286",
+            "dates": ["2023-01-23"]
         },
         {
             "id": "537f16bb-2093-4574-aa70-23ba5f09fc61",
