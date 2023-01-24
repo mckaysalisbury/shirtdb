@@ -3733,6 +3733,87 @@
             "set": 76386,
             "item": "hp287",
             "dates": ["2023-01-24"]
+        },
+        {
+            "id": "3fdab72d-7661-4ffb-81b6-c4b6408e326d",
+            "name": "Dead Strange",
+            "keywords": ["comics", "movies", "Marvel Cinematic Universe", "Doctor Strange", "Steven Strange", "zombie", "dead"],
+            "actor": "Benedict Cumberbatch",
+            "set": 76218,
+            "item": "sh833",
+            "dates": []
+        },
+        {
+            "id": "27853948-567a-430e-9f9f-8dc99e7e9188",
+            "name": "Doctor Strange - Plastic Cape, Brooch",
+            "keywords": ["comics", "movies", "Marvel Cinematic Universe", "Doctor Strange", "Steven Strange", "master of the mystic arts", "Cloak of Levitation", "Eye of Agamotto"],
+            "actor": "Benedict Cumberbatch",
+            "set": 76218,
+            "item": "sh802",
+            "dates": []
+        },
+        {
+            "id": "e95ed535-da04-43d0-b396-02bc706324d4",
+            "name": "Ebony Maw - Light Bluish Gray Head",
+            "keywords": ["comics", "movies", "Marvel Cinematic Universe", "Ebony Maw", "Black Order", "Children of Thanos"],
+            "actor": "Tom Vaughan-Lawlor",
+            "set": 76218,
+            "item": "sh827",
+            "dates": []
+        },
+        {
+            "id": "808d0ba8-5059-42d4-8fde-d35b653c58bd",
+            "name": "Iron Man Mark 50 Armor - Helmet with Large Visor",
+            "keywords": ["comics", "movies", "Marvel Cinematic Universe", "Iron Man", "Tony Stark"],
+            "actor": "Robert Downey Jr.",
+            "set": 76218,
+            "item": "sh828",
+            "dates": []
+        },
+        {
+            "id": "e8cea592-636a-471e-99ac-60a073418507",
+            "name": "Karl Mordo - Sand Green Suit",
+            "keywords": ["comics", "movies", "Marvel Cinematic Universe", "master of the mystic arts", "beard", "cape"],
+            "actor": "Chiwetel Ejiofor",
+            "set": 76218,
+            "item": "sh832",
+            "dates": []
+        },
+        {
+            "id": "7ef6fa98-a093-4a4f-9436-819db2e8eb8b",
+            "name": "Scarlet Witch - Plain Black Legs, Hair with Tiara",
+            "keywords": ["comics", "movies", "Marvel Cinematic Universe", "Wanda Maximoff", "Scarlet Witch"],
+            "actor": "Elizabeth Olsen",
+            "set": 76218,
+            "item": "sh831",
+            "dates": []
+        },
+        {
+            "id": "0e382a11-33e5-4b03-94be-6d180d9fe99d",
+            "name": "Sinister Strange",
+            "keywords": ["comics", "movies", "Marvel Cinematic Universe", "Doctor Strange", "Steven Strange", "master of the mystic arts", "Sinister Strange"],
+            "actor": "Benedict Cumberbatch",
+            "set": 76218,
+            "item": "sh830",
+            "dates": []
+        },
+        {
+            "id": "884cabc1-fbd7-4fa1-8fb4-a8ff23e041e4",
+            "name": "Spider-Man - Printed Arms and Feet",
+            "keywords": ["comics", "movies", "Marvel Cinematic Universe", "Spider-Man", "Peter Parker"],
+            "actor": "Tom Holland",
+            "set": 76218,
+            "item": "sh831",
+            "dates": []
+        },
+        {
+            "id": "04b1f099-7d29-48c3-aed5-f3ed7c648b10",
+            "name": "fb66e480-2684-4e83-ba50-b83e60d9eb0d",
+            "keywords": ["comics", "movies", "Marvel Cinematic Universe", "Wong", "master of the mystic arts", "Sorcerer Supreme"],
+            "actor": "Benedict Wong",
+            "set": 76218,
+            "item": "sh826",
+            "dates": []
         }
     ]
 }
