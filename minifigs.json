@@ -642,7 +642,7 @@
             "keywords": ["movies", "Star Wars", "Clone Trooper", "trooper", "Republic", "helmet"],
             "item": "sw0442",
             "set": 75023,
-            "dates": []
+            "dates": ["2023-01-27"]
         },
         {
             "id": "2a358f67-f3f0-4741-a986-d9bc15f6f640",
@@ -1537,7 +1537,8 @@
             "item": "idea073",
             "set": 21324,
             "rpg": [
-                { "campaign": "Tyranny of Dragons", "player": "Doug", "character": "Glenn" }
+                { "campaign": "Tyranny of Dragons", "player": "Doug", "character": "Glenn" },
+                { "campaign": "Tomb of Annihilation", "player": "Clarissa", "character": "Rica Florkis"}
             ],
             "dates": ["2021-11-23"]
         },
@@ -2317,7 +2318,7 @@
                 { "campaign": "Tyranny of Dragons", "player": "Bryan", "character": "Bryanos II", "nickname": "White Phantom" }
             ],
             "item": "njo494",
-            "notes": "While this item appears in 4 sets, I'm not sure which it came from. Bryan bought it for his D&D character.",
+            "notes": "While this item appears in 4 sets, I'm not sure which it came from. Bryan bought it for his D&D character. After the campaign, he took it back",
             "dates": ["2022-03-08"]
         },
         {
@@ -2450,6 +2451,9 @@
             "id": "f351094f-38fd-4a74-b578-69aa01511c0c",
             "name": "Ultimate Macy",
             "keywords": ["Nexo Knights", "Macy", "Mace", "Armor", "Helmet"],
+            "rpg": [
+                { "campaign": "Tomb of Annihilation", "player": "Clarissa", "character": "Celeste" }
+            ],
             "set": 70331,
             "item": "nex031",
             "dates": ["2022-04-15"]

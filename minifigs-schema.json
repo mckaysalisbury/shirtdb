@@ -50,7 +50,9 @@
                         "properties": {
                             "campaign": {
                                 "type": "string",
-                                "enum": ["Tyranny of Dragons", "Dragon of Icespire Peak", "Lost Mine of Phandelver - Family", "Lost Mine of Phandelver - Dave"]
+                                "enum": [
+                                    "Tyranny of Dragons", "Dragon of Icespire Peak", "Lost Mine of Phandelver - Family",
+                                    "Lost Mine of Phandelver - Dave", "Tomb of Annihilation"]
                             },
                             "player": {
                                 "type": "string"
