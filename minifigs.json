@@ -234,6 +234,9 @@
             "name": "Vitruvius",
             "keywords": ["movies", "The LEGO Movie"],
             "actor": "Morgan Freeman",
+            "rpg": [
+                { "campaign": "Tomb of Annihilation", "player": "Cavan", "character": "Thamior"}
+            ],
             "item": "tlm021",
             "set": 70809,
             "dates": ["2021-05-19"]
@@ -244,6 +247,9 @@
             "keywords": ["Bricks and Minifigs", "collectible minifigures"],
             "item": "col163",
             "set": 71002,
+            "rpg": [
+                { "campaign": "Tomb of Annihilation", "player": "Bryan", "character": "Brynan"}
+            ],
             "notes": "This was acquired at Bricks and Minifigs, but is not a correct version of the official collectible minifig. It contains a different head and hair, and mine has different weapons",
             "dates": ["2021-05-20"]
         },
@@ -2304,11 +2310,12 @@
             "keywords": ["Harry Potter", "Goblet of Fire", "Cedric Diggory", "Triwizard Tournament"],
             "actor": "Robert Pattinson",
             "rpg": [
-                { "campaign": "Tyranny of Dragons", "player": "Mark", "character": "Theodore" }
+                { "campaign": "Tyranny of Dragons", "player": "Mark", "character": "Theodore" },
+                { "campaign": "Tomb of Annihilation", "player": "Joe", "character": "Gareth"}
             ],
             "item": "hp179",
             "set": 75946,
-            "dates": ["2022-03-09"]
+            "dates": ["2022-03-09", "2023-02-01"]
         },
         {
             "id": "fd358b4d-a3aa-45b2-a153-45a1e6b1e747",
