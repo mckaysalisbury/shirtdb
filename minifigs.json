@@ -3564,7 +3564,7 @@
         {
             "id": "fcd4fd5e-c960-4cda-9351-32492f340c40",
             "name": "Ghost, Chain Master Wrayth / Ghost Warrior Wrayth",
-            "keywords": ["Ninjago", "ghost", "chain master", "warrior"],
+            "keywords": ["Ninjago", "ghost", "chain master", "warrior", "wraith", "Wrayth"],
             "set": 70744,
             "item": "njo178",
             "dates": ["2023-01-30"]
@@ -3655,7 +3655,7 @@
             "keywords": ["collectible", "series 24", "dinosaur", "costume", "T-Rex", "tyrannosaurus rex", "tyrannosaurus", "tail"],
             "set": 71037,
             "item": "col417",
-            "dates": []
+            "dates": ["2023-01-31"]
         },
         {
             "id": "bea387f5-fc61-4bff-98d1-d4948dc99918",
