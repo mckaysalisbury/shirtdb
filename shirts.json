@@ -345,7 +345,7 @@
             "keywords": ["video games", "Blizzard", "StarCraft II", "Archon"],
             "source": "https://blizzcon.com/",
             "images": ["front", "back"],
-            "dates": ["2021-05-22", "2021-10-20", "2022-03-28", "2022-09-05"]
+            "dates": ["2021-05-22", "2021-10-20", "2022-03-28", "2022-09-05", "2023-02-14"]
         },
         {
             "id": "68f25860-7811-46ca-9739-b1c69d06a358",
@@ -1688,7 +1688,7 @@
             "keywords": ["games", "necromancy", "skull", "D&D"],
             "notes": "Kelly gave this as a gift to me",
             "images": ["front"],
-            "dates": ["2022-03-29", "2022-09-03"]
+            "dates": ["2022-03-29", "2022-09-03", "2023-02-15"]
         },
         {
             "id": "729e416f-ff44-477d-ba28-7c3e8980cbf0",
