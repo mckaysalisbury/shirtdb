@@ -3333,7 +3333,7 @@
             "actor": "Warwick Davis",
             "item": "hp205",
             "set": 75964,
-            "dates": ["2022-12-06"]
+            "dates": ["2022-12-06", "2023-02-17"]
         },
         {
             "id": "b8313066-4e2b-4697-858a-d7898cbca6da",
@@ -3819,12 +3819,31 @@
         },
         {
             "id": "04b1f099-7d29-48c3-aed5-f3ed7c648b10",
-            "name": "fb66e480-2684-4e83-ba50-b83e60d9eb0d",
-            "keywords": ["comics", "movies", "Marvel Cinematic Universe", "Wong", "master of the mystic arts", "Sorcerer Supreme"],
+            "name": "Wong - Dark Red Robe, Dark Blue Legs",
+            "keywords": ["comics", "movies", "Marvel Cinematic Universe", "Wong", "master of the mystic arts", "Sorcerer Supreme", "robe"],
             "actor": "Benedict Wong",
             "set": 76218,
             "item": "sh826",
             "dates": []
+        },
+        {
+            "id": "d8caf3a9-3eb5-4995-80d2-a73c28e5cd3d",
+            "name": "Luke Skywalker (Hoth Uniform) with Wampa Cave",
+            "keywords": ["movies", "Star Wars", "Luke Skywalker", "Skywalker", "coat", "goggles", "Hoth", "lightsaber", "hat"],
+            "actor": "Mark Hamill",
+            "set": 75340,
+            "item": "sw1143",
+            "notes": "I use 75340-22 and  75340-23 together",
+            "dates": ["2023-02-21"]
+        },
+        {
+            "id": "c2ca3b60-9591-4397-b6c4-38ac9701e5f0",
+            "name": "Festive R2-D2",
+            "keywords": ["movies", "Star Wars", "holiday", "R2-D2", "astromech droid", "C-3PO", "Rebellion"],
+            "set": 75340,
+            "item": "sw1241",
+            "dates": ["2023-02-22"]
         }
+
     ]
 }
