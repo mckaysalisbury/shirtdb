@@ -3827,6 +3827,38 @@
             "dates": []
         },
         {
+            "id": "a97b3d4d-98e1-48ac-82a8-aac061c38cdc",
+            "name": "Clone Trooper Commander (Phase 1) - Bright Light Orange Arms, Nougat Head",
+            "keywords": ["movies", "Star Wars", "trooper", "clone trooper", "commander", "helmet"],
+            "set": 75340,
+            "item": "sw1146",
+            "dates": []
+        },
+        {
+            "id": "c77a183f-10e3-4647-997d-79b4bc71f82d",
+            "name": "Festive C-3PO",
+            "keywords": ["movies", "Star Wars", "holiday", "C-3PO", "protocol droid", "droid", "R2-D2"],
+            "set": 75340,
+            "item": "sw1241",
+            "dates": []
+        },
+        {
+            "id": "afc2c04b-8c57-4c51-af3e-314d52f25b35",
+            "name": "Darth Vader - Summer Outfit",
+            "keywords": ["movies", "Star Wars", "holiday", "Darth Vader", "Sith Lord", "Anakin Skywalker", "Skywalker", "helmet", "flippers", "ball"],
+            "set": 75340,
+            "item": "sw1239",
+            "dates": []
+        },
+        {
+            "id": "4b0cbd5d-5cdd-42c6-bfc2-cbe42310ea33",
+            "name": "Snowtrooper - Female, Printed Legs, Dark Tan Hands, Reddish Brown Head, Open Mouth Smirk",
+            "keywords": ["movies", "Star Wars", "trooper", "snow trooper", "blaster"],
+            "set": 75340,
+            "item": "sw1180",
+            "dates": []
+        },
+        {
             "id": "d8caf3a9-3eb5-4995-80d2-a73c28e5cd3d",
             "name": "Luke Skywalker (Hoth Uniform) with Wampa Cave",
             "keywords": ["movies", "Star Wars", "Luke Skywalker", "Skywalker", "coat", "goggles", "Hoth", "lightsaber", "hat"],
@@ -3844,6 +3876,5 @@
             "item": "sw1241",
             "dates": ["2023-02-22"]
         }
-
     ]
 }
