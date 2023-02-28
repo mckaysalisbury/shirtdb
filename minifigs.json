@@ -3629,7 +3629,7 @@
             "set": 76231,
             "item": "sh836",
             "notes": "This minifig is also wearing the tree from 76231-21 on their back",
-            "dates": []
+            "dates": ["2023-02-14"]
         },
         {
             "id": "20d24787-bb11-43a8-98e6-57430862f6d6",
@@ -3839,7 +3839,7 @@
             "name": "Festive C-3PO",
             "keywords": ["movies", "Star Wars", "holiday", "C-3PO", "protocol droid", "droid", "R2-D2"],
             "set": 75340,
-            "item": "sw1241",
+            "item": "sw1238",
             "dates": ["2023-02-23"]
         },
         {
@@ -3856,7 +3856,7 @@
             "keywords": ["movies", "Star Wars", "trooper", "snow trooper", "blaster"],
             "set": 75340,
             "item": "sw1180",
-            "dates": []
+            "dates": ["2023-02-27"]
         },
         {
             "id": "d8caf3a9-3eb5-4995-80d2-a73c28e5cd3d",
