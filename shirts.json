@@ -373,7 +373,7 @@
             "keywords": ["video games", "NAMCO", "Pac-Man", "ghost", "glow in the dark"],
             "source": "https://thinkgeek.com",
             "images": ["front", "dark"],
-            "dates": ["2021-05-26", "2021-10-19", "2022-03-26", "2022-09-06"]
+            "dates": ["2021-05-26", "2021-10-19", "2022-03-26", "2022-09-06", "2023-03-01"]
         },
         {
             "id": "b055fe52-b229-4af9-a031-b1757fbda1da",
@@ -450,11 +450,11 @@
             "id": "a38ff64e-2360-4876-9c55-e1b306d1d7d5",
             "name": "qep'a' cha'maH SochDIch",
             "text": ["qep'a'", "cha'maH", "SochDIch"],
-            "keywords": ["TV", "Star Trek", "Klingon", "tlhIngan Hol", "qep'a'", "pIqaD", "computer", "glasses"],
+            "keywords": ["TV", "Star Trek", "Klingon", "tlhIngan Hol", "qep'a'", "pIqaD", "computer", "glasses", "green"],
             "source": "https://www.kli.org/activities/qepmey/past-qepamey/qepa-chamah-sochdich",
             "images": ["front"],
             "images-name": "cha'maH-SochDIch",
-            "dates": ["2021-05-31", "2021-11-01", "2022-04-09", "2022-09-16"]
+            "dates": ["2021-05-31", "2021-11-01", "2022-04-09", "2022-09-16", "2023-03-02"]
         },
         {
             "id": "1dad7c90-241a-49a4-bd6a-20f997ce6132",
@@ -504,7 +504,7 @@
             "keywords": ["Audio/Video", "A/V", "Receiver", "RCA"],
             "source": "https://www.threadless.com/shop/@threadless/design/av/mens/t-shirt",
             "images": ["front", "back"],
-            "dates": ["2021-06-04", "2021-11-03", "2022-04-14", "2022-09-10"]
+            "dates": ["2021-06-04", "2021-11-03", "2022-04-14", "2022-09-10", "2023-03-03"]
         },
         {
             "id": "d9a50c93-8ee4-4616-b819-6965b887383e",

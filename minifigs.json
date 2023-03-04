@@ -1977,7 +1977,7 @@
             "actor": "Daniel Radcliffe",
             "item": "hp316",
             "set": 76390,
-            "dates": ["2022-01-27"]
+            "dates": ["2022-01-27", "2023-03-01"]
         },
         {
             "id": "63b0f1d4-9593-4664-aaea-8af63c1579c1",
@@ -2004,7 +2004,7 @@
             "actor": "Rupert Grint",
             "item": "hp319",
             "set": 76390,
-            "dates": ["2022-01-28"]
+            "dates": ["2022-01-28", "2023-03-02"]
         },
         {
             "id": "ad810304-2641-49f8-8c54-ff75ad837eeb",
@@ -3706,7 +3706,7 @@
             "actor": "Daniel Radcliffe",
             "set": 40419,
             "item": "hp220",
-            "dates": []
+            "dates": ["2023-03-03"]
         },
         {
             "id": "901e1083-47ef-4a6a-bc2a-38970958e4f9",
