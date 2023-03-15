@@ -2013,7 +2013,7 @@
             "actor": "Emma Watson",
             "item": "hp320",
             "set": 76390,
-            "dates": ["2022-02-01"]
+            "dates": ["2022-02-01", "2023-03-14"]
         },
         {
             "id": "c3ca584b-bdd1-4584-9544-fad3c7403f2c",
@@ -3729,7 +3729,7 @@
         {
             "id": "a5835fbd-e269-4994-899a-cd4d0df92b5f",
             "name": "Hermione Granger, Slytherin Robe - with cat mask",
-            "keywords": ["books", "movies", "Harry Potter", "Wizarding World", "Hogwarts", "Griffindor", "Hermoine", "Hermoine Granger", "Slitherin", "wand", "cat", "potion", "polyjuice"],
+            "keywords": ["books", "movies", "Harry Potter", "Wizarding World", "Hogwarts", "Griffindor", "Hermione", "Hermione Granger", "Slitherin", "wand", "cat", "potion", "polyjuice"],
             "actor": "Emma Watson",
             "notes": "The minifig also came with a cat mask 18513pb01 which she sports",
             "part": "18513pb01",
