@@ -2028,6 +2028,14 @@
             "text": ["MARIO BROS.", "On the job", "24 hours a day!", "\"It's a", "Classic!\"", "PLUMBING", "Nintendo®️"],
             "keywords": ["video games", "Nintendo", "Mario", "Mario Bros.", "Super Mario Bros.", "plumbing"],
             "dates": ["2023-03-10"]
+        },
+        {
+            "id": "74526271-1cb4-46d7-a693-161534ba4dd8",
+            "name": "Favorite DBMS",
+            "text": ["Your favorite", "DBMS sucks.", "", "Alphora™️", "www.alphora.com"],
+            "keywords": ["software", "DBMS", "Database Management System", "Database", "Alphora", "Dataphor"],
+            "images": ["logo", "front", "back"],
+            "dates": []
         }
     ]
 }
