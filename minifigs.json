@@ -3252,6 +3252,22 @@
             "dates": ["2023-03-16"]
         },
         {
+            "id": "b0304748-d1b7-4641-a9ea-ab1d7db27362",
+            "name": "Starfire - Large Eyes",
+            "keywords": ["video games", "comics", "LEGO Dimensions", "Dimensions", "Teen Titans", "Teen Titans Go!", "Detective Comics", "Starfire"],
+            "item": "dim054",
+            "set": 71287,
+            "dates": []
+        },
+        {
+            "id": "f2118c86-3e90-49fb-9524-ef176589f75e",
+            "name": "Batman - Dark Bluish Gray Suit, Gold Belt, Black Hands, Starched Cape",
+            "keywords": ["video games", "comics", "LEGO Dimensions", "Dimensions", "Batman", "Detective Comics", "Bruce Wayne", "cape"],
+            "item": "dim002",
+            "set": 71200,
+            "dates": ["2023-03-17"]
+        },
+        {
             "id": "aa106170-4d35-4e79-a690-2783ae8a2380",
             "name": "Draco Malfoy, Slytherin Stripe and Shield Torso, Black Legs",
             "keywords": ["books", "movies", "Harry Potter", "Draco Malfoy", "Malfoy", "Slitherin", "uniform", "snake", "tie", "vest"],
