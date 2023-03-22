@@ -1332,6 +1332,7 @@
             "keywords": ["movies", "Back to the Future", "Marty McFly"],
             "actor": "Michael J. Fox",
             "item": "idea001",
+            "notes": "This is also available in (LEGO Dimensions) set 71201",
             "set": 21103,
             "dates": ["2021-11-05"]
         },
@@ -3274,6 +3275,14 @@
             "item": "dim001",
             "set": 71200,
             "dates": ["2023-03-21"]
+        },
+        {
+            "id": "a6772cc1-e7cb-4e6d-8007-8e4ca6661672",
+            "name": "Doc Brown - Long Hair",
+            "keywords": ["video games", "movies", "LEGO Dimensions", "Back to the Future", "Doc Brown", "Emmett Brown", "Emmett", "remote control", "radioactive"],
+            "item": "dim015",
+            "set": 71230,
+            "dates": ["2023-03-22"]
         },
         {
             "id": "aa106170-4d35-4e79-a690-2783ae8a2380",
