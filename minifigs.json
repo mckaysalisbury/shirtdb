@@ -2458,7 +2458,7 @@
         {
             "id": "f351094f-38fd-4a74-b578-69aa01511c0c",
             "name": "Ultimate Macy",
-            "keywords": ["Nexo Knights", "Macy", "Mace", "Armor", "Helmet"],
+            "keywords": ["Nexo Knights", "Macy", "mace", "armor", "helmet"],
             "rpg": [
                 { "campaign": "Tomb of Annihilation", "player": "Clarissa", "character": "Celeste" }
             ],
@@ -3269,6 +3269,15 @@
             "dates": ["2023-03-17"]
         },
         {
+            "id": "47182e6a-81f0-44e0-8674-89a94df8c46f",
+            "name": "Wyldstyle - Open Mouth",
+            "keywords": ["video games", "comics", "LEGO Dimensions", "Dimensions", "The LEGO Movie", "Wyldstyle", "Lucy", "hoodie"],
+            "item": "tlm099",
+            "set": 71200,
+            "notes": "This minifig is also in a non-Dimensions set, but I don't have that set, so I'm treating this as a Dimensions minifig, for the purposes of this database",
+            "dates": []
+        },
+        {
             "id": "d9a29125-8003-43bb-a773-6a4d5201735f",
             "name": "Gandalf the Grey - Wizard / Witch Hat, Long Cheek Lines",
             "keywords": ["video games", "movies", "LEGO Dimensions", "Dimensions", "Lord of the Ring", "Gandalf", "Gandalf the Grey", "Mithrandir", "hat", "staff", "cape", "ᚵ"],
@@ -3291,6 +3300,23 @@
             "item": "tlm057",
             "set": 71214,
             "dates": ["2023-03-24"]
+        },
+        {
+            "id": "ff0b97aa-8cbc-46dc-8866-765222d89d9f",
+            "name": "Unikitty - Wide Eyes, Raised Eyebrows, Closed Mouth",
+            "keywords": ["video games", "movies", "LEGO Dimensions", "The LEGO Movie", "Unikitty"],
+            "item": "dim010",
+            "set": 71231,
+            "dates": []
+        },
+        {
+            "id": "35227ad7-62f1-4ff9-9a25-db83604107ca",
+            "name": "Bad Cop - Head with Crooked Smile",
+            "keywords": ["video games", "movies", "LEGO Dimensions", "The LEGO Movie", "Good Cop", "Bad Cop", "police", "helmet", "gun"],
+            "item": "tlm098",
+            "notes": "This minifig is also in a non-Dimensions set, but I don't have that set, so I'm treating this as a Dimensions minifig, for the purposes of this database",
+            "set": 71213,
+            "dates": []
         },
         {
             "id": "aa106170-4d35-4e79-a690-2783ae8a2380",
