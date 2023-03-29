@@ -3271,11 +3271,11 @@
         {
             "id": "47182e6a-81f0-44e0-8674-89a94df8c46f",
             "name": "Wyldstyle - Open Mouth",
-            "keywords": ["video games", "comics", "LEGO Dimensions", "Dimensions", "The LEGO Movie", "Wyldstyle", "Lucy", "hoodie"],
+            "keywords": ["video games", "comics", "LEGO Dimensions", "Dimensions", "The LEGO Movie", "Wyldstyle", "Lucy", "hoodie", "relic scanner"],
             "item": "tlm099",
             "set": 71200,
             "notes": "This minifig is also in a non-Dimensions set, but I don't have that set, so I'm treating this as a Dimensions minifig, for the purposes of this database",
-            "dates": []
+            "dates": ["2023-03-29"]
         },
         {
             "id": "d9a29125-8003-43bb-a773-6a4d5201735f",
@@ -3307,7 +3307,7 @@
             "keywords": ["video games", "movies", "LEGO Dimensions", "The LEGO Movie", "Unikitty"],
             "item": "dim010",
             "set": 71231,
-            "dates": []
+            "dates": ["2023-03-28"]
         },
         {
             "id": "35227ad7-62f1-4ff9-9a25-db83604107ca",
