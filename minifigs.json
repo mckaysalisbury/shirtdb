@@ -3327,6 +3327,22 @@
             "dates": ["2023-03-30"]
         },
         {
+            "id": "20b49ff0-1be9-481d-b5a4-f7974defe22c",
+            "name": "Hermione Granger - Sand Blue Jacket over Bright Pink Hoodie",
+            "keywords": ["movies", "video games", "LEGO Dimensions", "Harry Potter", "Wizarding World", "Potterverse", "Hermione", "Hermione Granger", "jacket", "wand", "Griffindor", "Deathly Hallows"],
+            "item": "dim046",
+            "set": 71348,
+            "dates": ["2023-03-31"]
+        },
+        {
+            "id": "792daa07-b66a-4070-873e-6a3433c4945d",
+            "name": "Newt Scamander, Dark Blue Trench Coat, Dark Tan Vest",
+            "keywords": ["movies", "video games", "LEGO Dimensions", "Harry Potter", "Wizarding World", "Potterverse", "Fantastic Beasts", "Fantastic Beasts and Where to Find Them", "Newt Scamander"],
+            "item": "dim034",
+            "set": 71253,
+            "dates": []
+        }
+        {
             "id": "aa106170-4d35-4e79-a690-2783ae8a2380",
             "name": "Draco Malfoy, Slytherin Stripe and Shield Torso, Black Legs",
             "keywords": ["books", "movies", "Harry Potter", "Draco Malfoy", "Malfoy", "Slitherin", "uniform", "snake", "tie", "vest"],
