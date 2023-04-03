@@ -819,7 +819,7 @@
             "source": "https://blizzcon.com",
             "images": ["front", "left"],
             "images-name": "mechazerg",
-            "dates": ["2021-07-09", "2021-12-14", "2022-05-31", "2022-10-22"]
+            "dates": ["2021-07-09", "2021-12-14", "2022-05-31", "2022-10-22", "2023-04-01"]
         },
         {
             "id": "dff0af98-a416-457a-94ef-9c2bebc939f0",
@@ -2011,7 +2011,7 @@
             "text": [],
             "keywords": [],
             "images": ["front"],
-            "dates": []
+            "dates": ["2023-04-02"]
         },
         {
             "id": "9eb77aeb-a035-467a-8a3a-ed94c1defc8e",
