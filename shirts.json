@@ -2027,6 +2027,7 @@
             "name": "Mario Bros. Plumbing",
             "text": ["MARIO BROS.", "On the job", "24 hours a day!", "\"It's a", "Classic!\"", "PLUMBING", "Nintendo®️"],
             "keywords": ["video games", "Nintendo", "Mario", "Mario Bros.", "Super Mario Bros.", "plumbing"],
+            "images": ["front"],
             "dates": ["2023-03-10"]
         },
         {
