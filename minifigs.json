@@ -3335,6 +3335,22 @@
             "dates": ["2023-04-04"]
         },
         {
+            "id": "31e9e418-59c0-4fdb-93bf-d04a5728beba",
+            "name": "Slimer - Trans-Green",
+            "keywords": ["video games", "LEGO Dimensions", "movies", "Ghostbusters", "Slimer", "ghost", "sausage"],
+            "item": "dim021",
+            "set": 71241,
+            "dates": ["2023-04-06"]
+        },
+        {
+            "id": "5455715a-c85e-4684-a0f1-c74e4a4223ef",
+            "name": "Abby Yates - Black Boots",
+            "keywords": ["video games", "LEGO Dimensions", "movies", "Ghostbusters", "Abby Yates", "proton glove"],
+            "item": "dim035",
+            "set": 71242,
+            "dates": []
+        },
+        {
             "id": "20b49ff0-1be9-481d-b5a4-f7974defe22c",
             "name": "Hermione Granger - Sand Blue Jacket over Bright Pink Hoodie",
             "keywords": ["movies", "video games", "LEGO Dimensions", "Harry Potter", "Wizarding World", "Potterverse", "Hermione", "Hermione Granger", "jacket", "wand", "Griffindor", "Deathly Hallows"],
