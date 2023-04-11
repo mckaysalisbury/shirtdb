@@ -3358,7 +3358,22 @@
             "item": "dim024",
             "set": 71251,
             "dates": ["2023-04-10"]
-
+        },
+        {
+            "id": "fd498cda-2e90-4f01-9079-38736abb86c7",
+            "name": "Owen Grady - Leather Vest",
+            "keywords": ["video games", "LEGO Dimensions", "movies", "Jurassic World", "Owen", "dagger", "vest"],
+            "item": "jw011",
+            "set": 71205,
+            "dates": []
+        },
+        {
+            "id": "46bcb697-ba33-4e8d-969c-8151b02fd004",
+            "name": "ACU Trooper - Vest, Cap, Male, Medium Nougat Head",
+            "keywords": ["video games", "LEGO Dimensions", "movies", "Jurassic World", "trooper", "asset containment unit", "electric cattle prod"],
+            "item": "dim004",
+            "set": 71205,
+            "dates": []
         },
         {
             "id": "20b49ff0-1be9-481d-b5a4-f7974defe22c",
