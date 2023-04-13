@@ -2037,6 +2037,13 @@
             "keywords": ["software", "DBMS", "Database Management System", "Database", "Alphora", "Dataphor"],
             "images": ["logo", "front", "back"],
             "dates": []
+        },
+        {
+            "id": "1c102ae8-a0a1-43a9-8bc0-016433324dd4",
+            "name": "Extreme Indoor Enthusiast",
+            "text": ["EXTREME", "INDOOR", "ENTHUSIAST", "", "newegg.com®️", "ONCE YOU KNOW, YOU NEWEGG."],
+            "keywords": ["indoor", "newegg"],
+            "dates": ["2023-04-13"]
         }
     ]
 }
