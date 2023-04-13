@@ -3373,6 +3373,30 @@
             "keywords": ["video games", "LEGO Dimensions", "movies", "Jurassic World", "trooper", "asset containment unit", "electric cattle prod"],
             "item": "dim004",
             "set": 71205,
+            "dates": ["2023-04-12"]
+        },
+        {
+            "id": "ad858a03-e95d-4c8c-991a-09e33e2c5070",
+            "name": "Blossom",
+            "keywords": ["video games", "LEGO Dimensions", "television", "Powerpuff Girls", "Blossom", "pink"],
+            "item": "dim052",
+            "set": 71346,
+            "dates": []
+        },
+        {
+            "id": "de367efc-1b3d-4701-b2f2-f5a4798d8719",
+            "name": "Bubbles",
+            "keywords": ["video games", "LEGO Dimensions", "television", "Powerpuff Girls", "Bubbles", "blue"],
+            "item": "dim053",
+            "set": 71346,
+            "dates": []
+        },
+        {
+            "id": "305a55a5-260b-432f-ba95-a27793938691",
+            "name": "Buttercup",
+            "keywords": ["video games", "LEGO Dimensions", "television", "Powerpuff Girls", "Buttercup", "green"],
+            "item": "dim051",
+            "set": 71343,
             "dates": []
         },
         {
