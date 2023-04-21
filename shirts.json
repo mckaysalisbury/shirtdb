@@ -874,7 +874,7 @@
             "source": "https://qcon.com",
             "images-name": "runtime",
             "images": ["front", "back"],
-            "dates": ["2021-07-15", "2021-11-29", "2022-05-13", "2022-11-07"]
+            "dates": ["2021-07-15", "2021-11-29", "2022-05-13", "2022-11-07", "2023-04-20"]
         },
         {
             "id": "ce8eb0b6-bad6-4072-9d3c-7d4dabf8c4a9",
@@ -1952,7 +1952,7 @@
             "text": ["O.P.A.", "OUTER PLANETS ALLIANCE"],
             "keywords": ["television", "The Expanse", "Outer Planets Alliance", "OPA", "Open Policy Agent"],
             "images": ["front"],
-            "dates": ["2022-11-02"]
+            "dates": ["2022-11-02", "2023-04-19"]
         },
         {
             "id": "33ca8c0a-f6d7-4fa2-bb98-f57082cce3c4",
