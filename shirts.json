@@ -1129,7 +1129,7 @@
             "keywords": ["video games", "Four-star general", "NES", "Nintendo Entertainment System", "Nintendo", "Light gun", "Sony", "PlayStation", "DualShock", "Sega", "Genesis", "SNES", "Super Nintendo Entertainment System", "Super NES", "Atari", "Atari 2600", "Paddle", "Namco", "GunCon", "Microsoft", "Xbox", "Xbox 360", "N64", "Nintendo 64", "Vectrex", "NES Max", "Super Scope", "Dreamcast", "Master System", "Sega Master System", "Xbox", "Jaguar", "Sega Genesis", "Genesis", "ColecoVision", "Gamecube", "Wii", "Wiimote", "Wii Remote", "Sega Saturn", "3D Control Pad"],
             "images-name": "console-general",
             "images": ["front"],
-            "dates": ["2021-08-11", "2022-01-19", "2022-07-08", "2022-10-28"]
+            "dates": ["2021-08-11", "2022-01-19", "2022-07-08", "2022-10-28", "2023-04-22"]
         },
         {
             "id": "0c26e6b2-7494-4b1a-8446-a4f9f5dbdd8c",
@@ -1670,7 +1670,7 @@
                 "2022-08-28", "2022-09-04", "2022-09-11", "2022-09-18", "2022-09-25", "2022-10-16", "2022-10-23", "2022-10-30",
                 "2022-11-06", "2022-11-13", "2022-11-20", "2022-11-27", "2022-12-05", "2022-12-19", "2022-12-25", "2023-01-01",
                 "2023-01-08", "2023-01-15", "2023-01-22", "2023-01-29", "2023-02-05", "2023-02-12", "2023-02-19", "2023-02-26",
-                "2023-03-05", "2023-03-12", "2023-03-19", "2023-03-25", "2023-03-26", "2023-04-09", "2023-04-16"
+                "2023-03-05", "2023-03-12", "2023-03-19", "2023-03-25", "2023-03-26", "2023-04-09", "2023-04-16", "2023-04-23"
             ]
         },
         {
