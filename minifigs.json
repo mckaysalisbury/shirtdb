@@ -3440,6 +3440,22 @@
             "dates": ["2023-04-24"]
         },
         {
+            "id": "a7c541de-d225-4ca4-a75f-e8a9b0dcf555",
+            "name": "Homer Simpson",
+            "keywords": ["video games", "LEGO Dimensions", "television", "The Simpsons", "Simpson", "Homer", "Homer Simpson", "beer", "DUFF", "Duff"],
+            "item": "sim007",
+            "set": 70202,
+            "dates": ["2023-04-25"]
+        },
+        {
+            "id": "60e7734c-a331-40c8-b7b8-949f7e85dae8",
+            "name": "Krusty the Clown",
+            "keywords": ["video games", "LEGO Dimensions", "television", "The Simpsons", "Herschel Shmoikel Pinchas Yerucham Krustofsky", "Krusty", "Krusty the Clown", "pie"],
+            "item": "sim014",
+            "set": 71227,
+            "dates": []
+        },
+        {
             "id": "20b49ff0-1be9-481d-b5a4-f7974defe22c",
             "name": "Hermione Granger - Sand Blue Jacket over Bright Pink Hoodie",
             "keywords": ["movies", "video games", "LEGO Dimensions", "Harry Potter", "Wizarding World", "Potterverse", "Hermione", "Hermione Granger", "jacket", "wand", "Griffindor", "Deathly Hallows"],
