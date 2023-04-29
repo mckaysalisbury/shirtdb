@@ -2056,6 +2056,13 @@
             "text": ["CODITO, ERGO SUM", "thinkgeek.com"],
             "keywords": ["programming", "Cogito, ergo sum.", "I think, therefore I am.", "I code, therefore I am.", "René Descartes"],
             "dates": ["2023-04-21"]
+        },
+        {
+            "id": "d4a53c3c-d6b5-43ea-95cc-45fc6af9ada3",
+            "name": "T-Shirt Dial-A-Song",
+            "text": ["1999 • 25 O'Clock • 32 Footsteps • A Self Called Nowhere", "", "SINCE 1983,", "JUST A REGULAR CALL TO BROOKLYN", "DIAL-A-SONG", "718-387-6962", "TMBG", "ALWAYS BUSY, OFTEN BROKEN", "FREE WHEN YOU CALL FROM WORK"],
+            "keywords": ["music", "They Might Be Giants", "t-shirt", "telephone", "TMBG"],
+            "dates": ["2023-04-28"]
         }
     ]
 }
