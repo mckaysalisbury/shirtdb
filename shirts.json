@@ -782,7 +782,7 @@
             "keywords": ["comics", "Marvel", "Captain America", "shield"],
             "images": ["front"],
             "images-name": "cap-shield-puffy",
-            "dates": ["2021-07-05", "2021-12-02", "2022-05-09", "2022-11-03"]
+            "dates": ["2021-07-05", "2021-12-02", "2022-05-09", "2022-11-03", "2023-04-29"]
         },
         {
             "id": "fcfc5134-c6a6-4d86-9206-d8f02533b639",
@@ -1160,7 +1160,7 @@
             "images-name": "be-batman",
             "source": "https://merch.sixflags.com/",
             "images": ["front"],
-            "dates": ["2021-08-14", "2021-12-30", "2022-06-18", "2022-11-22"]
+            "dates": ["2021-08-14", "2021-12-30", "2022-06-18", "2022-11-22", "2023-05-01"]
         },
         {
             "id": "ced3a3e2-3d3e-4b17-b801-386c2b7fb3dc",
@@ -1670,7 +1670,8 @@
                 "2022-08-28", "2022-09-04", "2022-09-11", "2022-09-18", "2022-09-25", "2022-10-16", "2022-10-23", "2022-10-30",
                 "2022-11-06", "2022-11-13", "2022-11-20", "2022-11-27", "2022-12-05", "2022-12-19", "2022-12-25", "2023-01-01",
                 "2023-01-08", "2023-01-15", "2023-01-22", "2023-01-29", "2023-02-05", "2023-02-12", "2023-02-19", "2023-02-26",
-                "2023-03-05", "2023-03-12", "2023-03-19", "2023-03-25", "2023-03-26", "2023-04-09", "2023-04-16", "2023-04-23"
+                "2023-03-05", "2023-03-12", "2023-03-19", "2023-03-25", "2023-03-26", "2023-04-09", "2023-04-16", "2023-04-23",
+                "2023-04-30"
             ]
         },
         {
@@ -1732,7 +1733,7 @@
             "text": ["👻🚫", "VENKMAN"],
             "keywords": ["Ghostbusters", "Venkman", "ghost", "glow in the dark", "costume"],
             "images": ["front"],
-            "dates": ["2022-10-29"]
+            "dates": ["2022-10-29", "2023-04-29"]
         },
         {
             "id": "d521c473-462b-409d-a070-d2758069de0c",
@@ -2083,7 +2084,7 @@
                 "King Weed • Kings Of The Cave • Kiss Me, Son Of God", "• Koenigstein",
                 "Lazy Head and Sleepy Bones • Letterbox • Lie Still, Little", "Bottle • Lincoln,",
                 "Washington And That Jefferson Guy • Lines Upon", "GIANTS", "A Tranquil Brow",
-                "Lucky Ball And Chain • Lullaby To Nightmares", "• Mainstream USA", 
+                "Lucky Ball And Chain • Lullaby To Nightmares", "• Mainstream USA",
                 "Mammal • Man, It's So Loud In Here • Masshole", "• Maybe I Know",
                 "Meet James Ensor • Metal Detector • Minimum Wage • Mink Car • Mona Lisa • Monsters of Mud",
                 "Mor • Mosh Momken Agadan • Moving to the Sun • Mr. & Mrs. Nuclear • Mr. Klaw • Mr. Me • Mr.",
