@@ -3504,6 +3504,22 @@
             "dates": ["2023-05-04"]
         },
         {
+            "id": "eadc4cd8-b65b-422d-9758-229e7afaa88e",
+            "name": "Gizmo",
+            "keywords": ["video games", "LEGO Dimensions", "movies", "Gremlins", "mogwai", "Gizmo"],
+            "item": "dim032",
+            "set": 71256,
+            "dates": ["2023-05-05"]
+        },
+        {
+            "id": "c282a871-9656-4bb4-a20d-a534e5d95772",
+            "name": "Stripe",
+            "keywords": ["video games", "LEGO Dimensions", "movies", "Gremlins", "mogwai", "gremlin", "Stripe"],
+            "item": "dim033",
+            "set": 71256,
+            "dates": []
+        },
+        {
             "id": "20b49ff0-1be9-481d-b5a4-f7974defe22c",
             "name": "Hermione Granger - Sand Blue Jacket over Bright Pink Hoodie",
             "keywords": ["movies", "video games", "LEGO Dimensions", "Harry Potter", "Wizarding World", "Potterverse", "Hermione", "Hermione Granger", "jacket", "wand", "Griffindor", "Deathly Hallows"],
