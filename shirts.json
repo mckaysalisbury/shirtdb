@@ -1397,7 +1397,7 @@
             "notes": "I have two copies of this shirt",
             "source": "https://sixflags.com",
             "images": ["front"],
-            "dates": ["2021-09-01", "2022-02-15", "2022-03-12", "2022-05-18", "2022-11-08"]
+            "dates": ["2021-09-01", "2022-02-15", "2022-03-12", "2022-05-18", "2022-11-08", "2023-05-10"]
         },
         {
             "id": "30260a0e-1078-4af7-8429-8198945fc7b3",
@@ -1929,7 +1929,7 @@
             "keywords": ["two kinds", "2 kinds", "extrapolate", "extrapolation", "incomplete", "incomplete information", "data"],
             "images-name": "extrapolate",
             "images": ["front"],
-            "dates": ["2022-10-26", "2022-11-12"]
+            "dates": ["2022-10-26", "2022-11-12", "2023-05-11"]
         },
         {
             "id": "d2d4d162-ed3a-4c6a-8213-77b000d20067",

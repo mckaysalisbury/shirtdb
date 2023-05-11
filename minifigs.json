@@ -2156,6 +2156,14 @@
             "dates": ["2022-01-10"]
         },
         {
+            "id": "78a9521d-3e0b-4deb-b4cd-556cae666ad0",
+            "name": "Batman, Pearl Dark Gray Armor",
+            "keywords": ["comics", "DC", "Detective Comics", "Batman", "Bruce Wayne", "app-controlled Batmobile"],
+            "item": "sh535",
+            "set": 76112,
+            "dates": ["2023-05-10"]
+        },
+        {
             "id": "7ccab99c-22ac-40b9-8382-c6ee4a0cac8c",
             "name": "Stormtrooper (Dual Molded Helmet, Gray Squares on Back, Frown)",
             "keywords": ["Star Wars", "stormtrooper", "advent calendar"],
@@ -3526,6 +3534,14 @@
             "item": "dim050",
             "set": 71349,
             "dates": ["2023-05-09"]
+        },
+        {
+            "id": "74621986-d407-45bc-8c01-66dcdaa63b0d",
+            "name": "Laval - Fire Chi, Heavy Armor, Red Arms",
+            "keywords": ["video games", "LEGO Dimensions", "television", "Chima", "Legends of Chima", "Laval", "fire", "fire chi", "lion"],
+            "item": "dim012",
+            "set": 71222,
+            "dates": ["2023-05-11"]
         },
         {
             "id": "20b49ff0-1be9-481d-b5a4-f7974defe22c",
