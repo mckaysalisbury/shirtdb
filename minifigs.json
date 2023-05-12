@@ -3544,6 +3544,22 @@
             "dates": ["2023-05-11"]
         },
         {
+            "id": "12bc0dd8-c0fd-4935-8ead-5a2a542a2f35",
+            "name": "Marceline the Vampire Queen",
+            "keywords": ["video games", "LEGO Dimensions", "television", "Adventure Time", "Marceline", "vampire", "guitar", "axe"],
+            "item": "dim039",
+            "set": 71285,
+            "dates": ["2023-05-12"]
+        },
+        {
+            "id": "3f19e780-9705-4f7e-9e08-ae91f695bd14",
+            "name": "Finn the Human",
+            "keywords": ["video games", "LEGO Dimensions", "television", "Adventure Time", "Finn", "human", "sword"],
+            "item": "dim038",
+            "set": 71245,
+            "dates": []
+        },
+        {
             "id": "20b49ff0-1be9-481d-b5a4-f7974defe22c",
             "name": "Hermione Granger - Sand Blue Jacket over Bright Pink Hoodie",
             "keywords": ["movies", "video games", "LEGO Dimensions", "Harry Potter", "Wizarding World", "Potterverse", "Hermione", "Hermione Granger", "jacket", "wand", "Griffindor", "Deathly Hallows"],
