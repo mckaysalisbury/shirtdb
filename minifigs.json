@@ -3142,7 +3142,7 @@
             "keywords": ["television", "Disney", "cartoon", "collectible", "Disney Series 1", "Pixar", "Toy Story", "Space Ranger", "space suit", "wings", "helmet"],
             "item": "dis003",
             "set": 71012,
-            "dates": ["2022-09-16"]
+            "dates": ["2022-09-16", "2023-05-24"]
         },
         {
             "id": "34d43f11-2307-45b7-ad55-d2506d91f3cc",
@@ -4093,7 +4093,7 @@
             "actor": "Benedict Cumberbatch",
             "set": 76218,
             "item": "sh802",
-            "dates": []
+            "dates": ["2023-05-23"]
         },
         {
             "id": "e95ed535-da04-43d0-b396-02bc706324d4",
@@ -4207,6 +4207,14 @@
             "set": 75340,
             "item": "sw1241",
             "dates": ["2023-02-22"]
+        },
+        {
+            "id": "5140f1ad-2f9b-482e-95f4-858966db1714",
+            "name": "Sorcerer's Apprentice Mickey",
+            "keywords": ["movies", "Fantasia", "Disney", "sorcerer", "sorceror", "wizard", "wizard hat", "hat", "broom", "bucket"],
+            "item": "dis095",
+            "set": 71038,
+            "dates": []
         }
     ]
 }
