@@ -4233,6 +4233,24 @@
             "set": 76831,
             "notes": "This came with an alternate head with hair",
             "dates": ["2023-05-30"]
+        },
+        {
+            "id": "ae32d53e-6ae9-4062-8e6f-429b211f1669",
+            "name": "Owen Grady - Open Neck Shirt",
+            "keywords": ["movies", "Jurassic World", "Jurassic Park", "Jurassic World: Dominion", "Owen Grady", "Owen"],
+            "item": "jw048",
+            "actor": "Chris Pratt",
+            "set": 76945,
+            "dates": []
+        },
+        {
+            "id": "f0d2108a-7d04-45dd-9eec-8018e5e9a837",
+            "name": "Rainn Delacourt - Dark Blue and White Shirt",
+            "keywords": ["movies", "Jurassic World", "Jurassic Park", "Jurassic World: Dominion", "Rainn Delacourt", "Rainn"],
+            "item": "jw077",
+            "actor": "Scott Haze",
+            "set": 76945,
+            "dates": []
         }
     ]
 }
