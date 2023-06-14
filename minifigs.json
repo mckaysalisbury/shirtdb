@@ -4251,6 +4251,58 @@
             "actor": "Scott Haze",
             "set": 76945,
             "dates": ["2023-06-13"]
+        },
+        {
+            "id": "164565a4-e2b6-48e2-9a6c-832b48917a6d",
+            "name": "Bruce Wayne - Drifter",
+            "keywords": ["movies", "comics", "DC", "The Batman", "Batman", "Bruce Wayne", "motorcycle", "helmet", "motorcycle helmet"],
+            "item": "sh784",
+            "actor": "Robert Pattinson",
+            "set": 76183,
+            "dates": ["2023-06-14"]
+        },
+        {
+            "id": "e9ffa696-b28f-4ba0-baa6-746b6e74e2fc",
+            "name": "The Riddler",
+            "keywords": ["movies", "comics", "DC", "The Batman", "Batman", "The Riddler", "Edward Nashton", "glasses", "mask"],
+            "item": "sh785",
+            "actor": "Paul Dano",
+            "set": 76183,
+            "dates": []
+        },
+        {
+            "id": "2022e956-f1f4-4243-b1e9-438d42980bef",
+            "name": "Batman - Dark Bluish Gray Suit, Black Belt, Black Hands, Spongy Cape with 1 Hole, Black Boots",
+            "keywords": ["movies", "comics", "DC", "The Batman", "Batman", "Bruce Wayne", "batarang"],
+            "item": "sh786",
+            "actor": "Robert Pattinson",
+            "set": 76183,
+            "dates": []
+        },
+        {
+            "id": "ceaac2f0-8b25-47c9-9e0c-3b568ac2d4da",
+            "name": "Lt. James Gordon, Black Hair, Black Suit, Dark Red Tie",
+            "keywords": ["movies", "comics", "DC", "The Batman", "Batman", "James Gordon", "Lt. Gordon", "police", "glasses"],
+            "item": "sh787",
+            "actor": "Jeffrey Wright",
+            "set": 76183,
+            "dates": []
+        },
+        {
+            "id": "0ceef38a-8e56-4617-9f51-6072e4b37f97",
+            "name": "Selina Kyle",
+            "keywords": ["movies", "comics", "DC", "The Batman", "Batman", "Catwoman", "Selina Kyle"],
+            "item": "sh788",
+            "actor": "Zoë Kravitz",
+            "dates": []
+        },
+        {
+            "id": "16634e6e-fb49-4204-80e6-fe6ae3eb909f",
+            "name": "Alfred Pennyworth, Black Vest, Light Bluish Gray Hair, Dark Bluish Gray Beard",
+            "keywords": ["movies", "comics", "DC", "The Batman", "Batman", "Alfred Pennyworth", "Alfred", "Pennyworth"],
+            "actor": "Andy Serkis",
+            "item": "sh789",
+            "dates": []
         }
     ]
 }
