@@ -3291,7 +3291,7 @@
             "keywords": ["video games", "movies", "LEGO Dimensions", "Dimensions", "Lord of the Ring", "Gandalf", "Gandalf the Grey", "Mithrandir", "hat", "staff", "cape", "ᚵ"],
             "item": "dim001",
             "set": 71200,
-            "dates": ["2023-03-21"]
+            "dates": ["2023-03-21", "2023-06-23"]
         },
         {
             "id": "a6772cc1-e7cb-4e6d-8007-8e4ca6661672",
@@ -4294,7 +4294,7 @@
             "keywords": ["movies", "comics", "DC", "The Batman", "Batman", "Catwoman", "Selina Kyle"],
             "item": "sh788",
             "actor": "Zoë Kravitz",
-            "dates": []
+            "dates": ["2023-06-22"]
         },
         {
             "id": "16634e6e-fb49-4204-80e6-fe6ae3eb909f",
