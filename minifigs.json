@@ -4214,7 +4214,7 @@
             "keywords": ["movies", "Fantasia", "Disney", "sorcerer", "sorceror", "wizard", "wizard hat", "hat", "broom", "bucket"],
             "item": "dis095",
             "set": 71038,
-            "dates": []
+            "dates": ["2023-06-26"]
         },
         {
             "id": "349ac55f-e3fa-42a5-8276-99dba21ec42f",
@@ -4302,7 +4302,7 @@
             "keywords": ["movies", "comics", "DC", "The Batman", "Batman", "Alfred Pennyworth", "Alfred", "Pennyworth"],
             "actor": "Andy Serkis",
             "item": "sh789",
-            "dates": ["2023-06-21"]
+            "dates": ["2023-06-21", "2023-06-27"]
         }
     ]
 }
