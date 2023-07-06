@@ -677,7 +677,7 @@
             "source": "https://uniqlo.com",
             "images": ["front", "logo", "back"],
             "images-name": "civil-war-shield",
-            "dates": ["2021-06-23", "2021-11-24", "2022-04-28", "2022-10-05", "2023-04-03"]
+            "dates": ["2021-06-23", "2021-11-24", "2022-04-28", "2022-10-05", "2023-04-03", "2023-07-04"]
         },
         {
             "id": "691fdc1b-f3b1-4afe-ad3a-bdcda7588571",
@@ -1085,10 +1085,10 @@
             "id": "d96c9c21-8b1c-417c-ba3b-303dc455f4ff",
             "name": "Tychus vs Hydralisk",
             "text": ["BLIZZARD®", "ENTERTAINMENT"],
-            "keywords": ["video games", "Blizzard", "StarCraft", "StarCraft II", "Terran", "Tychus", "Zerg", "hydralisk"],
+            "keywords": ["video games", "Blizzard", "StarCraft", "StarCraft II", "Terran", "Tychus", "Zerg", "hydralisk", "marine"],
             "images": ["front", "back"],
             "images-name": "tychus-hydralisk",
-            "dates": ["2021-08-07", "2022-01-18", "2022-07-01", "2022-12-29"]
+            "dates": ["2021-08-07", "2022-01-18", "2022-07-01", "2022-12-29", "2023-07-05"]
         },
         {
             "id": "2b890529-f029-4013-a3f5-0bd9406c18dc",
