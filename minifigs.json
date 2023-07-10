@@ -4277,6 +4277,7 @@
             "item": "sh786",
             "actor": "Robert Pattinson",
             "set": 76183,
+            "notes": "This minifig appears in 3 sets I have, 76183, 76179, 76181",
             "dates": ["2023-06-16"]
         },
         {
@@ -4303,6 +4304,15 @@
             "actor": "Andy Serkis",
             "item": "sh789",
             "dates": ["2023-06-21", "2023-06-27"]
+        },
+        {
+            "id": "eeae74a6-c60c-4ada-a737-88ef4f572592",
+            "name": "The Penguin",
+            "keywords": ["movies", "comics", "DC", "The Batman", "Batman", "Penguin", "Oz", "Oswald Chesterfield Cobblepot", "Oswald Cobblepot"],
+            "actor": "Colin Farrell",
+            "set": 76181,
+            "item": "sh790",
+            "dates": []
         }
     ]
 }
