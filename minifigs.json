@@ -16,7 +16,7 @@
             "actor": "Will Arnett",
             "item": "tlm118",
             "set": 70836,
-            "dates": ["2021-07-24", "2021-04-27"]
+            "dates": ["2021-07-24", "2021-04-27", "2023-07-11"]
         },
         {
             "id": "a4545977-4e6e-4db5-a0ee-e277c629a997",
@@ -2251,7 +2251,7 @@
             "keywords": ["comics", "DC", "Batman", "Knightmare", "Knightmare Batman", "DC Extended Universe", "Justice League", "Zack Snyder's Justice League"],
             "item": "sh532",
             "set": 853744,
-            "dates": ["2022-03-06"]
+            "dates": ["2022-03-06", "2023-07-12"]
         },
         {
             "id": "ee510583-d63a-4c65-8d58-5b9de0346604",
@@ -4295,6 +4295,8 @@
             "keywords": ["movies", "comics", "DC", "The Batman", "Batman", "Catwoman", "Selina Kyle"],
             "item": "sh788",
             "actor": "Zoë Kravitz",
+            "notes": "I have this minifig from sets 76183 and 76179",
+            "set": 76183,
             "dates": ["2023-06-22", "2023-06-28"]
         },
         {
@@ -4303,6 +4305,7 @@
             "keywords": ["movies", "comics", "DC", "The Batman", "Batman", "Alfred Pennyworth", "Alfred", "Pennyworth"],
             "actor": "Andy Serkis",
             "item": "sh789",
+            "set": 76183,
             "dates": ["2023-06-21", "2023-06-27"]
         },
         {
