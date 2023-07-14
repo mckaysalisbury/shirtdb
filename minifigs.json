@@ -4277,8 +4277,8 @@
             "item": "sh786",
             "actor": "Robert Pattinson",
             "set": 76183,
-            "notes": "This minifig appears in 3 sets I have, 76183, 76179, 76181",
-            "dates": ["2023-06-16"]
+            "notes": "This minifig appears in 3 sets I have, 76183, 76179, 76181. I think all three have a Bruce wayne head option as well.",
+            "dates": ["2023-06-16", "2023-07-14"]
         },
         {
             "id": "ceaac2f0-8b25-47c9-9e0c-3b568ac2d4da",
@@ -4315,7 +4315,7 @@
             "actor": "Colin Farrell",
             "set": 76181,
             "item": "sh790",
-            "dates": []
+            "dates": ["2023-07-10"]
         }
     ]
 }
