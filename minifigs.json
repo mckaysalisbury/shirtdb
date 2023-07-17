@@ -3678,7 +3678,7 @@
         {
             "id": "ec29e112-ed0d-4a2d-afd7-29bcc3fa18ae",
             "name": "Albus Dumbledore, Dark Red Robe, Light Bluish Gray Hair",
-            "keywords": ["books", "movies", "Harry Potter", "Wizarding World", "Potterverse", "advent calendar", "2019", "Professor Dumbledore", "Albus Dumbledore", "Albus Percival Wulfric Brian Dumbledore", "Headmaster", "Hogwarts"],
+            "keywords": ["books", "movies", "Harry Potter", "Wizarding World", "Potterverse", "advent calendar", "2019", "Professor Dumbledore", "Albus Dumbledore", "Albus Percival Wulfric Brian Dumbledore", "headmaster", "Hogwarts"],
             "actor": "Richard Harris",
             "item": "hp147",
             "set": 75964,
@@ -4316,6 +4316,30 @@
             "set": 76181,
             "item": "sh790",
             "dates": ["2023-07-10"]
+        },
+        {
+            "id": "b98518bb-3c3e-42fe-99bd-21a93c26c349",
+            "name": "Albus Dumbledore - Sand Blue Outfit with Silver Embroidery",
+            "keywords": ["books", "movies", "Wizarding World", "Harry Potter", "Albus Dumbledore", "Dumbledore", "headmaster"],
+            "set": 852982,
+            "item": "hp099",
+            "dates": ["2023-07-17"]
+        },
+        {
+            "id": "61c47fd0-129a-4e90-9b75-5badc5ea195f",
+            "name": "Harry Potter - Dark Red Quidditch Uniform, Light Nougat Head",
+            "keywords": ["books", "movies", "Wizarding World", "Harry Potter", "Quiddich", "Hogwarts", "Griffindor"],
+            "set": 852982,
+            "item": "hp110",
+            "dates": []
+        },
+        {
+            "id": "57418659-baee-4f5b-8447-65e0e7550248",
+            "name": "Hermione Granger - Gryffindor Stripe and Shield Torso, Black Legs",
+            "keywords": ["books", "movies", "Wizarding World", "Harry Potter", "Hermione", "Hermione Granger", "Quiddich", "Hogwarts", "Griffindor"],
+            "set": 852982,
+            "item": "hp095",
+            "dates": []
         }
     ]
 }
