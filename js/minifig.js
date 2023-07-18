@@ -19,7 +19,12 @@ function alterExternalData(row) {
 
         row['brickset-set-url'] = `https://brickset.com/sets/${row.set}`
     }
+    if (!!row.gear) {
+        row['bricklink-gear-url'] = `https://bricklink.com/v2/catalog/catalogitem.page?G=${row.gear}`
+        row['bricklink-gear-image'] = `https://img.bricklink.com/ItemImage/GN/0/${row.gear}.png`
+        // "img.bricklink.com/ItemImage/GN/0/magbat010.png"
+    }
 
-    row['table-image'] = fallback(row, ['image', 'bricklink-item-image', 'bricklink-part-image']);
+    row['table-image'] = fallback(row, ['image', 'bricklink-item-image', 'bricklink-part-image', 'bricklink-gear-image']);
     return row;
 }

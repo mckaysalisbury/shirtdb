@@ -4321,7 +4321,7 @@
             "id": "b98518bb-3c3e-42fe-99bd-21a93c26c349",
             "name": "Albus Dumbledore - Sand Blue Outfit with Silver Embroidery",
             "keywords": ["books", "movies", "Wizarding World", "Harry Potter", "Albus Dumbledore", "Dumbledore", "headmaster"],
-            "set": 852982,
+            "gear": "852982",
             "item": "hp099",
             "dates": ["2023-07-17"]
         },
@@ -4329,16 +4329,40 @@
             "id": "61c47fd0-129a-4e90-9b75-5badc5ea195f",
             "name": "Harry Potter - Dark Red Quidditch Uniform, Light Nougat Head",
             "keywords": ["books", "movies", "Wizarding World", "Harry Potter", "Quiddich", "Hogwarts", "Griffindor"],
-            "set": 852982,
+            "gear": "852982",
             "item": "hp110",
-            "dates": []
+            "dates": ["2023-07-18"]
         },
         {
             "id": "57418659-baee-4f5b-8447-65e0e7550248",
             "name": "Hermione Granger - Gryffindor Stripe and Shield Torso, Black Legs",
             "keywords": ["books", "movies", "Wizarding World", "Harry Potter", "Hermione", "Hermione Granger", "Quiddich", "Hogwarts", "Griffindor"],
-            "set": 852982,
+            "gear": "852982",
             "item": "hp095",
+            "dates": []
+        },
+        {
+            "id": "7b84f895-d59d-4937-a469-a610c4f5a4c5",
+            "name": "Magnet, Minifigure Batman, Batman Black Suit",
+            "keywords": ["magnet", "comics", "DC", "Detective Comics", "Batman", "Bruce Wayne"],
+            "set": 4493780,
+            "gear": "magbat002",
+            "dates": []
+        },
+        {
+            "id": "9b1fb618-0ac8-4cd8-a9b5-78548ea025cb",
+            "name": "Magnet, Minifigure Batman, The Penguin",
+            "keywords": ["magnet", "comics", "DC", "Detective Comics", "Batman", "Penguin"],
+            "set": 4493780,
+            "gear": "magbat010",
+            "dates": []
+        },
+        {
+            "id": "abf9b64a-4cc1-4427-bd7c-b4336fe7aaa3",
+            "name": "Magnet, Minifigure Batman, Two-Face",
+            "keywords": ["magnet", "comics", "DC", "Detective Comics", "Batman", "Two-Face"],
+            "set": 4493780,
+            "gear": "magbat004",
             "dates": []
         }
     ]
