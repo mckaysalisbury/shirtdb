@@ -490,7 +490,7 @@
         {
             "id": "9274f67c-475b-446d-bd02-3ee42ac3180c",
             "name": "Chase McCain, Dark Blue Legs",
-            "keywords": ["City", "LEGO City Undercover", "police"],
+            "keywords": ["video games", "City", "LEGO City Undercover", "police", "Chase McCain"],
             "actor": "Joesph May",
             "item": "cty0356",
             "set": 60007,
@@ -499,7 +499,7 @@
         {
             "id": "4b0986c5-1c23-4e92-9ba5-aebf4c41b054",
             "name": "Police - City Burglar, Dark Bluish Gray Knit Cap, Mask",
-            "keywords": ["City", "police"],
+            "keywords": ["City", "police", "burglar"],
             "item": "cty0358",
             "set": 60007,
             "dates": ["2021-07-06"]
@@ -4364,6 +4364,14 @@
             "set": 4493780,
             "gear": "magbat004",
             "dates": ["2023-08-01"]
+        },
+        {
+            "id": "0a5bed19-7a1f-40e1-908f-cc50b75c66ea",
+            "name": "LEGO City Undercover Chase McCain - with arm marking",
+            "keywords": ["video games", "City", "LEGO City Undercover", "police", "Chase McCain"],
+            "set": 5000281,
+            "item": "cty0341",
+            "dates": []
         }
     ]
 }
