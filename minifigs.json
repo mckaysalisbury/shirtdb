@@ -4210,10 +4210,26 @@
         {
             "id": "5140f1ad-2f9b-482e-95f4-858966db1714",
             "name": "Sorcerer's Apprentice Mickey",
-            "keywords": ["movies", "Fantasia", "Disney", "sorcerer", "sorceror", "wizard", "wizard hat", "hat", "broom", "bucket"],
+            "keywords": ["movies", "Fantasia", "Disney", "sorcerer", "sorceror", "wizard", "wizard hat", "hat", "broom", "bucket", "collectible"],
             "item": "dis095",
             "set": 71038,
             "dates": ["2023-06-26", "2023-07-08"]
+        },
+        {
+            "id": "fbe3138c-e085-4612-97f2-da954b057d22",
+            "name": "Stitch 626",
+            "keywords": ["movies", "Lilo & Stitch", "Disney", "alien", "Stitch", "626", "experiment 626", "ray gun", "4 arms"],
+            "item": "dis107",
+            "set": 71038,
+            "dates": ["2023-08-16"]
+        },
+        {
+            "id": "be47c668-8b19-4f8f-bc27-9c59f34f672f",
+            "name": "Baymax",
+            "keywords": ["comics", "movies", "Disney", "Marvel", "Big Hero 6", "Baymax", "robot"],
+            "item": "dis108",
+            "set": 71038,
+            "dates": ["2023-08-17"]
         },
         {
             "id": "349ac55f-e3fa-42a5-8276-99dba21ec42f",

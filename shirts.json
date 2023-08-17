@@ -226,7 +226,7 @@
             "images": ["front"],
             "images-name": "qr",
             "source": "https://thinkgeek.com",
-            "dates": ["2021-05-17", "2021-10-08", "2022-03-08", "2022-08-26", "2023-02-22"]
+            "dates": ["2021-05-17", "2021-10-08", "2022-03-08", "2022-08-26", "2023-02-22", "2023-08-17"]
         },
         {
             "id": "563640b6-9b27-4bcd-956a-9d221c4d56b4",
@@ -327,7 +327,7 @@
             "keywords": ["comics", "movies", "Marvel Cinematic Univers", "Marvel", "Avengers", "Captain America", "Iron Man", "Hulk", "Thor", "white"],
             "images": ["front"],
             "images-name": "avengers-a",
-            "dates": ["2021-05-20", "2021-10-25", "2022-03-30", "2022-08-27", "2023-02-13"]
+            "dates": ["2021-05-20", "2021-10-25", "2022-03-30", "2022-08-27", "2023-02-13", "2023-08-10"]
         },
         {
             "id": "68682b55-9bff-4dfa-aa80-0bc70a23f3ae",
@@ -561,7 +561,7 @@
             "keywords": ["video games", "Blizzard", "Protoss", "Zeratul", "Artanis", "Selendis"],
             "source": "https://gear.blizzard.com",
             "images": ["front", "back", "logo"],
-            "dates": ["2021-06-11", "2021-10-29", "2022-03-26", "2022-08-29"]
+            "dates": ["2021-06-11", "2021-10-29", "2022-03-26", "2022-08-29", "2023-08-16"]
         },
         {
             "id": "1ff0f00a-f9d7-4e82-9439-7d05217645dd",
