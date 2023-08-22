@@ -4395,6 +4395,16 @@
             "set": 5000281,
             "item": "cty0341",
             "dates": ["2023-08-03"]
+        },
+        {
+            "id": "62fcc640-2a02-44ba-ad09-552c1742d49d",
+            "name": "Captain Carter",
+            "dates": ["2023-08-21"]
+        },
+        {
+            "id": "ea3be8f0-4191-46b6-bccb-5f9861a2591e",
+            "name": "Red Skull",
+            "dates": ["2023-08-22"]
         }
     ]
 }
