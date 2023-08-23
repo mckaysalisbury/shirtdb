@@ -4405,6 +4405,11 @@
             "id": "ea3be8f0-4191-46b6-bccb-5f9861a2591e",
             "name": "Red Skull",
             "dates": ["2023-08-22"]
+        },
+        {
+            "id": "baa9ac02-315f-47ac-bfab-1631f977ec61",
+            "name": "Steve Rogers",
+            "dates": ["2023-08-23"]
         }
     ]
 }
