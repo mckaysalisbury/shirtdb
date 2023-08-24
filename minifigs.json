@@ -4398,17 +4398,27 @@
         },
         {
             "id": "62fcc640-2a02-44ba-ad09-552c1742d49d",
-            "name": "Captain Carter",
+            "name": "Captain Peggy Carter - Stealh Suit",
+            "keywords": ["comics", "Marvel", "television", "What If...?", "Disney+", "Marvel Cinematic Universe", "Peggy Carter", "Captain America", "Captain Britain", "Captain Carter", "shield", "Union Jack"],
+            "actor": "Hayley Atwell",
+            "set": 76201,
+            "item": "sh749",
             "dates": ["2023-08-21"]
         },
         {
             "id": "ea3be8f0-4191-46b6-bccb-5f9861a2591e",
-            "name": "Red Skull",
+            "name": "Red Skull - Printed Legs",
+            "keywords": ["comics", "Marvel", "television", "What If...?", "Disney+", "Marvel Cinematic Universe", "Red Skill", "Hydra", "Johann Schmidt"],
+            "set": 76201,
+            "item": "sh750",
             "dates": ["2023-08-22"]
         },
         {
             "id": "baa9ac02-315f-47ac-bfab-1631f977ec61",
             "name": "Steve Rogers",
+            "keywords": ["comics", "Marvel", "television", "What If...?", "Disney+", "Marvel Cinematic Universe", "Steve Rogers", "Hydra stomper pilot"],
+            "set": 76201,
+            "item": "sh751",
             "dates": ["2023-08-23"]
         }
     ]
