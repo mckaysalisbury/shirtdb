@@ -474,7 +474,7 @@
             "source": "https://www.uniqlo.com/us/en/blizzard-short-sleeve-graphic-t-shirt-starcraft-412719.html",
             "images": ["front"],
             "images-name": "races",
-            "dates": ["2021-06-02", "2021-10-26", "2022-03-31", "2022-09-07", "2023-03-13"]
+            "dates": ["2021-06-02", "2021-10-26", "2022-03-31", "2022-09-07", "2023-03-13", "2023-09-05"]
         },
         {
             "id": "bdfa52cc-1b47-4457-9623-ff7e35caba1b",
@@ -504,7 +504,7 @@
             "keywords": ["Audio/Video", "A/V", "Receiver", "RCA"],
             "source": "https://www.threadless.com/shop/@threadless/design/av/mens/t-shirt",
             "images": ["front", "back"],
-            "dates": ["2021-06-04", "2021-11-03", "2022-04-14", "2022-09-10", "2023-03-03"]
+            "dates": ["2021-06-04", "2021-11-03", "2022-04-14", "2022-09-10", "2023-03-03", "2023-09-01"]
         },
         {
             "id": "d9a50c93-8ee4-4616-b819-6965b887383e",
@@ -667,7 +667,7 @@
             "source": "https://shirt.woot.com/offers/the-cat-in-the-box",
             "images-name": "cat-in-the-box",
             "images": ["front"],
-            "dates": ["2021-06-22", "2021-11-26", "2022-04-23", "2022-09-30", "2023-03-09"]
+            "dates": ["2021-06-22", "2021-11-26", "2022-04-23", "2022-09-30", "2023-03-09", "2023-08-31"]
         },
         {
             "id": "9787e980-89e3-424d-879c-5f3c3ef25309",
@@ -1661,7 +1661,7 @@
             "text": [],
             "style": "button down",
             "images": ["front"],
-            "keywords": ["white", "button down", "collar", "best dress", "pocket"],
+            "keywords": ["white", "button down", "collar", "best dress", "pocket", "white shirt"],
             "notes": "I've got a few of these that are basically identical",
             "dates": [
                 "2022-02-27", "2022-03-12", "2022-03-13", "2022-03-20", "2022-03-26", "2022-03-27", "2022-04-10", "2022-04-17",
@@ -1673,7 +1673,7 @@
                 "2023-03-05", "2023-03-12", "2023-03-19", "2023-03-25", "2023-03-26", "2023-04-09", "2023-04-16", "2023-04-23",
                 "2023-04-30", "2023-05-06", "2023-05-07", "2023-05-14", "2023-05-21", "2023-05-28", "2023-06-04", "2023-06-11",
                 "2023-06-17", "2023-06-18", "2023-06-25", "2023-07-02", "2023-07-09", "2023-07-23", "2023-08-06", "2023-08-20",
-                "2023-08-28"
+                "2023-08-27", "2023-09-03"
             ]
         },
         {
@@ -1692,7 +1692,7 @@
             "keywords": ["games", "necromancy", "skull", "D&D"],
             "notes": "Kelly gave this as a gift to me",
             "images": ["front"],
-            "dates": ["2022-03-29", "2022-09-03", "2023-02-15"]
+            "dates": ["2022-03-29", "2022-09-03", "2023-02-15", "2023-08-30"]
         },
         {
             "id": "729e416f-ff44-477d-ba28-7c3e8980cbf0",
@@ -1700,7 +1700,7 @@
             "text": ["BORG", "", "STAR TREK", "THE NEXT GENERATION®️"],
             "keywords": ["Television", "Star Trek", "Star Trek: The Next Generation", "The Next Generation", "Borg"],
             "images": ["front", "back"],
-            "dates": ["2022-04-05", "2022-09-14", "2023-03-07"]
+            "dates": ["2022-04-05", "2022-09-14", "2023-03-07", "2023-09-02"]
         },
         {
             "id": "0dcce18e-a71c-4731-9bc3-ed7e9c17e0a5",
@@ -1895,7 +1895,7 @@
             "text": ["Los 🌹", "Hermanos", "MEXICAN RESTAURANT", "", "The Utah", "Examiner", "WOMAN EATS WORLDS", "HOTTEST PEPPER", "AND THEN BREATHES", "FIRE", "Los 🌹", "Hermanos", "UNBELIEVABLY", "DELICIOUS!", "GUADALAJARAN ARCHAEOLOGIST", "UNCOVERS WORLDS", "VERY FIRST TACO!", "WOMAN", "CLAIMS ALIENS", "ABDUCTED HER", "BURRITO!", "9 63211 38444 4", "US $2.95 CAN $3.95"],
             "keywords": ["restaurant", "Los Hermanos", "taco", "burrito", "rose", "alien", "abduction"],
             "images": ["front", "back", "logo"],
-            "dates": []
+            "dates": ["2023-09-02"]
         },
         {
             "id": "ddc6433e-3f89-4cf7-a446-3d02820535b3",
