@@ -2358,10 +2358,10 @@
         {
             "id": "a1a1170f-c95f-4a22-bff4-4cee0801fb0a",
             "name": "Brick Costume Guy",
-            "keywords": ["collectible minifigures", "series 20", "costume", "LEGO", "10"],
+            "keywords": ["collectible minifigures", "series 20", "costume", "LEGO", "10", "green", "LEGO"],
             "set": 71027,
             "item": "col370",
-            "dates": ["2022-03-17"]
+            "dates": ["2022-03-17", "2023-09-14"]
         },
         {
             "id": "b83ea78e-8ec7-4902-a896-d7f523be93c6",
@@ -2734,7 +2734,7 @@
             "keywords": ["collectible minifigures", "series 19", "laptop", "C:\\", "DOS", "glasses", "tape", "bowtie", "vest", "argyle", "stereotype"],
             "item": "col108",
             "set": 8831,
-            "dates": ["2022-07-17", "2022-07-18"]
+            "dates": ["2022-07-17", "2022-07-18", "2023-09-13"]
         },
         {
             "id": "70b4da71-4600-4920-a59c-88bc7616b20b",

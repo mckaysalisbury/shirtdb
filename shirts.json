@@ -571,7 +571,7 @@
             "source": "https://shirt.woot.com/offers/university-wikipedius",
             "images-name": "wikipedius",
             "images": ["front", "logo"],
-            "dates": ["2021-06-12", "2021-11-19", "2022-04-26", "2022-09-21", "2023-03-16"]
+            "dates": ["2021-06-12", "2021-11-19", "2022-04-26", "2022-09-21", "2023-03-16", "2023-09-14"]
         },
         {
             "id": "4e37f235-9eb7-4295-8a85-68aced0ccc0f",
@@ -2058,7 +2058,7 @@
             "name": "Codito Ergo Sum",
             "text": ["CODITO, ERGO SUM", "thinkgeek.com"],
             "keywords": ["programming", "Cogito, ergo sum.", "I think, therefore I am.", "I code, therefore I am.", "René Descartes"],
-            "dates": ["2023-04-21"]
+            "dates": ["2023-04-21", "2023-09-13"]
         },
         {
             "id": "d4a53c3c-d6b5-43ea-95cc-45fc6af9ada3",
