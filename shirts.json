@@ -990,7 +990,7 @@
         },{
             "id": "4006e521-d0ea-40b4-b329-2a9efdb5f59e",
             "name": "Wolverine",
-            "text": ["MARVEL", "M", "Co", "cs"],
+            "text": ["MARVEL", "M", "VEL", "M", "Comics", "Co", "cs"],
             "keywords": ["comics", "Marvel", "Marvel comics", "Wolverine", "snikt", "adamantium"],
             "images": ["front"],
             "source": "https://oldnavy.gap.com/",
@@ -1753,7 +1753,7 @@
             "keywords": ["video games", "Pirates of the Burning Sea", "pirates"],
             "source": "https://paxsite.com",
             "images": ["front"],
-            "dates": ["2022-11-03"]
+            "dates": ["2022-11-03", "2023-09-19"]
         },
         {
             "id": "5cf15c62-aace-4ec3-a2da-33fcf90038bf",
