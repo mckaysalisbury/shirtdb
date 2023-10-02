@@ -148,7 +148,7 @@
             "source": "https://thinkgeek.com",
             "images": ["front", "logo"],
             "notes": "I have two of these",
-            "dates": ["2021-07-04", "2021-05-09", "2021-09-18", "2021-11-14", "2022-03-06", "2022-04-03"]
+            "dates": ["2021-07-04", "2021-05-09", "2021-09-18", "2021-11-14", "2022-03-06", "2022-04-03", "2023-10-01"]
         },
         {
             "id": "3a17fc8b-01a6-40ef-b644-11654c1674ee",
@@ -884,7 +884,7 @@
             "source": "https://blizzcon.com",
             "images": ["front", "back"],
             "images-name": "zerg",
-            "dates": ["2021-07-16", "2021-12-01", "2022-05-12", "2022-11-04", "2023-04-17"]
+            "dates": ["2021-07-16", "2021-12-01", "2022-05-12", "2022-11-04", "2023-04-17", "2023-09-30"]
         },
         {
             "id": "4c1cd803-9590-4ce2-bea9-26d9afec6576",
@@ -1955,7 +1955,7 @@
             "text": ["O.P.A.", "OUTER PLANETS ALLIANCE"],
             "keywords": ["television", "The Expanse", "Outer Planets Alliance", "OPA", "Open Policy Agent"],
             "images": ["front"],
-            "dates": ["2022-11-02", "2023-04-19"]
+            "dates": ["2022-11-02", "2023-04-19", "2023-10-02"]
         },
         {
             "id": "33ca8c0a-f6d7-4fa2-bb98-f57082cce3c4",
