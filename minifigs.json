@@ -1842,7 +1842,7 @@
             "actor": "Anthony Mackie",
             "item": "colmar05",
             "set": 71031,
-            "dates": ["2023-01-05"]
+            "dates": ["2023-01-05", "2023-10-13"]
         },
         {
             "id": "9d5b5199-5b46-42be-a968-a627daad4b58",
@@ -1851,7 +1851,7 @@
             "actor": "Tom Hiddleston",
             "item": "colmar06",
             "set": 71031,
-            "dates": ["2022-05-17"]
+            "dates": ["2022-05-17", "2023-10-11"]
         },
         {
             "id": "88cc4f82-394e-4760-a31a-a99feb99c640",
@@ -1860,7 +1860,7 @@
             "actor": "Sophia Di Martino",
             "item": "colmar07",
             "set": 71031,
-            "dates": ["2022-05-18"]
+            "dates": ["2022-05-18", "2023-10-12"]
         },
         {
             "id": "b95b9b9c-2983-4a19-951d-88d16b76550d",
