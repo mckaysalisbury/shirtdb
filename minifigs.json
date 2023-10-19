@@ -1811,11 +1811,11 @@
         {
             "id": "4c59398d-ffc6-44e5-9c04-6dc1a293677a",
             "name": "The Vision, Marvel Studios",
-            "keywords": ["comics", "Marvel", "Marvel Cinematic Universe", "Wandavision", "collectible", "Vision"],
+            "keywords": ["comics", "Marvel", "Marvel Cinematic Universe", "Wandavision", "collectible", "Vision", "white"],
             "actor": "Paul Bettany",
             "item": "colmar02",
             "set": 71031,
-            "dates": ["2023-01-12"]
+            "dates": ["2023-01-12", "2023-10-19"]
         },
         {
             "id": "d3fd000b-7576-409f-b182-6c5811da2457",
@@ -1905,7 +1905,7 @@
             "actor": "Zoe Saldana",
             "item": "colmar12",
             "set": 71031,
-            "dates": ["2023-01-09"]
+            "dates": ["2023-01-09", "2023-10-18"]
         },
         {
             "id": "8ead7ca0-80e0-4155-ac33-9e7aeb1dc75b",
