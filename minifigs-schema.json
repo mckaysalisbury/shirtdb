@@ -4,9 +4,9 @@
     "properties": {
       "data": {
         "type": "array",
-        "required": ["id", "name", "keywords", "dates"],
         "items": {
             "type": "object",
+            "required": ["id", "name", "keywords", "dates"],
             "properties": {
                 "id": {
                     "type": "string"
