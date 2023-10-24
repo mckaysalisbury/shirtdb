@@ -1943,11 +1943,19 @@
         },
         {
             "id": "ec857fe8-d861-426b-8af4-7059f25d7dde",
-            "name": "Rogers The Musical",
+            "name": "Rogers The Musical - grey",
             "text": ["ROGERS", "THE MUSICAL", "MARVEL STUDIOS", "hawkeye"],
-            "keywords": ["television", "movies", "comics", "Marvel Cinematic Universe", "Hawkeye", "Steve Rogers", "Rogers", "musical", "Captain America", "Captain America shield", "Clint Barton", "Kate Bishop"],
+            "keywords": ["television", "movies", "comics", "Marvel Cinematic Universe", "Hawkeye", "Steve Rogers", "Rogers", "musical", "Captain America", "Captain America shield", "Clint Barton", "Kate Bishop", "grey"],
             "images": ["front"],
             "dates": ["2022-11-01", "2022-11-17", "2023-05-12"]
+        },
+        {
+            "id": "ec857fe8-d861-426b-8af4-7059f25d7dde",
+            "name": "Rogers The Musical - billboard",
+            "text": ["“A Super-Powered", "Sensation”", "★★★★★", "A", "ROGERS", "THE MUSICAL", "MARVEL STUDIOS", "hawkeye"],
+            "keywords": ["television", "movies", "comics", "Marvel Cinematic Universe", "Hawkeye", "Steve Rogers", "Rogers", "musical", "Captain America", "Captain America shield", "Clint Barton", "Kate Bishop", "black", "yellow"],
+            "images": ["front"],
+            "dates": ["2023-10-24"]
         },
         {
             "id": "ce796ebb-8dd1-419b-9d30-62e200ccffa0",
