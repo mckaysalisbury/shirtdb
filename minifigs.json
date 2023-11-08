@@ -2677,10 +2677,10 @@
         {
             "id": "453908ef-3242-42b5-8755-578e33d697d9",
             "name": "Astronaut - Female, Orange Spacesuit with Dark Bluish Gray Lines, Trans Light Blue Large Visor, Freckles with Smirk and Winking",
-            "keywords": ["City", "space", "Mars", "spacesuit", "jackhammer"],
+            "keywords": ["City", "space", "Mars", "spacesuit", "jackhammer", "drill"],
             "item": "cty1008",
             "set": 40345,
-            "dates": ["2022-07-08"]
+            "dates": ["2022-07-08", "2023-11-08"]
         },
         {
             "id": "e465bc10-2faf-4c8b-99f2-ffd62fe50e1c",
