@@ -2511,10 +2511,10 @@
         {
             "id": "deb9b7b2-f287-4249-9fb4-684dc3bdac44",
             "name": "Metal Dragon",
-            "keywords": ["Vidiyo", "dragon", "music"],
+            "keywords": ["Vidiyo", "dragon", "music", "wings", "red", "rock", "sword"],
             "set": 43109,
             "item": "vid019",
-            "dates": ["2022-04-18"]
+            "dates": ["2022-04-18", "2023-11-15"]
         },
         {
             "id": "dc50b596-0cc1-4552-88bd-dfb0e7b5508b",
