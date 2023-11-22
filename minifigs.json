@@ -2286,7 +2286,7 @@
             "keywords": ["Ninjago", "viper", "snake"],
             "item": "njo723",
             "set": 71760,
-            "dates": ["2022-03-15"]
+            "dates": ["2022-03-15", "2023-11-22"]
         },
         {
             "id": "92e1891b-fafd-4f5e-a991-d72e295985ef",
@@ -4423,6 +4423,16 @@
             "set": 76201,
             "item": "sh751",
             "dates": ["2023-08-23"]
+        },
+        {
+            "id": "98bc8e14-2cde-4778-a9f1-0df821719f10",
+            "name": "Batman 1992",
+            "keywords": ["comics", "movies", "DC", "Detective Comics", "Batman", "Batman (1989)", "Flash", "cowl", "cape", "gargoyle", "Bruce Wayne"],
+            "actor": "Michael Keaton",
+            "notes": "I have a couple of this set. I also have one of this minifigure from its appearance in 76252 (without the gargoyle)",
+            "item": "sh880",
+            "set": 30653,
+            "dates": ["2023-11-21"]
         }
     ]
 }
