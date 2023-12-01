@@ -1276,7 +1276,7 @@
         {
             "id": "5423c8ab-7b00-42f0-97cc-98f530fe5ce0",
             "name": "Kai - Legacy, White Shirt",
-            "keywords": ["Ninjago", "Kai"],
+            "keywords": ["Ninjago", "Kai", "red", "headband", "mask"],
             "item": "njo643",
             "set": 71730,
             "dates": ["2021-10-26", "2022-04-25"]
@@ -2482,7 +2482,7 @@
             "keywords": ["Ninjago", "ninja", "Kai", "red", "dragon"],
             "set": 71701,
             "item": "njo492",
-            "dates": ["2022-04-20"]
+            "dates": ["2022-04-20", "2023-11-30"]
         },
         {
             "id": "abf9b0ff-fc41-440a-89d5-ea73af803943",
@@ -2704,7 +2704,7 @@
             "keywords": ["City", "space", "Mars", "labcoat", "goggles", "camera"],
             "item": "cty1011",
             "set": 40345,
-            "dates": ["2022-07-12"]
+            "dates": ["2022-07-12", "2023-12-01"]
         },
         {
             "id": "4673a5da-cd99-4dc6-873b-d983bde48f80",
