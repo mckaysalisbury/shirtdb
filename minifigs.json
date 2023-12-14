@@ -2517,6 +2517,22 @@
             "dates": ["2022-04-18", "2023-11-15"]
         },
         {
+            "id": "a779eb32-f0d0-4d22-9edf-11aabf699f3f",
+            "name": "HipHop Robot",
+            "keywords": ["Vidiyo", "music", "Daft Punk", "robot", "microphone", "equalizer", "note", "bling"],
+            "item": "vid014",
+            "set": 43107,
+            "dates": ["2022-10-24", "2023-07-06"]
+        },
+        {
+            "id": "71c6a570-c0cb-4f33-b160-161b0e10772f",
+            "name": "Candy Mermaid",
+            "keywords": ["Vidiyo", "music", "mermaid", "candy", "waffle", "guitar", "ice cream", "sea shell"],
+            "item": "vid001",
+            "set": 43102,
+            "dates": []
+        },
+        {
             "id": "dc50b596-0cc1-4552-88bd-dfb0e7b5508b",
             "name": "Leonardo, Gritted Teeth, Smudges",
             "keywords": ["television", "comics", "Teenage Mutant Ninja Turtles", "Leonardo", "blue"],
@@ -3687,14 +3703,6 @@
             "dates": ["2022-12-09"]
         },
         {
-            "id": "a779eb32-f0d0-4d22-9edf-11aabf699f3f",
-            "name": "HipHop Robot",
-            "keywords": ["Vidiyo", "music", "Daft Punk", "robot", "microphone", "equalizer", "note", "bling"],
-            "item": "vid014",
-            "set": 43107,
-            "dates": ["2022-10-24", "2023-07-06"]
-        },
-        {
             "id": "cb94f735-8b34-4c67-b784-7e45f3a44140",
             "name": "Count Dooku - Large Eyes",
             "keywords": ["movies", "Star Wars", "Count Dooku", "Count Dooku of Serenno", "Darth Tyranus"],
@@ -4433,6 +4441,14 @@
             "item": "sh880",
             "set": 30653,
             "dates": ["2023-11-21"]
+        },
+        {
+            "id": "102e65fd-750b-48ec-b569-bdeb4815f4a3",
+            "name": "Santa - Red Fur Lined Jacket with Button, Red Legs, Light Bluish Gray and White Bushy Eyebrows",
+            "keywords": ["holiday", "Christmas", "bag", "beard", "hat", "Santa", "Santa Claus", "St. Nick", "St. Nicholas"],
+            "item": "hol125",
+            "set": 60201,
+            "dates": []
         }
     ]
 }
