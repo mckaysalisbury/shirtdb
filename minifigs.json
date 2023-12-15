@@ -2541,6 +2541,14 @@
             "dates": []
         },
         {
+            "id": "302943fd-0a4d-476d-9743-683bf802f52a",
+            "name": "Punk Pirate",
+            "keywords": ["Vidiyo", "music", "punk", "mohawk", "hook", "pegleg", "eyepatch", "tattoo", "skull and crossbones", "skull", "crossbones", "bone", "anchor", "guitar", "compass", "piranha", "bicorn"],
+            "item": "vid016",
+            "set": 43103,
+            "dates": []
+        },
+        {
             "id": "dc50b596-0cc1-4552-88bd-dfb0e7b5508b",
             "name": "Leonardo, Gritted Teeth, Smudges",
             "keywords": ["television", "comics", "Teenage Mutant Ninja Turtles", "Leonardo", "blue"],
