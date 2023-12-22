@@ -1287,7 +1287,7 @@
             "keywords": ["Ninjago", "Skulkin", "skeleton"],
             "item": "njo642",
             "set": 71730,
-            "dates": ["2021-10-27"]
+            "dates": ["2021-10-27", "2023-12-18"]
         },
         {
             "id": "4ee3c08a-36cd-447a-a1b8-f8b1458ac37d",
@@ -2431,7 +2431,7 @@
             "keywords": ["collectible minifigures", "series 22", "guitar", "coin", "ducat", "sitar", "mandolin", "troubadour", "troubador", "bard", "oud", "lute"],
             "set": 71032,
             "item": "col388",
-            "dates": ["2022-03-22"]
+            "dates": ["2022-03-22", "2023-12-19"]
         },
         {
             "id": "1698d857-d07a-43aa-ac66-e0bf2565d010",
@@ -2474,7 +2474,7 @@
             ],
             "set": 70331,
             "item": "nex031",
-            "dates": ["2022-04-15"]
+            "dates": ["2022-04-15", "2023-12-22"]
         },
         {
             "id": "c22a18ea-ce3c-471f-a8a6-8c837fe958f3",
@@ -4092,7 +4092,7 @@
             "notes": "The minifig also came with a cat mask 18513pb01 which she sports",
             "part": "18513pb01",
             "item": "hp286",
-            "dates": ["2023-01-23"]
+            "dates": ["2023-01-23", "2023-12-20"]
         },
         {
             "id": "537f16bb-2093-4574-aa70-23ba5f09fc61",
@@ -4464,7 +4464,7 @@
             "keywords": ["holiday", "Christmas", "bag", "beard", "hat", "Santa", "Santa Claus", "St. Nick", "St. Nicholas"],
             "item": "hol125",
             "set": 60201,
-            "dates": []
+            "dates": ["2023-12-21"]
         }
     ]
 }
