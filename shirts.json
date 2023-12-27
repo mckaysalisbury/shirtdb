@@ -110,7 +110,7 @@
             "keywords": ["Blizzard", "video games", "StarCrafts", "StarCraft", "Ultralisk", "Marines"],
             "images": ["front"],
             "source": "https://blizzcon.com",
-            "dates": ["2021-05-05", "2021-09-20", "2022-02-03", "2022-07-14", "2022-12-31", "2023-06-29"]
+            "dates": ["2021-05-05", "2021-09-20", "2022-02-03", "2022-07-14", "2022-12-31", "2023-06-29", "2023-12-27"]
         },
         {
             "id": "a46d37cd-9416-40b2-8df7-3b35e3d81e84",
@@ -1616,7 +1616,7 @@
             "keywords": ["space shuttle", "Christmas", "Christmas lights", "Thinkgeek"],
             "source": "https://thinkgeek.com",
             "images": ["front"],
-            "dates": ["2021-12-24", "2022-12-22"]
+            "dates": ["2021-12-24", "2022-12-22", "2023-12-26"]
         },
         {
             "id": "8588a78e-a3ec-4402-ab7b-eae612c5884f",
