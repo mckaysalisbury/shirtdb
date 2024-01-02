@@ -1284,10 +1284,10 @@
         {
             "id": "8e39d744-927e-46dc-99f2-ab1453e669b4",
             "name": "Skulkin - Hat",
-            "keywords": ["Ninjago", "Skulkin", "skeleton"],
-            "item": "njo642",
+            "keywords": ["Ninjago", "Skulkin", "skeleton", "skull", "cone", "conical", "hat"],
             "set": 71730,
-            "dates": ["2021-10-27", "2023-12-18"]
+            "item": "njo642",
+            "dates": ["2021-10-27", "2022-04-22", "2023-12-18"]
         },
         {
             "id": "4ee3c08a-36cd-447a-a1b8-f8b1458ac37d",
@@ -2491,14 +2491,6 @@
             "set": 71701,
             "item": "njo596",
             "dates": ["2022-04-21", "2023-12-26"]
-        },
-        {
-            "id": "3c7a06ee-d3e5-46ed-b503-82e8bde44c47",
-            "name": "Skulkin - Hat",
-            "keywords": ["Ninjago", "Skulkin", "skeleton", "skull"],
-            "set": 71730,
-            "item": "njo642",
-            "dates": ["2022-04-22"]
         },
         {
             "id": "13eb034a-a4ff-4fc0-bfbb-4c162187ac71",
@@ -3929,10 +3921,10 @@
         {
             "id": "fcd4fd5e-c960-4cda-9351-32492f340c40",
             "name": "Ghost, Chain Master Wrayth / Ghost Warrior Wrayth",
-            "keywords": ["Ninjago", "ghost", "chain master", "warrior", "wraith", "Wrayth"],
+            "keywords": ["Ninjago", "ghost", "chain master", "warrior", "wraith", "Wrayth", "translucent"],
             "set": 70744,
             "item": "njo178",
-            "dates": ["2023-01-30"]
+            "dates": ["2023-01-30", "2024-01-02"]
         },
         {
             "id": "a2826508-a10f-449d-878d-479be5dbe08f",
