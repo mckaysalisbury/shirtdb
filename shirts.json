@@ -1181,7 +1181,7 @@
             "images": ["front"],
             "images-name": "pi-rates",
             "source": "https://tanga.com",
-            "dates": ["2021-08-16", "2022-01-11", "2022-06-28", "2022-12-13"]
+            "dates": ["2021-08-16", "2022-01-11", "2022-06-28", "2022-12-13", "2024-01-06"]
         },
         {
             "id": "1e244453-ebd5-466b-bc9b-45fba67cad7d",
@@ -2144,8 +2144,13 @@
             "id": "41d0ddf9-8650-472b-b81e-39cef567541f",
             "name": "Fingertips",
             "text": [],
-            "keywords": ["music", "They Might Be Giants", "Fingertips"],
-            "dates": ["2023-07-03"]
+            "keywords": [
+                "music", "They Might Be Giants", "Fingertips", "fire", "fire extinguisher", "hand", "finger", "wind", "tree", "blow",
+                "megaphone", "mysterious", "figure", "window", "friend", "pillow", "tail", "wreck", "car", "accident", "eye", "hat",
+                "black eye", "milk", "jug", "knock", "wall", "bookshelf", "book", "books", "alone", "blue", "thing", "grab", "understand",
+                "heard", "ear", "sound", "whisper", "lips", "love", "play", "guitar", "pick", "heart", "heart attack", "tie", "pain",
+                "stars", "star", "walk", "corridor", "dark", "darkened cooridor"],
+            "dates": ["2023-07-03", "2024-01-05"]
         },
         {
             "id": "5db61df6-5cfe-4d7c-9386-1fe3a737194c",
