@@ -2291,11 +2291,11 @@
         {
             "id": "92e1891b-fafd-4f5e-a991-d72e295985ef",
             "name": "Harry Potter, Black and Dark Red Uniform",
-            "keywords": ["Harry Potter", "Goblet of Fire", "Triwizard Tournament"],
+            "keywords": ["Harry Potter", "Goblet of Fire", "Triwizard Tournament", "Hogwarts", "Griffindor", "broom"],
             "actor": "Daniel Radcliffe",
             "item": "hp176",
             "set": 75946,
-            "dates": ["2022-04-14"]
+            "dates": ["2022-04-14", "2024-01-10"]
         },
         {
             "id": "c38e9528-7de9-4159-a343-e3477a2b8fa6",
