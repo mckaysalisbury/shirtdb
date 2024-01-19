@@ -137,7 +137,8 @@
             "keywords": ["video games", "Blizzard", "StarCraft", "Zerg", "Kerrigan", "Queen of Blades", "Hydralisk", "Zergling"],
             "source": "https://blizzcon.com",
             "images": ["front", "back"],
-            "dates": ["2021-05-08", "2021-09-24", "2022-02-07", "2022-07-29", "2023-01-14", "2023-07-15"]
+            "notes": "What'sThe first character doesn't have an intrinsic meaning, but it is commonly paired with 水 which would make 墨水 which is 'ink'. So 'inkheart' is not a horrible translation",
+            "dates": ["2021-05-08", "2021-09-24", "2022-02-07", "2022-07-29", "2023-01-14", "2023-07-15", "2024-01-19"]
         },
         {
             "id": "ed786e93-1424-4a55-ada7-fce6eb40d086",
