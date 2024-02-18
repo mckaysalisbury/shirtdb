@@ -149,7 +149,7 @@
             "source": "https://thinkgeek.com",
             "images": ["front", "logo"],
             "notes": "I have two of these",
-            "dates": ["2021-07-04", "2021-05-09", "2021-09-18", "2021-11-14", "2022-03-06", "2022-04-03", "2023-10-01"]
+            "dates": ["2021-07-04", "2021-05-09", "2021-09-18", "2021-11-14", "2022-03-06", "2022-04-03", "2023-10-01", "2024-02-16"]
         },
         {
             "id": "3a17fc8b-01a6-40ef-b644-11654c1674ee",
@@ -1407,7 +1407,7 @@
             "keywords": ["TV", "Big Bang Theory", "physics", "quantum mechanics", "double-slit experiment", "Heisenberg principle", "wave-particle duality", "electron"],
             "source": "https://thinkgeek.com",
             "images": ["front"],
-            "dates": ["2021-09-02", "2022-02-26", "2022-08-24", "2023-02-18", "2023-08-21"]
+            "dates": ["2021-09-02", "2022-02-26", "2022-08-24", "2023-02-18", "2023-08-21", "2024-12-17"]
         },
         {
             "id": "e5e52c99-5f91-4c40-b067-507b3a8f9806",
