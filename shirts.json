@@ -355,7 +355,7 @@
             "keywords": ["programming"],
             "source": "QCon 2018",
             "images": ["front", "back", "left"],
-            "dates": ["2021-05-24", "2021-10-18", "2022-03-24", "2022-08-23", "2023-02-17", "2023-08-18"]
+            "dates": ["2021-05-24", "2021-10-18", "2022-03-24", "2022-08-23", "2023-02-17", "2023-08-18", "2024-02-22"]
         },
         {
             "id": "6310f4d3-0310-4c36-9e9a-b9ccf19af06e",
@@ -1407,7 +1407,7 @@
             "keywords": ["TV", "Big Bang Theory", "physics", "quantum mechanics", "double-slit experiment", "Heisenberg principle", "wave-particle duality", "electron"],
             "source": "https://thinkgeek.com",
             "images": ["front"],
-            "dates": ["2021-09-02", "2022-02-26", "2022-08-24", "2023-02-18", "2023-08-21", "2024-12-17"]
+            "dates": ["2021-09-02", "2022-02-26", "2022-08-24", "2023-02-18", "2023-08-21", "2024-02-17"]
         },
         {
             "id": "e5e52c99-5f91-4c40-b067-507b3a8f9806",
