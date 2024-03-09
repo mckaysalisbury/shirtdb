@@ -2744,7 +2744,7 @@
             "keywords": ["games", "Minecraft", "player", "bow", "enchanted bow", "eye of ender", "diamond armor"],
             "item": "min067",
             "set": 21151,
-            "dates": ["2022-07-13", "2023-07-07"]
+            "dates": ["2022-07-13", "2023-07-07", "2024-03-08"]
         },
         {
             "id": "5661172f-538b-4f2d-9871-f28ceda2da5a",
@@ -4274,7 +4274,7 @@
             "item": "dis069",
             "set": 76831,
             "notes": "This came with an alternate head with hair",
-            "dates": ["2023-05-30"]
+            "dates": ["2023-05-30", "2024-03-07"]
         },
         {
             "id": "ae32d53e-6ae9-4062-8e6f-429b211f1669",
