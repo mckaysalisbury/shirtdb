@@ -393,7 +393,7 @@
             "keywords": ["board games", "Chess", "Mousetrap", "Monopoly", "Risk", "Barrel of monkeys", "jacks", "Battleship", "Operation", "green army men", "knight"],
             "source": "https://shirt.woot.com/offers/game-time",
             "images": ["logo", "front"],
-            "dates": ["2021-05-28", "2021-10-06", "2022-03-18", "2022-05-21", "2022-10-11", "2023-03-28", "2023-09-18"]
+            "dates": ["2021-05-28", "2021-10-06", "2022-03-18", "2022-05-21", "2022-10-11", "2023-03-28", "2023-09-18", "2024-03-21"]
         },
         {
             "id": "23f6ee3b-3a2f-4fbb-abb9-2053676de6c7",
@@ -628,7 +628,7 @@
             "source": "https://contests.stackoverflow.com/promos/13/answerswarm",
             "images": ["front", "logo"],
             "images-name": "arqade-sc",
-            "dates": ["2021-06-18", "2021-11-16", "2022-04-20", "2022-09-17", "2023-03-23", "2023-09-20"]
+            "dates": ["2021-06-18", "2021-11-16", "2022-04-20", "2022-09-17", "2023-03-23", "2023-09-20", "2024-03-22"]
         },
         {
             "id": "5de85cc1-7cec-476e-ac2f-8cd2fd69cfc0",
@@ -1161,7 +1161,7 @@
             "images-name": "be-batman",
             "source": "https://merch.sixflags.com/",
             "images": ["front"],
-            "dates": ["2021-08-14", "2021-12-30", "2022-06-18", "2022-11-22", "2023-05-01", "2023-09-16"]
+            "dates": ["2021-08-14", "2021-12-30", "2022-06-18", "2022-11-22", "2023-05-01", "2023-09-16", "2024-03-25"]
         },
         {
             "id": "ced3a3e2-3d3e-4b17-b801-386c2b7fb3dc",
@@ -1678,7 +1678,7 @@
                 "2023-10-28", "2023-10-29", "2023-11-05", "2023-11-09", "2023-11-12", "2023-11-19", "2023-11-26", "2023-12-03",
                 "2023-12-10", "2023-12-17", "2023-12-24", "2023-12-31", "2024-01-07", "2024-01-13", "2024-01-14", "2024-01-21",
                 "2024-01-28", "2024-02-04", "2024-02-11", "2024-02-19", "2024-02-25", "2024-02-29", "2024-03-03", "2024-03-10",
-                "2024-03-17"
+                "2024-03-17", "2024-03-23", "2024-03-24"
             ]
         },
         {
@@ -1705,7 +1705,7 @@
             "text": ["BORG", "", "STAR TREK", "THE NEXT GENERATION®️"],
             "keywords": ["Television", "Star Trek", "Star Trek: The Next Generation", "The Next Generation", "Borg"],
             "images": ["front", "back"],
-            "dates": ["2022-04-05", "2022-09-14", "2023-03-07", "2023-09-02", "2023-03-09"]
+            "dates": ["2022-04-05", "2022-09-14", "2023-03-07", "2023-09-02", "2024-03-09"]
         },
         {
             "id": "0dcce18e-a71c-4731-9bc3-ed7e9c17e0a5",
@@ -1900,7 +1900,7 @@
             "text": ["Los 🌹", "Hermanos", "MEXICAN RESTAURANT", "", "The Utah", "Examiner", "WOMAN EATS WORLDS", "HOTTEST PEPPER", "AND THEN BREATHES", "FIRE", "Los 🌹", "Hermanos", "UNBELIEVABLY", "DELICIOUS!", "GUADALAJARAN ARCHAEOLOGIST", "UNCOVERS WORLDS", "VERY FIRST TACO!", "WOMAN", "CLAIMS ALIENS", "ABDUCTED HER", "BURRITO!", "9 63211 38444 4", "US $2.95 CAN $3.95"],
             "keywords": ["restaurant", "Los Hermanos", "taco", "burrito", "rose", "alien", "abduction"],
             "images": ["front", "back", "logo"],
-            "dates": ["2023-09-02"]
+            "dates": ["2023-09-02", "2024-03-14"]
         },
         {
             "id": "ddc6433e-3f89-4cf7-a446-3d02820535b3",
@@ -2059,7 +2059,7 @@
             "name": "Extreme Indoor Enthusiast",
             "text": ["EXTREME", "INDOOR", "ENTHUSIAST", "", "newegg.com®️", "ONCE YOU KNOW, YOU NEWEGG."],
             "keywords": ["indoor", "newegg"],
-            "dates": ["2023-04-13", "2023-09-29"]
+            "dates": ["2023-04-13", "2023-09-29", "2024-03-23"]
         },
         {
             "id": "f07ef978-e249-4471-8726-6a4a8f0c8d7c",
