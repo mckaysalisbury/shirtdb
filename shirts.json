@@ -465,7 +465,7 @@
             "style": "polo",
             "source": "https://store.penny-arcade.com/collections/first-party",
             "images": ["logo", "front"],
-            "dates": ["2021-06-01"]
+            "dates": ["2021-06-01", "2024-04-07"]
         },
         {
             "id": "a9e3b058-db52-451f-808e-ede6b60c2041",
@@ -553,7 +553,7 @@
             "keywords": ["comics", "Marvel", "Captain America"],
             "images-name": "captain-america",
             "images": ["front"],
-            "dates": ["2021-06-10", "2022-04-01", "2022-05-11", "2022-10-19", "2023-04-10", "2023-10-10"]
+            "dates": ["2021-06-10", "2022-04-01", "2022-05-11", "2022-10-19", "2023-04-10", "2023-10-10", "2024-04-03"]
         },
         {
             "id": "07967588-d1ec-4fbf-b836-bf11463bc084",
@@ -572,7 +572,7 @@
             "source": "https://shirt.woot.com/offers/university-wikipedius",
             "images-name": "wikipedius",
             "images": ["front", "logo"],
-            "dates": ["2021-06-12", "2021-11-19", "2022-04-26", "2022-09-21", "2023-03-16", "2023-09-14", "2024-03-01"]
+            "dates": ["2021-06-12", "2021-11-19", "2022-04-26", "2022-09-21", "2023-03-16", "2023-09-14", "2024-03-01", "2027-04-04"]
         },
         {
             "id": "4e37f235-9eb7-4295-8a85-68aced0ccc0f",
@@ -684,11 +684,11 @@
             "id": "691fdc1b-f3b1-4afe-ad3a-bdcda7588571",
             "name": "Save the Princess",
             "text": ["MARIO BROS", "SAVE THE PRINCESS", "SAVE WORLD 8-4"],
-            "keywords": ["video games", "Nintendo", "Super Mario Bros.", "Heroes", "Claire Bennet"],
+            "keywords": ["video games", "Nintendo", "Super Mario Bros.", "Heroes", "Claire Bennet", "eclipse", "sun", "moon"],
             "source": "https://www.offworlddesigns.com/save-the-princess-t-shirt/",
             "notes": "I don't *think* I bought it from OffWorld Designs but I can't find it elsewhere",
             "images": ["front"],
-            "dates": ["2021-06-24", "2021-11-23", "2022-04-27", "2022-10-04", "2023-03-18", "2023-09-25", "2024-03-26"]
+            "dates": ["2021-06-24", "2021-11-23", "2022-04-27", "2022-10-04", "2023-03-18", "2023-09-25", "2024-03-26", "2024-04-08"]
         },
         {
             "id": "5cdf1b8a-d714-43b6-b834-b913dc1fa40f",
@@ -810,7 +810,7 @@
             "keywords": ["video games", "Blizzard", "BlizzCon", "key art", "WarCraft", "World of WarCraft", "Sindragosa", "Diablo", "Diablo III", "Barbarian", "StarCraft", "StarCraft II", "Ghost"],
             "source": "https://blizzcon.com",
             "images": ["front", "logo", "back"],
-            "dates": ["2021-07-08", "2021-11-27", "2022-05-06", "2022-10-18", "2023-04-11", "2023-10-07"]
+            "dates": ["2021-07-08", "2021-11-27", "2022-05-06", "2022-10-18", "2023-04-11", "2023-10-07", "2024-04-09"]
         },
         {
             "id": "7a1a3f53-e30c-42b2-aba2-65a0397152ae",
@@ -1202,7 +1202,7 @@
             "source": "https://shirt.woot.com/offers/po-tay-toes",
             "images-name": "po-tay-toes",
             "images": ["front"],
-            "dates": ["2021-08-18", "2021-09-11", "2022-02-23", "2022-07-23", "2023-01-18", "2023-07-12", "2023-11-24"]
+            "dates": ["2021-08-18", "2021-09-11", "2022-02-23", "2022-07-23", "2023-01-18", "2023-07-12", "2023-11-24", "2024-04-06"]
         },
         {
             "id": "6f8654be-27fd-4fe6-8ae5-543caaa6876c",
@@ -1398,7 +1398,7 @@
             "notes": "I have two copies of this shirt",
             "source": "https://sixflags.com",
             "images": ["front"],
-            "dates": ["2021-09-01", "2022-02-15", "2022-03-12", "2022-05-18", "2022-11-08", "2023-05-10", "2023-10-17"]
+            "dates": ["2021-09-01", "2022-02-15", "2022-03-12", "2022-05-18", "2022-11-08", "2023-05-10", "2023-10-17", "2024-04-09"]
         },
         {
             "id": "30260a0e-1078-4af7-8429-8198945fc7b3",
@@ -1407,7 +1407,7 @@
             "keywords": ["TV", "Big Bang Theory", "physics", "quantum mechanics", "double-slit experiment", "Heisenberg principle", "wave-particle duality", "electron"],
             "source": "https://thinkgeek.com",
             "images": ["front"],
-            "dates": ["2021-09-02", "2022-02-26", "2022-08-24", "2023-02-18", "2023-08-21", "2024-02-17"]
+            "dates": ["2021-09-02", "2022-02-26", "2022-08-24", "2023-02-18", "2023-08-21", "2024-02-17", "2024-04-01", "2024-04-02"]
         },
         {
             "id": "e5e52c99-5f91-4c40-b067-507b3a8f9806",
@@ -1678,7 +1678,7 @@
                 "2023-10-28", "2023-10-29", "2023-11-05", "2023-11-09", "2023-11-12", "2023-11-19", "2023-11-26", "2023-12-03",
                 "2023-12-10", "2023-12-17", "2023-12-24", "2023-12-31", "2024-01-07", "2024-01-13", "2024-01-14", "2024-01-21",
                 "2024-01-28", "2024-02-04", "2024-02-11", "2024-02-19", "2024-02-25", "2024-02-29", "2024-03-03", "2024-03-10",
-                "2024-03-17", "2024-03-23", "2024-03-24"
+                "2024-03-17", "2024-03-23", "2024-03-24", "2024-03-31"
             ]
         },
         {
@@ -1909,7 +1909,7 @@
             "keywords": ["video games", "Breakout", "Texas", "National Videogame Museum", "bricks"],
             "images-name": "nvgm-breakout",
             "images": ["front"],
-            "dates": ["2022-08-13", "2023-02-06", "2023-08-24", "2024-02-05"]
+            "dates": ["2022-08-13", "2023-02-06", "2023-08-24", "2024-02-05", "2024-04-05"]
         },
         {
             "id": "417fbcae-c95c-4eef-bb2d-6166e932a680",
