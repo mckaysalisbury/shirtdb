@@ -572,7 +572,7 @@
             "source": "https://shirt.woot.com/offers/university-wikipedius",
             "images-name": "wikipedius",
             "images": ["front", "logo"],
-            "dates": ["2021-06-12", "2021-11-19", "2022-04-26", "2022-09-21", "2023-03-16", "2023-09-14", "2024-03-01", "2027-04-04"]
+            "dates": ["2021-06-12", "2021-11-19", "2022-04-26", "2022-09-21", "2023-03-16", "2023-09-14", "2024-03-01", "2024-04-04"]
         },
         {
             "id": "4e37f235-9eb7-4295-8a85-68aced0ccc0f",
@@ -1403,7 +1403,7 @@
         {
             "id": "30260a0e-1078-4af7-8429-8198945fc7b3",
             "name": "Double-Slit Experiment T-Shirt",
-            "text": ["FIGURE 1: PHOTON IS OBSERVED", "FIGURE 2: PHOTON IS UNOBSERVED", "FIGURE 3: PHOTON IN OBSERVED AFTER LEAVING THE PLANE", "*CONCLUSION: THIS IS A GREAT IDEA FOR A TSHIRT.", "TM & © Warner Bros. Entertainment Inc.", "($10)"],
+            "text": ["FIGURE 1: PHOTON IS OBSERVED", "FIGURE 2: PHOTON IS UNOBSERVED", "FIGURE 3: PHOTON IS OBSERVED AFTER LEAVING THE PLANE", "*CONCLUSION: THIS IS A GREAT IDEA FOR A TSHIRT.", "TM & © Warner Bros. Entertainment Inc.", "($10)"],
             "keywords": ["TV", "Big Bang Theory", "physics", "quantum mechanics", "double-slit experiment", "Heisenberg principle", "wave-particle duality", "electron"],
             "source": "https://thinkgeek.com",
             "images": ["front"],
