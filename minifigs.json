@@ -4463,6 +4463,7 @@
             "id": "e7a1a5dd-e255-4ebb-ab36-5d33eee07eff",
             "name": "Iron Man - Mark 85 Armor, Large Helmet Visor - with Energy Effects",
             "keywords": ["advent calendar", "Iron Man", "Tony Stark", "helmet"],
+            "actor": "Robert Downey Jr.",
             "item": "sh904",
             "set": 76267,
             "dates": []
@@ -4471,6 +4472,7 @@
             "id": "cd8094aa-ec52-4a23-8917-f46dd173e8a6",
             "name": "Spider-Man - Christmas Sweater - with web shooters",
             "keywords": ["advent calendar", "holiday", "Christmas", "Spider-Man", "ugly sweater", "web shooters", "snowflake"],
+            "actor": "Tom Holland",
             "item": "sh905",
             "set": 76267,
             "dates": ["2024-04-18"]
@@ -4479,6 +4481,7 @@
             "id": "aab0509e-c369-4cd9-afca-df7021183eb9",
             "name": "Black Widow - Christmas Sweater - Icicle Batons",
             "keywords": ["advent calendar", "holiday", "Christmas", "Black Widow", "Natasha Romanoff", "ugly sweater", "batons", "snowman", "hourglass", "tree", "Christmas tree"],
+            "actor": "Scarlett Johansson",
             "item": "sh907",
             "set": 76267,
             "dates": []
@@ -4487,6 +4490,7 @@
             "id": "60ce9ef9-a533-4592-9094-9263c6019012",
             "name": "Captain America - Dark Blue Suit, Dark Red Hands, Hair - with Shield - with Jetpack",
             "keywords": ["advent calendar", "Captain America", "Stve Rogers", "star", "shield", "jetpack"],
+            "actor": "Chris Evans",
             "item": "sh908",
             "set": 76267,
             "notes": "This is the same minifig as in Avengers tower 76269, but that one doesn't come with a jetpack",
@@ -4496,14 +4500,16 @@
             "id": "0cbb4ff7-ae31-4d32-a8f0-83f1a4223b91",
             "name": "Okoye - Red Top - with spear",
             "keywords": ["advent calendar", "Okoye", "Wakandan", "Wakanda", "vibranium", "spear", "Dora Milaje"],
+            "actor": "Danai Gurira",
             "item": "sh847",
             "set": 76267,
-            "dates": []
+            "dates": ["2024-04-19"]
         },
         {
             "id": "2bb15af5-6bc6-4751-a6da-5119632c4d7b",
             "name": "Dr. Strange - Brooch - Casting Spell - with Cloak of Levitation",
             "keywords": ["advent calendar", "Dr. Strange", "brooch", "cape", "spell", "cloak", "cloak of levitation"],
+            "actor": "Benedict Cumberbatch",
             "item": "sh909",
             "set": 76267,
             "notes": "This came in an advent calendar. On a different day in the calendar the cloak was included. I'm putting them together. However, this makes the minifig the same as is in 76218 and 30652 sh802, but because I received this minifig as this particular variant, I'm including it (and this one has spells, so it's totally different ;) ).",
