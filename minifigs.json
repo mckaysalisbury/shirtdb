@@ -116,7 +116,7 @@
             "id": "9cdae6ca-3516-44ec-9d54-5e4d9dd6f346",
             "name": "Poison Mushroom",
             "style": "item",
-            "keywords": ["video games", "Nintendo", "Super Mario", "Character Pack Series 2"],
+            "keywords": ["video games", "Nintendo", "Super Mario", "Character Pack Series 2", "mushroom"],
             "item": "mar0060",
             "set": 71386,
             "dates": ["2021-05-05"]
@@ -128,7 +128,7 @@
             "keywords": ["video games", "Nintendo", "Super Mario"],
             "set": 30385,
             "part": "66855pb01",
-            "dates": ["2021-05-06", "2023-03-10"]
+            "dates": ["2021-05-06", "2023-03-10", "2024-04-30"]
         },
         {
             "id": "b8fb99a2-07c0-4453-8e55-a8f0ee62a06b",
