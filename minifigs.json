@@ -1250,10 +1250,10 @@
             "id": "e41cc3c3-12e0-484a-baca-b9e8225de870",
             "name": "1-Up Mushroom",
             "style": "character",
-            "keywords": ["Super Mario", "1-Up", "mushroom"],
+            "keywords": ["Super Mario", "1-up", "mushroom", "one-up", "extra life"],
             "item": "mar0066",
             "set": 71394,
-            "dates": ["2021-10-21"]
+            "dates": ["2021-10-21", "2024-05-03"]
         },
         {
             "id": "c4e741fd-2a6d-4e26-85b2-a75f33b952e5",
