@@ -909,11 +909,11 @@
             "id": "6dcab1a1-9498-48ae-89b7-c64c6866ef9d",
             "name": "TMBG IFC 2020",
             "text": ["THEY", "MIGHT", "BE", "GIANTS", "NSTANT", "FAN", "CLUB"],
-            "keywords": ["music", "band", "They Might Be Giants", "TMBG", "Instant Fan Club", "2020"],
+            "keywords": ["music", "band", "They Might Be Giants", "TMBG", "Instant Fan Club", "2020", "vault"],
             "source": "https://www.tmbgifc.com/",
             "images-name": "ifc-2020",
             "images": ["front"],
-            "dates": ["2021-07-19", "2021-12-06", "2022-06-11", "2022-12-07", "2023-05-31", "2023-11-15"]
+            "dates": ["2021-07-19", "2021-12-06", "2022-06-11", "2022-12-07", "2023-05-31", "2023-11-15", "2024-05-08"]
         },
         {
             "id": "e5e98c8f-4d69-4a69-be92-9aa4b4ea29b9",
