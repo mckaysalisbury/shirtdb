@@ -337,10 +337,10 @@
         {
             "id": "d48bec9a-f35e-48f1-90b8-1fdd546ca38c",
             "name": "Maddox",
-            "keywords": ["movies", "The LEGO Movie", "The LEGO Movie 2"],
+            "keywords": ["movies", "The LEGO Movie", "The LEGO Movie 2", "wasteland", "spear", "shoulder spike"],
             "item": "tlm119",
             "set": 70836,
-            "dates": ["2021-06-04"]
+            "dates": ["2021-06-04", "2024-05-28"]
         },
         {
             "id": "a31477a7-2fa7-4e27-b5ed-988ff1bc2f8d",
@@ -367,7 +367,7 @@
             "keywords": ["movies", "The LEGO Movie"],
             "item": "tlm025",
             "set": 70801,
-            "dates": ["2021-06-10"]
+            "dates": ["2021-06-10", "2024-05-29"]
         },
         {
             "id": "5256bba4-6439-4800-ae1d-0e2bd6fa0061",
