@@ -205,7 +205,7 @@
             "actor": "Charlie Day",
             "item": "tlm094",
             "set": 70818,
-            "dates": ["2021-05-14"]
+            "dates": ["2021-05-14", "2024-05-30"]
         },
         {
             "id": "5563d887-4be9-41a8-bccd-ded5ecc4512e",
@@ -288,7 +288,7 @@
             "actor": "Alison Brie",
             "item": "tlm075",
             "set": 70809,
-            "dates": ["2021-05-26"]
+            "dates": ["2021-05-26", "2024-06-13"]
         },
         {
             "id": "b5f7486d-2b3b-408b-9b0b-f645622e1434",
@@ -3333,7 +3333,7 @@
             "keywords": ["video games", "movies", "LEGO Dimensions", "The LEGO Movie", "Benny", "space", "megaphone", "air tanks", "helmet", "cracked helmet"],
             "item": "tlm057",
             "set": 71214,
-            "dates": ["2023-03-24", "2024-05-30"]
+            "dates": ["2023-03-24"]
         },
         {
             "id": "ff0b97aa-8cbc-46dc-8866-765222d89d9f",
