@@ -484,7 +484,7 @@
             "keywords": ["video games", "TV", "Nintendo", "Mario", "Super Mario Bros.", "TMNT", "Teenage Mutant Ninja Turtles", "Koopa Troopa", "Koopa Paratroopa"],
             "images": ["front", "logo"],
             "images-name": "koopas",
-            "dates": ["2021-06-03", "2021-10-28", "2022-03-22", "2022-08-31", "2023-02-11", "2023-08-25", "2024-02-10"]
+            "dates": ["2021-06-03", "2021-10-28", "2022-03-22", "2022-08-31", "2023-02-11", "2023-08-25", "2024-02-10", "2024-06-25"]
         },
         {
             "id": "527784a5-dd6d-4748-b571-f98aa34c1a04",
@@ -1089,7 +1089,7 @@
             "keywords": ["video games", "Blizzard", "StarCraft", "StarCraft II", "Terran", "Tychus", "Zerg", "hydralisk", "marine"],
             "images": ["front", "back"],
             "images-name": "tychus-hydralisk",
-            "dates": ["2021-08-07", "2022-01-18", "2022-07-01", "2022-12-29", "2023-07-05", "2023-12-29"]
+            "dates": ["2021-08-07", "2022-01-18", "2022-07-01", "2022-12-29", "2023-07-05", "2023-12-29", "2024-06-24"]
         },
         {
             "id": "2b890529-f029-4013-a3f5-0bd9406c18dc",
