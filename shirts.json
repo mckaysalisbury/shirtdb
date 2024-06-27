@@ -4,7 +4,7 @@
         {
             "id": "5f44f4d9-a131-4c74-9753-0295b03fa2e7",
             "name": "StarCrafts - Trio",
-            "keywords": ["video games", "Blizzard", "StarCrafts", "StarCraft", "Zealot", "Zergling", "Marine"],
+            "keywords": ["video games", "Blizzard", "StarCrafts", "StarCraft", "Zealot", "Zergling", "Marine", "carbot"],
             "text": [],
             "images": ["front", "back"],
             "images-name": "trio",
@@ -107,10 +107,10 @@
             "id": "a51080ed-5c3f-425a-add3-533d161c8d4b",
             "name": "StarCrafts - Ultralisk",
             "text": [],
-            "keywords": ["Blizzard", "video games", "StarCrafts", "StarCraft", "Ultralisk", "Marines"],
+            "keywords": ["Blizzard", "video games", "StarCrafts", "StarCraft", "Ultralisk", "Marines", "carbot"],
             "images": ["front"],
             "source": "https://blizzcon.com",
-            "dates": ["2021-05-05", "2021-09-20", "2022-02-03", "2022-07-14", "2022-12-31", "2023-06-29", "2023-12-27"]
+            "dates": ["2021-05-05", "2021-09-20", "2022-02-03", "2022-07-14", "2022-12-31", "2023-06-29", "2023-12-27", "2024-06-26"]
         },
         {
             "id": "a46d37cd-9416-40b2-8df7-3b35e3d81e84",
@@ -984,7 +984,7 @@
             "id": "5974d76d-25ba-4b77-9de4-10b29d230a42",
             "name": "6 pool",
             "text": ["6", "pool", "", "STAR", "CRAFTS"],
-            "keywords": ["video games", "Blizzard", "StarCraft", "StarCrafts", "Zerg", "Spawning Pool", "Drone", "Zergling"],
+            "keywords": ["video games", "Blizzard", "StarCraft", "StarCrafts", "Zerg", "Spawning Pool", "Drone", "Zergling", "carbot"],
             "images": ["front", "back"],
             "source": "https://blizzcon.com",
             "dates": ["2021-07-28", "2021-12-22", "2022-06-15", "2022-12-01", "2023-06-03", "2023-11-04", "2024-05-13"]
@@ -1340,7 +1340,7 @@
             "text": ["⭐ BROWNCOAT ⭐", "", "I AIM TO MISBEHAVE", "SERENITY", "Serenity © Universal Studios"],
             "keywords": ["TV", "Joss Whedon", "Firefly", "Serenity", "Browncoat", "Independent Planets", "rebellion"],
             "images": ["front", "back", "logo"],
-            "dates": ["2021-08-27", "2022-01-21", "2022-07-05", "2023-01-03", "2023-06-19", "2023-12-23"]
+            "dates": ["2021-08-27", "2022-01-21", "2022-07-05", "2023-01-03", "2023-06-19", "2023-12-23", "2024-06-27"]
         },
         {
             "id": "b5fac53d-6339-467d-996d-a4cfdcc485e7",
