@@ -4514,6 +4514,30 @@
             "set": 76267,
             "notes": "This came in an advent calendar. On a different day in the calendar the cloak was included. I'm putting them together. However, this makes the minifig the same as is in 76218 and 30652 sh802, but because I received this minifig as this particular variant, I'm including it (and this one has spells, so it's totally different ;) ).",
             "dates": ["2024-04-25"]
+        },
+        {
+            "id": "14d1ea49-82ea-4ceb-879f-4b01ad97ad3c",
+            "name": "E-Sports Gamer",
+            "keywords": ["collectible minifigures", "series 25", "gamer", "keyboard", "mouse", "trophy"],
+            "item": "col425",
+            "set": 71045,
+            "dates": ["2024-07-02"]
+        },
+        {
+            "id": "9b832cf0-4332-4aed-9ff8-b65257003e94",
+            "name": "Vampire Knight",
+            "keywords": ["collectible minifigures", "series 25", "vampire", "knight", "axe", "shield"],
+            "item": "col426",
+            "set": 71045,
+            "dates": []
+        },
+        {
+            "id": "14d1ea49-82ea-4ceb-879f-4b01ad97ad3c",
+            "name": "Fierce Barbarian",
+            "keywords": ["collectible minifigures", "series 25", "barbarian", "sword", "broadsword"],
+            "item": "col434",
+            "set": 71045,
+            "dates": []
         }
     ]
 }
