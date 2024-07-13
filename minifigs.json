@@ -544,20 +544,20 @@
             "dates": ["2021-07-09"]
         },
         {
-            "id": "62fcd79b-d13a-420f-9bae-978cd4c41d91",
-            "name": "Male Driver with Dark Blue Jacket, Dark Tan Legs with Dark Bluish Gray Splotches, Dark Brown Hair",
-            "keywords": ["promotional", "City", "town"],
-            "item": "twn396",
-            "set": 40409,
-            "dates": ["2021-07-12"]
-        },
-        {
             "id": "8a75ddd6-2add-487c-99c8-75791f3dddec",
             "name": "Police - LEGO City Undercover Elite Police Motorcycle Officer",
             "keywords": ["City", "LEGO City Undercover", "police"],
             "item": "cty0357",
             "set": 60007,
             "dates": ["2021-07-13", "2024-07-10"]
+        },
+        {
+            "id": "62fcd79b-d13a-420f-9bae-978cd4c41d91",
+            "name": "Male Driver with Dark Blue Jacket, Dark Tan Legs with Dark Bluish Gray Splotches, Dark Brown Hair",
+            "keywords": ["promotional", "City", "town"],
+            "item": "twn396",
+            "set": 40409,
+            "dates": ["2021-07-12", "2024-07-12"]
         },
         {
             "id": "195d6c71-996f-400b-8525-618a1c606ab4",
