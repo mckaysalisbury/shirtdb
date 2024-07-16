@@ -493,7 +493,7 @@
             "actor": "Joesph May",
             "item": "cty0356",
             "set": 60007,
-            "dates": ["2021-07-02"]
+            "dates": ["2021-07-02", "2024-07-16"]
         },
         {
             "id": "4b0986c5-1c23-4e92-9ba5-aebf4c41b054",
@@ -557,7 +557,7 @@
             "keywords": ["promotional", "City", "town"],
             "item": "twn396",
             "set": 40409,
-            "dates": ["2021-07-12", "2024-07-12"]
+            "dates": ["2021-07-12", "2024-07-12", "2024-07-15"]
         },
         {
             "id": "195d6c71-996f-400b-8525-618a1c606ab4",
@@ -566,14 +566,6 @@
             "item": "twn395",
             "set": 40409,
             "dates": ["2021-07-14", "2024-07-09"]
-        },
-        {
-            "id": "94f61aca-3dfc-4529-9125-cc863b354194",
-            "name": "Overalls with Safety Stripe Orange, Black Legs, Dark Bluish Gray Knit Cap, Black Legs, Black Eyebrows, Thin Grin",
-            "keywords": ["City", "Town", "Winter Village"],
-            "item": "twn123a",
-            "set": 10216,
-            "dates": ["2021-07-15", "2024-07-08"]
         },
         {
             "id": "fcdc70fb-f81d-489e-8f1c-f581300d116c",
@@ -2986,13 +2978,12 @@
             "dates": []
         },
         {
-            "id": "613fc8dc-99d6-4d69-9dad-c019525c6460",
+            "id": "94f61aca-3dfc-4529-9125-cc863b354194",
             "name": "Overalls with Safety Stripe Orange, Black Legs, Dark Bluish Gray Knit Cap, Brown Eyebrows, Thin Grin",
-            "keywords": ["City", "Winter Village", "construction"],
-            "notes": "This was given to the boys, and has been mixed up.",
+            "keywords": ["City", "Town", "Winter Village", "construction"],
             "item": "twn123",
             "set": 10216,
-            "dates": []
+            "dates": ["2021-07-15", "2024-07-08"]
         },
         {
             "id": "88560494-c170-452d-8d75-3e2f5a53c174",
