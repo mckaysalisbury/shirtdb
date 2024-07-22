@@ -533,7 +533,7 @@
             "keywords": ["City", "Space"],
             "item": "cty0567",
             "set": 60078,
-            "dates": ["2021-07-08"]
+            "dates": ["2021-07-08", "2024-07-22"]
         },
         {
             "id": "7147326d-c5e0-478e-88d8-a4073a96f554",
@@ -541,7 +541,7 @@
             "keywords": ["City", "Space"],
             "item": "cty0568",
             "set": 60078,
-            "dates": ["2021-07-09"]
+            "dates": ["2021-07-09", "2024-07-17"]
         },
         {
             "id": "8a75ddd6-2add-487c-99c8-75791f3dddec",
@@ -4523,7 +4523,7 @@
             "dates": ["2024-07-05"]
         },
         {
-            "id": "14d1ea49-82ea-4ceb-879f-4b01ad97ad3c",
+            "id": "070092d9-20d7-4456-8424-aacd5afda636",
             "name": "Fierce Barbarian",
             "keywords": ["collectible minifigures", "series 25", "barbarian", "sword", "broadsword"],
             "item": "col434",
