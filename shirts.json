@@ -384,7 +384,7 @@
             "source": "https://www.dogooderpress.com",
             "images": ["front"],
             "images-name": "bonesmd",
-            "dates": ["2021-05-27", "2021-10-01", "2022-03-02", "2022-08-22", "2023-02-08", "2023-08-26", "2024-02-07"]
+            "dates": ["2021-05-27", "2021-10-01", "2022-03-02", "2022-08-22", "2023-02-08", "2023-08-26", "2024-02-07", "2024-07-24"]
         },
         {
             "id": "3de097c6-ce9e-4e0c-9960-47428a1037ab",
@@ -820,7 +820,7 @@
             "source": "https://blizzcon.com",
             "images": ["front", "left"],
             "images-name": "mechazerg",
-            "dates": ["2021-07-09", "2021-12-14", "2022-05-31", "2022-10-22", "2023-04-01", "2023-10-09", "2024-04-18"]
+            "dates": ["2021-07-09", "2021-12-14", "2022-05-31", "2022-10-22", "2023-04-01", "2023-10-09", "2024-04-18", "2024-07-25"]
         },
         {
             "id": "dff0af98-a416-457a-94ef-9c2bebc939f0",
@@ -894,7 +894,7 @@
             "keywords": ["video games", "Nintendo", "Mario", "Luigi", "DC", "comics", "Batman", "Robin", "mashup"],
             "source": "https://shirt.woot.com/offers/super-duo-jump",
             "images": ["front"],
-            "dates": ["2021-07-17", "2021-12-16", "2022-06-10", "2022-11-24", "2023-05-02", "2023-10-27", "2024-05-02"]
+            "dates": ["2021-07-17", "2021-12-16", "2022-06-10", "2022-11-24", "2023-05-02", "2023-10-27", "2024-05-02", "2024-07-26"]
         },
         {
             "id": "6ff318a1-4268-4aaf-a8f9-934510375a97",
@@ -1172,7 +1172,7 @@
             "source": "https://thinkgeek.com",
             "images": ["front", "logo"],
             "images-name": "starfleet-academy",
-            "dates": ["2021-08-14", "2021-08-15", "2022-01-16"]
+            "dates": ["2021-08-14", "2021-08-15", "2022-01-16", "2024-07-28"]
         },
         {
             "id": "2f1cde9e-b526-478e-8488-6837ffdbbbaa",
@@ -2196,6 +2196,15 @@
             "style": "button down",
             "keywords": ["hawaiian", "pocket", "flower", "flowers"],
             "dates": ["2024-06-15"]
+        },
+        {
+            "id": "fd59d505-502f-4f9b-8a82-b9bb26b7eeb3",
+            "name": "Lower Decks command uniform",
+            "text": [],
+            "style": "uniform",
+            "keywords": ["television", "Star Trek", "uniform", "Lower Decks", "command", "Boimler"],
+            "dates": ["2024-07-27"]
+
         }
     ]
 }
