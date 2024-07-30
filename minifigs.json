@@ -596,10 +596,10 @@
         {
             "id": "4c997cd8-6d86-47f9-afae-5961832c5957",
             "name": "M:Tron with Airtanks",
-            "keywords": ["Space", "M:Tron"],
+            "keywords": ["Space", "M:Tron", "M-Tron"],
             "item": "sp033",
             "set": 6896,
-            "dates": ["2021-07-21"]
+            "dates": ["2021-07-21", "2024-07-30"]
         },
         {
             "id": "25f20971-8229-4f76-9c1b-34713932a6d1",
@@ -615,7 +615,7 @@
             "keywords": ["Space", "Blacktron"],
             "item": "sp051",
             "set": 6812,
-            "dates": ["2021-07-23"]
+            "dates": ["2021-07-23", "2024-07-29"]
         },
         {
             "id": "9d1a63d7-3c69-4da4-9dbd-99a6af7a4021",
@@ -4529,6 +4529,70 @@
             "item": "col434",
             "set": 71045,
             "dates": ["2024-07-03"]
+        },
+        {
+            "id": "af4ccf5f-3b30-4af1-9b89-b3031e370e7d",
+            "name": "Alien Beetlezoid",
+            "keywords": ["collectible minifigures", "series 26", "space", "alien", "beetle", "beetlezoid"],
+            "item": "col446",
+            "set": 71046,
+            "dates": []
+        },
+        {
+            "id": "54538dd4-4b10-4b8c-846c-b75afc14e1a8",
+            "name": "Blacktron Mutant",
+            "keywords": ["collectible minifigures", "series 26", "space", "alien", "Blacktron", "Blacktron 2", "mutant", "blaster", "extra arm", "mohawk", "mask"],
+            "item": "col448",
+            "set": 71046,
+            "dates": []
+        },
+        {
+            "id": "9e9d3e3d-1caf-441b-a0eb-ea049d4412f3",
+            "name": "Flying Saucer Costume Fan",
+            "keywords": ["collectible minifigures", "series 26", "space", "alien", "costume", "flying saucer", "UFO", "stars"],
+            "item": "col443",
+            "set": 71046,
+            "dates": []
+        },
+        {
+            "id": "ef770300-bbbc-4aae-93de-168719165b25",
+            "name": "Imposter",
+            "keywords": ["collectible minifigures", "series 26", "imposter", "green", "antenna", "mech"],
+            "item": "col437",
+            "set": 71046,
+            "dates": []
+        },
+        {
+            "id": "9ac003ef-4417-4a68-b87d-1d5b828f28f2",
+            "name": "M-Tron Powerlifter",
+            "keywords": ["collectible minifigures", "series 26", "space", "M-Tron", "M:Tron", "powerlifter"],
+            "item": "col440",
+            "set": 71046,
+            "dates": []
+        },
+        {
+            "id": "74856713-9f40-47ae-b5e2-29a7fb084374",
+            "name": "Nurse Android",
+            "keywords": ["collectible minifigures", "series 26", "space", "robot", "android", "nurse", "bottle", "spacebaby", "pink", "battery"],
+            "item": "col441",
+            "set": 71046,
+            "dates": []
+        },
+        {
+            "id": "55ace5f9-a686-4bde-8e1c-57604072c69e",
+            "name": "Orion",
+            "keywords": ["collectible minifigures", "series 26", "space", "alien", "constellation", "Orion", "shield", "club"],
+            "item": "col447",
+            "set": 71046,
+            "dates": []
+        },
+        {
+            "id": "55650154-c8c5-442e-84fb-8af88a2e5793",
+            "name": "Spacewalking Astronaut",
+            "keywords": ["collectible minifigures", "series 26", "space", "astronaut", "spacewalk", "helmet", "camera", "space suit"],
+            "item": "col436",
+            "set": 71046,
+            "dates": []
         }
     ]
 }
