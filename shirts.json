@@ -2204,7 +2204,14 @@
             "style": "uniform",
             "keywords": ["television", "Star Trek", "uniform", "Lower Decks", "command", "Boimler"],
             "dates": ["2024-07-27"]
-
+        },
+        {
+            "id": "1889b2e7-8a28-4831-9ef5-58790a03f1cd",
+            "name": "qep'a' wejmaH wa'DIch",
+            "text": ["reH maSuvrup", "qep'a' wejmaH wa'DIch"],
+            "keywords": ["qep'a'", "Klingon", "KLI", "pIqaD", "warriors", "hair"],
+            "note": "I think there might be some pun here with like ponytail or something?",
+            "dates": ["2024-07-31"]
         }
     ]
 }
