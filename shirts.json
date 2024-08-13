@@ -541,10 +541,10 @@
             "id": "a1959e64-bb5a-41f8-8528-1deafb1e1261",
             "name": "BlizzCon 2007",
             "text": ["BLIZZCON", "", "BLIZZARD®", "ENTERTAINMENT"],
-            "keywords": ["video games", "Blizzard", "BlizzCon", "WarCraft", "Diablo", "StarCraft", "Dranei", "Protoss", "Zealot", "Terran", "Tychus Findlay", "Murloc", "Blood Elf"],
+            "keywords": ["video games", "Blizzard", "BlizzCon", "WarCraft", "Diablo", "StarCraft", "Draenei", "Protoss", "Zealot", "Terran", "Tychus Findlay", "Murloc", "Blood Elf"],
             "source": "https://blizzcon.com",
             "images": ["front", "logo", "right", "back"],
-            "dates": ["2021-06-09", "2022-04-02", "2022-09-02", "2023-02-23", "2023-08-22", "2024-02-06"]
+            "dates": ["2021-06-09", "2022-04-02", "2022-09-02", "2023-02-23", "2023-08-22", "2024-02-06", "2024-08-12"]
         },
         {
             "id": "20fffcad-fce2-4021-af17-e3c8e4bd1aac",
