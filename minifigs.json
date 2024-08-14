@@ -5,7 +5,7 @@
             "id": "5d82d607-5766-4d3a-a73f-4f386404cbe2",
             "name": "Batman - Short Legs",
             "keywords": ["comics", "DC", "Batman", "mighty micro"],
-            "item": "sh242",
+            "item": "sh0242",
             "set": 76061,
             "dates": ["2021-04-26", "2023-07-13"]
         },
@@ -22,7 +22,7 @@
             "id": "a4545977-4e6e-4db5-a0ee-e277c629a997",
             "name": "Captain Marvel - Red Sash",
             "keywords": ["comics", "Marvel", "Captain Marvel"],
-            "item": "sh226",
+            "item": "sh0226",
             "set": 76049,
             "dates": ["2021-04-28", "2024-03-15"]
         },
@@ -31,7 +31,7 @@
             "name": "Ronan the Accuser",
             "keywords": ["comics", "Marvel", "Guardians of the Galaxy", "Ronan the Accuser", "Infinity Stone"],
             "actor": "Lee Pace",
-            "item": "sh126",
+            "item": "sh0126",
             "set": 76021,
             "dates": ["2021-04-29", "2021-09-28"]
         },
@@ -39,7 +39,7 @@
             "id": "4116cfd0-d067-4f70-96d6-bdf153a1a910",
             "name": "Catwoman - Short Legs",
             "keywords": ["comics", "DC", "Batman", "Catwoman", "mighty micro"],
-            "item": "sh243",
+            "item": "sh0243",
             "set": 76061,
             "dates": ["2021-04-30", "2023-09-12"]
         },
@@ -48,7 +48,7 @@
             "name": "Captain America - Detailed Suit - Dark Brown Eyebrows",
             "keywords": ["comics", "Marvel", "Captain America: Civil War", "Captain America"],
             "actor": "Chris Evans",
-            "item": "sh264",
+            "item": "sh0264",
             "set": 76047,
             "dates": ["2021-05-03", "2024-03-27"]
         },
@@ -56,7 +56,7 @@
             "id": "057acd21-a174-4f7d-b738-76520a8ba14b",
             "name": "Captain America - Blue Suit, Brown Belt",
             "keywords": ["comics", "Marvel", "Captain America"],
-            "item": "sh106",
+            "item": "sh0106",
             "set": 76017,
             "dates": ["2021-05-04", "2024-03-28"]
         },
@@ -64,7 +64,7 @@
             "id": "fb8055e7-1bb0-4932-bb48-30475732062d",
             "name": "Red Skull - Dark Brown Belt",
             "keywords": ["comics", "Marvel", "Red Skull", "Hydra", "tesseract"],
-            "item": "sh107",
+            "item": "sh0107",
             "set": 76017,
             "dates": ["2022-09-28"]
         },
@@ -72,7 +72,7 @@
             "id": "9c1edda4-1737-47d1-a8de-5c644b9204db",
             "name": "Hydra Henchman",
             "keywords": ["comics", "Marvel", "Hydra", "henchman", "Bob"],
-            "item": "sh108",
+            "item": "sh0108",
             "set": 76017,
             "dates": ["2022-09-29"]
         },
@@ -100,6 +100,7 @@
             "keywords": ["video games", "Nintendo", "Mario", "Super Mario Bros.", "goomba"],
             "style": "character",
             "set": 71360,
+            "item": "mar0022",
             "dates": ["2022-11-21"],
             "notes": "I think the boys have this and may have mixed it up"
         },
@@ -152,7 +153,7 @@
             "id": "a9e7cc33-9c47-48d9-96f7-c3f7783437c3",
             "name": "Captain America - Short Legs",
             "keywords": ["comics", "Marvel", "mighty micro", "Captain America"],
-            "item": "sh250",
+            "item": "sh0250",
             "set": 76065,
             "dates": ["2021-05-11", "2024-03-29"]
         },
@@ -160,7 +161,7 @@
             "id": "4f5b5bc4-d6c1-4426-8920-2b5198bd482f",
             "name": "Red Skull - Short Legs",
             "keywords": ["comics", "Marvel", "mighty micro", "Red Skull"],
-            "item": "sh251",
+            "item": "sh0251",
             "set": 76065,
             "dates": ["2022-09-30"]
         },
@@ -168,7 +169,7 @@
             "id": "12f3513a-41e6-4f52-8da8-b98c00be1a04",
             "name": "Baron Von Strucker",
             "keywords": ["comics", "Marvel", "Baron Von Strucker", "Strucker", "monacle", "Hydra"],
-            "item": "sh179",
+            "item": "sh0179",
             "set": 76041,
             "dates": ["2022-10-04"]
         },
@@ -176,7 +177,7 @@
             "id": "7c54bc1c-d40f-414c-985e-ef03a5deb476",
             "name": "HYDRA Henchman - Chitauri Armor",
             "keywords": ["comics", "Marvel", "Hydra", "henchman", "goggles"],
-            "item": "sh171",
+            "item": "sh0171",
             "set": 76041,
             "dates": ["2022-10-05"]
         },
@@ -507,7 +508,7 @@
             "id": "959c6ee4-9a99-401c-8af2-f7f6ea263a17",
             "name": "Doctor Strange",
             "keywords": ["comics", "Marvel", "Marvel Cinematic Universe", "Masters of the Mystic Arts", "Sorcerer Supreme", "Infinity stone", "Time stone", "Eye of Agamotto", "Cloak of Levitation"],
-            "item": "sh296",
+            "item": "sh0296",
             "set": 76060,
             "dates": ["2021-07-07", "2022-02-06"]
         },
@@ -515,7 +516,7 @@
             "id": "abb85b88-861e-4e26-b9ca-a177158d8986",
             "name": "Karl Mordo",
             "keywords": ["comics", "Marvel", "Marvel Cinematic Universe", "Masters of the Mystic Arts"],
-            "item": "sh297",
+            "item": "sh0297",
             "set": 76060,
             "dates": ["2022-03-29"]
         },
@@ -523,7 +524,7 @@
             "id": "d4e02465-ee8a-4fee-b527-7a44774872c0",
             "name": "The Ancient One",
             "keywords": ["comics", "Marvel", "Marvel Cinematic Universe", "Masters of the Mystic Arts", "Sorcerer Supreme"],
-            "item": "sh297",
+            "item": "sh0297",
             "set": 76060,
             "dates": ["2022-03-28"]
         },
@@ -765,7 +766,7 @@
             "id": "6d980ef9-e058-435f-a6de-addb6a0a09d9",
             "name": "Pilot Captain America",
             "keywords": ["comics", "Marvel", "Captain America", "bomber jacket", "shield"],
-            "item": "sh374",
+            "item": "sh0374",
             "set": 76076,
             "dates": ["2021-08-05", "2024-04-12"]
         },
@@ -835,7 +836,7 @@
             "id": "6738dcfa-c873-4590-9c80-c140164cdf1e",
             "name": "Hyperion",
             "keywords": ["comics", "Marvel"],
-            "item": "sh227",
+            "item": "sh0227",
             "set": 76049,
             "dates": ["2021-08-11", "2024-03-18"]
         },
@@ -844,7 +845,7 @@
             "name": "Thanos - Dark Blue Arms",
             "keywords": ["Marvel", "Thanos"],
             "style": "giant",
-            "item": "sh230",
+            "item": "sh0230",
             "set": 76049,
             "dates": ["2021-08-12", "2021-10-04", "2024-03-19"]
         },
@@ -853,7 +854,7 @@
             "name": "Spider-Man - Black Web Pattern, Red Torso Small Vest, Red Boots",
             "keywords": ["comics", "Marvel", "Spider-Man", "Marvel Cinematic Universe", "Stark Suit"],
             "actor": "Tom Holland",
-            "item": "sh420",
+            "item": "sh0420",
             "set": 76082,
             "notes": "See the Stark Suit tag for a very similiar minifig",
             "dates": ["2021-08-13", "2022-02-23"]
@@ -862,7 +863,7 @@
             "id": "a7e4ed22-0049-4a93-a3d1-99a07cfed1c2",
             "name": "Masked Robber - Green Mask, Striped Shirt",
             "keywords": ["Marvel", "comics", "Spider-Man", "Marvel Cinematic Universe", "robber", "Hulk"],
-            "item": "sh421",
+            "item": "sh0421",
             "set": 76082,
             "dates": ["2021-08-16"]
         },
@@ -870,7 +871,7 @@
             "id": "ff4ebb95-6425-4f11-8144-f1cf6c6a1793",
             "name": "Space Iron Man",
             "keywords": ["Marvel", "comics", "Iron Man", "space"],
-            "item": "sh229",
+            "item": "sh0229",
             "set": 76049,
             "dates": ["2021-08-17", "2021-12-09", "2024-03-12"]
         },
@@ -878,7 +879,7 @@
             "id": "93d78d45-3312-436b-86f2-274774b2a455",
             "name": "Ms. Marvel",
             "keywords": ["comics", "Marvel", "Ms. Marvel", "rubber arms"],
-            "item": "sh375",
+            "item": "sh0375",
             "set": 76076,
             "dates": ["2021-08-18", "2024-03-14"]
         },
@@ -886,7 +887,7 @@
             "id": "8f3203cf-ea90-485e-9939-313c8265e51c",
             "name": "Super-Adaptoid",
             "keywords": ["comics", "Marvel", "Super-Adaptoid", "Adaptoid"],
-            "item": "sh366",
+            "item": "sh0366",
             "set": 76076,
             "dates": ["2021-08-19", "2024-03-13"]
         },
@@ -894,7 +895,7 @@
             "id": "573eb7be-9524-4131-958f-172877f00a1f",
             "name": "Iron Man Mark 45 Armor - with strange head",
             "keywords": ["comics", "Marvel", "Marvel Cinematic Universe", "Iron Man", "Age of Ultron", "Mark 45"],
-            "item": "sh164",
+            "item": "sh0164",
             "part": "3626cpb1941",
             "notes": "The body matches perfectly the body from Mark 45, but it has a strange head. I think I found this minifig on the sidewalk somewhere. See the Mark 45 tag for the real minifig.",
             "dates": ["2021-08-20"]
@@ -904,7 +905,7 @@
             "name": "Spider-Man - Black Web Pattern, Red Torso Small Vest, Red Boots - with Mask Pulled Up Showing Mouth Pattern",
             "keywords": ["comics", "Marvel", "Spider-Man", "Marvel Cinematic Universe", "Stark Suit", "pizza"],
             "actor": "Tom Holland",
-            "item": "sh420",
+            "item": "sh0420",
             "set": 40343,
             "part": "3626cpb2398",
             "notes": "according to LEGO databases, this minifig is the same as the other suit with the Stark Suit tag, but this minifig came in a set that had an alternate head. So both bricklink items are linked, and this minfig is treated as separate.",
@@ -915,7 +916,7 @@
             "name": "Ned Leeds - Dark Red Plaid Shirt, Dark Blue Legs",
             "keywords": ["comics", "Marvel", "Marvel Cinematic Universe", "Spider-Man"],
             "actor": "Jacob Batalon",
-            "item": "sh602",
+            "item": "sh0602",
             "set": 40343,
             "dates": ["2021-08-24"]
         },
@@ -924,7 +925,7 @@
             "name": "Maria Hill - Black Jacket, Light Bluish Gray Shirt, Dark Blue Legs",
             "keywords": ["comics", "Marvel", "Marvel Cinematic Universe", "Spider-Man"],
             "actor": "Cobie Smulders",
-            "item": "sh601",
+            "item": "sh0601",
             "set": 40343,
             "dates": ["2021-08-25"]
         },
@@ -933,7 +934,7 @@
             "name": "Black Panther, Teeth Necklace",
             "keywords": ["Marvel", "Captain America: Civil War", "Black Panther"],
             "actor": "Chadwick Boseman",
-            "item": "sh263",
+            "item": "sh0263",
             "set": 76047,
             "dates": ["2021-08-26", "2024-03-20"]
         },
@@ -941,7 +942,7 @@
             "id": "2b43332a-dd70-4e02-804a-30b1d993c0b6",
             "name": "Winter Soldier - Black Hands and Holster",
             "keywords": ["Marvel", "Captain America: Civil War", "Winter Soldier", "Bucky Barnes"],
-            "item": "sh257",
+            "item": "sh0257",
             "set": 76047,
             "dates": ["2021-08-27", "2024-03-21"]
         },
@@ -949,7 +950,7 @@
             "id": "35ceb221-43d9-426b-884d-09e4dfdf73a3",
             "name": "Carnage - Medium Appendages",
             "keywords": ["comics", "Marvel", "Spider-Man", "Carnage"],
-            "item": "sh683",
+            "item": "sh0683",
             "set": 76173,
             "dates": ["2021-08-30"]
         },
@@ -957,7 +958,7 @@
             "id": "b1847d8b-8bf5-41d9-941d-e1c2dfc1be04",
             "name": "Ghost Rider, Roberto \"Robbie\" Reyes - Flat Silver Head",
             "keywords": ["comics", "Spider-Man"],
-            "item": "sh678",
+            "item": "sh0678",
             "set": 76173,
             "dates": ["2021-08-31"]
         },
@@ -965,7 +966,7 @@
             "id": "eeb6f9bd-8598-46f1-9bab-dcb68e387c5a",
             "name": "Spider-Man - Printed Arms",
             "keywords": ["comics", "Marvel", "Spider-Man"],
-            "item": "sh684",
+            "item": "sh0684",
             "set": 76173,
             "dates": ["2021-09-01", "2021-09-05", "2022-02-22"]
         },
@@ -973,7 +974,7 @@
             "id": "b8630ce5-20ff-4f57-8da0-32516f653f2d",
             "name": "Space Captain America",
             "keywords": ["comics", "Marvel", "Space", "Captain America"],
-            "item": "sh228",
+            "item": "sh0228",
             "set": 76049,
             "dates": ["2021-09-02", "2024-04-11"]
         },
@@ -981,7 +982,7 @@
             "id": "710ccb19-93fc-439f-9ace-8e3023c92509",
             "name": "Masked Robber - Blue Mask, Red Shirt",
             "keywords": ["Marvel", "comics", "Spider-Man", "Marvel Cinematic Universe", "robber", "Captain America"],
-            "item": "sh422",
+            "item": "sh0422",
             "set": 76082,
             "dates": ["2021-09-07", "2024-04-16"]
         },
@@ -1131,7 +1132,7 @@
             "name": "Star-Lord - Mask, Jacket with Side Buttons",
             "keywords": ["Marvel", "Guardians of the Galaxy", "Star-Lord", "Peter Quill"],
             "actor": "Chris Pratt",
-            "item": "sh123",
+            "item": "sh0123",
             "set": 76021,
             "dates": ["2021-09-29"]
         },
@@ -1140,7 +1141,7 @@
             "name": "Drax",
             "keywords": ["Marvel", "Guardians of the Galaxy", "Drax", "Drax the Destroyer"],
             "actor": "Dave Bautista",
-            "item": "sh125",
+            "item": "sh0125",
             "set": 76021,
             "dates": ["2021-09-30"]
         },
@@ -1149,7 +1150,7 @@
             "name": "Gamora, Dark Red Suit",
             "keywords": ["Marvel", "Guardians of the Galaxy", "Gamora", "Gamora Zen Whoberi Ben Titan", "The Most Dangerous Woman in the Universe"],
             "actor": "Zoe Saldana",
-            "item": "sh124",
+            "item": "sh0124",
             "set": 76021,
             "dates": ["2021-10-01"]
         },
@@ -1158,7 +1159,7 @@
             "name": "Rocket Raccoon - Orange Outfit",
             "keywords": ["Marvel", "Guardians of the Galaxy", "Rocket", "Rocket Raccoon"],
             "actor": "Bradley Cooper",
-            "item": "sh122",
+            "item": "sh0122",
             "set": 76020,
             "dates": ["2021-10-05"]
         },
@@ -1167,7 +1168,7 @@
             "name": "Nebula",
             "keywords": ["Marvel", "Guardians of the Galaxy", "Nebula"],
             "actor": "Karen Gillan",
-            "item": "sh121",
+            "item": "sh0121",
             "set": 76020,
             "dates": ["2021-10-06"]
         },
@@ -1185,7 +1186,7 @@
             "id": "affe215a-517f-47b6-8a4a-edf70d02917c",
             "name": "Thanos - Short Legs",
             "keywords": ["comics", "Marvel", "Thanos", "mighty micro"],
-            "item": "sh363",
+            "item": "sh0363",
             "set": 76072,
             "dates": ["2021-10-08", "2024-03-25"]
         },
@@ -1193,7 +1194,7 @@
             "id": "13be43d0-4cf0-427c-ba9f-4ad09f8afdd1",
             "name": "The Sakaaran",
             "keywords": ["Marvel", "Guardians of the Galaxy"],
-            "item": "sh120",
+            "item": "sh0120",
             "set": 76021,
             "notes": "Also in 76020",
             "dates": ["2021-10-11"]
@@ -1202,7 +1203,7 @@
             "id": "550e4585-fe26-4582-af38-adaa882c4db9",
             "name": "Hawkeye - Black and Dark Purple Suit, Goggles, Quiver",
             "keywords": ["comics", "Marvel", "Hawkeye", "Clint Barton"],
-            "item": "sh626",
+            "item": "sh0626",
             "set": 76143,
             "dates": ["2021-10-13", "2022-12-30"]
         },
@@ -1210,7 +1211,7 @@
             "id": "b6a9764c-1223-4092-a09f-e2ff57c031f8",
             "name": "Iron Man - Short Legs",
             "keywords": ["comics", "Marvel", "Iron Man", "Tony Stark", "mighty micro"],
-            "item": "sh362",
+            "item": "sh0362",
             "set": 76072,
             "dates": ["2021-10-15", "2021-12-08", "2024-03-22"]
         },
@@ -1218,7 +1219,7 @@
             "id": "dd3fdf27-576a-4f82-b929-cfea9c707df7",
             "name": "Captain America - Dark Blue Suit, Black Hands",
             "keywords": ["comics", "Marvel", "Captain America", "Steve Rogers"],
-            "item": "sh625",
+            "item": "sh0625",
             "set": 76143,
             "dates": ["2021-10-17", "2021-10-18", "2024-04-10"]
         },
@@ -1226,7 +1227,7 @@
             "id": "8d1eac55-1a1c-4afa-a0a8-ce70f0a2eb3e",
             "name": "AIM Agent",
             "keywords": ["comics", "Marvel", "AIM", "Advanced Ideas Mechanics"],
-            "item": "sh624",
+            "item": "sh0624",
             "set": 76143,
             "dates": ["2021-10-19"]
         },
@@ -1234,7 +1235,7 @@
             "id": "d427e2d2-13a2-4eb1-a45a-822b470ac02c",
             "name": "AIM Agent - Jet Pack",
             "keywords": ["comics", "Marvel", "AIM", "Advanced Ideas Mechanics"],
-            "item": "sh627",
+            "item": "sh0627",
             "set": 76143,
             "dates": ["2021-10-20"]
         },
@@ -1286,7 +1287,7 @@
             "name": "Hank Pym",
             "keywords": ["comics", "Marvel", "Avengers", "Ant-Man", "Hank Pym"],
             "actor": "Michael Douglas",
-            "item": "sh202",
+            "item": "sh0202",
             "set": 76039,
             "dates": ["2021-10-28"]
         },
@@ -1295,7 +1296,7 @@
             "name": "Ant-Man (Scott Lang) - Original Suit",
             "keywords": ["comics", "Marvel", "Avengers", "Ant-Man", "Scott Lang"],
             "actor": "Paul Rudd",
-            "item": "sh201",
+            "item": "sh0201",
             "set": 76039,
             "dates": ["2021-11-01"]
         },
@@ -1304,7 +1305,7 @@
             "name": "Yellow Jacket",
             "keywords": ["comics", "Marvel", "Ant-Man", "Darren Cross"],
             "actor": "Corey Stoll",
-            "item": "sh189",
+            "item": "sh0189",
             "set": 76039,
             "dates": ["2021-11-03"]
         },
@@ -1331,7 +1332,7 @@
             "id": "1ada1475-7c9d-46b7-b665-f52512445aa0",
             "name": "Amber Grant",
             "keywords": ["comics", "Marvel", "Spider-Man", "Amber Grant"],
-            "item": "sh725",
+            "item": "sh0725",
             "set": 76178,
             "dates": ["2021-11-18"]
         },
@@ -1339,7 +1340,7 @@
             "id": "b019d96b-9adf-43d5-8839-786aa7fbe2c0",
             "name": "Aunt May - Light Bluish Gray Sweater",
             "keywords": ["comics", "Marvel", "Spider-Man", "Aunt May", "May Parker", "May Reilly Parker"],
-            "item": "sh721",
+            "item": "sh0721",
             "set": 76178,
             "dates": ["2021-11-09"]
         },
@@ -1347,7 +1348,7 @@
             "id": "6a6b1f18-ab50-4d50-8fa6-665747fa9ddc",
             "name": "Ben Urich",
             "keywords": ["comics", "Marvel", "Spider-Man", "Ben Urich", "Daily Bugle"],
-            "item": "sh719",
+            "item": "sh0719",
             "set": 76178,
             "dates": ["2021-12-07"]
         },
@@ -1355,7 +1356,7 @@
             "id": "cabc97a4-afdf-4e0a-b0d8-03f316b45aae",
             "name": "Bernie the Cab Driver",
             "keywords": ["comics", "Marvel", "Spider-Man", "Bernie"],
-            "item": "sh720",
+            "item": "sh0720",
             "set": 76178,
             "dates": ["2021-11-29"]
         },
@@ -1363,7 +1364,7 @@
             "id": "4ba37213-4d44-4939-a2ba-fe398cd9b2ac",
             "name": "Betty Brant",
             "keywords": ["comics", "Marvel", "Spider-Man", "Daily Bugle", "Betty Brant"],
-            "item": "sh726",
+            "item": "sh0726",
             "set": 76178,
             "dates": ["2021-12-01"]
         },
@@ -1371,7 +1372,7 @@
             "id": "a3966ad1-1507-45bc-8054-a3f966452f2e",
             "name": "Black Cat",
             "keywords": ["comics", "Marvel", "Spider-Man", "Black Cat", "Felicia Hardy"],
-            "item": "sh715",
+            "item": "sh0715",
             "set": 76178,
             "dates": ["2022-01-14"]
         },
@@ -1379,7 +1380,7 @@
             "id": "8abac279-8f96-484c-9a84-1533cc5e4cd3",
             "name": "Blade",
             "keywords": ["comics", "Marvel", "Spider-Man", "Blade", "Frank Blade", "Daywalker", "vampire"],
-            "item": "sh713",
+            "item": "sh0713",
             "set": 76178,
             "dates": ["2022-01-13"]
         },
@@ -1387,7 +1388,7 @@
             "id": "721fa07f-c868-4298-9deb-b7eb80195256",
             "name": "Carnage - 2 Long and 2 Short Appendages",
             "keywords": ["comics", "Marvel", "Spider-Man", "Carnage", "Symbiote", "Cletus Kasady", "Klyntar"],
-            "item": "sh723",
+            "item": "sh0723",
             "set": 76178,
             "dates": ["2022-01-19"]
         },
@@ -1395,7 +1396,7 @@
             "id": "c3f1d1b7-a4b1-4459-aa03-09ae7f424ec2",
             "name": "Daredevil",
             "keywords": ["comics", "Marvel", "Spider-Man", "Daredevil", "Matt Murdoch", "Nelson & Murdock", "Man Without Fear"],
-            "item": "sh724",
+            "item": "sh0724",
             "set": 76178,
             "dates": ["2021-11-19"]
         },
@@ -1403,7 +1404,7 @@
             "id": "105eb4fe-148e-41a1-baba-dcf8096782de",
             "name": "Dr. Octopus (Otto Octavius) / Doc Ock - Dark Green Suit with Appendages",
             "keywords": ["comics", "Marvel", "Spider-Man", "Dr. Octopus", "Doc Ock", "Otto Octavius"],
-            "item": "sh727",
+            "item": "sh0727",
             "set": 76178,
             "dates": ["2021-11-08"]
         },
@@ -1411,7 +1412,7 @@
             "id": "4e41eabb-fd06-4bbc-8fe9-284c9fe3a3de",
             "name": "Firestar",
             "keywords": ["comics", "Marvel", "Spider-Man", "Firestar", "Angelica Jones", "Angel"],
-            "item": "sh712",
+            "item": "sh0712",
             "set": 76178,
             "dates": ["2021-11-11"]
         },
@@ -1419,7 +1420,7 @@
             "id": "2fa77583-2588-43df-ac7e-547251c819cd",
             "name": "Ghost Spider / Spider-Gwen, White Hood Basic Smooth",
             "keywords": ["comics", "Marvel", "Spider-Man", "Ghost Spider", "Spider-Gwen", "Gwen Stacy"],
-            "item": "sh682",
+            "item": "sh0682",
             "set": 76178,
             "dates": ["2021-12-03", "2021-12-05", "2022-03-02"]
         },
@@ -1427,7 +1428,7 @@
             "id": "da8b1973-11ab-4d1d-99f8-1768d5c389e6",
             "name": "Green Goblin - Bright Green, Dark Purple Outfit",
             "keywords": ["comics", "Marvel", "Spider-Man", "Green Goblin", "Norman Osborn"],
-            "item": "sh695",
+            "item": "sh0695",
             "set": 76178,
             "dates": ["2021-10-31", "2021-11-15"]
         },
@@ -1435,7 +1436,7 @@
             "id": "37762249-1e3b-45ed-abcb-fae4aa1ceca5",
             "name": "Gwen Stacy",
             "keywords": ["comics", "Marvel", "Spider-Man", "Gwen Stacy"],
-            "item": "sh718",
+            "item": "sh0718",
             "set": 76178,
             "dates": ["2022-01-12"]
         },
@@ -1443,7 +1444,7 @@
             "id": "c699cc62-e70a-436b-83dd-44fdc4b4d3f3",
             "name": "J. Jonah Jameson - Vest with Striped Tie, Swept Back Hair",
             "keywords": ["comics", "Marvel", "Spider-Man", "Daily Bugle", "J. Jonah Jameson", "JJJ"],
-            "item": "sh710",
+            "item": "sh0710",
             "set": 76178,
             "dates": ["2021-11-30"]
         },
@@ -1451,7 +1452,7 @@
             "id": "24eec96e-158d-4f7a-9574-e333a5c07b17",
             "name": "Mysterio - Light Bluish Gray Head, Satin Trans-Light Blue Helmet, Double Hole Cape",
             "keywords": ["comics", "Marvel", "Spider-Man", "Mysterio", "Quentin Beck"],
-            "item": "sh709",
+            "item": "sh0709",
             "set": 76178,
             "dates": ["2022-01-16", "2022-01-18"]
         },
@@ -1459,7 +1460,7 @@
             "id": "a8a7e198-7f08-4a60-994a-0d9433378886",
             "name": "Peter Parker - Red Jacket",
             "keywords": ["comics", "Marvel", "Spider-Man", "Peter Parker", "Daily Bugle"],
-            "item": "sh714",
+            "item": "sh0714",
             "set": 76178,
             "dates": ["2021-11-20", "2021-11-22", "2022-02-28"]
         },
@@ -1467,7 +1468,7 @@
             "id": "41853bd3-2291-4231-a900-940912cc5ea1",
             "name": "Robbie Robertson",
             "keywords": ["comics", "Marvel", "Spider-Man", "Robbie Robertson", "Daily Bugle"],
-            "item": "sh716",
+            "item": "sh0716",
             "set": 76178,
             "dates": ["2021-12-02"]
         },
@@ -1475,7 +1476,7 @@
             "id": "c33c1e6f-dec0-48af-88b9-193cd174252c",
             "name": "Ron Barney",
             "keywords": ["comics", "Marvel", "Spider-Man", "Daily Bugle"],
-            "item": "sh717",
+            "item": "sh0717",
             "set": 76178,
             "dates": ["2021-12-06"]
         },
@@ -1483,7 +1484,7 @@
             "id": "f0154564-a963-47dc-9a0d-f2cf4b76ef00",
             "name": "Sandman - Green Outfit, Tan Sand Form with Swirling Base",
             "keywords": ["comics", "Marvel", "Spider-Man", "Sandman", "Flint Marko", "William Baker"],
-            "item": "sh685",
+            "item": "sh0685",
             "set": 76178,
             "dates": ["2021-11-16"]
         },
@@ -1491,7 +1492,7 @@
             "id": "99926dd4-4cf6-4e34-ad49-7f575c7f3338",
             "name": "Spider-Ham",
             "keywords": ["comics", "Marvel", "Spider-Man", "Spider-Ham", "Peter Porker"],
-            "item": "sh638",
+            "item": "sh0638",
             "set": 76178,
             "dates": ["2021-11-21", "2021-11-24", "2022-03-01"]
         },
@@ -1499,7 +1500,7 @@
             "id": "419351b5-dd0f-42db-88bf-1b268a4834d5",
             "name": "Spider-Man - Printed Arms, Red Boots",
             "keywords": ["comics", "Marvel", "Spider-Man", "Peter Parker"],
-            "item": "sh708",
+            "item": "sh0708",
             "set": 76178,
             "dates": ["2021-11-07", "2021-11-17", "2022-02-16"]
         },
@@ -1507,7 +1508,7 @@
             "id": "c55cbfc6-c061-4abc-adf1-8e79d34d5d2f",
             "name": "Spider-Man (Miles Morales) - Dark Red Hood",
             "keywords": ["comics", "Marvel", "Spider-Man", "Miles Morales"],
-            "item": "sh679",
+            "item": "sh0679",
             "set": 76178,
             "dates": ["2022-01-11", "2022-02-17"]
         },
@@ -1515,7 +1516,7 @@
             "id": "2b96a080-8522-43d6-ad9a-4771eaa5bba0",
             "name": "The Punisher",
             "keywords": ["comics", "Marvel", "Punisher", "Frank Castle", "skull"],
-            "item": "sh722",
+            "item": "sh0722",
             "set": 76178,
             "dates": ["2022-01-04"]
         },
@@ -1523,7 +1524,7 @@
             "id": "71c60a04-be1f-4999-b4f9-99fe4840a905",
             "name": "Venom - 2 Long and 2 Short Appendages",
             "keywords": ["comics", "Marvel", "Spider-Man", "Venom", "Symbiote", "Eddie Brock", "Flash Thompson", "Klyntar"],
-            "item": "sh711",
+            "item": "sh0711",
             "set": 76178,
             "dates": ["2022-01-20"]
         },
@@ -1590,7 +1591,7 @@
             "name": "Hulk with Black Hair and Dark Purple Pants",
             "style": "giant",
             "keywords": ["Marvel", "comics", "Hulk", "Bruce Banner"],
-            "item": "sh095",
+            "item": "sh0095",
             "set": 76018,
             "dates": ["2021-06-09", "2021-11-10", "2023-12-15"]
         },
@@ -1598,7 +1599,7 @@
             "id": "24ab1709-e6fb-4d02-9bb5-87b95d40b946",
             "name": "Thor - No Beard",
             "keywords": ["Marvel", "comics", "Thor", "Thor Odinson"],
-            "item": "sh098",
+            "item": "sh0098",
             "set": 76018,
             "dates": ["2022-04-27", "2022-05-11", "2022-12-28"]
         },
@@ -1606,7 +1607,7 @@
             "id": "3e8a78ef-1e3b-4cb8-95ac-0c8c2a649dee",
             "name": "Falcon - Red",
             "keywords": ["Marvel", "comics", "Falcon", "Sam Wilson", "Samuel Thomas Wilson"],
-            "item": "sh099",
+            "item": "sh0099",
             "set": 76018,
             "dates": ["2022-05-06"]
         },
@@ -1614,7 +1615,7 @@
             "id": "389fddc9-169f-4bf1-b184-a3070b8f6270",
             "name": "Taskmaster - White Cape and Hood",
             "keywords": ["Marvel", "comics", "Taskmaster"],
-            "item": "sh100",
+            "item": "sh0100",
             "set": 76018,
             "dates": ["2022-05-05"]
         },
@@ -1622,7 +1623,7 @@
             "id": "388739ff-2451-4a9e-8a34-992cf15f5c1e",
             "name": "MODOK",
             "keywords": ["Marvel", "comics", "MODOK", "M.O.D.O.K.", "Mental Organism Designed Only for Killing", "Mobile Organism Designed Only for Killing", "Mechanized Organism Designed Only for Killing"],
-            "item": "sh101",
+            "item": "sh0101",
             "set": 76018,
             "dates": ["2022-05-09"]
         },
@@ -1632,7 +1633,7 @@
             "style": "giant",
             "keywords": ["comics", "Marvel", "Hulk", "Bruce Banner"],
             "actor": "Mark Ruffalo",
-            "item": "sh173",
+            "item": "sh0173",
             "set": 76031,
             "dates": ["2021-11-12", "2022-12-23", "2024-01-23"]
         },
@@ -1641,7 +1642,7 @@
             "name": "Scarlet Witch",
             "keywords": ["comics", "Marvel", "Marvel Cinematic Universe", "Scarlet Witch", "Wanda Maximoff"],
             "actor": "Elizabeth Olsen",
-            "item": "sh174",
+            "item": "sh0174",
             "set": 76031,
             "dates": ["2022-09-26"]
         },
@@ -1650,7 +1651,7 @@
             "name": "Ultron Prime",
             "keywords": ["comics", "Marvel", "Marvel Cinematic Universe", "Ultron"],
             "actor": "James Spader",
-            "item": "sh175",
+            "item": "sh0175",
             "set": 76031,
             "dates": ["2022-09-23"]
         },
@@ -1659,7 +1660,7 @@
             "name": "Iron Man Mark 43 Armor",
             "keywords": ["comics", "Marvel", "Marvel Cinematic Universe", "Iron Man", "Tony Stark", "Mark 43"],
             "actor": "Robert Downey Jr.",
-            "item": "sh167",
+            "item": "sh0167",
             "set": 76032,
             "notes": "This exact minifig I have from both 76031 and 76032",
             "dates": ["2021-12-13"]
@@ -1669,7 +1670,7 @@
             "name": "Ultimate Ultron",
             "keywords": ["comics", "Marvel", "Marvel Cinematic Universe", "Ultron"],
             "actor": "James Spader",
-            "item": "sh176",
+            "item": "sh0176",
             "set": 76032,
             "dates": ["2022-09-27"]
         },
@@ -1678,7 +1679,7 @@
             "name": "Captain America - Detailed Suit - Mask",
             "keywords": ["comics", "Marvel", "Age of Ultron", "Marvel Cinematic Universe", "Captain America"],
             "actor": "Chris Evans",
-            "item": "sh177",
+            "item": "sh0177",
             "set": 76032,
             "notes": "I also own the identical minifig which also appears in set 30447",
             "dates": ["2021-06-11", "2022-12-21", "2024-04-15"]
@@ -1688,7 +1689,7 @@
             "name": "Vision - Dark Azure Spot on Forehead",
             "keywords": ["comics", "Marvel", "Marvel Cinematic Uinverse", "Vision"],
             "actor": "Paul Bettany",
-            "item": "sh178",
+            "item": "sh0178",
             "set": 76032,
             "dates": ["2022-09-22"]
         },
@@ -1697,7 +1698,7 @@
             "name": "Black Widow - Short Hair",
             "keywords": ["comics", "Marvel", "Marvel Cinematic Universe", "Black Widow", "Natasha Romanoff"],
             "actor": "Scarlet Johansson",
-            "item": "sh186",
+            "item": "sh0186",
             "set": 76032,
             "dates": ["2022-09-20", "2022-12-29"]
         },
@@ -1706,7 +1707,7 @@
             "name": "Iron Man Mark 45 Armor",
             "keywords": ["comics", "Marvel", "Marvel Cinematic Universe", "Iron Man", "Tony Stark", "Mark 45"],
             "actor": "Robert Downey Jr.",
-            "item": "sh164",
+            "item": "sh0164",
             "set": 76029,
             "notes": "See the Mark 45 tag for a similar minifig",
             "dates": ["2021-12-10", "2022-12-22"]
@@ -1716,7 +1717,7 @@
             "name": "Ultron Sentry",
             "keywords": ["comics", "Marvel", "Marvel Cinematic Universe", "Ultron"],
             "actor": "James Spader",
-            "item": "sh166",
+            "item": "sh0166",
             "set": 76029,
             "notes": "The set came with two of this minifig",
             "dates": ["2022-06-24"]
@@ -1726,7 +1727,7 @@
             "name": "Ultron Sentry Officer",
             "keywords": ["comics", "Marvel", "Marvel Cinematic Universe", "Ultron"],
             "actor": "James Spader",
-            "item": "sh165",
+            "item": "sh0165",
             "set": 76029,
             "dates": ["2022-06-27"]
         },
@@ -1734,7 +1735,7 @@
             "id": "0976ab7b-2d09-4e25-90d5-a8e65eb81cbc",
             "name": "Iron Man with Circle on Chest",
             "keywords": ["comics", "Marvel", "Iron Man", "Tony Stark"],
-            "item": "sh231",
+            "item": "sh0231",
             "set": 10721,
             "dates": ["2021-12-14"]
         },
@@ -1742,7 +1743,7 @@
             "id": "c0bcdd1b-50d7-4d6c-995e-0fa5f4c64492",
             "name": "Loki - Shiny Starched Fabric Cape",
             "keywords": ["comics", "Marvel", "Loki", "Mind stone", "Infinity stone"],
-            "item": "sh033a",
+            "item": "sh0033a",
             "set": 10721,
             "dates": ["2022-10-03"]
         },
@@ -1751,7 +1752,7 @@
             "name": "Iron Man Mark 50 Armor",
             "keywords": ["comics", "Marvel", "Marvel Cinematic Universe", "Iron Man", "Tony Stark", "Mark 50"],
             "actor": "Robert Downey Jr.",
-            "item": "sh496",
+            "item": "sh0496",
             "set": 76125,
             "dates": ["2021-12-15"]
         },
@@ -1759,7 +1760,7 @@
             "id": "991d1cbb-4bc4-44aa-9912-21a15a800409",
             "name": "Outrider - Extended Arms",
             "keywords": ["comics", "Marvel", "Marvel Cinematic Universe", "Outrider"],
-            "item": "sh505",
+            "item": "sh0505",
             "set": 76125,
             "notes": "2 came in the set",
             "dates": ["2022-06-06"]
@@ -1769,7 +1770,7 @@
             "name": "Iron Man Mark 1 Armor (Trans-Clear Head)",
             "keywords": ["comics", "Marvel", "Marvel Cinematic Universe", "Iron Man", "Tony Stark", "Mark 1"],
             "actor": "Robert Downey Jr.",
-            "item": "sh565",
+            "item": "sh0565",
             "set": 76125,
             "dates": ["2021-12-16", "2021-12-19"]
         },
@@ -1778,7 +1779,7 @@
             "name": "Iron Man Mark 5 Armor (Trans-Clear Head)",
             "keywords": ["comics", "Marvel", "Marvel Cinematic Universe", "Iron Man", "Tony Stark", "Mark 5"],
             "actor": "Robert Downey Jr.",
-            "item": "sh566",
+            "item": "sh0566",
             "set": 76125,
             "dates": ["2021-12-20"]
         },
@@ -1787,7 +1788,7 @@
             "name": "Iron Man Mark 41 Armor (Trans-Clear Head)",
             "keywords": ["comics", "Marvel", "Marvel Cinematic Universe", "Iron Man", "Tony Stark", "Mark 41"],
             "actor": "Robert Downey Jr.",
-            "item": "sh567",
+            "item": "sh0567",
             "set": 76125,
             "dates": ["2021-12-21"]
         },
@@ -1904,7 +1905,7 @@
             "name": "Black Widow - Printed Arms",
             "keywords": ["comics", "Marvel", "Marvel Cinematic Universe", "advent calendar", "Black Widow", "Natasha Romanoff"],
             "actor": "Scarlett Johansson",
-            "item": "sh637",
+            "item": "sh0637",
             "set": 76196,
             "dates": ["2021-12-27", "2024-02-09"]
         },
@@ -1913,7 +1914,7 @@
             "name": "Spider-Man - Bright Light Orange Letter Jacket",
             "keywords": ["comics", "Marvel", "Marvel Cinematic Universe", "advent calendar", "Spider-Man", "Peter Parker", "Midtown High School"],
             "actor": "Tom Holland",
-            "item": "sh757",
+            "item": "sh0757",
             "set": 76196,
             "dates": ["2022-01-03", "2022-02-18", "2024-02-05"]
         },
@@ -1922,7 +1923,7 @@
             "name": "Tony Stark - Christmas Sweater",
             "keywords": ["comics", "Marvel", "Marvel Cinematic Universe", "advent calendar", "Tony Stark", "Iron Man", "Christmas"],
             "actor": "Robert Downey Jr.",
-            "item": "sh760",
+            "item": "sh0760",
             "set": 76196,
             "dates": ["2021-12-22", "2022-01-02", "2024-02-07"]
         },
@@ -1931,7 +1932,7 @@
             "name": "Thanos - No Helmet",
             "keywords": ["comics", "Marvel", "Marvel Cinematic Universe", "advent calendar", "Thanos", "coal"],
             "actor": "Josh Brolin",
-            "item": "sh761",
+            "item": "sh0761",
             "set": 76196,
             "dates": ["2021-12-23", "2024-02-13"]
         },
@@ -1940,7 +1941,7 @@
             "name": "Captain Marvel - Bright Light Yellow Hair",
             "keywords": ["comics", "Marvel", "Marvel Cinematic Universe", "advent calendar", "Captain Marvel", "Carol Danvers"],
             "actor": "Brie Larson",
-            "item": "sh639",
+            "item": "sh0639",
             "set": 76196,
             "dates": ["2021-12-30", "2024-02-08"]
         }, 
@@ -1949,7 +1950,7 @@
             "name": "Nick Fury - Dark Bluish Gray Beanie",
             "keywords": ["comics", "Marvel", "Marvel Cinematic Universe", "advent calendar", "Nick Fury", "Christmas"],
             "actor": "Samuel L. Jackson",
-            "item": "sh758",
+            "item": "sh0758",
             "set": 76196,
             "dates": ["2021-12-28", "2024-02-06"]
         },
@@ -1958,7 +1959,7 @@
             "name": "Thor - Red Scarf",
             "keywords": ["comics", "Marvel", "Marvel Cinematic Universe", "advent calendar", "Thor", "Christmas"],
             "actor": "Chris Hemsworth",
-            "item": "sh756",
+            "item": "sh0756",
             "set": 76196,
             "dates": ["2021-12-29", "2022-05-12", "2024-02-12"]
         },
@@ -2134,7 +2135,7 @@
             "id": "780fb33e-9383-4b12-a5e8-e455d8567581",
             "name": "Robin - Short Legs",
             "keywords": ["comics", "DC", "Batman", "Robin", "Mighty Micros"],
-            "item": "sh244",
+            "item": "sh0244",
             "set": 76062,
             "dates": ["2022-01-06", "2023-09-11"]
         },
@@ -2142,7 +2143,7 @@
             "id": "9eb95d55-dd02-4015-a396-8f1a9a5f2acd",
             "name": "Bane - Short Legs",
             "keywords": ["comics", "DC", "Batman", "Bane", "Mighty Micros"],
-            "item": "sh245",
+            "item": "sh0245",
             "set": 76062,
             "dates": ["2022-01-10", "2023-09-08"]
         },
@@ -2150,7 +2151,7 @@
             "id": "78a9521d-3e0b-4deb-b4cd-556cae666ad0",
             "name": "Batman, Pearl Dark Gray Armor",
             "keywords": ["comics", "DC", "Detective Comics", "Batman", "Bruce Wayne", "app-controlled Batmobile"],
-            "item": "sh535",
+            "item": "sh0535",
             "set": 76112,
             "dates": ["2023-05-10"]
         },
@@ -2207,7 +2208,7 @@
             "id": "532745f4-65e0-418a-a607-b4501098a5be",
             "name": "AIM Agent",
             "keywords": ["comics", "Marvel", "AIM", "Advanced Ideas Mechanics"],
-            "item": "sh624",
+            "item": "sh0624",
             "set": 76167,
             "notes": "Two came in this set, very similar to one in set 76143.",
             "dates": ["2022-02-15"]
@@ -2216,7 +2217,7 @@
             "id": "fe43598d-4785-49eb-b976-9fb35f585a7c",
             "name": "Tony Stark - Open Neck Shirt",
             "keywords": ["comics", "Marvel", "Tony Stark", "Iron Man"],
-            "item": "sh666",
+            "item": "sh0666",
             "set": 76167,
             "dates": ["2022-02-14"]
         },
@@ -2224,7 +2225,7 @@
             "id": "07fb24ac-fe7f-4a4e-950b-e10db306fc4a",
             "name": "Iron Man Mark 2 Armor (Trans-Clear Head)",
             "keywords": ["comics", "Marvel", "Iron Man"],
-            "item": "sh667",
+            "item": "sh0667",
             "set": 76167,
             "dates": ["2022-03-03"]
         },
@@ -2232,7 +2233,7 @@
             "id": "649d8a97-42f2-430c-8db2-3a67d339ae01",
             "name": "Iron Man with Silver Hexagon on Chest, Wings with Stickers",
             "keywords": ["comics", "Marvel", "Iron Man"],
-            "item": "sh673s",
+            "item": "sh0673s",
             "set": 76167,
             "dates": ["2022-03-04"]
         },
@@ -2240,7 +2241,7 @@
             "id": "7627c979-bbe9-4c63-bef3-812545e24a9d",
             "name": "Batman, Knightmare Batman",
             "keywords": ["comics", "DC", "Batman", "Knightmare", "Knightmare Batman", "DC Extended Universe", "Justice League", "Zack Snyder's Justice League"],
-            "item": "sh532",
+            "item": "sh0532",
             "set": 853744,
             "dates": ["2022-03-06", "2023-07-12"]
         },
@@ -2248,7 +2249,7 @@
             "id": "ee510583-d63a-4c65-8d58-5b9de0346604",
             "name": "Parademon - Dark Green, Collapsed Wings",
             "keywords": ["comics", "DC", "Batman", "Knightmare", "DC Extended Universe", "Justice League", "Zack Snyder's Justice League", "parademon"],
-            "item": "sh433",
+            "item": "sh0433",
             "set": 853744,
             "dates": ["2022-08-11", "2023-09-28"]
         },
@@ -2256,7 +2257,7 @@
             "id": "bf8b5ca9-b804-4d5e-a5f7-c809cc8a7097",
             "name": "Parademon - Dark Green, Extended Wings",
             "keywords": ["comics", "DC", "Batman", "Knightmare", "DC Extended Universe", "Justice League", "Zack Snyder's Justice League", "parademon"],
-            "item": "sh439",
+            "item": "sh0439",
             "set": 853744,
             "dates": ["2022-08-10", "2023-10-04"]
         },
@@ -2430,7 +2431,7 @@
             "name": "Shang-Chi",
             "keywords": ["comics", "Marvel", "Marvel Cinematic Universe", "Shang-Chi"],
             "set": 76177,
-            "item": "sh700",
+            "item": "sh0700",
             "dates": ["2022-03-30"]
         },
         {
@@ -2438,7 +2439,7 @@
             "name": "Wenwu (The Mandarin)",
             "keywords": ["comics", "Marvel", "Marvel Cinematic Universe", "Shang-Chi", "Mandarin", "The Mandarin", "Wenwu"],
             "set": 76177,
-            "item": "sh701",
+            "item": "sh0701",
             "dates": ["2022-04-12"]
         },
         {
@@ -2446,7 +2447,7 @@
             "name": "Death Dealer",
             "keywords": ["comics", "Marvel", "Marvel Cinematic Universe", "Shang-Chi", "Mandarin"],
             "set": 76177,
-            "item": "sh705",
+            "item": "sh0705",
             "dates": ["2022-04-11"]
         },
         {
@@ -2454,7 +2455,7 @@
             "name": "Xialing",
             "keywords": ["comics", "Marvel", "Marvel Cinematic Universe", "Shang-Chi", "Xialing"],
             "set": 76177,
-            "item": "sh706",
+            "item": "sh0706",
             "dates": ["2022-03-31"]
         },
         {
@@ -2561,7 +2562,7 @@
             "name": "Bro Thor (Fat Thor)",
             "keywords": ["comics", "Marvel", "movies", "Marvel Cinematic Universe", "Thor", "Odinson", "Asgardian", "Stormbreaker"],
             "actor": "Chris Hemsworth",
-            "item": "sh753",
+            "item": "sh0753",
             "set": 76200,
             "dates": ["2022-05-13"]
         },
@@ -2570,7 +2571,7 @@
             "name": "Korg",
             "keywords": ["comics", "Marvel", "movies", "Marvel Cinematic Universe", "Korg", "Kronan"],
             "actor": "Taika Waititi",
-            "item": "sh752",
+            "item": "sh0752",
             "set": 76200,
             "dates": ["2022-05-25"]
         },
@@ -2579,7 +2580,7 @@
             "name": "Miek",
             "keywords": ["comics", "Marvel", "movies", "Marvel Cinematic Universe", "Miek", "Sakaaran"],
             "actor": "Stephen Murdoch",
-            "item": "sh754",
+            "item": "sh0754",
             "set": 76200,
             "dates": ["2022-05-26"]
         },
@@ -2598,7 +2599,7 @@
             "name": "Black Panther - Claw Necklace, Dark Purple and Lavender Highlights",
             "keywords": ["comics", "Marvel", "movies", "Marvel Cinematic Universe", "Infinity Saga", "Avengers: Endgame", "Black Panther", "Wakandan", "T'Challa"],
             "actor": "Chadwick Boseman",
-            "item": "sh728",
+            "item": "sh0728",
             "set": 76192,
             "dates": ["2022-05-24"]
         },
@@ -2607,7 +2608,7 @@
             "name": "Captain America - Detailed Suit, Open Mouth, Reddish Brown Hands",
             "keywords": ["comics", "Marvel", "movies", "Marvel Cinematic Universe", "Infinity Saga", "Avengers: Endgame", "Captain America", "Steve Rogers", "shield", "hammer", "Mjolnir"],
             "actor": "Chris Evans",
-            "item": "sh729",
+            "item": "sh0729",
             "set": 76192,
             "dates": ["2022-05-27", "2024-03-26"]
         },
@@ -2615,7 +2616,7 @@
             "id": "3470471d-4a69-4a6e-b827-59fbfb1cc5ec",
             "name": "Chitauri - Dark Bluish Gray",
             "keywords": ["comics", "Marvel", "movies", "Marvel Cinematic Universe", "Infinity Saga", "Avengers: Endgame", "Chitauri"],
-            "item": "sh730",
+            "item": "sh0730",
             "set": 76192,
             "dates": ["2022-05-31"]
         },
@@ -2624,7 +2625,7 @@
             "name": "Iron Man Mark 85 Armor - Black Hair",
             "keywords": ["comics", "Marvel", "movies", "Marvel Cinematic Universe", "Infinity Saga", "Avengers: Endgame", "Iron Man", "Tony Stark"],
             "actor": "Robert Downey Jr.",
-            "item": "sh731",
+            "item": "sh0731",
             "set": 76192,
             "dates": ["2022-06-01"]
         },
@@ -2633,7 +2634,7 @@
             "name": "Scarlet Witch - Plain Black Legs",
             "keywords": ["comics", "Marvel", "movies", "Marvel Cinematic Universe", "Infinity Saga", "Avengers: Endgame", "Scarlet Witch", "Wanda Maximoff", "shield"],
             "actor": "Elizabeth Olsen",
-            "item": "sh732",
+            "item": "sh0732",
             "set": 76192,
             "dates": ["2022-05-20"]
         },
@@ -2643,7 +2644,7 @@
             "style": "giant",
             "keywords": ["comics", "Marvel", "movies", "Marvel Cinematic Universe", "Infinity Saga", "Avengers: Endgame", "Thanos", "Titan"],
             "actor": "Josh Brolin",
-            "item": "sh733",
+            "item": "sh0733",
             "set": 76192,
             "dates": ["2022-05-23"]
         },
@@ -2652,7 +2653,7 @@
             "name": "Thor - Long Dark Tan Hair",
             "keywords": ["comics", "Marvel", "movies", "Marvel Cinematic Universe", "Infinity Saga", "Avengers: Endgame", "Thor", "Odinson", "Asgardian", "Stormbreaker"],
             "actor": "Chris Hemsworth",
-            "item": "sh734",
+            "item": "sh0734",
             "set": 76192,
             "dates": ["2022-05-16"]
         },
@@ -2726,7 +2727,7 @@
             "id": "4673a5da-cd99-4dc6-873b-d983bde48f80",
             "name": "Wolverine - Mask, Blue Hands",
             "keywords": ["comics", "Marvel", "X-Men", "Wolverine", "Logan", "adamantium", "claws", "mask"],
-            "item": "sh805",
+            "item": "sh0805",
             "set": 76202,
             "dates": ["2022-07-05", "2022-07-20", "2022-11-23"]
         },
@@ -2839,7 +2840,7 @@
             "id": "c18c3bab-c39a-4a09-8131-0fc7d1c22d44",
             "name": "Batman, Roller Disco Batman",
             "keywords": ["comics", "DC", "Detective Comics", "Batman", "Bruce Wayne", "roller skates", "disco", "cape"],
-            "item": "sh376",
+            "item": "sh0376",
             "set": 30607,
             "dates": ["2022-08-08", "2023-09-25"]
         },
@@ -2847,7 +2848,7 @@
             "id": "9d81de87-0349-494c-ad52-587dd76765bc",
             "name": "Batman, Tears of Batman Clown",
             "keywords": ["comics", "DC", "Detective Comics", "Batman", "Bruce Wayne", "clown", "patches", "bowtie", "cape"],
-            "item": "sh376",
+            "item": "sh0377",
             "set": 30607,
             "dates": ["2022-08-09", "2023-09-26"]
         },
@@ -2864,7 +2865,7 @@
             "id": "67c0289f-d897-479e-aeae-c6fc87421700",
             "name": "Chief O'Hara",
             "keywords": ["movies", "The LEGO Batman Movie", "comics", "DC", "Batman", "Gotham", "Gotham City Police Department", "GCPD", "police", "badge", "Chief O'Hara", "gun"],
-            "item": "sh399",
+            "item": "sh0399",
             "set": 853651,
             "dates": ["2022-08-15", "2023-09-29"]
         },
@@ -2872,7 +2873,7 @@
             "id": "e680b238-756d-4f0a-9d0e-5e87f106632b",
             "name": "GCPD Officer 1",
             "keywords": ["movies", "The LEGO Batman Movie", "comics", "DC", "Batman", "Gotham", "Gotham City Police Department", "GCPD", "police", "badge", "handcuffs", "hat", "circle beard"],
-            "item": "sh399",
+            "item": "sh0399",
             "set": 853651,
             "dates": ["2022-08-16", "2023-10-02"]
         },
@@ -2880,7 +2881,7 @@
             "id": "4b0a6f16-c3ce-41a6-ba33-ad8579cb3edd",
             "name": "GCPD Officer 2",
             "keywords": ["movies", "The LEGO Batman Movie", "comics", "DC", "Batman", "Gotham", "Gotham City Police Department", "GCPD", "police", "badge", "binoculars", "helmet", "mustache", "handlebar mustache"],
-            "item": "sh399",
+            "item": "sh0399",
             "set": 853651,
             "dates": ["2022-08-12", "2023-09-27"]
         },
@@ -3733,7 +3734,7 @@
             "name": "Cheetah (Dr. Barbara Minerva)",
             "keywords": ["comics", "movies", "DC", "DC Extended Universe", "DCEU", "Cheetah", "Barbara Minerva", "Dr. Minerva", "Dr. Barbara Minerva"],
             "actor": "Kristen Wiig",
-            "item": "sh635",
+            "item": "sh0635",
             "set": 76157,
             "dates": ["2022-11-04", "2023-11-27"]
         },
@@ -3742,7 +3743,7 @@
             "name": "Maxwell Lord",
             "keywords": ["comics", "movies", "DC", "DC Extended Universe", "DCEU", "Maxwell Lord", "Wonder Woman"],
             "actor": "Pedro Pascal",
-            "item": "sh636",
+            "item": "sh0636",
             "set": 76157,
             "dates": ["2022-12-01"]
         },
@@ -3751,7 +3752,7 @@
             "name": "Wonder Woman (Diana Prince) - Gold Wings",
             "keywords": ["comics", "movies", "DC", "DC Extended Universe", "DCEU", "Wonder Woman", "Diana Prince", "wings", "gold suit", "Wonder Woman"],
             "actor": "Gal Gadot",
-            "item": "sh634",
+            "item": "sh0634",
             "set": 76157,
             "dates": ["2022-11-30"]
         },
@@ -3832,11 +3833,12 @@
             "dates": ["2022-11-15"]
         },
         {
-            "id": "3d9f7a6c-51e2-4a65-b49b-1939b1bc8cec",
+            "id": "35a5f93c-8e4b-41f7-857a-20899cf57cb0",
             "name": "Goomba - Surprised",
             "keywords": ["video games", "Nintendo", "Mario", "Super Mario Bros.", "goomba"],
             "style": "character",
             "set": 71367,
+            "item": "mar0024",
             "dates": ["2022-11-18"],
             "notes": "I think the boys have this and may have mixed it up"
         },
@@ -3922,7 +3924,7 @@
             "name": "Captain America - Dark Blue Suit, Red Hands, Helmet",
             "keywords": ["comics", "Marvel", "Captain America", "Steve Rogers", "helmet", "star"],
             "set": 76168,
-            "item": "sh686",
+            "item": "sh0686",
             "dates": ["2023-03-15"]
         },
         {
@@ -3931,7 +3933,7 @@
             "keywords": ["comics", "Marvel", "Marvel Cinematic Universe", "Guardians of the Galaxy", "advent calendar", "2022", "Star-Lord", "Peter Quill", "jet boots", "blasters"],
             "actor": "Chriss Pratt",
             "set": 76231,
-            "item": "sh834",
+            "item": "sh0834",
             "dates": ["2023-01-03"]
         },
         {
@@ -3940,7 +3942,7 @@
             "keywords": ["comics", "Marvel", "Marvel Cinematic Universe", "Guardians of the Galaxy", "advent calendar", "2022", "Rocket Raccoon", "Rocket"],
             "actor": "Bradley Cooper",
             "set": 76231,
-            "item": "sh742",
+            "item": "sh0742",
             "notes": "This also contains the blaster from 76231-8",
             "dates": ["2023-02-09"]
         },
@@ -3950,7 +3952,7 @@
             "actor": "Karen Gillan",
             "keywords": ["comics", "Marvel", "Marvel Cinematic Universe", "Guardians of the Galaxy", "advent calendar", "2022", "Nebula", "holiday", "sweater", "ugly sweater", "gift", "Thanos", "infinity stones"],
             "set": 76231,
-            "item": "sh835",
+            "item": "sh0835",
             "dates": ["2023-02-10"]
         },
         {
@@ -3959,7 +3961,7 @@
             "keywords": ["comics", "Marvel", "Marvel Cinematic Universe", "Guardians of the Galaxy", "advent calendar", "2022", "Mantis", "guitar", "antennae"],
             "actor": "Pom Klementieff",
             "set": 76231,
-            "item": "sh745",
+            "item": "sh0745",
             "dates": ["2023-02-08"]
         },
         {
@@ -3968,7 +3970,7 @@
             "keywords": ["comics", "Marvel", "Marvel Cinematic Universe", "Guardians of the Galaxy", "advent calendar", "2022", "Groot", "phone", "teen groot", "Christmas", "holiday", "Christmas tree", "tree", "star"],
             "actor": "Vin Diesel",
             "set": 76231,
-            "item": "sh836",
+            "item": "sh0836",
             "notes": "This minifig is also wearing the tree from 76231-21 on their back",
             "dates": ["2023-02-14"]
         },
@@ -3978,7 +3980,7 @@
             "keywords": ["comics", "Marvel", "Marvel Cinematic Universe", "Guardians of the Galaxy", "advent calendar", "2022", "holiday", "sweater", "ugly sweater", "Drax", "spoon", "fork", "Groot", "baby", "baby Groot", "music", "notes"],
             "actor": "Dave Bautista",
             "set": 76231,
-            "item": "sh837",
+            "item": "sh0837",
             "dates": ["2023-02-15"]
         },
         {
@@ -4092,7 +4094,7 @@
             "keywords": ["comics", "movies", "Marvel Cinematic Universe", "Doctor Strange", "Steven Strange", "zombie", "dead"],
             "actor": "Benedict Cumberbatch",
             "set": 76218,
-            "item": "sh833",
+            "item": "sh0833",
             "dates": ["2023-06-07"]
         },
         {
@@ -4101,7 +4103,7 @@
             "keywords": ["comics", "movies", "Marvel Cinematic Universe", "Doctor Strange", "Steven Strange", "master of the mystic arts", "Cloak of Levitation", "Eye of Agamotto"],
             "actor": "Benedict Cumberbatch",
             "set": 76218,
-            "item": "sh802",
+            "item": "sh0802",
             "dates": ["2023-05-23"]
         },
         {
@@ -4110,7 +4112,7 @@
             "keywords": ["comics", "movies", "Marvel Cinematic Universe", "Ebony Maw", "Black Order", "Children of Thanos"],
             "actor": "Tom Vaughan-Lawlor",
             "set": 76218,
-            "item": "sh827",
+            "item": "sh0827",
             "dates": ["2023-06-01"]
         },
         {
@@ -4119,7 +4121,7 @@
             "keywords": ["comics", "movies", "Marvel Cinematic Universe", "Iron Man", "Tony Stark"],
             "actor": "Robert Downey Jr.",
             "set": 76218,
-            "item": "sh828",
+            "item": "sh0828",
             "dates": ["2023-06-02"]
         },
         {
@@ -4128,7 +4130,7 @@
             "keywords": ["comics", "movies", "Marvel Cinematic Universe", "master of the mystic arts", "beard", "cape"],
             "actor": "Chiwetel Ejiofor",
             "set": 76218,
-            "item": "sh832",
+            "item": "sh0832",
             "dates": ["2023-06-08"]
         },
         {
@@ -4137,7 +4139,7 @@
             "keywords": ["comics", "movies", "Marvel Cinematic Universe", "Wanda Maximoff", "Scarlet Witch"],
             "actor": "Elizabeth Olsen",
             "set": 76218,
-            "item": "sh831",
+            "item": "sh0831",
             "dates": ["2023-06-09"]
         },
         {
@@ -4146,7 +4148,7 @@
             "keywords": ["comics", "movies", "Marvel Cinematic Universe", "Doctor Strange", "Steven Strange", "master of the mystic arts", "Sinister Strange"],
             "actor": "Benedict Cumberbatch",
             "set": 76218,
-            "item": "sh830",
+            "item": "sh0830",
             "dates": ["2023-06-05"]
         },
         {
@@ -4155,7 +4157,7 @@
             "keywords": ["comics", "movies", "Marvel Cinematic Universe", "Spider-Man", "Peter Parker"],
             "actor": "Tom Holland",
             "set": 76218,
-            "item": "sh831",
+            "item": "sh0831",
             "dates": ["2023-06-06"]
         },
         {
@@ -4164,7 +4166,7 @@
             "keywords": ["comics", "movies", "Marvel Cinematic Universe", "Wong", "master of the mystic arts", "Sorcerer Supreme", "robe"],
             "actor": "Benedict Wong",
             "set": 76218,
-            "item": "sh826",
+            "item": "sh0826",
             "notes": "I also have this minifigure from 76267 and 76269",
             "dates": ["2023-05-31", "2024-04-22"]
         },
@@ -4290,7 +4292,7 @@
             "id": "164565a4-e2b6-48e2-9a6c-832b48917a6d",
             "name": "Bruce Wayne - Drifter",
             "keywords": ["movies", "comics", "DC", "The Batman", "Batman", "Bruce Wayne", "motorcycle", "helmet", "motorcycle helmet"],
-            "item": "sh784",
+            "item": "sh0784",
             "actor": "Robert Pattinson",
             "set": 76183,
             "dates": ["2023-06-14"]
@@ -4299,7 +4301,7 @@
             "id": "e9ffa696-b28f-4ba0-baa6-746b6e74e2fc",
             "name": "The Riddler",
             "keywords": ["movies", "comics", "DC", "The Batman", "Batman", "The Riddler", "Edward Nashton", "glasses", "mask"],
-            "item": "sh785",
+            "item": "sh0785",
             "actor": "Paul Dano",
             "set": 76183,
             "dates": ["2023-06-15"]
@@ -4308,7 +4310,7 @@
             "id": "2022e956-f1f4-4243-b1e9-438d42980bef",
             "name": "Batman - Dark Bluish Gray Suit, Black Belt, Black Hands, Spongy Cape with 1 Hole, Black Boots",
             "keywords": ["movies", "comics", "DC", "The Batman", "Batman", "Bruce Wayne", "batarang"],
-            "item": "sh786",
+            "item": "sh0786",
             "actor": "Robert Pattinson",
             "set": 76183,
             "notes": "This minifig appears in 3 sets I have, 76183, 76179, 76181. I think all three have a Bruce wayne head option as well.",
@@ -4318,7 +4320,7 @@
             "id": "ceaac2f0-8b25-47c9-9e0c-3b568ac2d4da",
             "name": "Lt. James Gordon, Black Hair, Black Suit, Dark Red Tie",
             "keywords": ["movies", "comics", "DC", "The Batman", "Batman", "James Gordon", "Lt. Gordon", "police", "glasses"],
-            "item": "sh787",
+            "item": "sh0787",
             "actor": "Jeffrey Wright",
             "set": 76183,
             "dates": ["2023-06-20", "2023-06-29"]
@@ -4327,7 +4329,7 @@
             "id": "0ceef38a-8e56-4617-9f51-6072e4b37f97",
             "name": "Selina Kyle",
             "keywords": ["movies", "comics", "DC", "The Batman", "Batman", "Catwoman", "Selina Kyle"],
-            "item": "sh788",
+            "item": "sh0788",
             "actor": "Zoë Kravitz",
             "notes": "I have this minifig from sets 76183 and 76179",
             "set": 76183,
@@ -4338,7 +4340,7 @@
             "name": "Alfred Pennyworth, Black Vest, Light Bluish Gray Hair, Dark Bluish Gray Beard",
             "keywords": ["movies", "comics", "DC", "The Batman", "Batman", "Alfred Pennyworth", "Alfred", "Pennyworth"],
             "actor": "Andy Serkis",
-            "item": "sh789",
+            "item": "sh0789",
             "set": 76183,
             "dates": ["2023-06-21", "2023-06-27"]
         },
@@ -4348,7 +4350,7 @@
             "keywords": ["movies", "comics", "DC", "The Batman", "Batman", "Penguin", "Oz", "Oswald Chesterfield Cobblepot", "Oswald Cobblepot"],
             "actor": "Colin Farrell",
             "set": 76181,
-            "item": "sh790",
+            "item": "sh0790",
             "dates": ["2023-07-10"]
         },
         {
@@ -4413,7 +4415,7 @@
             "keywords": ["comics", "Marvel", "television", "What If...?", "Disney+", "Marvel Cinematic Universe", "Peggy Carter", "Captain America", "Captain Britain", "Captain Carter", "shield", "Union Jack"],
             "actor": "Hayley Atwell",
             "set": 76201,
-            "item": "sh749",
+            "item": "sh0749",
             "dates": ["2023-08-21"]
         },
         {
@@ -4421,7 +4423,7 @@
             "name": "Red Skull - Printed Legs",
             "keywords": ["comics", "Marvel", "television", "What If...?", "Disney+", "Marvel Cinematic Universe", "Red Skill", "Hydra", "Johann Schmidt"],
             "set": 76201,
-            "item": "sh750",
+            "item": "sh0750",
             "dates": ["2023-08-22"]
         },
         {
@@ -4429,7 +4431,7 @@
             "name": "Steve Rogers",
             "keywords": ["comics", "Marvel", "television", "What If...?", "Disney+", "Marvel Cinematic Universe", "Steve Rogers", "Hydra stomper pilot"],
             "set": 76201,
-            "item": "sh751",
+            "item": "sh0751",
             "dates": ["2023-08-23"]
         },
         {
@@ -4438,7 +4440,7 @@
             "keywords": ["comics", "movies", "DC", "Detective Comics", "Batman", "Batman (1989)", "Flash", "cowl", "cape", "gargoyle", "Bruce Wayne"],
             "actor": "Michael Keaton",
             "notes": "I have a couple of this set. I also have one of this minifigure from its appearance in 76252 (without the gargoyle)",
-            "item": "sh880",
+            "item": "sh0880",
             "set": 30653,
             "dates": ["2023-11-21"]
         },
@@ -4455,7 +4457,7 @@
             "name": "Iron Man - Mark 85 Armor, Large Helmet Visor - with Energy Effects",
             "keywords": ["advent calendar", "Iron Man", "Tony Stark", "helmet"],
             "actor": "Robert Downey Jr.",
-            "item": "sh904",
+            "item": "sh0904",
             "set": 76267,
             "dates": ["2024-04-24"]
         },
@@ -4464,7 +4466,7 @@
             "name": "Spider-Man - Christmas Sweater - with web shooters",
             "keywords": ["advent calendar", "holiday", "Christmas", "Spider-Man", "ugly sweater", "web shooters", "snowflake"],
             "actor": "Tom Holland",
-            "item": "sh905",
+            "item": "sh0905",
             "set": 76267,
             "dates": ["2024-04-18"]
         },
@@ -4473,7 +4475,7 @@
             "name": "Black Widow - Christmas Sweater - Icicle Batons",
             "keywords": ["advent calendar", "holiday", "Christmas", "Black Widow", "Natasha Romanoff", "ugly sweater", "batons", "snowman", "hourglass", "tree", "Christmas tree"],
             "actor": "Scarlett Johansson",
-            "item": "sh907",
+            "item": "sh0907",
             "set": 76267,
             "dates": ["2024-04-23"]
         },
@@ -4482,7 +4484,7 @@
             "name": "Captain America - Dark Blue Suit, Dark Red Hands, Hair - with Shield - with Jetpack",
             "keywords": ["advent calendar", "Captain America", "Stve Rogers", "star", "shield", "jetpack"],
             "actor": "Chris Evans",
-            "item": "sh908",
+            "item": "sh0908",
             "set": 76267,
             "notes": "This is the same minifig as in Avengers tower 76269, but that one doesn't come with a jetpack",
             "dates": ["2024-04-17"]
@@ -4492,7 +4494,7 @@
             "name": "Okoye - Red Top - with spear",
             "keywords": ["advent calendar", "Okoye", "Wakandan", "Wakanda", "vibranium", "spear", "Dora Milaje"],
             "actor": "Danai Gurira",
-            "item": "sh847",
+            "item": "sh0847",
             "set": 76267,
             "dates": ["2024-04-19"]
         },
@@ -4501,7 +4503,7 @@
             "name": "Dr. Strange - Brooch - Casting Spell - with Cloak of Levitation",
             "keywords": ["advent calendar", "Dr. Strange", "brooch", "cape", "spell", "cloak", "cloak of levitation"],
             "actor": "Benedict Cumberbatch",
-            "item": "sh909",
+            "item": "sh0909",
             "set": 76267,
             "notes": "This came in an advent calendar. On a different day in the calendar the cloak was included. I'm putting them together. However, this makes the minifig the same as is in 76218 and 30652 sh802, but because I received this minifig as this particular variant, I'm including it (and this one has spells, so it's totally different ;) ).",
             "dates": ["2024-04-25"]
