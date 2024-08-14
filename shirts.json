@@ -2212,6 +2212,14 @@
             "keywords": ["qep'a'", "Klingon", "KLI", "pIqaD", "warriors", "hair"],
             "note": "I think there might be some pun here with like ponytail or something?",
             "dates": ["2024-07-31"]
+        },
+        {
+            "id": "e00edbb5-f88d-4056-9342-8baae179bf0c",
+            "name": "Fix Copyright",
+            "text": ["EFF PRESENTS", "FIX COPYRIGHT", "©️ ©️ EFF"],
+            "keywords": ["EFF", "Electronic Frontier Foundation", "Copyright", "Mickey", "Mickey Mouse", "tractor", "wrench", "multitool", "hammer", "John Deere"],
+            "source": "https://supporters.eff.org",
+            "dates": ["2024-08-13"]
         }
     ]
 }
