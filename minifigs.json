@@ -4595,6 +4595,15 @@
             "item": "col436",
             "set": 71046,
             "dates": ["2024-08-02"]
+        },
+        {
+            "id": "a5a1b0eb-261d-46c8-b97a-865f070ad094",
+            "name": "Skeleton - Standard Skull, Bent Arms Vertical Grip",
+            "keywords": ["skeleton", "skull", "bones", "Halloween"],
+            "item": "gen047",
+            "set": 40513,
+            "notes": "6 came in the set 40513",
+            "dates": []
         }
     ]
 }
