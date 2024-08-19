@@ -2183,8 +2183,9 @@
             "id": "7f6d20ed-bcf7-457a-830f-a476e25dadfd",
             "name": "Zerg Rush",
             "text": ["ZERG", "RUSH", "INFEST", "YOUR THIRST", "", "StarCraft"],
-            "keywords": ["video games", "Blizzard", "Blizzard Entertainment", "StarCraft", "Zerg", "rush", "Zerg rush", "energy drink", "drink", "can", "creep"],
+            "keywords": ["video games", "Blizzard", "Blizzard Entertainment", "StarCraft", "Zerg", "rush", "Zerg rush", "energy drink", "drink", "can", "creep", "tentacles"],
             "source": "https://gear.blizzard.com/products/starmt0022-starcraft-zerg-rush-t-shirt?variant=44009791422713",
+            "images": ["front", "back"],
             "dates": ["2023-11-14", "2024-05-30"]
         },
         {
