@@ -1957,7 +1957,7 @@
             "dates": ["2022-11-01", "2022-11-17", "2023-05-12", "2023-11-09", "2024-05-14"]
         },
         {
-            "id": "ec857fe8-d861-426b-8af4-7059f25d7dde",
+            "id": "7cc7b0ad-2dd7-4d5f-a390-95e31c151732",
             "name": "Rogers The Musical - billboard",
             "text": ["“A Super-Powered", "Sensation”", "★★★★★", "A", "ROGERS", "THE MUSICAL", "MARVEL STUDIOS", "hawkeye"],
             "keywords": ["television", "movies", "comics", "Marvel Cinematic Universe", "Hawkeye", "Steve Rogers", "Rogers", "musical", "Captain America", "Captain America shield", "Clint Barton", "Kate Bishop", "black", "yellow"],
@@ -2173,10 +2173,11 @@
         {
             "id": "5db61df6-5cfe-4d7c-9386-1fe3a737194c",
             "name": "qep'a' wejmaHDIch",
-            "text": [""],
-            "keywords": ["tlhIngan Hol", "Klingon", "Klingon Language Institute", "qep'a'", "Kronos", "Qo'noS", "bird of prey"],
-            "dates": ["2023-09-07", "2023-12-13", "2024-06-18/"]
-
+            "text": ["qep'a' wejmaHDIch", "qo'mey poSmoH Hol"],
+            "keywords": ["tlhIngan Hol", "Klingon", "Klingon Language Institute", "qep'a'", "Kronos", "Qo'noS", "bird of prey", "language opens worlds"],
+            "images": ["front", "logo"],
+            "images-name": "wejmaHDIch",
+            "dates": ["2023-09-07", "2023-12-13", "2024-06-18"]
         },
         {
             "id": "7f6d20ed-bcf7-457a-830f-a476e25dadfd",
