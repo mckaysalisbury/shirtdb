@@ -2061,6 +2061,9 @@
             "name": "Extreme Indoor Enthusiast",
             "text": ["EXTREME", "INDOOR", "ENTHUSIAST", "", "newegg.com®️", "ONCE YOU KNOW, YOU NEWEGG."],
             "keywords": ["indoor", "newegg"],
+            "images": ["front", "logo", "back"],
+            "source": "https://newegg.com",
+            "notes": "I don't remember where I got this, probably from some event they had a booth, like PAX or something",
             "dates": ["2023-04-13", "2023-09-29", "2024-03-23"]
         },
         {
