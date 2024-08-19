@@ -2069,6 +2069,11 @@
         {
             "id": "f07ef978-e249-4471-8726-6a4a8f0c8d7c",
             "name": "Nintendo Rehabilitation Clinic",
+            "source": "I probably got this at like target or something.",
+            "text": ["Nintendo®️", "REHABILITATION", "CLINIC", "The First Step Is", "Admitting You Have A Problem.", "TM & ©️ 2004 NINTENDO. All Rights Reserved."],
+            "keywords": ["video games", "Nintendo", "addiction", "clinic", "recovery"],
+            "notes": "Some people say I'm addicted to video games. The first step in addiction actually is admitting you have a problem. I'm still working on that first step.",
+            "images": ["front", "logo"],
             "dates": ["2023-04-15", "2023-08-15", "2024-02-14", "2024-08-14"]
         },
         {
