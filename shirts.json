@@ -2081,6 +2081,8 @@
             "name": "Codito Ergo Sum",
             "text": ["CODITO, ERGO SUM", "thinkgeek.com"],
             "keywords": ["programming", "Cogito, ergo sum.", "I think, therefore I am.", "I code, therefore I am.", "René Descartes"],
+            "source": "https://thinkgeek.com",
+            "images": ["front", "logo"],
             "dates": ["2023-04-21", "2023-09-13", "2024-03-15"]
         },
         {
