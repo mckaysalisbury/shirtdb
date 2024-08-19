@@ -2167,6 +2167,7 @@
                 "black eye", "milk", "jug", "knock", "wall", "bookshelf", "book", "books", "alone", "blue", "thing", "grab", "understand",
                 "heard", "ear", "sound", "whisper", "lips", "love", "play", "guitar", "pick", "heart", "heart attack", "tie", "pain",
                 "stars", "star", "walk", "corridor", "dark", "darkened cooridor"],
+            "images": ["front"],
             "dates": ["2023-07-03", "2024-01-05", "2024-06-17"]
         },
         {
