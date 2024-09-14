@@ -656,7 +656,7 @@
             "keywords": ["Star Wars"],
             "item": "sw0051",
             "set": 7103,
-            "notes": "This set / minifig has a special significants to me. Ask me about it.",
+            "notes": "This set / minifig has a special significance to me. Ask me about it.",
             "dates": ["2021-07-28"]
         },
         {
@@ -665,7 +665,7 @@
             "keywords": ["Star Wars"],
             "item": "sw0060",
             "set": 7103,
-            "dates": ["2021-07-29", "2024-09-12"]
+            "dates": ["2021-07-29"]
         },
         {
             "id": "7e61ddb4-5b6c-4f81-a413-9bcfe257e679",
@@ -3709,7 +3709,7 @@
             "actor": "Christopher Lee",
             "item": "sw0224",
             "set": 852555,
-            "dates": ["2022-11-01"]
+            "dates": ["2022-11-01", "2024-09-12"]
         },
         {
             "id": "b1a886a0-5247-4360-b24b-51836961e49e",
@@ -3718,7 +3718,7 @@
             "actor": "Samuel L. Jackson",
             "item": "sw0220",
             "set": 852555,
-            "dates": ["2022-11-01"]
+            "dates": ["2022-11-01", "2024-09-13"]
         },
         {
             "id": "04fddeac-c2ce-4083-9ae1-3ce510e3ef5b",
