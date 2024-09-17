@@ -390,10 +390,16 @@
             "id": "3de097c6-ce9e-4e0c-9960-47428a1037ab",
             "name": "Game Time",
             "text": ["♞"],
-            "keywords": ["board games", "Chess", "Mousetrap", "Monopoly", "Risk", "Barrel of monkeys", "jacks", "Battleship", "Operation", "green army men", "knight"],
+            "keywords": [
+                "board games", "Chess", "Mousetrap", "Monopoly", "Risk", "Barrel of monkeys", "jacks", "Battleship", "Operation",
+                "green army men", "knight"
+            ],
             "source": "https://shirt.woot.com/offers/game-time",
             "images": ["logo", "front"],
-            "dates": ["2021-05-28", "2021-10-06", "2022-03-18", "2022-05-21", "2022-10-11", "2023-03-28", "2023-09-18", "2024-03-21"]
+            "dates": [
+                "2021-05-28", "2021-10-06", "2022-03-18", "2022-05-21", "2022-10-11", "2023-03-28", "2023-09-18", "2024-03-21",
+                "2024-09-17"
+            ]
         },
         {
             "id": "23f6ee3b-3a2f-4fbb-abb9-2053676de6c7",
