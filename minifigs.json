@@ -4604,6 +4604,117 @@
             "set": 40513,
             "notes": "6 came in the set 40513",
             "dates": []
+        },
+        {
+            "id": "a83e5dbe-dd5a-4290-9cc2-d760bab863ad",
+            "name": "Dwarf Barbarian, Dungeons & Dragons",
+            "keywords": ["Dungeons & Dragons", "D&D", "collectible minifgures", "dwarf", "barbarian", "axe", "torch", "coat"],
+            "item": "coldnd01",
+            "set": 71047,
+            "dates": []
+        },
+        {
+            "id": "61f7447d-97ff-4e1b-863a-d205a98394ca",
+            "name": "Gith Warlock, Dungeons & Dragons",
+            "keywords": [
+                "Dungeons & Dragons", "D&D", "collectible minifgures", "gith", "warlock", "staff", "eye", "eyeball", "dagger", "pauldron",
+                "shoulder armor", "ailette", "leather", "spaulder"
+            ],
+            "item": "coldnd02",
+            "set": 71047,
+            "dates": []
+        },
+        {
+            "id": "9539bc05-7ede-4bf0-a6cd-e6469051e27e",
+            "name": "Tiefling Sorcerer, Dungeons & Dragons",
+            "keywords": [
+                "Dungeons & Dragons", "D&D", "collectible minifgures", "tiefling", "sorceror", "magic missile", "dragon", "whelp",
+                "red dragon", "horns", "tail"
+            ],
+            "item": "coldnd03",
+            "set": 71047,
+            "dates": []
+        },
+        {
+            "id": "8d39d4fe-c641-4863-9f85-263229a28045",
+            "name": "Dragonborn Paladin, Dungeons & Dragons",
+            "keywords": [
+                "Dungeons & Dragons", "D&D", "collectible minifgures", "dragonborn", "paladin", "shield", "mace", "dragon shield",
+                "gold dragonborn", "armor", "pauldrons", "shoulder armor"
+            ],
+            "item": "coldnd04",
+            "set": 71047,
+            "dates": []
+        },
+        {
+            "id": "09986c73-5daa-4a18-9625-50c0ad4b990e",
+            "name": "Halfling Druid, Dungeons & Dragons",
+            "keywords": [
+                "Dungeons & Dragons", "D&D", "collectible minifgures", "halfling", "druid", "staff", "bird", "antlers", "hood", "cape"
+            ],
+            "item": "coldnd05",
+            "set": 71047,
+            "dates": []
+        },
+        {
+            "id": "5f308fda-d470-43c5-91d0-9b172db39b44",
+            "name": "Aarakocra Ranger, Dungeons & Dragons",
+            "keywords": ["Dungeons & Dragons", "D&D", "collectible minifgures", "aarakocra", "ranger", "dog", "bow", "arrow", "wings"],
+            "item": "coldnd06",
+            "set": 71047,
+            "dates": []
+        },
+        {
+            "id": "4eb27074-9d8f-4cfe-b3b5-f273c0d4f7ed",
+            "name": "Mind Flayer, Dungeons & Dragons",
+            "keywords": ["Dungeons & Dragons", "D&D", "collectible minifgures", "mind flayer", "aberration", "intellect devourer"],
+            "item": "coldnd07",
+            "set": 71047,
+            "dates": []
+        },
+        {
+            "id": "47f3863d-ecc8-49a6-be0c-c984fae596df",
+            "name": "Strahd von Zarovich, Dungeons & Dragons",
+            "keywords": [
+                "Dungeons & Dragons", "D&D", "collectible minifgures", "Strahd", "vampire", "Barovia", "sword", "greatsword", "goblet",
+                "rat", "wererat"
+            ],
+            "item": "coldnd08",
+            "set": 71047,
+            "dates": []
+        },
+        {
+            "id": "f8c523a7-4789-4ddb-bc38-5c22a10bd629",
+            "name": "Elf Bard, Dungeons & Dragons",
+            "keywords": [
+                "Dungeons & Dragons", "D&D", "collectible minifgures", "elf", "bard", "sword", "cutlass", "guitar", "lute", "scarf"],
+            "item": "coldnd09",
+            "set": 71047,
+            "dates": []
+        },
+        {
+            "id": "df4f18e4-a3bc-409c-ba6a-4765e3b4c888",
+            "name": "The Lady of Pain, Dungeons & Dragons",
+            "keywords": ["Dungeons & Dragons", "D&D", "collectible minifgures", "Sigil", "Outlands", "mantle", "cubic gate"],
+            "item": "coldnd10",
+            "set": 71047,
+            "dates": []
+        },
+        {
+            "id": "d7cd7f25-f5a6-4051-9de7-7e8099ff4b75",
+            "name": "Szass Tam, Dungeons & Dragons",
+            "keywords": ["Dungeons & Dragons", "D&D", "collectible minifgures", "lich", "Thay", "Red Wizard", "necromancer", "skull"],
+            "item": "coldnd11",
+            "set": 71047,
+            "dates": []
+        },
+        {
+            "id": "1c8a99e3-185d-47e7-8a1a-d901609d9756",
+            "name": "Tasha the Witch Queen, Dungeons & Dragons",
+            "keywords": ["Dungeons & Dragons", "D&D", "collectible minifgures", "Tasha", "cauldron", "spellbook", "hideous laughter", "scroll"],
+            "item": "coldnd12",
+            "set": 71047,
+            "dates": []
         }
     ]
 }
