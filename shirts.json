@@ -2253,6 +2253,14 @@
             "name": "They Might Be Giants - Instant Fan Club - 2024",
             "keywords": ["music", "They Might Be Giants", "TMBG", "Instant Fan Club", "IFC", "skeleton", "key"],
             "dates": ["2024-10-15"]
+        },
+        {
+            "id": "9242b75e-5527-45cd-a1c5-b50ad8abd750",
+            "name": "The many faces of Spock",
+            "text": ["THE MANY FACES OF", "SPOCK", "HAPPY", "CALM", "FRUSTRATED", "CONFUSED", "SAD", "SLEEPY", "BORED", "ANGRY", "EXCITED", "TM & ©️ CBS Studios Inc. All Rights Reserved."],
+            "keywords": ["television", "Star Trek", "TOS", "The Original Series", "Spock", "Vulcan", "happy", "calm", "frustrated", "confused", "sad", "sleepy", "bored", "angry", "excited", "🖖"],
+            "dates": ["2024-10-16"]
+
         }
     ]
 }
