@@ -697,7 +697,7 @@
             "source": "https://www.offworlddesigns.com/save-the-princess-t-shirt/",
             "notes": "I don't *think* I bought it from OffWorld Designs but I can't find it elsewhere",
             "images": ["front"],
-            "dates": ["2021-06-24", "2021-11-23", "2022-04-27", "2022-10-04", "2023-03-18", "2023-09-25", "2024-03-26", "2024-04-08"]
+            "dates": ["2021-06-24", "2021-11-23", "2022-04-27", "2022-10-04", "2023-03-18", "2023-09-25", "2024-03-26", "2024-04-08", "2024-10-17"]
         },
         {
             "id": "5cdf1b8a-d714-43b6-b834-b913dc1fa40f",
@@ -2251,6 +2251,7 @@
         {
             "id": "9ce3c7b3-0edf-4fb5-af7d-aa76d4ca914f",
             "name": "They Might Be Giants - Instant Fan Club - 2024",
+            "text": ["PREMIERE", "LEVEL", "", "THEY", "MIGHT", "BE", "GIANTS", "INSTANT", "FAN", "CLUB"],
             "keywords": ["music", "They Might Be Giants", "TMBG", "Instant Fan Club", "IFC", "skeleton", "key"],
             "dates": ["2024-10-15"]
         },
