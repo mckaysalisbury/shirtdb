@@ -918,7 +918,7 @@
             "id": "6dcab1a1-9498-48ae-89b7-c64c6866ef9d",
             "name": "TMBG IFC 2020",
             "text": ["THEY", "MIGHT", "BE", "GIANTS", "NSTANT", "FAN", "CLUB"],
-            "keywords": ["music", "band", "They Might Be Giants", "TMBG", "Instant Fan Club", "2020", "vault"],
+            "keywords": ["music", "band", "They Might Be Giants", "TMBG", "Instant Fan Club", "2020", "vault", "you must be thinking of some other band"],
             "source": "https://www.tmbgifc.com/",
             "images-name": "ifc-2020",
             "images": ["front"],
@@ -2252,7 +2252,8 @@
             "id": "9ce3c7b3-0edf-4fb5-af7d-aa76d4ca914f",
             "name": "They Might Be Giants - Instant Fan Club - 2024",
             "text": ["PREMIERE", "LEVEL", "", "THEY", "MIGHT", "BE", "GIANTS", "INSTANT", "FAN", "CLUB"],
-            "keywords": ["music", "They Might Be Giants", "TMBG", "Instant Fan Club", "IFC", "skeleton", "key"],
+            "keywords": ["music", "They Might Be Giants", "TMBG", "Instant Fan Club", "IFC", "skeleton", "key", "you must be thinking of some other band"],
+            "source": "https://www.tmbgifc.com/",
             "dates": ["2024-10-15"]
         },
         {
@@ -2260,8 +2261,16 @@
             "name": "The many faces of Spock",
             "text": ["THE MANY FACES OF", "SPOCK", "HAPPY", "CALM", "FRUSTRATED", "CONFUSED", "SAD", "SLEEPY", "BORED", "ANGRY", "EXCITED", "TM & ©️ CBS Studios Inc. All Rights Reserved."],
             "keywords": ["television", "Star Trek", "TOS", "The Original Series", "Spock", "Vulcan", "happy", "calm", "frustrated", "confused", "sad", "sleepy", "bored", "angry", "excited", "🖖"],
+            "source": "gift",
             "dates": ["2024-10-16"]
-
+        },
+        {
+            "id": "4762f279-74fd-4c4d-bf2c-5b1be63303ee",
+            "name": "LEGO love Strong",
+            "text": ["L😀", "VE", "the strong", "NATIONAL MUSEUM OF PLAY"],
+            "keywords": ["museum", "The Strong", "The Strong National Museum of Play", "LEGO", "minifigure", "head", "love", "bricks"],
+            "source": "https://www.museumofplay.org/",
+            "dates": ["2024-10-18"]
         }
     ]
 }
