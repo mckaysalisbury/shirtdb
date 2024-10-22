@@ -2279,6 +2279,15 @@
             "style": "long-sleeve pocket polo",
             "keywords": ["blue", "long-sleeve", "collar", "pocket"],
             "dates": ["2024-10-19"]
+        },
+        {
+            "id": "335dac06-42de-4dd1-9f32-6aa0513e26a9",
+            "name": "That's a no from me",
+            "text": [],
+            "source": "https://mckayfaceshirt.printful.me",
+            "notes": "Also currently at https://mckayfaceshirt.com",
+            "keywords": ["McKay", "sad", "angry", "acting", "no", "mckayfaceshirt", "glasses"],
+            "dates": ["2024-10-22"]
         }
     ]
 }
