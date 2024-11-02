@@ -662,10 +662,10 @@
         {
             "id": "6438a5cd-8795-4142-b62e-77da6db36bb0",
             "name": "Count Dooku",
-            "keywords": ["Star Wars"],
+            "keywords": ["Star Wars", "yellow head"],
             "item": "sw0060",
             "set": 7103,
-            "dates": ["2021-07-29"]
+            "dates": ["2021-07-29", "2024-11-01"]
         },
         {
             "id": "7e61ddb4-5b6c-4f81-a413-9bcfe257e679",
