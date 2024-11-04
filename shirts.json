@@ -47,7 +47,9 @@
             "keywords": ["encryption", "redacted", "legal", "illegal number", "hexadecimal", "AACS", "interpolation"],
             "images": ["front"],
             "source": "https://thinkgeek.com",
-            "dates": ["2021-04-29", "2021-09-21", "2022-02-08", "2022-07-26", "2023-01-24", "2023-05-17", "2023-07-25", "2024-01-24", "2024-02-21", "2024-08-29"]
+            "dates": [
+                "2021-04-29", "2021-09-21", "2022-02-08", "2022-07-26", "2023-01-24", "2023-05-17", "2023-07-25", "2024-01-24", "2024-02-21", "2024-08-29"
+            ]
         },
         {
             "id": "844b8c14-c6b0-4381-b568-9074f22e73b0",
@@ -91,7 +93,9 @@
             "keywords": ["games", "D&D", "Wil Wheaton", "dice", "d20", "d12", "d8", "d6", "d4", "Rutherford atom"],
             "images": ["front"],
             "source": "https://shirt.woot.com/offers/how-we-roll",
-            "dates": ["2021-05-03", "2021-09-22", "2021-10-16", "2022-03-15", "2022-05-20", "2022-10-08", "2023-03-29", "2023-09-21", "2024-03-19", "2024-09-02"]
+            "dates": [
+                "2021-05-03", "2021-09-22", "2021-10-16", "2022-03-15", "2022-05-20", "2022-10-08", "2023-03-29", "2023-09-21", "2024-03-19", "2024-09-02"
+            ]
         },
         {
             "id": "db47ef4a-8cd7-45bb-8b35-5891194f2eeb",
@@ -119,7 +123,10 @@
             "keywords": ["toys", "TV", "Lego Space", "Serenity", "Firefly", "Lego 1980s Space"],
             "images": ["front"],
             "source": "https://teefury.com/products/tee-mens-basic-browncoat-brick",
-            "dates": ["2021-05-06", "2021-06-08", "2021-10-21", "2022-03-19", "2022-07-30", "2022-07-06", "2023-01-07", "2023-05-16", "2023-07-29", "2024-01-25", "2024-08-05"]
+            "dates": [
+                "2021-05-06", "2021-06-08", "2021-10-21", "2022-03-19", "2022-07-30", "2022-07-06", "2023-01-07", "2023-05-16", "2023-07-29", "2024-01-25",
+                "2024-08-05"
+            ]
         },
         {
             "id": "85dae76a-fce5-4b11-89ee-a06e4d84ad2c",
@@ -360,8 +367,21 @@
         {
             "id": "6310f4d3-0310-4c36-9e9a-b9ccf19af06e",
             "name": "I Be Au Sm",
-            "text": ["GE", "EK", "C N N H C O", "DEG", "07334", "MODE x² log ln ON", "ab/c  hyp sin cos tan", "+/- ▶ [(... ...)] xʸ MR", "7 8 9 c AC", "4 5 6 × ÷", "0 . EXP = M+", "θ", "01000101110100100100", "E=mc²", "C H O", "1 2 3 4 5 6 7", "53 4 79 62", "I Be Au Sm", "Ge Ek", "0 1 2 3 4 5", "5 4 3 2 1 0", "ESC F1 F2 F3 F4 F5 F6 F7 F8 F9 F10 F11 F12 Num Ins Del Brk", "~ ! @ # $ % ^ & * ( ) _ Backspace Home", "` 1 2 3 4 5 6 7 8 9 0 -", "⭾ TAB Q W E R T Y U I O P [ ] PgUp", "Caps Lock A S D F G H J K L ; ↵Enter PgDn", "⇧Shift Z X C V B N M < > ⇧Shift ↑ End", "fn Ctrl Alt Alt Ctrl ← ↓ →", "50Tb", "ADVANCED", "PHYSICS", "3rd Edition", "90°", "π", "boost", "boost", "geek", "inside", "threadless", "1 2 3 4 5 6 7"],
-            "keywords": ["geek", "USB", "calculator", "chess", "pawn", "rutherford atom", "chemistry", "robot", "angle", "triangle", "microscope", "3.5\" floppy disk", "test tube", "RAM", "Iodine", "Beryllium", "Gold", "Samarium", "nuclear fission", "Ray Gun", "Lost Dharma Initiative", "Nintendo Entertainment System (NES)", "integral", "Space Invaders", "Pocket Protector", "Square", "wand", "keyboard", "computer", "mouse", "Rubik's Cube", "DNA Helix", "beaker", "Lightsaber", "NES Controller", "graduated cylinder", "bunson burner", "glasses", "XBox 360 controller", "battery", "hard drive", "thumbdrive", "wifi card", "telescope", "magnifying glass", "XBox 360", "protractor", "compass", "pi", "satellite dish", "alien", "power", "square root radical", "right triangle", "5 1/4\" floppy", "Intel inside"],
+            "text": [
+                "GE", "EK", "C N N H C O", "DEG", "07334", "MODE x² log ln ON", "ab/c  hyp sin cos tan", "+/- ▶ [(... ...)] xʸ MR", "7 8 9 c AC", "4 5 6 × ÷",
+                "0 . EXP = M+", "θ", "01000101110100100100", "E=mc²", "C H O", "1 2 3 4 5 6 7", "53 4 79 62", "I Be Au Sm", "Ge Ek", "0 1 2 3 4 5",
+                "5 4 3 2 1 0", "ESC F1 F2 F3 F4 F5 F6 F7 F8 F9 F10 F11 F12 Num Ins Del Brk", "~ ! @ # $ % ^ & * ( ) _ Backspace Home",
+                "` 1 2 3 4 5 6 7 8 9 0 -", "⭾ TAB Q W E R T Y U I O P [ ] PgUp", "Caps Lock A S D F G H J K L ; ↵Enter PgDn",
+                "⇧Shift Z X C V B N M < > ⇧Shift ↑ End", "fn Ctrl Alt Alt Ctrl ← ↓ →", "50Tb", "ADVANCED", "PHYSICS", "3rd Edition", "90°", "π", "boost",
+                "boost", "geek", "inside", "threadless", "1 2 3 4 5 6 7"],
+            "keywords": [
+                "geek", "USB", "calculator", "chess", "pawn", "rutherford atom", "chemistry", "robot", "angle", "triangle", "microscope", "3.5\" floppy disk",
+                "test tube", "RAM", "Iodine", "Beryllium", "Gold", "Samarium", "nuclear fission", "Ray Gun", "Lost Dharma Initiative",
+                "Nintendo Entertainment System (NES)", "integral", "Space Invaders", "Pocket Protector", "Square", "wand", "keyboard", "computer", "mouse",
+                "Rubik's Cube", "DNA Helix", "beaker", "Lightsaber", "NES Controller", "graduated cylinder", "bunson burner", "glasses", "XBox 360 controller",
+                "battery", "hard drive", "thumbdrive", "wifi card", "telescope", "magnifying glass", "XBox 360", "protractor", "compass", "pi",
+                "satellite dish", "alien", "power", "square root radical", "right triangle", "5 1/4\" floppy", "Intel inside"
+            ],
             "source": "https://teefury.com/products/tee-mens-basic-i-be-au-sm",
             "images": ["front"],
             "dates": ["2021-05-25", "2021-10-09", "2022-03-03", "2022-08-18", "2023-02-09", "2023-05-25", "2023-11-27", "2024-06-13"]
@@ -487,7 +507,9 @@
             "id": "bdfa52cc-1b47-4457-9623-ff7e35caba1b",
             "name": "Pixelated Mutant Flying Koopas",
             "text": ["PIXELATED MUTANT FLYING", "KOOPAS", "VILLAINS IN A HALFSHELL"],
-            "keywords": ["video games", "TV", "Nintendo", "Mario", "Super Mario Bros.", "TMNT", "Teenage Mutant Ninja Turtles", "Koopa Troopa", "Koopa Paratroopa"],
+            "keywords": [
+                "video games", "TV", "Nintendo", "Mario", "Super Mario Bros.", "TMNT", "Teenage Mutant Ninja Turtles", "Koopa Troopa", "Koopa Paratroopa"
+            ],
             "images": ["front", "logo"],
             "images-name": "koopas",
             "dates": ["2021-06-03", "2021-10-28", "2022-03-22", "2022-08-31", "2023-02-11", "2023-08-25", "2024-02-10", "2024-06-25"]
@@ -506,7 +528,8 @@
                 "S-VIDEO", "Ⓡ Ⓛ",
                 "SCART", "DVD", "A", "DTV/", "CBL", "B",
                 "RF", "AUX IN",
-                "SPEAKERS", "Ⓡ SURROUND Ⓛ", "+ +", "- -", "SURROUND : 6 MIN./SPEAKER", "B", "FRONT", "CENTRE Ⓡ Ⓛ","+ +", "- -", "CENTRE : 6 MIN./SPEAKER", "A", "Ⓡ FRONT Ⓛ", "+ +", "- -", "FRONT A OR B : 6 MIN./SPEAKER"
+                "SPEAKERS", "Ⓡ SURROUND Ⓛ", "+ +", "- -", "SURROUND : 6 MIN./SPEAKER", "B", "FRONT", "CENTRE Ⓡ Ⓛ","+ +", "- -", "CENTRE : 6 MIN./SPEAKER",
+                "A", "Ⓡ FRONT Ⓛ", "+ +", "- -", "FRONT A OR B : 6 MIN./SPEAKER"
             ],
             "keywords": ["Audio/Video", "A/V", "Receiver", "RCA"],
             "source": "https://www.threadless.com/shop/@threadless/design/av/mens/t-shirt",
@@ -547,7 +570,10 @@
             "id": "a1959e64-bb5a-41f8-8528-1deafb1e1261",
             "name": "BlizzCon 2007",
             "text": ["BLIZZCON", "", "BLIZZARD®", "ENTERTAINMENT"],
-            "keywords": ["video games", "Blizzard", "BlizzCon", "WarCraft", "Diablo", "StarCraft", "Draenei", "Protoss", "Zealot", "Terran", "Tychus Findlay", "Murloc", "Blood Elf"],
+            "keywords": [
+                "video games", "Blizzard", "BlizzCon", "WarCraft", "Diablo", "StarCraft", "Draenei", "Protoss", "Zealot", "Terran", "Tychus Findlay", "Murloc",
+                "Blood Elf"
+            ],
             "source": "https://blizzcon.com",
             "images": ["front", "logo", "right", "back"],
             "dates": ["2021-06-09", "2022-04-02", "2022-09-02", "2023-02-23", "2023-08-22", "2024-02-06", "2024-08-12"]
@@ -614,7 +640,11 @@
         {
             "id": "95193574-afba-4b7a-a113-20e1b67e3893",
             "name": "Sugar Crash",
-            "text": ["Sugar Crash", "A fatal exception UHOH has occurred at IEAT:C6H12O6. The current", "sugar high will be terminated.", "*  Press any key to terminate the current sugar high.", "*  Consume C6H12O6 again to restart this sugar high. You will", "lose any regained sense of reasoning or sanity.", "Press any key to continue _"],
+            "text": [
+                "Sugar Crash", "A fatal exception UHOH has occurred at IEAT:C6H12O6. The current", "sugar high will be terminated.",
+                "*  Press any key to terminate the current sugar high.", "*  Consume C6H12O6 again to restart this sugar high. You will",
+                "lose any regained sense of reasoning or sanity.", "Press any key to continue _"
+            ],
             "keywords": ["Microsoft", "Windows", "95", "blue screen of death", "BSoD"],
             "source": "https://shirt.woot.com/offers/sugar-bsod",
             "images": ["front", "logo"],
@@ -642,7 +672,16 @@
         {
             "id": "5de85cc1-7cec-476e-ac2f-8cd2fd69cfc0",
             "name": "Space Shuttle Enterprise",
-            "text": ["SPACE SHUTTLE", "ENTERPRISE", "INTREPID", "MUSEUM", "ORBITER VEHICLE DESIGNATION: OV-101", "Dimensions and Weight", "Wing Span· · · · · · · · 78.06ft", "Length · · · · · · · · · · 122.17ft", "Height · · · · · · · · · · 56.58ft", "Tread Width  · · · · · · · 22.67ft", "Gross Takeoff Weight · · Variable", "Gross Landing Weight · · Variable", "Inert Weight (Approx) · 165,000lb", "Minimum Ground", "Clearances", "Body Flap (Aft End) · · · 12.07ft", "Main Gear (Door) · · · · · 2.85ft", "Nose Gear (Door) · · · · · 2.95ft", "Wingtip · · · · · · · · · 11.92ft", "Rudder/", "Speed Brake", "Side View", "Enterprise", "NASA", "🇺🇸 United States", "Side Hatch", "Aft Reaction", "Control", "System", "Top View", "Forward Reaction", "Control System", "Module", "Payload", "Bay Doors", "🇺🇸", "USA", "Orbital Maneuvering System/", "Reaction Control", "System Modules", "Main Engines", "Bottom View", "Main Landing", "Gear", "Nose Landing", "Gear"],
+            "text": [
+                "SPACE SHUTTLE", "ENTERPRISE", "INTREPID", "MUSEUM", "ORBITER VEHICLE DESIGNATION: OV-101", "Dimensions and Weight",
+                "Wing Span· · · · · · · · 78.06ft", "Length · · · · · · · · · · 122.17ft", "Height · · · · · · · · · · 56.58ft",
+                "Tread Width  · · · · · · · 22.67ft", "Gross Takeoff Weight · · Variable", "Gross Landing Weight · · Variable",
+                "Inert Weight (Approx) · 165,000lb", "Minimum Ground", "Clearances", "Body Flap (Aft End) · · · 12.07ft", "Main Gear (Door) · · · · · 2.85ft",
+                "Nose Gear (Door) · · · · · 2.95ft", "Wingtip · · · · · · · · · 11.92ft", "Rudder/", "Speed Brake", "Side View", "Enterprise", "NASA",
+                "🇺🇸 United States", "Side Hatch", "Aft Reaction", "Control", "System", "Top View", "Forward Reaction", "Control System", "Module", "Payload",
+                "Bay Doors", "🇺🇸", "USA", "Orbital Maneuvering System/", "Reaction Control", "System Modules", "Main Engines", "Bottom View", "Main Landing",
+                "Gear", "Nose Landing", "Gear"
+            ],
             "keywords": ["space", "aircraft carrier", "space shuttle", "Enterprise"],
             "source": "https://store.intrepidmuseum.org",
             "images-name": "enterprise",
@@ -703,7 +742,11 @@
             "id": "5cdf1b8a-d714-43b6-b834-b913dc1fa40f",
             "name": "They Beat the Same",
             "text": ["❤", "❤", "❤", "❤", "❤❤❤", "❤", "❤", "❤❤❤❤❤❤❤❤❤❤", "❤❤❤❤❤❤❤❤❤❤"],
-            "keywords": ["video games", "books", "TV", "human", "movies", "Wizard of Oz", "Tin Man", "Dr. Seuss", "How the Grinch Stole Christmas", "Grinch", "Forbidden Planet", "Robby the Robot", "squid", "three hearts", "Mary Shelly", "Frankenstein", "Frankenstein; or, The Modern Prometheus", "Frankenstein's Monster", "Care Bears", "Tenderheart Bear", "Nintendo", "Legend of Zelda", "Link"],
+            "keywords": [
+                "video games", "books", "TV", "human", "movies", "Wizard of Oz", "Tin Man", "Dr. Seuss", "How the Grinch Stole Christmas", "Grinch",
+                "Forbidden Planet", "Robby the Robot", "squid", "three hearts", "Mary Shelly", "Frankenstein", "Frankenstein; or, The Modern Prometheus",
+                "Frankenstein's Monster", "Care Bears", "Tenderheart Bear", "Nintendo", "Legend of Zelda", "Link"
+            ],
             "source": "https://shirt.woot.com/offers/they-beat-the-same",
             "images": ["front"],
             "images-name": "beat-same",
@@ -783,7 +826,9 @@
             "keywords": ["comics", "movies", "Marvel", "Marvel Cinematic Universe", "Avengers: Endgame", "Thor", "Captain America", "shield", "Mjolnir"],
             "source": "https://shirt.woot.com/offers/also-worthy",
             "images": ["front", "logo"],
-            "dates": ["2021-07-03", "2021-11-13", "2022-04-12", "2022-07-06", "2022-11-25", "2023-04-25", "2023-07-31", "2024-01-16", "2024-07-04", "2024-09-28"]
+            "dates": [
+                "2021-07-03", "2021-11-13", "2022-04-12", "2022-07-06", "2022-11-25", "2023-04-25", "2023-07-31", "2024-01-16", "2024-07-04", "2024-09-28"
+            ]
         },
         {
             "id": "bb6d129c-9199-4465-b7b5-c471a3dcb59f",
@@ -798,7 +843,9 @@
             "id": "fcfc5134-c6a6-4d86-9206-d8f02533b639",
             "name": "I am Steve Rogers",
             "text": ["I AM", "STEVE ROGERS"],
-            "keywords": ["comics", "movies", "Marvel Cinematic Universe", "Marvel", "Avengers: Infinity War", "Steve Rogers", "Captain America", "Groot", "I am Groot"],
+            "keywords": [
+                "comics", "movies", "Marvel Cinematic Universe", "Marvel", "Avengers: Infinity War", "Steve Rogers", "Captain America", "Groot", "I am Groot"
+            ],
             "source": "https://www.comic-con.org",
             "images": ["front", "logo"],
             "dates": ["2021-07-06", "2021-12-10", "2022-05-07", "2022-10-24", "2023-04-12", "2023-08-11", "2024-02-24", "2024-08-27"]
@@ -816,7 +863,10 @@
             "id": "7abdcc89-f982-4b14-ae06-3970214b732c",
             "name": "BlizzCon 2009",
             "text": ["BLIZZ", "CON", "09", "ANAHEIM CONVENTION CENTER"],
-            "keywords": ["video games", "Blizzard", "BlizzCon", "key art", "WarCraft", "World of WarCraft", "Sindragosa", "Diablo", "Diablo III", "Barbarian", "StarCraft", "StarCraft II", "Ghost"],
+            "keywords": [
+                "video games", "Blizzard", "BlizzCon", "key art", "WarCraft", "World of WarCraft", "Sindragosa", "Diablo", "Diablo III", "Barbarian",
+                "StarCraft", "StarCraft II", "Ghost"
+            ],
             "source": "https://blizzcon.com",
             "images": ["front", "logo", "back"],
             "dates": ["2021-07-08", "2021-11-27", "2022-05-06", "2022-10-18", "2023-04-11", "2023-10-07", "2024-04-09", "2024-05-29", "2024-10-07"]
@@ -835,7 +885,10 @@
             "id": "dff0af98-a416-457a-94ef-9c2bebc939f0",
             "name": "Avengers",
             "text": ["Ⓐ"],
-            "keywords": ["comics", "movies", "Marvel Cinematic Universe", "Marvel", "Avengers", "Captain America", "Thor", "Black Widow", "Hawkeye", "Iron Man", "Hulk", "black"],
+            "keywords": [
+                "comics", "movies", "Marvel Cinematic Universe", "Marvel", "Avengers", "Captain America", "Thor", "Black Widow", "Hawkeye", "Iron Man", "Hulk",
+                "black"
+            ],
             "images": ["front"],
             "dates": ["2021-07-10", "2021-12-11", "2022-06-06", "2022-11-16", "2023-05-13", "2023-10-28", "2024-05-18"]
         },
@@ -852,7 +905,11 @@
         {
             "id": "4de9da27-5f51-4fdf-abc8-3e8fa1e14ee6",
             "name": "Spear of Adun",
-            "text": ["SPEAR OF ADUN", "ADUN TORIDAS", "TIME BOMBS", "SOLARITE-FUELED CORE", "PURIFIER BEAM", "ORBITAL STRIKE CANNON", "FABRICATION MATRIX", "UNIT STATS", "ROLE: PROTOSS ARKSHIP", "ARMAMENTS: ORBITAL STRIKE CANNON", "PURIFIER BEAM", "TIME BOMBS", "SOLAR LANCE BATTERY", "SIZE: SUPERMASSIVE"],
+            "text": [
+                "SPEAR OF ADUN", "ADUN TORIDAS", "TIME BOMBS", "SOLARITE-FUELED CORE", "PURIFIER BEAM", "ORBITAL STRIKE CANNON", "FABRICATION MATRIX",
+                "UNIT STATS", "ROLE: PROTOSS ARKSHIP", "ARMAMENTS: ORBITAL STRIKE CANNON", "PURIFIER BEAM", "TIME BOMBS", "SOLAR LANCE BATTERY",
+                "SIZE: SUPERMASSIVE"
+            ],
             "keywords": ["video games", "Blizzard", "StarCraft", "StarCraft II", "Protoss", "Spear of Adun", "Legacy of the Void"],
             "images": ["front", "back"],
             "dates": ["2021-07-12", "2021-12-03", "2022-05-04", "2022-09-28", "2023-03-24", "2023-09-12", "2024-03-12", "2024-09-07"]
@@ -870,7 +927,10 @@
             "id": "e3689fb1-3a08-4b9c-a564-613741537f81",
             "name": "Alpha Battle",
             "text": ["V", "E", "J", "G", "D", "z", "b", "a", "H", "m", "Q", "T", "F", "K", "R", "U", "P", "C", "L", "S", "O", "N", "X", "Y", "W", "i"],
-            "keywords": ["video games", "alphabet", "Asteroids", "Bomberman", "Contra", "Donkey Kong", "Excitebike", "Frogger", "Galaga", "Halo", "Indiana Jones", "Joust", "Katamari Damacy", "Luigi", "Mega Man", "Ninja Gaiden", "Oregon Trail", "Pitfall", "Quake", "Rayman", "Super Mario", "Tetris", "Ultima", "Virtua Fighter", "WarCraft", "X-Men", "Yoshi", "Zelda"],
+            "keywords": [
+                "video games", "alphabet", "Asteroids", "Bomberman", "Contra", "Donkey Kong", "Excitebike", "Frogger", "Galaga", "Halo", "Indiana Jones",
+                "Joust", "Katamari Damacy", "Luigi", "Mega Man", "Ninja Gaiden", "Oregon Trail", "Pitfall", "Quake", "Rayman", "Super Mario", "Tetris",
+                "Ultima", "Virtua Fighter", "WarCraft", "X-Men", "Yoshi", "Zelda"],
             "source": "https://shirt.woot.com/offers/alpha-battle",
             "notes": "A is for quarters, this took all of yours, B is for robot, that must find all the doors, C is for joysticks, and this one had two, D is for Pauline, who needs saving by you, E is for B button which you can’t hold too long, F is for path, and yours might wind up wrong, G is for corner, if you go there you’re trapped, H is for X-Box, good going, next map, I is for shovel, you’re going to need that, J is for lava troll, your feet he will grab at, K is for bear, and a whole lot of swear words, L is for franchise, player two that made good, M is for pause trick, hey, computers cheat too, N is a popular name, like Ryu, O is for Here Lies, so restart the game, P is for cobra, they’re lying in wait, Q is for haircut, and dude needs one today, R is for something we don’t think we’ve played, S is for franchise, and this locked it in, T is for hours of fun with no friends, U is for British, he got killed in a beta, V is for punching, put that quarter up, playa, W is for online, where the kids all spend time, X is for Hamlet, I hear his is quite fine, Y is for crazy, that designer was nuts, Z is for Ganon, who got sat on his butt.",
             "images": ["front"],
@@ -946,7 +1006,10 @@
         {
             "id": "50b96000-823e-43a5-8445-12b1183406ba",
             "name": "Inconceivable",
-            "text": ["Inconceivable", "", "I do not think", "that word means", "what you think", "it means...", "The Princess Bride TM&© 1987, 2006 Twentieth Century Fox Film Corporation"],
+            "text": [
+                "Inconceivable", "", "I do not think", "that word means", "what you think", "it means...",
+                "The Princess Bride TM&© 1987, 2006 Twentieth Century Fox Film Corporation"
+            ],
             "keywords": ["movies", "The Princess Bride", "William Goldman", "S. Morgenstern", "Vincini", "Inigo Montoya"],
             "images": ["front", "back"],
             "notes": "I think I got this shirt from ThinkGeek, but I'm not sure.",
@@ -975,7 +1038,10 @@
             "id": "f1fcfdbc-ee4d-4875-9eab-6c67e97d2a64",
             "name": "BlizzCon 2008",
             "text": ["BLIZZ", "CON", "ANAHEIM 2008", "", "BLIZZ", "CON", "", "BLIZZARD®", "ENTERTAINMENT"],
-            "keywords": ["video games", "Blizzard", "BlizzCon", "BlizzCon 2008", "key art", "WarCraft", "World of WarCraft", "Thrall", "Diablo", "Diablo 3", "Tyrael", "StarCraft", "StarCraft II", "Zeratul", "Dark Templar"],
+            "keywords": [
+                "video games", "Blizzard", "BlizzCon", "BlizzCon 2008", "key art", "WarCraft", "World of WarCraft", "Thrall", "Diablo", "Diablo 3", "Tyrael",
+                "StarCraft", "StarCraft II", "Zeratul", "Dark Templar"
+            ],
             "images": ["front", "back", "logo", "right"],
             "source": "https://blizzcon.com",
             "dates": ["2021-07-26", "2021-12-13", "2022-06-04", "2022-11-18", "2023-05-26", "2023-11-13"]
@@ -1020,7 +1086,9 @@
             "id": "d594062d-304d-412f-a64c-7e464c5d86cb",
             "name": "qep'a' cha'maH HutDIch",
             "text": ["wa'maH cha' pem wa'maH cha' ram", "SuvtaH SuvtaH", "qep'a' cha'maH HutDIch"],
-            "keywords": ["TV", "Star Trek", "Klingon", "tlhIngan Hol", "qep'a'", "pIqaD", "12 days 12 nights", "fighting fighting", "29th great meeting", "blue"],
+            "keywords": [
+                "TV", "Star Trek", "Klingon", "tlhIngan Hol", "qep'a'", "pIqaD", "12 days 12 nights", "fighting fighting", "29th great meeting", "blue"
+            ],
             "images-name": "cha'maH-HutDIch",
             "images": ["front"],
             "source": "https://www.kli.org/activities/qepmey/qepa-chamah-hutdich",
@@ -1049,7 +1117,10 @@
             "id": "2162d3ff-2bdf-45bd-a4bd-4222c4334d1d",
             "name": "BlizzCon 2005",
             "text": ["BLIZZ", "CON", "", "BLIZZARD®", "ENTERTAINMENT"],
-            "keywords": ["video games", "Blizzard", "BlizzCon", "BlizzCon 2005", "WarCraft", "World of Warcraft", "Naga", "StarCraft", "ghost", "StarCraft: Ghost", "Nova", "Night Elf", "Diablo"],
+            "keywords": [
+                "video games", "Blizzard", "BlizzCon", "BlizzCon 2005", "WarCraft", "World of Warcraft", "Naga", "StarCraft", "ghost", "StarCraft: Ghost",
+                "Nova", "Night Elf", "Diablo"
+            ],
             "source": "https://blizzcon.com",
             "images": ["front", "right"],
             "dates": ["2021-08-03", "2021-11-06", "2022-01-15", "2022-06-25", "2022-12-12", "2023-06-10", "2023-12-05", "2024-06-11"]
@@ -1057,7 +1128,10 @@
         {
             "id": "91634c3f-789e-4ff7-a45d-01f23aa675f2",
             "name": "Games Well With Others",
-            "text": ["W", "ASD", "GAMES", "WELL WITH", "OTHERS", "", "2016", "BLIZZ", "CON", "X", "", "newegg®", "acer ASUS CORSAIR intel® lenovo msi NVIDIA Rosewill"],
+            "text": [
+                "W", "ASD", "GAMES", "WELL WITH", "OTHERS", "", "2016", "BLIZZ", "CON", "X", "", "newegg®",
+                "acer ASUS CORSAIR intel® lenovo msi NVIDIA Rosewill"
+            ],
             "keywords": ["video games", "Blizzard", "BlizzCon", "BlizzCon 2016"],
             "images": ["front", "left", "right"],
             "images-name": "games-well",
@@ -1067,7 +1141,9 @@
             "id": "a58e519d-17c8-4eed-8b3f-fa6883059831",
             "name": "The Devourer",
             "text": [],
-            "keywords": ["TV", "comics", "Sesame Street", "Cookie Monster", "cookie", "milk", "galaxy", "Milky Way", "planet", "comics", "Marvel", "Galactus", "mashup"],
+            "keywords": [
+                "TV", "comics", "Sesame Street", "Cookie Monster", "cookie", "milk", "galaxy", "Milky Way", "planet", "comics", "Marvel", "Galactus", "mashup"
+            ],
             "source": "https://shirt.woot.com/offers/the-devourer",
             "images": ["front"],
             "dates": ["2021-08-05", "2022-01-04", "2022-03-07", "2022-05-27", "2022-10-17", "2023-03-06", "2023-08-04", "2024-01-23", "2024-08-08"]
@@ -1136,7 +1212,12 @@
             "name": "Console General",
             "text": ["1UP", "1UP"],
             "source": "https://shirt.woot.com/offers/console-general",
-            "keywords": ["video games", "Four-star general", "NES", "Nintendo Entertainment System", "Nintendo", "Light gun", "Sony", "PlayStation", "DualShock", "Sega", "Genesis", "SNES", "Super Nintendo Entertainment System", "Super NES", "Atari", "Atari 2600", "Paddle", "Namco", "GunCon", "Microsoft", "Xbox", "Xbox 360", "N64", "Nintendo 64", "Vectrex", "NES Max", "Super Scope", "Dreamcast", "Master System", "Sega Master System", "Xbox", "Jaguar", "Sega Genesis", "Genesis", "ColecoVision", "Gamecube", "Wii", "Wiimote", "Wii Remote", "Sega Saturn", "3D Control Pad"],
+            "keywords": [
+                "video games", "Four-star general", "NES", "Nintendo Entertainment System", "Nintendo", "Light gun", "Sony", "PlayStation", "DualShock", "Sega",
+                "Genesis", "SNES", "Super Nintendo Entertainment System", "Super NES", "Atari", "Atari 2600", "Paddle", "Namco", "GunCon", "Microsoft", "Xbox",
+                "Xbox 360", "N64", "Nintendo 64", "Vectrex", "NES Max", "Super Scope", "Dreamcast", "Master System", "Sega Master System", "Xbox", "Jaguar",
+                "Sega Genesis", "Genesis", "ColecoVision", "Gamecube", "Wii", "Wiimote", "Wii Remote", "Sega Saturn", "3D Control Pad"
+            ],
             "images-name": "console-general",
             "images": ["front"],
             "dates": ["2021-08-11", "2022-01-19", "2022-07-08", "2022-10-28", "2023-04-22", "2023-10-12", "2024-04-17", "2024-04-27"]
@@ -1156,7 +1237,11 @@
             "id": "b675aa91-bd3b-444d-aedb-a4a018d011bd",
             "name": "Marvel Studios - First Ten Years",
             "text": ["MARVEL STUD10S", "THE FIRST TEN YEARS", "Ⓐ"],
-            "keywords": ["comics", "movies", "Marvel", "Marvel Cinematic Universe", "Marvel Studios", "Avengers", "Captain America", "Captain America Shield", "Hulk", "Iron Man", "Thor", "Mjolnir", "Black Widow", "Hourglass", "Black Panther", "Wakanda", "Ant-Man", "Pym Particle", "Doctor Strange", "Sanctum Sanctorum", "Guardians of the Galaxy", "Ravagers" ],
+            "keywords": [
+                "comics", "movies", "Marvel", "Marvel Cinematic Universe", "Marvel Studios", "Avengers", "Captain America", "Captain America Shield", "Hulk",
+                "Iron Man", "Thor", "Mjolnir", "Black Widow", "Hourglass", "Black Panther", "Wakanda", "Ant-Man", "Pym Particle", "Doctor Strange",
+                "Sanctum Sanctorum", "Guardians of the Galaxy", "Ravagers"
+            ],
             "images": ["front"],
             "images-name": "marvel-studios",
             "source": "https://comic-con.org",
@@ -1217,7 +1302,10 @@
             "id": "6f8654be-27fd-4fe6-8ae5-543caaa6876c",
             "name": "ManDELOREAN",
             "text": ["DMC", "BOUNTYHUNTER", "MANDELOREAN"],
-            "keywords": ["movies", "TV", "Back to the Future", "Doc Brown", "Marty McFly", "time machine", "Delorean", "Star Wars", "Mandalorian", "baby Yoda", "Grogu", "mashup"],
+            "keywords": [
+                "movies", "TV", "Back to the Future", "Doc Brown", "Marty McFly", "time machine", "Delorean", "Star Wars", "Mandalorian", "baby Yoda", "Grogu",
+                "mashup"
+            ],
             "source": "https://shirt.woot.com/offers/mandelorean",
             "images": ["front"],
             "images-name": "mandelorean",
@@ -1238,7 +1326,14 @@
             "id": "9a0331ca-8a01-4bfa-8ce3-e3b4a8aeb4eb",
             "name": "Choose Your Destiny",
             "text": [],
-            "keywords": ["video games", "movies", "comics", "Star Wars", "lightsaber", "Darth Vader", "Anakin Skywalker", "Final Fantasy", "Final Fantasy VII", "FF:VII", "FFVII", "FF7", "Cloud", "Cloud Strife", "Zack", "Zack Fair", "Buster Sword", "Harry Potter", "Deathly Hallows", "Elder wand", "Assassin's Creed", "Assassin Brotherhood", "hidden blade", "Army of Darkness", "Ash Williams", "Homelite XL", "chainsaw", "Nightmare on Elm Street", "Freddy Kreuger", "claws", "Final Fantasy VIII", "FF:VIII", "FFVIII", "FF8", "Squall", "Gunblade", "Revolver", "Marvel", "comics", "Thanos", "Infinity Gauntlet", "King Arthur", "Excalibur", "Sword in the stone", "Thor", "Mjolnir", "Pokemon", "Pokémon", "Pocket Monsters", "Pokeball", "Pokéball", "Mario", "Mario Kart", "Koopa Shell", "red shell", "Legend of Zelda", "Link"],
+            "keywords": [
+                "video games", "movies", "comics", "Star Wars", "lightsaber", "Darth Vader", "Anakin Skywalker", "Final Fantasy", "Final Fantasy VII", "FF:VII",
+                "FFVII", "FF7", "Cloud", "Cloud Strife", "Zack", "Zack Fair", "Buster Sword", "Harry Potter", "Deathly Hallows", "Elder wand",
+                "Assassin's Creed", "Assassin Brotherhood", "hidden blade", "Army of Darkness", "Ash Williams", "Homelite XL", "chainsaw",
+                "Nightmare on Elm Street", "Freddy Kreuger", "claws", "Final Fantasy VIII", "FF:VIII", "FFVIII", "FF8", "Squall", "Gunblade", "Revolver",
+                "Marvel", "comics", "Thanos", "Infinity Gauntlet", "King Arthur", "Excalibur", "Sword in the stone", "Thor", "Mjolnir", "Pokemon", "Pokémon",
+                "Pocket Monsters", "Pokeball", "Pokéball", "Mario", "Mario Kart", "Koopa Shell", "red shell", "Legend of Zelda", "Link"
+            ],
             "source": "https://shirt.woot.com/offers/choose-your-destiny",
             "images-name": "choose-destiny",
             "images": ["front"],
@@ -1328,8 +1423,14 @@
         {
             "id": "1dca916e-a4ca-4ae3-8119-dc0d21cfa27f",
             "name": "All I got was this evil ring",
-            "text": ["The", "Lord of the Rings", "Online™", "Shadows of Angmar", "", "My Uncle Went to the", "Misty Mountains", "and", "All I Got Was This", "Evil Ring", "💍", "www.lotro.com"],
-            "keywords": ["books", "video games", "J. R. R. Tolkien", "Tolkien", "Lord of the Rings", "Hobbit", "Frodo Baggins", "Bilbo Baggins", "Lord of the Rings Online", "Shadows of Angmar"],
+            "text": [
+                "The", "Lord of the Rings", "Online™", "Shadows of Angmar", "", "My Uncle Went to the", "Misty Mountains", "and", "All I Got Was This",
+                "Evil Ring", "💍", "www.lotro.com"
+            ],
+            "keywords": [
+                "books", "video games", "J. R. R. Tolkien", "Tolkien", "Lord of the Rings", "Hobbit", "Frodo Baggins", "Bilbo Baggins",
+                "Lord of the Rings Online", "Shadows of Angmar"
+            ],
             "source": "https://paxsite.com",
             "images": ["front", "logo", "back"],
             "dates": ["2021-08-25", "2022-01-26", "2022-07-16", "2023-01-30", "2023-07-11", "2024-01-08", "2024-07-09"]
@@ -1355,7 +1456,11 @@
             "id": "b5fac53d-6339-467d-996d-a4cfdcc485e7",
             "name": "BlizzCon 2016",
             "text": ["X", "2016", "BLIZZ", "CON", "", "BLIZZ", "CON", "ANAHEIM 2016"],
-            "keywords": ["video games", "Blizzard", "BlizzCon", "BlizzCon 2016", "StarCraft", "StarCraft 2", "StarCraft II", "SC2", "SCII", "Nova", "Nova: Covert Ops", "WarCraft", "World of Warcraft", "Sylvanas Windrunner", "Sylvanas", "Diablo", "Chromie", "Bronze Dragonflight", "Hearthstone", "Inkeeper", "Harth Stonebrew", "Sarge", "Overwatch", "Ana"],
+            "keywords": [
+                "video games", "Blizzard", "BlizzCon", "BlizzCon 2016", "StarCraft", "StarCraft 2", "StarCraft II", "SC2", "SCII", "Nova", "Nova: Covert Ops",
+                "WarCraft", "World of Warcraft", "Sylvanas Windrunner", "Sylvanas", "Diablo", "Chromie", "Bronze Dragonflight", "Hearthstone", "Inkeeper",
+                "Harth Stonebrew", "Sarge", "Overwatch", "Ana"
+            ],
             "source": "https://blizzcon.com",
             "images": ["front", "back"],
             "dates": ["2021-08-28", "2022-01-25", "2022-07-22", "2023-01-25", "2023-08-07", "2024-01-26", "2024-08-02"]
@@ -1363,7 +1468,13 @@
         {
             "id": "47e31e62-e2f7-4679-9d73-725db4119fc0",
             "name": "Book the Movie",
-            "text": ["COMING SOON TO A THEATER NEAR YOU", "BOOK", "THE MOVIE", "SOME GOOD", "ACTING", "THEY TRIED", "THEIR", "BEST", "COULD'VE", "BEEN", "WORSE", "UNIMAGINATIVE STUDIO EXECUTIVES PRESENT A BIG BUDGET FIASCO WITH ALL THESE FAMOUS ACTORS", "WRITTEN", "BY", "SOMEONE WHO DIDN'T UNDERSTAND THE SERIES", "DIRECTED", "BY", "A GUY WHO LIKES EXPLOSIONS A LOT", "COSTUME", "DESIGN", "IS DIFFERENT THAN WHAT YOU PICTURED", "WITH", "MUSIC BY", "POP STARS WHO DON'T LIKE TO READ", "SEE THE FILM CRITICS ARE CALLING", "“NOT AS GOOD AS THE BOOK!”"],
+            "text": [
+                "COMING SOON TO A THEATER NEAR YOU", "BOOK", "THE MOVIE", "SOME GOOD", "ACTING", "THEY TRIED", "THEIR", "BEST", "COULD'VE", "BEEN", "WORSE",
+                "UNIMAGINATIVE STUDIO EXECUTIVES PRESENT A BIG BUDGET FIASCO WITH ALL THESE FAMOUS ACTORS", "WRITTEN", "BY",
+                "SOMEONE WHO DIDN'T UNDERSTAND THE SERIES", "DIRECTED", "BY", "A GUY WHO LIKES EXPLOSIONS A LOT", "COSTUME", "DESIGN",
+                "IS DIFFERENT THAN WHAT YOU PICTURED", "WITH", "MUSIC BY", "POP STARS WHO DON'T LIKE TO READ", "SEE THE FILM CRITICS ARE CALLING",
+                "“NOT AS GOOD AS THE BOOK!”"
+            ],
             "keywords": ["book", "movie", "books", "movies"],
             "source": "https://shirt.woot.com/offers/book-the-movie",
             "images": ["front"],
@@ -1414,11 +1525,18 @@
         {
             "id": "30260a0e-1078-4af7-8429-8198945fc7b3",
             "name": "Double-Slit Experiment T-Shirt",
-            "text": ["FIGURE 1: PHOTON IS OBSERVED", "FIGURE 2: PHOTON IS UNOBSERVED", "FIGURE 3: PHOTON IS OBSERVED AFTER LEAVING THE PLANE", "*CONCLUSION: THIS IS A GREAT IDEA FOR A TSHIRT.", "TM & © Warner Bros. Entertainment Inc.", "($10)"],
-            "keywords": ["TV", "Big Bang Theory", "physics", "quantum mechanics", "double-slit experiment", "Heisenberg principle", "wave-particle duality", "electron"],
+            "text": [
+                "FIGURE 1: PHOTON IS OBSERVED", "FIGURE 2: PHOTON IS UNOBSERVED", "FIGURE 3: PHOTON IS OBSERVED AFTER LEAVING THE PLANE",
+                "*CONCLUSION: THIS IS A GREAT IDEA FOR A TSHIRT.", "TM & © Warner Bros. Entertainment Inc.", "($10)"
+            ],
+            "keywords": [
+                "TV", "Big Bang Theory", "physics", "quantum mechanics", "double-slit experiment", "Heisenberg principle", "wave-particle duality", "electron"
+            ],
             "source": "https://thinkgeek.com",
             "images": ["front"],
-            "dates": ["2021-09-02", "2022-02-26", "2022-08-24", "2023-02-18", "2023-08-21", "2024-02-17", "2024-04-01", "2024-04-02", "2024-09-13", "2024-10-24"]
+            "dates": [
+                "2021-09-02", "2022-02-26", "2022-08-24", "2023-02-18", "2023-08-21", "2024-02-17", "2024-04-01", "2024-04-02", "2024-09-13", "2024-10-24"
+            ]
         },
         {
             "id": "e5e52c99-5f91-4c40-b067-507b3a8f9806",
@@ -1452,7 +1570,10 @@
             "id": "c7525316-7e66-4318-a142-1f2d22680217",
             "name": "Penny!",
             "text": ["PENNY!", "PENNY!", "PENNY!"],
-            "keywords": ["TV", "video games", "mashup", "Big Bang Theory", "Leonard", "Leonard Hofstadter", "Sheldon", "Sheldon Cooper", "Penny", "video games", "Nintendo", "Zelda", "Legend of Zelda", "Link", "Navi"],
+            "keywords": [
+                "TV", "video games", "mashup", "Big Bang Theory", "Leonard", "Leonard Hofstadter", "Sheldon", "Sheldon Cooper", "Penny", "video games",
+                "Nintendo", "Zelda", "Legend of Zelda", "Link", "Navi"
+            ],
             "source": "https://thinkgeek.com",
             "images": ["front"],
             "dates": ["2021-09-06", "2022-02-21", "2022-08-12", "2023-01-09", "2023-06-16", "2023-12-20", "2024-06-29"]
@@ -1469,7 +1590,9 @@
             "id": "04156526-36c0-4cd2-b625-e670674c43ec",
             "name": "Insurrection",
             "text": ["THE BATTLE FOR PARADISE HAS BEGUN", "STAR TREK", "INSURRECTION"],
-            "keywords": ["Star Trek", "movies", "Insurrection", "Star Trek: Insurrection", "ST9", "Enterprise", "Enterprise-E", "NCC 1701-E", "Son'a", "Ru'afo"],
+            "keywords": [
+                "Star Trek", "movies", "Insurrection", "Star Trek: Insurrection", "ST9", "Enterprise", "Enterprise-E", "NCC 1701-E", "Son'a", "Ru'afo"
+            ],
             "images": ["front"],
             "dates": ["2021-09-08", "2022-02-17", "2022-08-15", "2022-10-27", "2023-04-27", "2023-10-21", "2024-04-30", "2024-10-29"]
         },
@@ -1480,7 +1603,7 @@
             "keywords": ["video games", "TV", "Namco", "Pac-Man", "Sesame Street", "Cookie Monster", "cookie"],
             "source": "https://www.threadless.com/product/2362/Cookies/",
             "images": ["front", "logo"],
-            "dates": ["2021-09-09", "2021-11-02", "2022-04-13", "2022-08-05", "2023-01-06", "2023-06-20", "2023-11-02", "2024-05-07"]
+            "dates": ["2021-09-09", "2021-11-02", "2022-04-13", "2022-08-05", "2023-01-06", "2023-06-20", "2023-11-02", "2024-05-07", "2024-11-02"]
         },
         {
             "id": "2e2576b6-3f33-4635-aad9-db62fdfc1df6",
@@ -1521,7 +1644,10 @@
         {
             "id": "6f0fee02-1727-4169-a4b0-2ce64eaebc52",
             "name": "This Was a Triumph",
-            "keywords": ["video games", "Valve", "Portal", "the cake is a lie", "cake", "cooking", "baking", "mixer", "bowl", "fork", "plate", "memory core", "companion cube", "weighted companion cube"],
+            "keywords": [
+                "video games", "Valve", "Portal", "the cake is a lie", "cake", "cooking", "baking", "mixer", "bowl", "fork", "plate", "memory core",
+                "companion cube", "weighted companion cube"
+            ],
             "text": [],
             "source": "https://shirt.woot.com/offers/this-was-a-triumph",
             "images": ["front"],
@@ -1676,23 +1802,20 @@
             "keywords": ["white", "button down", "collar", "best dress", "pocket", "white shirt"],
             "notes": "I've got a few of these that are basically identical",
             "dates": [
-                "2022-02-27", "2022-03-12", "2022-03-13", "2022-03-20", "2022-03-26", "2022-03-27", "2022-04-10", "2022-04-17",
-                "2022-04-24", "2022-05-01", "2022-05-08", "2022-05-22", "2022-05-29", "2022-06-12", "2022-06-19", "2022-06-26",
-                "2022-07-03", "2022-07-10", "2022-07-17", "2022-07-24", "2022-07-31", "2022-08-07", "2022-08-14", "2022-08-21",
-                "2022-08-28", "2022-09-04", "2022-09-11", "2022-09-18", "2022-09-25", "2022-10-16", "2022-10-23", "2022-10-30",
-                "2022-11-06", "2022-11-13", "2022-11-20", "2022-11-27", "2022-12-05", "2022-12-19", "2022-12-25", "2023-01-01",
-                "2023-01-08", "2023-01-15", "2023-01-22", "2023-01-29", "2023-02-05", "2023-02-12", "2023-02-19", "2023-02-26",
-                "2023-03-05", "2023-03-12", "2023-03-19", "2023-03-25", "2023-03-26", "2023-04-09", "2023-04-16", "2023-04-23",
-                "2023-04-30", "2023-05-06", "2023-05-07", "2023-05-14", "2023-05-21", "2023-05-28", "2023-06-04", "2023-06-11",
-                "2023-06-17", "2023-06-18", "2023-06-25", "2023-07-02", "2023-07-09", "2023-07-23", "2023-08-06", "2023-08-20",
-                "2023-08-27", "2023-09-03", "2023-09-10", "2023-09-17", "2023-09-24", "2023-10-08", "2023-10-15", "2023-10-22",
-                "2023-10-28", "2023-10-29", "2023-11-05", "2023-11-09", "2023-11-12", "2023-11-19", "2023-11-26", "2023-12-03",
-                "2023-12-10", "2023-12-17", "2023-12-24", "2023-12-31", "2024-01-07", "2024-01-13", "2024-01-14", "2024-01-21",
-                "2024-01-28", "2024-02-04", "2024-02-11", "2024-02-19", "2024-02-25", "2024-02-29", "2024-03-03", "2024-03-10",
-                "2024-03-17", "2024-03-23", "2024-03-24", "2024-03-31", "2024-04-14", "2024-04-20", "2024-04-21", "2024-04-28",
-                "2024-05-05", "2024-05-12", "2024-05-19", "2024-05-26", "2024-06-01", "2024-06-02", "2024-06-16", "2024-06-23",
-                "2024-06-30", "2024-07-07", "2024-07-14", "2024-07-21", "2024-08-04", "2024-08-11", "2024-08-18", "2024-08-31",
-                "2024-09-01", "2024-09-08", "2024-09-15", "2024-09-21", "2024-09-22", "2024-09-29", "2024-10-13", "2024-10-27"
+                "2022-02-27", "2022-03-12", "2022-03-13", "2022-03-20", "2022-03-26", "2022-03-27", "2022-04-10", "2022-04-17", "2022-04-24", "2022-05-01",
+                "2022-05-08", "2022-05-22", "2022-05-29", "2022-06-12", "2022-06-19", "2022-06-26", "2022-07-03", "2022-07-10", "2022-07-17", "2022-07-24",
+                "2022-07-31", "2022-08-07", "2022-08-14", "2022-08-21", "2022-08-28", "2022-09-04", "2022-09-11", "2022-09-18", "2022-09-25", "2022-10-16",
+                "2022-10-23", "2022-10-30", "2022-11-06", "2022-11-13", "2022-11-20", "2022-11-27", "2022-12-05", "2022-12-19", "2022-12-25", "2023-01-01",
+                "2023-01-08", "2023-01-15", "2023-01-22", "2023-01-29", "2023-02-05", "2023-02-12", "2023-02-19", "2023-02-26", "2023-03-05", "2023-03-12",
+                "2023-03-19", "2023-03-25", "2023-03-26", "2023-04-09", "2023-04-16", "2023-04-23", "2023-04-30", "2023-05-06", "2023-05-07", "2023-05-14",
+                "2023-05-21", "2023-05-28", "2023-06-04", "2023-06-11", "2023-06-17", "2023-06-18", "2023-06-25", "2023-07-02", "2023-07-09", "2023-07-23",
+                "2023-08-06", "2023-08-20", "2023-08-27", "2023-09-03", "2023-09-10", "2023-09-17", "2023-09-24", "2023-10-08", "2023-10-15", "2023-10-22",
+                "2023-10-28", "2023-10-29", "2023-11-05", "2023-11-09", "2023-11-12", "2023-11-19", "2023-11-26", "2023-12-03", "2023-12-10", "2023-12-17",
+                "2023-12-24", "2023-12-31", "2024-01-07", "2024-01-13", "2024-01-14", "2024-01-21", "2024-01-28", "2024-02-04", "2024-02-11", "2024-02-19",
+                "2024-02-25", "2024-02-29", "2024-03-03", "2024-03-10", "2024-03-17", "2024-03-23", "2024-03-24", "2024-03-31", "2024-04-14", "2024-04-20",
+                "2024-04-21", "2024-04-28", "2024-05-05", "2024-05-12", "2024-05-19", "2024-05-26", "2024-06-01", "2024-06-02", "2024-06-16", "2024-06-23",
+                "2024-06-30", "2024-07-07", "2024-07-14", "2024-07-21", "2024-08-04", "2024-08-11", "2024-08-18", "2024-08-31", "2024-09-01", "2024-09-08",
+                "2024-09-15", "2024-09-21", "2024-09-22", "2024-09-29", "2024-10-13", "2024-10-27"
             ]
         },
         {
@@ -1777,7 +1900,11 @@
         {
             "id": "5cf15c62-aace-4ec3-a2da-33fcf90038bf",
             "name": "AHSSP 1998",
-            "text": ["AHSSP", "1998", "Brigham Young University", "Department of Computer Science", "", "Brigham Young University", "great(School) :- people(School, waycool),", "classes(School, quitegood).", "P- great(School).", "School = byu.", "AHSSP", "Programming Logic", "Department of", "Computer Science"],
+            "text": [
+                "AHSSP", "1998", "Brigham Young University", "Department of Computer Science", "", "Brigham Young University",
+                "great(School) :- people(School, waycool),", "classes(School, quitegood).", "P- great(School).", "School = byu.", "AHSSP", "Programming Logic",
+                "Department of", "Computer Science"
+            ],
             "keywords": ["BYU", "Brigham Young University", "school", "Prolog", "logic", "code", "glasses", "computer science"],
             "source": "https://cs.byu.edu",
             "images": ["front", "back"],
@@ -1804,7 +1931,10 @@
         {
             "id": "2278a570-f694-4c3b-8a98-3f6cf93fffc5",
             "name": "Rackspace - God gave us Linux",
-            "text": ["rackspace", ".com", "", "GOD", "gave us", "LINUX", "to run web servers", "rackspace", ".com", "Shirtstakes", "506203", "REGISTER YOUR SHIRTSTAKES NUMBER TO WIN!", "www.rackspace.com/shirtstakes/montreal"],
+            "text": [
+                "rackspace", ".com", "", "GOD", "gave us", "LINUX", "to run web servers", "rackspace", ".com", "Shirtstakes", "506203",
+                "REGISTER YOUR SHIRTSTAKES NUMBER TO WIN!", "www.rackspace.com/shirtstakes/montreal"
+            ],
             "keywords": ["programming", "Rackspace", "Linux", "penguin"],
             "notes": "I have a vague recollection that I got this in college? But it's also possible I got this at MLG?",
             "images-name": "rackspace-linux",
@@ -1844,7 +1974,10 @@
         {
             "id": "aa53d209-56a3-487f-b4f4-d321fde542c5",
             "name": "Rackspace - Outsorced",
-            "text": ["rackspace", ".com", "", "THE LEADER IN", "OUTSOURCED", "INTERNET SERVERS", "rackspace", ".com", "Register this T-shirt number at:", "Shirtstakes™", "rackspace", ".com", "2 395923", "www.rackspace.com/shirtstakes/ispconlondon"],
+            "text": [
+                "rackspace", ".com", "", "THE LEADER IN", "OUTSOURCED", "INTERNET SERVERS", "rackspace", ".com", "Register this T-shirt number at:",
+                "Shirtstakes™", "rackspace", ".com", "2 395923", "www.rackspace.com/shirtstakes/ispconlondon"
+            ],
             "keywords": ["programming", "rackspace.com", "cloud"],
             "notes": "I think I got this shirt when they came to advertise at BYU.",
             "source": "https://rackspace.com",
@@ -1911,7 +2044,11 @@
         {
             "id": "f52bafbf-e1fb-4feb-873b-34e46879ff56",
             "name": "Los Hermanos - Examiner",
-            "text": ["Los 🌹", "Hermanos", "MEXICAN RESTAURANT", "", "The Utah", "Examiner", "WOMAN EATS WORLDS", "HOTTEST PEPPER", "AND THEN BREATHES", "FIRE", "Los 🌹", "Hermanos", "UNBELIEVABLY", "DELICIOUS!", "GUADALAJARAN ARCHAEOLOGIST", "UNCOVERS WORLDS", "VERY FIRST TACO!", "WOMAN", "CLAIMS ALIENS", "ABDUCTED HER", "BURRITO!", "9 63211 38444 4", "US $2.95 CAN $3.95"],
+            "text": [
+                "Los 🌹", "Hermanos", "MEXICAN RESTAURANT", "", "The Utah", "Examiner", "WOMAN EATS WORLDS", "HOTTEST PEPPER", "AND THEN BREATHES", "FIRE",
+                "Los 🌹", "Hermanos", "UNBELIEVABLY", "DELICIOUS!", "GUADALAJARAN ARCHAEOLOGIST", "UNCOVERS WORLDS", "VERY FIRST TACO!", "WOMAN",
+                "CLAIMS ALIENS", "ABDUCTED HER", "BURRITO!", "9 63211 38444 4", "US $2.95 CAN $3.95"
+            ],
             "keywords": ["restaurant", "Los Hermanos", "taco", "burrito", "rose", "alien", "abduction"],
             "images": ["front", "back", "logo"],
             "dates": ["2023-09-02", "2024-03-14"]
@@ -1964,7 +2101,10 @@
             "id": "ec857fe8-d861-426b-8af4-7059f25d7dde",
             "name": "Rogers The Musical - grey",
             "text": ["ROGERS", "THE MUSICAL", "MARVEL STUDIOS", "hawkeye"],
-            "keywords": ["television", "movies", "comics", "Marvel Cinematic Universe", "Hawkeye", "Steve Rogers", "Rogers", "musical", "Captain America", "Captain America shield", "Clint Barton", "Kate Bishop", "grey"],
+            "keywords": [
+                "television", "movies", "comics", "Marvel Cinematic Universe", "Hawkeye", "Steve Rogers", "Rogers", "musical", "Captain America",
+                "Captain America shield", "Clint Barton", "Kate Bishop", "grey"
+            ],
             "images": ["front"],
             "dates": ["2022-11-01", "2022-11-17", "2023-05-12", "2023-11-09", "2024-05-14", "2024-11-01"]
         },
@@ -1972,7 +2112,10 @@
             "id": "7cc7b0ad-2dd7-4d5f-a390-95e31c151732",
             "name": "Rogers The Musical - billboard",
             "text": ["“A Super-Powered", "Sensation”", "★★★★★", "A", "ROGERS", "THE MUSICAL", "MARVEL STUDIOS", "hawkeye"],
-            "keywords": ["television", "movies", "comics", "Marvel Cinematic Universe", "Hawkeye", "Steve Rogers", "Rogers", "musical", "Captain America", "Captain America shield", "Clint Barton", "Kate Bishop", "black", "yellow"],
+            "keywords": [
+                "television", "movies", "comics", "Marvel Cinematic Universe", "Hawkeye", "Steve Rogers", "Rogers", "musical", "Captain America",
+                "Captain America shield", "Clint Barton", "Kate Bishop", "black", "yellow"
+            ],
             "images": ["front"],
             "dates": ["2023-10-24", "2024-04-19", "2024-09-26"]
         },
@@ -2005,7 +2148,10 @@
             "id": "44f3b079-3a8a-4805-b28d-8ca537c006bb",
             "name": "Teenage Mutant Ninja Turtles",
             "text": ["TEENAGE MUTANT NINJA", "TURTLES"],
-            "keywords": ["television", "cartoon", "TMNT", "Teenage Mutant Ninja Turtles", "Ninja Turtles", "Shredder", "Donatello", "Raphael", "Leonardo", "Michaelangelo", "Oroku Saki", "bo", "bo staff", "sai", "katana", "nunchucks"],
+            "keywords": [
+                "television", "cartoon", "TMNT", "Teenage Mutant Ninja Turtles", "Ninja Turtles", "Shredder", "Donatello", "Raphael", "Leonardo",
+                "Michaelangelo", "Oroku Saki", "bo", "bo staff", "sai", "katana", "nunchucks"
+            ],
             "images": ["front"],
             "dates": ["2023-04-26", "2023-10-19", "2024-04-13", "2024-10-12"]
         },
@@ -2082,7 +2228,9 @@
             "id": "f07ef978-e249-4471-8726-6a4a8f0c8d7c",
             "name": "Nintendo Rehabilitation Clinic",
             "source": "I probably got this at like target or something.",
-            "text": ["Nintendo®️", "REHABILITATION", "CLINIC", "The First Step Is", "Admitting You Have A Problem.", "TM & ©️ 2004 NINTENDO. All Rights Reserved."],
+            "text": [
+                "Nintendo®️", "REHABILITATION", "CLINIC", "The First Step Is", "Admitting You Have A Problem.", "TM & ©️ 2004 NINTENDO. All Rights Reserved."
+            ],
             "keywords": ["video games", "Nintendo", "addiction", "clinic", "recovery"],
             "notes": "Some people say I'm addicted to video games. The first step in addiction actually is admitting you have a problem. I'm still working on that first step.",
             "images": ["front", "logo"],
@@ -2195,7 +2343,10 @@
             "id": "7f6d20ed-bcf7-457a-830f-a476e25dadfd",
             "name": "Zerg Rush",
             "text": ["ZERG", "RUSH", "INFEST", "YOUR THIRST", "", "StarCraft"],
-            "keywords": ["video games", "Blizzard", "Blizzard Entertainment", "StarCraft", "Zerg", "rush", "Zerg rush", "energy drink", "drink", "can", "creep", "tentacles"],
+            "keywords": [
+                "video games", "Blizzard", "Blizzard Entertainment", "StarCraft", "Zerg", "rush", "Zerg rush", "energy drink", "drink", "can", "creep",
+                "tentacles"
+            ],
             "source": "https://gear.blizzard.com/products/starmt0022-starcraft-zerg-rush-t-shirt?variant=44009791422713",
             "images": ["front", "back"],
             "dates": ["2023-11-14", "2024-05-30"]
@@ -2244,7 +2395,9 @@
             "id": "e00edbb5-f88d-4056-9342-8baae179bf0c",
             "name": "Fix Copyright",
             "text": ["EFF PRESENTS", "FIX COPYRIGHT", "©️ ©️ EFF"],
-            "keywords": ["EFF", "Electronic Frontier Foundation", "Copyright", "Mickey", "Mickey Mouse", "tractor", "wrench", "multitool", "hammer", "John Deere"],
+            "keywords": [
+                "EFF", "Electronic Frontier Foundation", "Copyright", "Mickey", "Mickey Mouse", "tractor", "wrench", "multitool", "hammer", "John Deere"
+            ],
             "source": "https://supporters.eff.org/donate",
             "dates": ["2024-08-13"]
         },
@@ -2259,8 +2412,14 @@
         {
             "id": "9242b75e-5527-45cd-a1c5-b50ad8abd750",
             "name": "The many faces of Spock",
-            "text": ["THE MANY FACES OF", "SPOCK", "HAPPY", "CALM", "FRUSTRATED", "CONFUSED", "SAD", "SLEEPY", "BORED", "ANGRY", "EXCITED", "TM & ©️ CBS Studios Inc. All Rights Reserved."],
-            "keywords": ["television", "Star Trek", "TOS", "The Original Series", "Spock", "Vulcan", "happy", "calm", "frustrated", "confused", "sad", "sleepy", "bored", "angry", "excited", "🖖"],
+            "text": [
+                "THE MANY FACES OF", "SPOCK", "HAPPY", "CALM", "FRUSTRATED", "CONFUSED", "SAD", "SLEEPY", "BORED", "ANGRY", "EXCITED",
+                "TM & ©️ CBS Studios Inc. All Rights Reserved."
+            ],
+            "keywords": [
+                "television", "Star Trek", "TOS", "The Original Series", "Spock", "Vulcan", "happy", "calm", "frustrated", "confused", "sad", "sleepy", "bored",
+                "angry", "excited", "🖖"
+            ],
             "source": "gift",
             "dates": ["2024-10-16"]
         },
