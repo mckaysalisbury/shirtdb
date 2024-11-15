@@ -1064,8 +1064,9 @@
             "keywords": ["video games", "Blizzard", "StarCraft", "StarCrafts", "Zerg", "Spawning Pool", "Drone", "Zergling", "carbot"],
             "images": ["front", "back"],
             "source": "https://blizzcon.com",
-            "dates": ["2021-07-28", "2021-12-22", "2022-06-15", "2022-12-01", "2023-06-03", "2023-11-04", "2024-05-13"]
-        },{
+            "dates": ["2021-07-28", "2021-12-22", "2022-06-15", "2022-12-01", "2023-06-03", "2023-11-04", "2024-05-13", "2024-11-15"]
+        },
+        {
             "id": "4006e521-d0ea-40b4-b329-2a9efdb5f59e",
             "name": "Wolverine",
             "text": ["MARVEL", "M", "VEL", "M", "Comics", "Co", "cs"],
