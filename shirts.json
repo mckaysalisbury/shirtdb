@@ -469,11 +469,11 @@
             "id": "05ff1611-ebbd-41bb-8447-0f8b997b4f62",
             "name": "I♥SC (Zerg)",
             "text": ["I♥", "SC", "", "BLIZZARD®", "ENTERTAINMENT" ],
-            "keywords": ["video games", "StarCraft", "Blizzard", "BlizzCon", "Heart", "Zerg", "I love StarCraft", "I heart StarCraft"],
+            "keywords": ["video games", "StarCraft", "Blizzard", "BlizzCon", "Heart", "Zerg", "I love StarCraft", "I heart StarCraft", "larva", "larvae"],
             "images": ["front", "back"],
             "images-name": "I♥SCz",
             "source": "https://blizzcon.com",
-            "dates": ["2021-05-31", "2021-10-22", "2022-03-23", "2022-08-02", "2023-01-12", "2023-06-26", "2023-11-06"]
+            "dates": ["2021-05-31", "2021-10-22", "2022-03-23", "2022-08-02", "2023-01-12", "2023-06-26", "2023-11-06", "2024-11-18"]
         },
         {
             "id": "a38ff64e-2360-4876-9c55-e1b306d1d7d5",
