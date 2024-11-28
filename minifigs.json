@@ -1066,7 +1066,7 @@
             "item": "min010",
             "set": 21119,
             "notes": "We have a few of these. From the following sets: 21113, 2 in 21119",
-            "dates": ["2021-09-21"]
+            "dates": ["2021-09-21", "2024-11-27"]
         },
         {
             "id": "400984ef-7557-4b06-b8cf-ad0f2eb867ce",
@@ -1088,7 +1088,7 @@
             "id": "553c23f6-aabf-4f10-8fce-825a9edefb09",
             "name": "Steve - Helmet and Armor",
             "keywords": ["Minecraft", "Steve", "armor", "iron", "helmet"],
-            "item": "min025",
+            "item": "min013",
             "set": 21126,
             "dates": ["2022-03-16"]
         },
