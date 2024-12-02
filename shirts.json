@@ -938,7 +938,7 @@
             "source": "https://shirt.woot.com/offers/alpha-battle",
             "notes": "A is for quarters, this took all of yours, B is for robot, that must find all the doors, C is for joysticks, and this one had two, D is for Pauline, who needs saving by you, E is for B button which you can’t hold too long, F is for path, and yours might wind up wrong, G is for corner, if you go there you’re trapped, H is for X-Box, good going, next map, I is for shovel, you’re going to need that, J is for lava troll, your feet he will grab at, K is for bear, and a whole lot of swear words, L is for franchise, player two that made good, M is for pause trick, hey, computers cheat too, N is a popular name, like Ryu, O is for Here Lies, so restart the game, P is for cobra, they’re lying in wait, Q is for haircut, and dude needs one today, R is for something we don’t think we’ve played, S is for franchise, and this locked it in, T is for hours of fun with no friends, U is for British, he got killed in a beta, V is for punching, put that quarter up, playa, W is for online, where the kids all spend time, X is for Hamlet, I hear his is quite fine, Y is for crazy, that designer was nuts, Z is for Ganon, who got sat on his butt.",
             "images": ["front"],
-            "dates": ["2021-07-14", "2021-12-04", "2022-05-03", "2022-08-03", "2023-01-13", "2023-06-27", "2023-12-07", "2024-05-27"]
+            "dates": ["2021-07-14", "2021-12-04", "2022-05-03", "2022-08-03", "2023-01-13", "2023-06-27", "2023-12-07", "2024-05-27", "2024-12-02"]
         },
         {
             "id": "f91b3945-a5a2-4b59-8218-36aa7309d19e",
@@ -1796,7 +1796,7 @@
             "keywords": ["comics", "TV", "Marvel", "Captain America", "Falcon", "Sam Wilson"],
             "source": "https://www.kohls.com/product/prd-4998987/mens-marvel-falcon-winter-soldier-tee.jsp",
             "images": ["front"],
-            "dates": ["2022-01-06", "2022-05-16", "2022-07-04", "2022-12-15", "2023-05-29", "2023-11-23", "2024-05-25"]
+            "dates": ["2022-01-06", "2022-05-16", "2022-07-04", "2022-12-15", "2023-05-29", "2023-11-23", "2024-05-25", "2024-11-30"]
         },
         {
             "id": "5d244620-91bc-440b-8ac8-9a25a72f767c",
@@ -1820,7 +1820,8 @@
                 "2024-02-25", "2024-02-29", "2024-03-03", "2024-03-10", "2024-03-17", "2024-03-23", "2024-03-24", "2024-03-31", "2024-04-14", "2024-04-20",
                 "2024-04-21", "2024-04-28", "2024-05-05", "2024-05-12", "2024-05-19", "2024-05-26", "2024-06-01", "2024-06-02", "2024-06-16", "2024-06-23",
                 "2024-06-30", "2024-07-07", "2024-07-14", "2024-07-21", "2024-08-04", "2024-08-11", "2024-08-18", "2024-08-31", "2024-09-01", "2024-09-08",
-                "2024-09-15", "2024-09-21", "2024-09-22", "2024-09-29", "2024-10-13", "2024-10-27", "2024-11-03", "2024-11-10", "2024-11-17", "2024-11-24"
+                "2024-09-15", "2024-09-21", "2024-09-22", "2024-09-29", "2024-10-13", "2024-10-27", "2024-11-03", "2024-11-10", "2024-11-17", "2024-11-24",
+                "2024-12-01"
             ]
         },
         {
@@ -2354,7 +2355,7 @@
             ],
             "source": "https://gear.blizzard.com/products/starmt0022-starcraft-zerg-rush-t-shirt?variant=44009791422713",
             "images": ["front", "back"],
-            "dates": ["2023-11-14", "2024-05-30"]
+            "dates": ["2023-11-14", "2024-05-30", "2024-11-29"]
         },
         {
             "id": "acc311fd-7f0b-4aa5-979a-e733d88d917a",
