@@ -105,7 +105,7 @@
             "images": ["front"],
             "images-name": "dark-cookies",
             "source": "https://thinkgeek.com",
-            "dates": ["2021-05-04", "2021-09-27", "2022-01-29", "2022-07-09", "2022-07-11", "2023-01-05", "2023-05-30", "2023-11-29", "2024-06-14"]
+            "dates": ["2021-05-04", "2021-09-27", "2022-01-29", "2022-07-09", "2022-07-11", "2023-01-05", "2023-05-30", "2023-11-29", "2024-06-14", "2024-12-12"]
         },
         {
             "id": "a51080ed-5c3f-425a-add3-533d161c8d4b",
@@ -1026,7 +1026,7 @@
             "keywords": ["music", "Jonathan Coulton", "Code Monkey", "html", "link"],
             "images": ["front"],
             "source": "https://www.jonathancoulton.com/physical-store/",
-            "dates": ["2021-07-23", "2021-12-20", "2022-06-09", "2022-11-30", "2023-06-13", "2023-12-06", "2024-06-07"]
+            "dates": ["2021-07-23", "2021-12-20", "2022-06-09", "2022-11-30", "2023-06-13", "2023-12-06", "2024-06-07", "2024-12-11"]
         },
         {
             "id": "00927e4d-539a-45e5-b487-f4f1373dc8e4",
@@ -2461,6 +2461,14 @@
             "notes": "Used for Kendall family photos 2024",
             "style": "polo",
             "dates": ["2024-10-27"]
+        },
+        {
+            "id": "68b8f9f1-eb85-4c1a-b04d-acce3e0b619d",
+            "name": "tech summit 2024",
+            "text": ["🏠Kiavi®️", "TECH SUMMIT", "2024", "PITTSBURGH, PA"],
+            "source": " https://kiavi.com/",
+            "keywords": ["Kiavi", "tech", "swag", "work"],
+            "dates": ["2024-12-13"]
         }
     ]
 }
