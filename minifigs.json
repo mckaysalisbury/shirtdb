@@ -1229,7 +1229,8 @@
             "keywords": ["comics", "Marvel", "AIM", "Advanced Ideas Mechanics"],
             "item": "sh0624",
             "set": 76143,
-            "dates": ["2021-10-19", "2025-01-03"]
+            "notes": "One came in this set, and two came in 76167",
+            "dates": ["2021-10-19", "2022-02-15", "2025-01-03"]
         },
         {
             "id": "d427e2d2-13a2-4eb1-a45a-822b470ac02c",
@@ -2203,15 +2204,6 @@
             "item": "sw1170",
             "set": 75037,
             "dates": ["2022-02-08", "2024-08-15"]
-        },
-        {
-            "id": "532745f4-65e0-418a-a607-b4501098a5be",
-            "name": "AIM Agent",
-            "keywords": ["comics", "Marvel", "AIM", "Advanced Ideas Mechanics"],
-            "item": "sh0624",
-            "set": 76167,
-            "notes": "Two came in this set, very similar to one in set 76143.",
-            "dates": ["2022-02-15"]
         },
         {
             "id": "fe43598d-4785-49eb-b976-9fb35f585a7c",
