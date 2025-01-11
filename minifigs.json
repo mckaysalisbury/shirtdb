@@ -4707,6 +4707,63 @@
             "item": "coldnd12",
             "set": 71047,
             "dates": ["2024-10-18"]
+        },
+        {
+            "id": "b527d53a-5391-444b-a839-bd0214063e69",
+            "name": "Steampunk Inventor",
+            "keywords": ["collectible minifigures", "steampunk", "top hat", "clockwork", "goggles", "monacle"],
+            "item": "cold460",
+            "set": 71048,
+            "dates": []
+        },
+        {
+            "id": "51b4fa1c-3f7b-4078-808b-ae17e3048f4f",
+            "name": "Pirate Quartermaster",
+            "keywords": ["collectible minifigures", "pirate", "quartermaster", "parrot", "cutlass", "skirt", "headband", "bling", "skull", "crossbones", "compass", "coin purse", "buckle"],
+            "item": "col458",
+            "set": 71048,
+            "dates": []
+        },
+        {
+            "id": "70f76d40-6a56-4ad6-a5a6-d7ebbf93dcd2",
+            "name": "Cupid",
+            "keywords": ["collectible minifigures", "Roman god", "wings", "heart", "bow", "arrow", "toga"],
+            "item": "col457",
+            "set": 71048,
+            "dates": []
+        },
+        {
+            "id": "be88cd1e-4798-4a91-b363-1e6be73daa12",
+            "name": "Bogeyman",
+            "keywords": ["collectible minifigures", "bogeyman", "boogeyman", "horns", "book", "storybook"],
+            "item": "col456",
+            "set": 71048,
+            "dates": []
+        },
+        {
+            "id": "327f1718-251d-4254-b3d1-552361abe439",
+            "name": "Longboarder",
+            "keywords": ["collectible minifigures", "longboarder", "longboard", "skateboard", "backpack", "hat", "cap"],
+            "item": "col455",
+            "set": 71048,
+            "dates": []
+        },
+        {
+            "id": "a5ada6a8-3a7c-4fe5-a483-c84a3aa4ff0d",
+            "name": "Pterodactyl Costume Fan",
+            "keywords": ["collectible minifigures", "costume", "dinosaur", "pterodactyl"],
+            "item": "col454",
+            "set": 71048,
+            "dates": []
+        },
+        {
+            "id": "3a16cbf2-f835-48f9-b045-4349ea37d4cc",
+            "name": "Wolfpack Beastmaster",
+            "keywords": ["collectible minifigures", "wolf", "beastmaster", "hunter", "ranger", "cloak"],
+            "item": "col450",
+            "set": 71048,
+            "notes": "I don't actually own this one yet",
+            "dates": []
         }
     ]
 }
