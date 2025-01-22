@@ -4762,7 +4762,14 @@
             "keywords": ["collectible minifigures", "wolf", "beastmaster", "hunter", "ranger", "cloak"],
             "item": "col450",
             "set": 71048,
-            "notes": "I don't actually own this one yet",
+            "dates": []
+        },
+        {
+            "id": "f935ee4b-c75c-4f2b-8745-a6289cc53b17",
+            "name": "Jetpack Racer",
+            "keywords": ["collectible minifigures", "racer", "jetpack", "Octan"],
+            "item": "col451",
+            "set": 71048,
             "dates": []
         }
     ]
