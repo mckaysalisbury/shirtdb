@@ -4714,7 +4714,7 @@
             "keywords": ["collectible minifigures", "steampunk", "top hat", "clockwork", "goggles", "monacle"],
             "item": "cold460",
             "set": 71048,
-            "dates": []
+            "dates": ["2025-01-24"]
         },
         {
             "id": "51b4fa1c-3f7b-4078-808b-ae17e3048f4f",
@@ -4746,7 +4746,7 @@
             "keywords": ["collectible minifigures", "longboarder", "longboard", "skateboard", "backpack", "hat", "cap"],
             "item": "col455",
             "set": 71048,
-            "dates": []
+            "dates": ["2025-01-27"]
         },
         {
             "id": "a5ada6a8-3a7c-4fe5-a483-c84a3aa4ff0d",
@@ -4770,7 +4770,7 @@
             "keywords": ["collectible minifigures", "racer", "jetpack", "Octan"],
             "item": "col451",
             "set": 71048,
-            "dates": []
+            "dates": ["2025-01-23"]
         }
     ]
 }
