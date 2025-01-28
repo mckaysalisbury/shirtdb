@@ -4771,6 +4771,13 @@
             "item": "col451",
             "set": 71048,
             "dates": ["2025-01-23"]
+        },
+        {
+            "id": "2e329f33-2533-4ff4-9587-00b30ad1030f",
+            "name": "Astronmer Kid",
+            "keywords": ["collectible minifigures", "astronomer", "astronomy", "rocket", "wink", "prosthesis", "limb", "partial limb"],
+            "item": "col452",
+            "dates": ["2025-01-28"]
         }
     ]
 }
