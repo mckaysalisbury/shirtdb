@@ -4777,7 +4777,16 @@
             "name": "Astronmer Kid",
             "keywords": ["collectible minifigures", "astronomer", "astronomy", "rocket", "wink", "prosthesis", "limb", "partial limb"],
             "item": "col452",
+            "set": 71048,
             "dates": ["2025-01-28"]
+        },
+        {
+            "id": "b1db059d-ffd4-4563-99ed-7596ab6f088a",
+            "name": "Knights Kingdom II - Santis with Gold Pattern Armor, Dark Tan Hands",
+            "keywords": ["knights", "Knights Kingdom", "Knights Kingdom II", "Santis", "bear", "red"],
+            "item": "cas267",
+            "notes": "My mother found this at her office. She kept in a lost and found of sorts for a while (a decade?), then gave it to me when she retired",
+            "dates": ["2025-01-30"]
         }
     ]
 }
