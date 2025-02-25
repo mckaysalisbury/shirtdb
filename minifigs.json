@@ -1348,10 +1348,10 @@
         {
             "id": "6a6b1f18-ab50-4d50-8fa6-665747fa9ddc",
             "name": "Ben Urich",
-            "keywords": ["comics", "Marvel", "Spider-Man", "Ben Urich", "Daily Bugle"],
+            "keywords": ["comics", "Marvel", "Spider-Man", "Ben Urich", "Daily Bugle", "writer", "journalist"],
             "item": "sh0719",
             "set": 76178,
-            "dates": ["2021-12-07"]
+            "dates": ["2021-12-07", "2025-02-25"]
         },
         {
             "id": "cabc97a4-afdf-4e0a-b0d8-03f316b45aae",
@@ -1476,10 +1476,10 @@
         {
             "id": "c33c1e6f-dec0-48af-88b9-193cd174252c",
             "name": "Ron Barney",
-            "keywords": ["comics", "Marvel", "Spider-Man", "Daily Bugle"],
+            "keywords": ["comics", "Marvel", "Spider-Man", "Daily Bugle", "writer", "journalist"],
             "item": "sh0717",
             "set": 76178,
-            "dates": ["2021-12-06"]
+            "dates": ["2021-12-06", "2025-02-24"]
         },
         {
             "id": "f0154564-a963-47dc-9a0d-f2cf4b76ef00",
